@@ -1,0 +1,25 @@
+# Project Information
+site_name: UnityStation
+site_description: 'Unitystation Wiki'
+site_author: 'MrMepper'
+site_url: 'https://unitystation-wiki.github.io/unitystation/'
+
+# Repository
+repo_name: 'unitystation/unitystation-wiki'
+repo_url: 'https://github.com/unitystation/unitystation-wiki/'
+edit_uri: 'edit/master/docs/'
+
+theme:
+  name: 'material'
+  feature:
+    tabs: true
+  language: 'en'
+  favicon: 'assets/images/favicon.ico'
+  logo: 'assets/images/logo.png'
+    
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
