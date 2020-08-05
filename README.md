@@ -1,1 +1,1 @@
-# unitystation-wiki
+This is the github for the US wiki, if you wish to contribute, click the pencil in the top right when your looking at a page. edit it, then send a PR. It will be reviewed and if approved will be added to the wiki, the readable version of which is https://unitystation.github.io/unitystation-wiki/#
