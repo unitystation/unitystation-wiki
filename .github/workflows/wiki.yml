@@ -13,7 +13,8 @@ jobs:
     steps:
       - name: Checkout master
         uses: actions/checkout@v1
-
+      - name: install syndie theme
+        run: pip install mkdocs-windmill-dark
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
