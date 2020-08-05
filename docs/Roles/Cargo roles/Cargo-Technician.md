@@ -6,7 +6,7 @@
 
 
 
-You are the delivery boy on the station. Your job is pretty simple: Sit at the cargo desk, take the cargo orders of people that need some item or another, and help the \[Quartermaster](roles/Cargo roles/Quartermaster.md) in his goal to become the richest department on the station. You make sure every department has what they need to operate and that no one sneaks in and orders twenty machine gun crates without you knowing.
+You are the delivery boy on the station. Your job is pretty simple: Sit at the cargo desk, take the cargo orders of people that need some item or another, and help the [Quartermaster](../Roles/Cargo%20roles/Quartermaster.md) in his goal to become the richest department on the station. You make sure every department has what they need to operate and that no one sneaks in and orders twenty machine gun crates without you knowing.
 
 Cargo Technician is perhaps the best role to play to learn the game after you get the basics of movement down from [[Assistant|assisting.]] Your responsibilities are nearly zero. The only skills you need to know are how to move freight, process forms, and how the cargo console works. Delivery trips are also an excellent way to learn the layout of the station and how everything fits together. You will also discover the general needs and activities of the other departments based on what they order from you. It's a pretty cash money job.
 ### Engineering come pick up your metal plates crate now or we will claim it for ourselves
@@ -33,7 +33,7 @@ Request Form:
 
 Sign Below
 
-When people come by for stuff, have them fill out the forms. Look at the paper once they've finished and ask questions to make sure they know what they are requesting. If things still are not clear, Bring in the [[Quartermaster|QM.]]
+When people come by for stuff, have them fill out the forms. Look at the paper once they've finished and ask questions to make sure they know what they are requesting. If things still are not clear, Bring in the [QM](../Roles/Cargo%20Roles/Quartermaster.md)
 
 Once some orders have been made, it will usually be your job to go deliver the crates to their requestors. A key mechanic to running a financially successful cargo department is engaging in the Centcom Crate Recycling Program; empty crates can be loaded back onto the cargo shuttle to be exchanged for a portion of their purchase price. So, remember to pick up crates once their requestors have emptied them out. If you forget what crates have gone where, that's what the forms are for.
 
