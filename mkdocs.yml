@@ -2,7 +2,7 @@
 site_name: UnityStation
 site_description: 'Unitystation Wiki'
 site_author: 'Waffielz'
-site_url: 'https://unitystation-wiki.github.io/unitystation/'
+site_url: 'https://unitystation.github.io/unitystation-wiki/'
 
 # Repository
 repo_name: 'unitystation/unitystation-wiki'
