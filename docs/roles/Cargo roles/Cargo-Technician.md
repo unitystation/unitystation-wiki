@@ -39,8 +39,4 @@ Once some orders have been made, it will usually be your job to go deliver the c
 
 Sometimes people may ask you to order something sketchy; at that point you either do it no questions asked, or tell them to go away. If you do give them what they want, don't be surprised if the \[HoP](HoP) or \[Security](Security) bust down the door and arrest the entire department.
 
-### So, the RNG gods want you to cause chaos...
-
-As Cargo Tech, being a traitor has quite a few advantages. Firstly, you can order almost anything with the cargo console, and it's not like the QM or other cargo techs are gonna care. You can even order volatile, high-security items like guns.
-
 {{Role Navbox}}
