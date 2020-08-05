@@ -1,2 +1,0 @@
-# All Access
-All Access, or commonly referred to as AA, is a type of an ID granted by \[Head of Personnel](HoP) to certain individuals deemed worthy of it, or stolen and forged from \[HoP](HoP)'s office.
