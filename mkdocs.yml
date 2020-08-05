@@ -9,14 +9,8 @@ repo_name: 'unitystation/unitystation-wiki'
 repo_url: 'https://github.com/unitystation/unitystation-wiki/'
 edit_uri: 'edit/master/docs/'
 
-theme:
-  name: 'material'
-  feature:
-    tabs: true
-  language: 'en'
-  favicon: 'assets/images/favicon.ico'
-  logo: 'assets/images/logo.png'
-    
+theme: 'windmill-dark'
+
 markdown_extensions:
   - admonition
   - codehilite:
