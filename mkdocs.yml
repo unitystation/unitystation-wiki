@@ -9,8 +9,7 @@ repo_name: 'unitystation/unitystation-wiki'
 repo_url: 'https://github.com/unitystation/unitystation-wiki/'
 edit_uri: 'edit/master/docs/'
 
-theme_dir: 'mkdocs-windmill-dark/mkdocs_windmill_dark'
-trytheme: 'windmill-dark'
+theme: 'windmill-dark'
 
 markdown_extensions:
   - admonition
