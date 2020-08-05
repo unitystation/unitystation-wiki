@@ -30,12 +30,17 @@ Now that you know the materials and machines needed, let's get started
 
 {{Sub Header|text=Making robot parts}}
 
-# Insert Metal Sheets into the Exosuit Fabricator. 50 sheets gives 100K iron
-# Click on the fabricator and go to either Cyborg parts or Miscellaneous
-# Make either a cyborg arm (i suggest making right arms) or a proximity sensor, depending on which tab you entered
-# Go back to the main menu of the fabricator. If you went to Cyborg Parts on step 2, go to Miscellaneous. If you went to Miscellaneous on step 2, go to Cyborg Parts
-# Again, depending on which tab you entered in step 4, make either an arm or a sensor
-# Click Process Queue, and the fabricator should start building the parts
+1. Insert Metal Sheets into the Exosuit Fabricator. 50 sheets gives 100K iron
+
+2. Click on the fabricator and go to either Cyborg parts or Miscellaneous
+
+3. Make either a cyborg arm (i suggest making right arms) or a proximity sensor, depending on which tab you entered
+
+4. Go back to the main menu of the fabricator. If you went to Cyborg Parts on step 2, go to Miscellaneous. If you went to Miscellaneous on step 2, go to Cyborg Parts
+
+5. Again, depending on which tab you entered in step 4, make either an arm or a sensor
+
+6. Click Process Queue, and the fabricator should start building the parts
 
 ## Making robots themselves
 
@@ -43,35 +48,44 @@ Now that we have robot parts, we're ready to make robots.
 
 ## Cleaning bots
 
-# Drop an empty bucket onto the ground
-# Click on the bucket with a Proximity Sensor
-# Click on the Robot Parts with a cyborg arm
+1. Drop an empty bucket onto the ground
+
+2. Click on the bucket with a Proximity Sensor
+
+3. Click on the Robot Parts with a cyborg arm
 
 Congratulations! You now have a Cleaning bot.
-[[File:How to build a floorbot|none|thumb|330x330px|by Waffielz]]
+
+![YOUTUBE](NvRSzqQQEHo)?
+
+## Floor bots
+
+1. Drop an empty toolbox onto the ground
+
+2. Click on the toolbox with 10 floor tiles
+
+3. Click on the robot parts with a Proximity Sensor
+
+4. Click on the robot parts with a Right Cyborg arm
 
 
-
-## Clean bots
-
-# Drop an empty toolbox onto the ground
-# Click on the toolbox with 10 floor tiles
-# Click on the robot parts with a Proximity Sensor
-# Click on the robot parts with a Right Cyborg arm
 
 Congratulations! You now have a Clean bot.
-[[File:How to build a Cleanbot|none|thumb|330x330px|by Waffielz]]
+![YOUTUBE](Pwc-BqR-ziE)
 
 ## Medical bots
 
-#Drop an empty first aid kit or fire aid kit onto the ground
-#Click on the kit with a Right Cyborg arm
-#Click on the robot parts with a Health Analyzer
-# Click on the robot parts with a Proximity Sensor
+1. Drop an empty first aid kit or fire aid kit onto the ground
+2. Click on the kit with a Right Cyborg arm
+3. Click on the robot parts with a Health Analyzer
 
-Congratulations! You now have a Medical bot.[[File:How to Build a Medical Bot|none|thumb|330x330px|by Waffielz]]
+Click on the robot parts with a Proximity Sensor
+
+Congratulations! You now have a Medical bot.
 
 
+
+![YOUTUBE](LcTxIvPBN_k&t)
 
 
 
