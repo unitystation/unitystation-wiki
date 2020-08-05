@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout master
         uses: actions/checkout@v1
+      - name: install plugin autolink
+         run: pip install mkdocs-autolinks-plugin
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
