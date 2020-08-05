@@ -6,7 +6,7 @@
 
 
 
-You are the delivery boy on the station. Your job is pretty simple: Sit at the cargo desk, take the cargo orders of people that need some item or another, and help the \[Quartermaster](Quartermaster) in his goal to become the richest department on the station. You make sure every department has what they need to operate and that no one sneaks in and orders twenty machine gun crates without you knowing.
+You are the delivery boy on the station. Your job is pretty simple: Sit at the cargo desk, take the cargo orders of people that need some item or another, and help the \[Quartermaster](Quartermaster.md) in his goal to become the richest department on the station. You make sure every department has what they need to operate and that no one sneaks in and orders twenty machine gun crates without you knowing.
 
 Cargo Technician is perhaps the best role to play to learn the game after you get the basics of movement down from [[Assistant|assisting.]] Your responsibilities are nearly zero. The only skills you need to know are how to move freight, process forms, and how the cargo console works. Delivery trips are also an excellent way to learn the layout of the station and how everything fits together. You will also discover the general needs and activities of the other departments based on what they order from you. It's a pretty cash money job.
 ### Engineering come pick up your metal plates crate now or we will claim it for ourselves
