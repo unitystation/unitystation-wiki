@@ -23,8 +23,7 @@ edit_uri: 'edit/master/docs/'
 
 theme:
     name: null
-    custom_dir: mkdocs_windmill/
-    # default from mkdocs_theme.yml
+    custom_dir: theme/
     static_templates:
         - 404.html
     include_search_page: true
