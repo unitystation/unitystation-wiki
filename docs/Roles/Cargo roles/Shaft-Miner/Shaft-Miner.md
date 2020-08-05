@@ -76,6 +76,8 @@ In the meantime, prepare the Expeditionary Shuttle for launch. In order to fuel 
 ## Go to hell
 So, fighting "the perfect organism" covered in spikes and larger than you repetedley while mining asteroids hurtling through the void isnt enough of a challenge? Well good news, because (so long as the admins enable it) you can go and mine on a world perpetually fogged by ash and covered in lava. This is where the "very hard" rating comes in. If you arent skilled or well prepared, you will die horribly and nobody will find your roasted corpse. If your going to lavaland, its best you go with buds, pack an actual gun, and have practiced kiting with xenos and other beasts.
 
+## The miner is mining people!
 
+As a traitor Shaft Miner, you can use some of your 'mining tools' abusively. This includes not only pickaxes, shovels, hardsuits and PKAs, but also the mining shuttle. You also have a teleporter to an asteroid in mining for getting away.
 
 {{Role Navbox}}
