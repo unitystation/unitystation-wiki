@@ -7,12 +7,14 @@ Botanists are the farmers of the station, and the main source of food once the \
 ### Like watching grass grow. Oh wait, it is watching grass grow
 
 Despite Botanist being classed as Medium, it's currently one of the easiest roles. All you have to do is grab a seed packet from the vending machine inside Hydroponics, plant the seeds in a Hydroponics tray, and cultivate the crop when it needs it. The trays have lights that shine when they need something:
+
 | Tray color | Meaning | What do |
- |----|----|----|
+|----|----|----|
 | Green | ready to harvest | click to harvest |
 | Red | weeds in the tray | take a gardening claw and remove the weeds |
 | Blue | plants are thirsty | grab a bucket, fill it with water and dump it in the tray |
 | orange | plants are hungry | use the bottle of nutriment from the dispenser. |
+
 
 If the vending machine ever runs out of seeds, put some of your produce in the seed extractor or just ask \[Cargo](Cargo Technician) to order some more. If you fail at your job and plants die, then use the gardening spade to dig them up.
 ### Why aren't you playing stardew valley then?
