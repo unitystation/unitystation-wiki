@@ -1,0 +1,58 @@
+# Drinks Guide
+Hey im gonna take these to basic guide but make it look nicer - Seth Knapp
+
+Name.                   Strength.               How to make
+
+
+
+Syndicate Bomb	      90	        1 part Whiskey, 1 part Cola, 1 part beer
+
+Anti-Freeze	              35	        2 parts vodka, 1 part cream, 1 part ice
+
+Bloody Mary              55          1 part vodka, 2 parts tomato juice, 1 part lime juice
+
+Gin and Tonic	          25      	2 parts gin, 1 part tonic water
+
+Cuba Libre	50	3 parts Rum and Coke, 1 part lime juice
+
+Grog	        1	1 part water, 1 part rum
+
+Iced Beer	15	5 parts beer, 1 part ice or 10 parts beer, 1 part frost oil
+
+Iced Tea	N/A	1 part ice, 3 parts tea
+
+Irish Cream	50	2 parts whiskey, 1 part cream
+
+Jack Rose	15	2 parts applejack, 1 part grenadine, 1 part lime juice
+
+Manhattan	30	2 parts whiskey, 1 part vermouth
+
+Irish car bomb  N/A     2 parts whiskey, 1 part cream 1 part ale
+
+Alexander	50	1 part cognac, 1 part creme de cacao, 1 part cream
+
+Classic Martini	60	2 parts gin, 1 part vermouth
+
+Allies Cocktail	45	1 part Classic Martini, 1 part vodka
+
+Andalusia	40	1 part rum, 1 part whiskey, 1 part lemon juice
+
+B-52	        85      1 part irish cream, 1 part Kahlúa, 1 part cognac
+
+Triple Citrus	N/A	1 part Lemon Juice, 1 part Lime Juice, 1 part Orange Juice
+
+Gin and Tonic	25	2 parts gin, 1 part tonic water
+
+Gibb Floats	N/A	5 parts dr gibb, 5 parts ice, 5 parts cream
+
+Gin Fizz	45	2 parts gin, 1 part soda water, 1 part lime juice
+
+Grape Soda	N/A	1 part grape juice, 1 part soda water
+
+Grasshopper	25	5 parts cream, 5 parts creme de menthe, 5 parts creme de cacao
+
+Brave Bull	60	2 parts tequila, 1 part Kahlúa
+
+Cafe Latte	N/A	1 part coffee, 1 part milk
+
+Cream Soda	N/A	2 parts soda water, 2 parts sugar, 1 part vanilla
