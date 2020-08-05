@@ -1,7 +1,5 @@
 # UnityStation
 
-IMPORTANT! THE UNITYSTATION WIKI IS IN THE PROCESS OF BEING PORTED TO [https://unitystation.github.io/unitystation-wiki/ ANOTHER SITE]. AS SUCH THE FREQUENCY OF WIKI UPDATES WILL LIKELY DECREASE AND THE WIKI MAY NOT BE UP TO DATE
-
 If you are absolutely new to this game, check the [[how not to die instantly]] guide.  
 
 UnityStation is a free to play game made as a clone to the Space Station 13 game, but built on Unity, instead of using the clunky design of [http://www.byond.com/ BYOND].  
