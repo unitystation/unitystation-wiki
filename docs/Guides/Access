@@ -1,7 +1,6 @@
 # Access
 Note: This guide is about access and getting it, for the job that changes it, look for the HoP guide \[here](HoP).
 
-
 ## So you want to open a door?
 
 Well, surprisingly, getting into an area is something that may appear easy, but is underneath very complex. In this guide there will be a variety of ways to get into rooms, both legal and illegal.
