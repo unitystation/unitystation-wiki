@@ -11,7 +11,7 @@ edit_uri: 'edit/master/docs/'
 
 theme:
     name: null
-    custom_dir: mkdocs_windmill_dark
+    custom_dir: mkdocs-windmill-dark/mkdocs_windmill_dark/
     # default from mkdocs_theme.yml
     static_templates:
         - 404.html
