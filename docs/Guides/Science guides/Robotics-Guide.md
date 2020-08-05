@@ -6,8 +6,7 @@ So you're interested in making robots? Great! This guide will explain to you eve
 
 (don't expect a fancy page, i only know the absolute basics about making a wiki page)
 
-
-{{Sub Header|text=Items}}
+## Items 
 
 This section will explain every item you (currently) need in order to make robots. The items needed for robot creation are as followed:
 
@@ -19,7 +18,7 @@ This section will explain every item you (currently) need in order to make robot
 * A Health analyzer, for making Medical bots
 * An Empty Bucket, for making Cleaning bots
 
-{{Sub Header|text=Machinery}}
+## Machinery
 
 Currently, only one usable Robotics machine exists: the Exosuit Fabricator, which can be used to make cyborg parts as long as you have metal sheets inserted.
 
@@ -28,7 +27,9 @@ Currently, only one usable Robotics machine exists: the Exosuit Fabricator, whic
 
 Now that you know the materials and machines needed, let's get started
 
-{{Sub Header|text=Making robot parts}}
+
+
+**Making robot parts**
 
 1. Insert Metal Sheets into the Exosuit Fabricator. 50 sheets gives 100K iron
 
@@ -41,6 +42,8 @@ Now that you know the materials and machines needed, let's get started
 5. Again, depending on which tab you entered in step 4, make either an arm or a sensor
 
 6. Click Process Queue, and the fabricator should start building the parts
+
+   
 
 ## Making robots themselves
 
