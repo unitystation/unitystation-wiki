@@ -289,4 +289,9 @@ over the place:
 |500 to 750(???)
 |}
 
+
+### TraitorMaster
+
+Just see the Cargo Tech entry. Only difference is you have access to Mining, and the entirety of Cargo will do your bidding.
+
 {{Role Navbox}}
