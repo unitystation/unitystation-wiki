@@ -13,9 +13,9 @@ As a Traitor, you spawn as the role you selected, with no visual distinction fro
 
 Traitors get 3 objectives, shown at the round start in the chat: Steal a random high-tier item, assassinate a random crew member (often a department head), and survive untill the end of the round. An example of what your objectives could be:
 
-#Steal the Chain of Command (found in the captain's quarters)
-#Assassinate Mr. Engineering man sir, [[Chief Engineer]]
-#Escape on the [[Emergency Shuttle]] alive
+- Steal the Chain of Command (found in the captain's quarters)
+- Assassinate Mr. Engineering man sir, [[Chief Engineer]]
+- Escape on the [[Emergency Shuttle]] alive
 
 At the moment, you get no special items as a Traitor. Instead, you have to make due with either what you're given from your job, or what you find lying around. Eventually however, once PDAs are added, you'll be able to order in some special toys.
 
