@@ -5,7 +5,6 @@ Note: This guide is about access and getting it, for the job that changes it, lo
 
 Well, surprisingly, getting into an area is something that may appear easy, but is underneath very complex. In this guide there will be a variety of ways to get into rooms, both legal and illegal.
 
-
 ### The completely legal ways
 
 If your the goody two shoes sort, there are several ways to get into places without worrying about your moral compass.

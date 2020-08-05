@@ -1,5 +1,5 @@
 /*
-ruby #CC342D
+ruby #00008B
 
 dark-bg-light #282C34
 dark-bg-light-hover #2C323C
@@ -48,14 +48,14 @@ float: left;
 overflow: visible;
 width: 0px;
 height: 50px;
-color: #CC342D;
+color: #00008B;
 font-size: 18px;
 white-space: nowrap;
 text-decoration: none;
 }
 
 .wm-top-link, .wm-top-link:hover, .wm-top-link:active, .wm-top-link:visited, .wm-top-link:focus {
-color: #CC342D;
+color: #00008B;
 text-decoration: none;
 }
 
@@ -83,10 +83,10 @@ max-height: 100%;
 }
 
 .wm-top-version {
-border: 1px solid #CC342D;
+border: 1px solid #00008B;
 border-radius: 3px;
 padding: 0px 5px;
-color: #CC342D;
+color: #00008B;
 font-size: 8pt;
 }
 
@@ -100,7 +100,7 @@ position: absolute;
 right: 0px;
 padding: inherit;
 width: 100%;
-background-color: #CC342D;
+background-color: #00008B;
 }
 
 .wm-top-search {
@@ -227,7 +227,7 @@ padding-left: 0px;
 }
 
 .wm-toctree a, .wm-toctree a:visited, .wm-toctree a:hover, .wm-toctree a:focus {
-color: #CC342D;
+color: #00008B;
 text-decoration: none;
 outline: none;
 }
@@ -239,7 +239,7 @@ cursor: pointer;
 }
 
 span.wm-toc-text {
-  color: #CC342D;
+  color: #00008B;
 }
 
 .wm-toc-lev1 > .wm-toc-text { padding-left: 14px; }
@@ -268,7 +268,7 @@ content: "\25BC \FE0E";
 }
 
 .wm-toc-li.wm-current, .wm-toc-li.wm-current:hover {
-background-color: #CC342D;
+background-color: #00008B;
 color: #21252B;
 }
 
@@ -284,7 +284,7 @@ color: #21252B;
 font-size: 1.2rem;
 line-height: 1.2rem;
 overflow: hidden;
-border-left: 1px solid #CC342D;
+border-left: 1px solid #00008B;
 }
 
 .wm-page-toc-opener > .wm-toc-text::after {
@@ -314,7 +314,7 @@ border: none;
 
 button, .btn, .btn-sm, .btn-xs, .btn-default, #hist-fwd, #hist-back, #wm-toc-button, #wm-search-go {
   background-color: #21252B;
-  color: #CC342D;
+  color: #00008B;
   border: 1px solid;
 }
 
@@ -330,15 +330,15 @@ outline: none;
 }
 
 button:focus, .btn:focus, .btn-sm:focus, .btn-xs:focus, .btn-default:focus, .btn-link:focus, #hist-fwd:focus, #hist-back:focus, #wm-toc-button:focus, #wm-search-go:focus {
-color: #CC342D;
+color: #00008B;
 background-color: #2C313A;
-border-color: #CC342D;
+border-color: #00008B;
 }
 
 button:hover, .btn:hover, .btn-sm:hover, .btn-xs:hover, .btn-default:hover, .btn-link:hover, #hist-fwd:hover, #hist-back:hover, #wm-toc-button:hover, #wm-search-go:hover {
-color: #CC342D;
+color: #00008B;
 background-color: #2C313A;
-border-color: #CC342D;
+border-color: #00008B;
 }
 
 .btn-default.greybtn {
@@ -364,7 +364,7 @@ margin: 20px auto 30px auto;
 display: inline-block;
 max-width: 48%;
 white-space: nowrap;
-color: #CC342D;
+color: #00008B;
 text-align: right;
 }
 
@@ -377,7 +377,7 @@ text-overflow: ellipsis;
 }
 
 .wm-article-nav > a, .wm-article-nav > a:visited, .wm-article-nav > a:hover, .wm-article-nav > a:focus {
-color: #CC342D;
+color: #00008B;
 text-decoration: none;
 outline: none;
 }
@@ -451,14 +451,14 @@ float: right;
 }
 
 h1 {
-  color: #CC342D;
+  color: #00008B;
   font-weight: 400;
   font-size: 42px;
   padding-top: 10px
 }
 
 h2, h3, h4, h5, h6 {
-  color: #CC342D;
+  color: #00008B;
   font-weight: 300;
   padding-top: 10px
 }
@@ -556,8 +556,8 @@ h1:hover .headerlink, h2:hover .headerlink, h3:hover .headerlink, h4:hover .head
 /* Custom Additions */
 input#mkdocs-search-query.form-control {
   background-color: #21252B;
-  color: #CC342D;
-  border: 1px solid #CC342D;
+  color: #00008B;
+  border: 1px solid #00008B;
 }
 
 .dropdown-menu, .dropdown-menu li {
@@ -568,19 +568,19 @@ input#mkdocs-search-query.form-control {
 }
 
 a, a:visited, a:hover, a:focus {
-color: #CC342D;
+color: #00008B;
 text-decoration: none;
 outline: none;
 }
 
 .wm-page-content a {
-  color: #CC342D !important;
+  color: #00008B !important;
   text-decoration: none;
   outline: none;
 }
 
 .search-title {
-  color: #CC342D;
+  color: #00008B;
 }
 
 table {
