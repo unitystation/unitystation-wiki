@@ -19,19 +19,19 @@ Being a Cook is a relatively simple job. You have one duty: make sure the statio
 
 To make a steak you must just take the meat, put it in a microwave, wait 10 seconds and serve. How does the microwave magically add a plate to the steak? Nobody knows, but we do know that those plates are pretty good for abusing the clown.
 
-![YOUTUBE](Jmj_ldi3www.md)?
+![YOUTUBE](Jmj_ldi3www)?
 
 
 
-![YOUTUBE](Apv7pyqd4gu.md)?
+![YOUTUBE](Apv7pyqd4gu)?
 
 
 
-![YOUTUBE](Bfqrt7nq5a0.md)?
+![YOUTUBE](Bfqrt7nq5a0)?
 
 
 
-![YOUTUBE](Wdg9emc9wqo.md)
+![YOUTUBE](Wdg9emc9wqo)
 
 
 
