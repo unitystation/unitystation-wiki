@@ -6,7 +6,7 @@ Assistants are the most expendable role on the station, and usually number one s
 
 ## Your "job"
 
-According to [Nanotrasen](Groups.md), the people in suits who hired you, your duty on the station is to assist people in any way you can. Sometimes you may find yourself inside the medbay, helping medical by dragging in dead bodies for cloning or injured people that need healing. But, most often you find yourself bringing coffee to one of the department heads. If you do actually want to help the station and do what you're supposed to do, head on over to the [[HoP|Head of Personnel's]] office, hope he's there and not abusing the all-access he so generously awarded himself, and ask for a job. Don't expect to be given a high-ranking job, such as [Head of Security](Hos.md); you'll likely just end up with a job like [janitorial](Janitor.md) since no one trusts assistants (and for good reason).
+According to [Nanotrasen](Groups.md), the people in suits who hired you, your duty on the station is to assist people in any way you can. Sometimes you may find yourself inside the medbay, helping medical by dragging in dead bodies for cloning or injured people that need healing. But, most often you find yourself bringing coffee to one of the department heads. If you do actually want to help the station and do what you're supposed to do, head on over to the [|Head of Personnel's](HoP.md) office, hope he's there and not abusing the all-access he so generously awarded himself, and ask for a job. Don't expect to be given a high-ranking job, such as [Head of Security](Hos.md); you'll likely just end up with a job like [janitorial](Janitor.md) since no one trusts assistants (and for good reason).
 
 ## The fun stuff
 

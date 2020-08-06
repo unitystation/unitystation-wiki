@@ -4,7 +4,7 @@
 
 ## Overview
 
-Engineers are the repairmen and electricians of the station. If there's a hole in the station providing one of the hallways or departments with a fresh view of space, it's the Engineer's job to fix it. If wires have been cut and half the station is out of power, it's the Engineer's job to fix it. As an Engineer, people expect you to know at least the basics of Construction, how the power system works and how to lay wires, etc. If you're ever confused on what to do, ask the [[Chief Engineer]]. They should give you advice, since they are your superior and it's their job to coordinate and assist engineers.
+Engineers are the repairmen and electricians of the station. If there's a hole in the station providing one of the hallways or departments with a fresh view of space, it's the Engineer's job to fix it. If wires have been cut and half the station is out of power, it's the Engineer's job to fix it. As an Engineer, people expect you to know at least the basics of Construction, how the power system works and how to lay wires, etc. If you're ever confused on what to do, ask the [Chief Engineer](Chief-Engineer.md). They should give you advice, since they are your superior and it's their job to coordinate and assist engineers.
 
 At the bare minimum, you must know how to fix a hull breach and how to turn on the plasma generator. Learn how to do these as an asssistant to the [CE](Chief-engineer.md) before you play as the only engineer on a low population server. Otherwise, you will have a really angry station on your back.
 ### Bob the Builder

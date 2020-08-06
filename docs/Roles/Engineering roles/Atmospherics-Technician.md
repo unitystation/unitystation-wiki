@@ -1,13 +1,13 @@
 # Atmospherics Technician
 Role type: <font color= "#74652c">Engineering</font>. Access: <font color="#74652c">Atmospherics</font>,<font color="#74652c">Engineering</font>, Maintenance. Difficulty: <font color="Yellow">Medium</font>
 
-As an Atmospherics Technician, your job is pretty much to [[So close to impossible that it might as well not even exist|stop the station's crew members from suffocating to death]]. As long as everyone's able to breathe while inside the station, you're doing your job.
+As an Atmospherics Technician, your job is pretty much to [|stop the station's crew members from suffocating to death](So-close-to-impossible-that-it-might-as-well-not-even-exist.md). As long as everyone's able to breathe while inside the station, you're doing your job.
 
 
 
 ### for the love of god do not fill the station with plasma
 
-Atmos Techs are supposed to keep the station from becoming unbreathable. At the moment, you don't have to do much; Atmospherics are barely in the game, and so you can relax. Just make sure the [[Chief Engineer]] doesn't catch you slacking, and you'll be fine.
+Atmos Techs are supposed to keep the station from becoming unbreathable. At the moment, you don't have to do much; Atmospherics are barely in the game, and so you can relax. Just make sure the [Chief Engineer](Chief-Engineer.md) doesn't catch you slacking, and you'll be fine.
 
 However, if you feel like causing trouble (and feel like risking a ban), you have access to some powerful tools: Plasma Canisters''. These are filled with Plasma, a highly flammable gas that can fill the station rather quickly, and can easily be set on fire if you either fire a gun or tazer, or activate a welder while inside plasma. **Keep in mind [plasmabombing](Rp-words-and-abbreviations.md) is a bannable offense if you're not an Antagonist.'
 

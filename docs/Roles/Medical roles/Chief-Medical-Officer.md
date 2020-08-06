@@ -18,7 +18,7 @@ The general procedures of operation is to make sure that there is one [general p
 
 It should be noted that despite their proclivity for enacting [explosive](Chemistry.md) science, [Chemists](Chemist.md) are under your command, and it is your responsibility to prevent them from water-potassium bombing a hole through the Medical Department. You should keep an eye on them and control the manufacturing and distribution of dangerous and unstable chemicals. Don't let them make buckets of space lube for the clown unless he's got a note from the [HoP](Hop.md) saying it's okay.
 
-This is in contrast with the [Geneticist](Geneticist.md), which you actually share authority over with the [[Research Director]]. You have the power to tell the Geneticist to clone or not clone people, and you can recruit them as a general doctor for emergencies, but that's mostly it.
+This is in contrast with the [Geneticist](Geneticist.md), which you actually share authority over with the [Research Director](Research-Director.md). You have the power to tell the Geneticist to clone or not clone people, and you can recruit them as a general doctor for emergencies, but that's mostly it.
 
 
 ### Doctor's Orders
@@ -28,7 +28,7 @@ The most powerful tool you have when it comes to the Chain of Command is Doctor'
 
 The one actual authority you possess is to evaluate whether a Department Head is unfit for duty, typically at the request of the captain or other heads of staff. If a Head of Staff is acting medically unstable, it is the CMO's duty to treat them till they are once again fit for duty, which could be never. If you go around flaunting this as an excuse to detain people and keep them locked up, expect to get killed by sec, command, and every average crewmember.
 
-Your purpose as the CMO is to prevent loss of life and minimize human suffering, and that's the area where you will end up declaring Doctor's Orders most often. It's recommended that you take a trip to the [Security](Security.md) Department from time to time to ensure that the [[So close to impossible that it might as well not even exist|prisoners in the brig are being fed and treated with at least a modicum of human decency.]]
+Your purpose as the CMO is to prevent loss of life and minimize human suffering, and that's the area where you will end up declaring Doctor's Orders most often. It's recommended that you take a trip to the [Security](Security.md) Department from time to time to ensure that the [|prisoners in the brig are being fed and treated with at least a modicum of human decency.](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)
 
 
 ### Crisis Response
@@ -36,6 +36,6 @@ Your purpose as the CMO is to prevent loss of life and minimize human suffering,
 
 As the CMO, it is your job to direct aid operations when a crisis occurs.
 
-If, say, a team of [commandos](Nuclear-emergency.md) boards the station, youll have a lot of casualties, some of which will inevitably be your own [medics](Medical-doctor.md). As such, it is advised that during such a crisis you [hack](Hacking-guide.md) open or [deconstruct](Construction.md) your front doors to create a safe place for injured people to come heal themselves, but if you do, it is advised that you get at least one [[Security Officer]] stationed in front of medical for the duration, because shit will go down. Send [doctors](Medical-doctor.md) on patrol to bring back bodies. Anyone who can walk is able to heal themselves, and should be ignored so that those in crit and those that are dead can get needed help.
+If, say, a team of [commandos](Nuclear-emergency.md) boards the station, youll have a lot of casualties, some of which will inevitably be your own [medics](Medical-doctor.md). As such, it is advised that during such a crisis you [hack](Hacking-guide.md) open or [deconstruct](Construction.md) your front doors to create a safe place for injured people to come heal themselves, but if you do, it is advised that you get at least one [Security Officer](Security-Officer.md) stationed in front of medical for the duration, because shit will go down. Send [doctors](Medical-doctor.md) on patrol to bring back bodies. Anyone who can walk is able to heal themselves, and should be ignored so that those in crit and those that are dead can get needed help.
 
 {{Role Navbox}}

@@ -14,7 +14,7 @@ Unitystation, like it's predecessor Space Station 13, has an incredibly large le
 2) Learn to do your role, to do so look on the bottom of the [main page](Main-page.md), it contains a guide on (almost) every role in the game.
 
 
-3) Don't do crimes, unless you want to be brigged, and possibility abused, learn the [[Space Law]] if you didn't know it already.
+3) Don't do crimes, unless you want to be brigged, and possibility abused, learn the [Space Law](Space-Law.md) if you didn't know it already.
 
 
 4) If the door you try to open flashed yellow you probably should not go through it, because it's depressurized on the other side.

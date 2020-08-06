@@ -120,15 +120,15 @@ Aiding a criminal makes you an accomplice; you can be charged with the same crim
 
 In the event of a sentence exceeding the 10 minute limit of the timer inform the Warden so he may add the rest of the time later.
 
-In the instance of prisoners that have earned [[Labor Camp]] duty, you must dress them in orange overalls and assign them targets, based on their sentence, by getting a prison ID, putting it in a [[Prisoner Management Console]], assigning their quota (with a conversion rate of 100 points per minute otherwise served in the brig) and then giving them the ID as you ship them to the Labor Camp. There are more details on this procedure at [[Labor Camp]].**
+In the instance of prisoners that have earned [Labor Camp](Labor-Camp.md) duty, you must dress them in orange overalls and assign them targets, based on their sentence, by getting a prison ID, putting it in a [Prisoner Management Console](Prisoner-Management-Console.md), assigning their quota (with a conversion rate of 100 points per minute otherwise served in the brig) and then giving them the ID as you ship them to the Labor Camp. There are more details on this procedure at [Labor Camp](Labor-Camp.md).**
 
 **NOTE:** In the current revision of TG, Mineral spawn is heavily reduced in the gulag area. If you plan on using the gulag for several incidences [meaning the floors are already mined so people can't mine the floors for glass], you should use a lower conversion rate.
 
-The [Warden](Warden.md) or [[Head of Security]] are responsible for placing prisoners and in permanent confinement.
+The [Warden](Warden.md) or [Head of Security](Head-of-Security.md) are responsible for placing prisoners and in permanent confinement.
 
 #Permanent Prisoners are to be completely stripped of their belongings, which are to be held in either evidence or a prison locker.
 #The prisoner is to be dressed in an Orange Prison Jumpsuit and Shoes, which are found in the prison lockers.
-#Permanent Prisoners are not permitted to possess any personal belongings whilst they are incarcerated in the [[Prison Wing]].
+#Permanent Prisoners are not permitted to possess any personal belongings whilst they are incarcerated in the [Prison Wing](Prison-Wing.md).
 ##The Labor Camp can also be used to hold Permanent Prisoners. Simply do not issue a prisoner ID when transferring them to the camp.
 
 {{Sub Header|text=Legal Representation and Trials}}
@@ -216,7 +216,7 @@ All of these crimes carry a 1 minute sentence.
 </font>
 
 
-## Medium CrimesAll of these crimes carry a 2 minute sentence or a 100 point target at the [[Labor Camp]], optional for the suspect you are arresting.
+## Medium CrimesAll of these crimes carry a 2 minute sentence or a 100 point target at the [Labor Camp](Labor-Camp.md), optional for the suspect you are arresting.
 
 <font color="Black">
 {| style## "text-align:center; background-color:#ffcc99;" border="1" cellspacing"0"
@@ -281,7 +281,7 @@ All of these crimes carry a 1 minute sentence.
 |Charge issued by a head of staff to one of their direct subordinates. The person is usually demoted instead of incarcerated. Security is expected to assist the head in carrying out the demotion.
 |-
 |}
-## Major Crimes</font>These crimes carry a service at the [[Labor Camp]], with a 500 point target or a five minute brig sentence.
+## Major Crimes</font>These crimes carry a service at the [Labor Camp](Labor-Camp.md), with a 500 point target or a five minute brig sentence.
 <font color="Black">
 {| style## "text-align:center; background-color:#ffaa99;" border="1" cellspacing"0"
 ! style## "background-color:#ff6655;" width"20px" |Code
@@ -363,7 +363,7 @@ Note that Cargo breaking open crates to illegally arm and armor themselves are g
 {| style="border: 0px solid #76b1fb;text-align:center;width:90%;background-color:#19212c;border-top-left-radius: 30px;-moz-border-radius-topleft: 30px;border-bottom-right-radius: 2px;-moz-border-radius-bottomleft: 2px;"
 | style="background-color:#19212c; padding:2px; font-size:18px;border-top-left-radius: 30px;-moz-border-radius-topleft: 30px;border-bottom-right-radius: 30px;-moz-border-radius-bottomleft: 30px;color:White;font-weight:bold; box-shadow: 1px 1px 5px black;" |Capital Crimes
 |}
-These crimes can result in Execution, Permanent Prison Time, Permanent [[Labor Camp]] Time, or Cyborgization. 
+These crimes can result in Execution, Permanent Prison Time, Permanent [Labor Camp](Labor-Camp.md) Time, or Cyborgization. 
 
 Only the Captain, HoS, and Warden can authorize a Permanent Sentence. 
 

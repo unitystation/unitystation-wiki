@@ -32,7 +32,7 @@ Delegating and staying hidden can, however, trip you over more than it may help 
 ### [Secure Dat Fukken Disk](Nuclear-authentication-disk.md)
 
 
-The first thing you should do is get the fukken nuke disk and hide it on your person. Also take your spare ID. And probably your disk pinpointer, too. Guard the disk with you life. Do not show it to anyone. Do not trust it to anybody except maybe the [[Head of Security]] or [Head of Personnel](Hop.md).
+The first thing you should do is get the fukken nuke disk and hide it on your person. Also take your spare ID. And probably your disk pinpointer, too. Guard the disk with you life. Do not show it to anyone. Do not trust it to anybody except maybe the [Head of Security](Head-of-Security.md) or [Head of Personnel](Hop.md).
 
 If there is the barest hint of [Syndicate activity](Nuke-ops.md) on the station, drop whatever you are doing and book it to [Security](Security.md). The Syndies have their own disk pinpointers, and they can track the disk wherever it is. So if they are attacking the station, you need to squad up with [the boys](Security-officer.md) ASAP.
 

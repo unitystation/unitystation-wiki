@@ -4,7 +4,7 @@
 
 ## Overview
 
-The Warden is essentialy the Security department's watch dog. Your relationship with the [[Head of Security]] is analogous to the [HoP](Hop.md) and the [Captain](Captain.md). Your job is to sit in your office, hand [Security officers](Security.md) weapons or armor if they have explicit permission from the HoS or Captain, and take over for the [[Head of Security]] if they ever die or get deposed. You are responsible for the brig and management of the prisoners.
+The Warden is essentialy the Security department's watch dog. Your relationship with the [Head of Security](Head-of-Security.md) is analogous to the [HoP](Hop.md) and the [Captain](Captain.md). Your job is to sit in your office, hand [Security officers](Security.md) weapons or armor if they have explicit permission from the HoS or Captain, and take over for the [Head of Security](Head-of-Security.md) if they ever die or get deposed. You are responsible for the brig and management of the prisoners.
 ### No i'm not giving you an ERT gun just because you think Cargo is revolting
 
 

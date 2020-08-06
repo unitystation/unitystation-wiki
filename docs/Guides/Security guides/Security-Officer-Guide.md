@@ -2,7 +2,7 @@
 
 ## Overview
 
-As a security officer it is your direct responsibility to oversee the safety of the station. If the station is going haywire then it is because you failed to do your job. In other words being a security officer is fairly stressful, but please don't let that stress overwhelm you. Do make sure to follow the [[Space Law]] in all your doings. Here are a few play styles, pick one you see fitting to you, but don't be afraid to switch around:
+As a security officer it is your direct responsibility to oversee the safety of the station. If the station is going haywire then it is because you failed to do your job. In other words being a security officer is fairly stressful, but please don't let that stress overwhelm you. Do make sure to follow the [Space Law](Space-Law.md) in all your doings. Here are a few play styles, pick one you see fitting to you, but don't be afraid to switch around:
 
 {| style="border: 0px solid #76b1fb;text-align:center;width:50%;background-color:#19212c;border-top-left-radius: 30px;-moz-border-radius-topleft: 30px;border-bottom-right-radius: 20px;-moz-border-radius-bottomleft: 20px;"
 |-
@@ -51,7 +51,7 @@ This type is better suited for those who prefer [role play](Rp-words-and-abbrevi
 
 2) If people get nervous around you, or otherwise don't like you, prove yourself to them by actions, not hollow words, but, don't [https://sites.google.com/view/unitystation-server-rules/server-rules power play].
 
-3) Security goes before faithfulness, so if a fellow officer calls for backup or the [[Head of Security]] calls all units, you should respond immediately.
+3) Security goes before faithfulness, so if a fellow officer calls for backup or the [Head of Security](Head-of-Security.md) calls all units, you should respond immediately.
 
 4) In no case you have the permission to shitcurity, if you do even once, people will remember that and avoid you.
 
@@ -71,6 +71,6 @@ If you don't like any of those but do want to stay at security and manage paperw
 
 4) If situation goes out of control you might have to get out of your cozy seat and go out to hunt some criminals, or stay home to defend the fort.
 
-5) If an officer brings in a law breaker ask them what they're in for and handle the procedure yourself, following the [[Space Law]].
+5) If an officer brings in a law breaker ask them what they're in for and handle the procedure yourself, following the [Space Law](Space-Law.md).
 
 {{Role Navbox}}
