@@ -1,5 +1,5 @@
 # Security
-Role type: Security. Access levels: Cells, Maintenance, Security. Difficulty: Hard.
+Role type:  <font color= "#711e25">Security</font>. Access levels: <font color="#711e25">Security & cells</font>, Maintenance, Security. Difficulty: <font color="Red">hard</font>.
 
 Security are the Police force of the station, and often the second line of defense against the crew members turning the station into a battle royale (the first line being \[Janitors](Janitor)). Often times, you have a simple job: Jail criminals, and make sure \[no](Assistant) \[one](Clown) breaks into areas they shouldn't be in.
 'DO NOT play Security if you're new to the game, it's a very easy way to find yourself surrounded by people wanting you dead for abusing your powers.'

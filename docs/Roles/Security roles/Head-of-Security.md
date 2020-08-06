@@ -1,5 +1,5 @@
 # Head of Security
-**Role type:** <font color## "#711e25">Security</font>. **Access:** <font color="#711e25">Security & cells</font>, <font color="#711e25">Brig</font>, <font color="#711e25">Armory</font>. **Difficulty:** <font color"Orange">Hard</font>.
+**Role type:** <font color= "#711e25">Security</font>. **Access:** <font color="#711e25">Security & cells</font>, <font color="#711e25">Brig</font>, <font color="#711e25">Armory</font>. **Difficulty:** <font color="Orange">Hard</font>.
 
 Note:The HoS is a difficult role to fill and you should probably be experienced in \[combat](combat) and with \[security](Security Officer) and \[space law](Space Law) before playing it.
 
