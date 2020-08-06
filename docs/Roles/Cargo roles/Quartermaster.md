@@ -21,7 +21,7 @@ A critical part of fulfilling requests that you must coordinate with your [Cargo
 
 To spend money, you must make money, and the way you do that is through exports. The way this is done is very simple. Drag whatever you want to sell onto the Cargo Shuttle and send it to Centcom. Lockers and crates (see above) are worth a sizable amount, with the prior being manufacturable with some metal for easy money. Other exports may include raw material, Bounties, stolen goods from other departments, refined ore, produce from botany, and generally whatever else you can find with your export scanner.
 
-When the [miners](Shaft-miner.md) actually [survive](So-close-to-impossible-that-it-might-as-well-not-even-exist.md) their expedition and grace your department with a fresh haul of ore, you should:
+When the [miners](Shaft-Miner.md) actually [survive](So-close-to-impossible-that-it-might-as-well-not-even-exist.md) their expedition and grace your department with a fresh haul of ore, you should:
 
 *Distribute all [construction](Construction.md) materials (glass and metal) to lathes or [Engineer](Engineering.md)
 *Give [solid plasma](Plasma.md) and uranium to engineering for powering the station.
@@ -47,7 +47,7 @@ Payout (Refund %)
 |-
 |[Meat Kit Crate](Cook.md)
 |600
-|5 [meats](Guide-to-food-and-drinks.md), 1 chef's knife
+|5 [meats](Guide-to-Food-and-Drink.md), 1 chef's knife
 |500  (83%)
 |-
 |Knife Kit Crate
@@ -209,9 +209,9 @@ Payout (Refund %)
 |-
 !Mining
 |-
-|[Mining Tools Crate](Shaft-miner.md)
+|[Mining Tools Crate](Shaft-Miner.md)
 |600
-|2 shovels, 2 picks, 2 lanterns, 2 [PKAs](Pka.md)
+|2 shovels, 2 picks, 2 lanterns, 2 [PKAs](PKA.md)
 |500 (83%)
 |-
 !Emergency

@@ -5,7 +5,7 @@ Outpost Station is the oldest, and most changed station in the game.
 
 
 {{Headder|Header## |titleMining}}
-This is where the stations [miners](Shaft-miner.md) can prepare expeditions and offload ores.![Mineing V4057](Mineing_V4057.png)
+This is where the stations [miners](Shaft-Miner.md) can prepare expeditions and offload ores.![Mineing V4057](Mineing_V4057.png)
 
 
 

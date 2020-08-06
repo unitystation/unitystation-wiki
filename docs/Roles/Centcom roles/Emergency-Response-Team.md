@@ -6,7 +6,7 @@ Note: ERT are not round-start roles and can only be accessed via events. The rea
 ## ERT Overall
 
 
-So, the station is fucked, but not fucked enough to warrant a [deathsquad](Death-squad.md)? Is [someone](Captain.md) in command simply incompetent? Has someone killed a [centcom officer](Central-Command-Officer.md)? Well, its times like these that an ERT team may be sent, especially if one is requested using the communications console. The ERT officers are well armed and can adapt to fill a wide variety of roles, from fixing a reactor about to blow to spreading the word of the honk-mother.
+So, the station is fucked, but not fucked enough to warrant a [deathsquad](Death-Squad.md)? Is [someone](Captain.md) in command simply incompetent? Has someone killed a [centcom officer](Central-Command-Officer.md)? Well, its times like these that an ERT team may be sent, especially if one is requested using the communications console. The ERT officers are well armed and can adapt to fill a wide variety of roles, from fixing a reactor about to blow to spreading the word of the honk-mother.
 ### Know Your Power Rangers
 
 
@@ -18,7 +18,7 @@ ERT commanders are the most barebones squad member, equipped with nothing but th
 ### Diet Deathsquad, ERT Security
 
 
-The ERT security officer acts as the spearpoint of any ERT team. They are armed with a tactical energy carbine, baton, taser, and two pairs of handcuffs, and sport a red and black hardsuit. They are typically sent to to apprehend [security](Security.md) or [heads](HoP.md) [of](Chief-engineer.md) [staff](Captain.md) when the personnel onboard the station are unable or unwilling to do so. This typically is not a peacful affair, and security ERT tend to kill more often then they apprehend, which is why they are often confused as being a [deathsquad](Death-squad.md).
+The ERT security officer acts as the spearpoint of any ERT team. They are armed with a tactical energy carbine, baton, taser, and two pairs of handcuffs, and sport a red and black hardsuit. They are typically sent to to apprehend [security](Security.md) or [heads](HoP.md) [of](Chief-Engineer.md) [staff](Captain.md) when the personnel onboard the station are unable or unwilling to do so. This typically is not a peacful affair, and security ERT tend to kill more often then they apprehend, which is why they are often confused as being a [deathsquad](Death-Squad.md).
 ### Glorified medkits, ERT Doctors
 
 

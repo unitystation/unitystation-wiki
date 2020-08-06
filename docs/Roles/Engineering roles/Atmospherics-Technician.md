@@ -9,7 +9,7 @@ As an Atmospherics Technician, your job is pretty much to [|stop the station's c
 
 Atmos Techs are supposed to keep the station from becoming unbreathable. At the moment, you don't have to do much; Atmospherics are barely in the game, and so you can relax. Just make sure the [Chief Engineer](Chief-Engineer.md) doesn't catch you slacking, and you'll be fine.
 
-However, if you feel like causing trouble (and feel like risking a ban), you have access to some powerful tools: Plasma Canisters''. These are filled with Plasma, a highly flammable gas that can fill the station rather quickly, and can easily be set on fire if you either fire a gun or tazer, or activate a welder while inside plasma. **Keep in mind [plasmabombing](Rp-words-and-abbreviations.md) is a bannable offense if you're not an Antagonist.'
+However, if you feel like causing trouble (and feel like risking a ban), you have access to some powerful tools: Plasma Canisters''. These are filled with Plasma, a highly flammable gas that can fill the station rather quickly, and can easily be set on fire if you either fire a gun or tazer, or activate a welder while inside plasma. **Keep in mind [plasmabombing](RP-words-and-abbreviations.md) is a bannable offense if you're not an Antagonist.'
 
 
 

@@ -14,7 +14,7 @@ The CCO is the representative of centcom, and as such is higher in the chain of 
 
 ## How to do your job
 
-While combat is out of the question, your job thankfully does not call for it. Instead you can generally ignore any thefts of the captains gear,or assassinations of officers and instead report them to your [supervisors](Admin.md). To keep yourself safe, be near two or more people at any time and stay in public areas. NEVER wander into areas such as maint or escape alone. Should the station become inoperable, infested by some [biological](Blob.md) [threat](Xenomorph.md), stocked full of [blood god worshipping loonies](Blood-cult.md), or otherwise becomes a danger to NT operations in the area, it is your job to report it so that the mess can be [cleaned up](Death-squad.md) or [fixed](Emergency-response-team.md) by a specialized task force.
+While combat is out of the question, your job thankfully does not call for it. Instead you can generally ignore any thefts of the captains gear,or assassinations of officers and instead report them to your [supervisors](Admin.md). To keep yourself safe, be near two or more people at any time and stay in public areas. NEVER wander into areas such as maint or escape alone. Should the station become inoperable, infested by some [biological](Blob.md) [threat](Xenomorph.md), stocked full of [blood god worshipping loonies](Blood-cult.md), or otherwise becomes a danger to NT operations in the area, it is your job to report it so that the mess can be [cleaned up](Death-Squad.md) or [fixed](Emergency-Response-Team.md) by a specialized task force.
 
 
 

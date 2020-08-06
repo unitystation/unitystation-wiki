@@ -45,7 +45,7 @@ These kind of officers just go around the station and make sure everything is in
 |-
 |}
 
-This type is better suited for those who prefer [role play](Rp-words-and-abbreviations.md) over [combat](Combat.md), these guys hang around bars, talk to citizens, help around the station and otherwise liked. These are the tips that might come in handy for you:
+This type is better suited for those who prefer [role play](RP-words-and-abbreviations.md) over [combat](Combat.md), these guys hang around bars, talk to citizens, help around the station and otherwise liked. These are the tips that might come in handy for you:
 
 1) Wear a blue uniform with a tie, to stand out and so people can tell you apart from the types above.
 

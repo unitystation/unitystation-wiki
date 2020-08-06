@@ -14,7 +14,7 @@ As a Shaft Miner, the station crew expects you to head out into space, mine ores
 
 To assist in your efforts, you get given a multitude of tools: A Mining Hardsuit, to protect you from the cold, airless vacuum of space as well as to give you very slight protection against damage; a mining satchel, to store ores in; a lantern, since space is dark; and a pickaxe and shovel, to mine ores and dig sand out of the asteroid ground. Since you're part of the Cargo department, you're under the supervision of the [Quartermaster](Quartermaster.md), so ask them for help if you're ever confused on what to do. Also, if Cargo is flushed with [Cargo Technicians](Cargo-Technician.md) who know what they are doing, the Quartermaster has their own set of mining gear in their office, and may join you on your adventures in deep space.
 
-In the lockers in the mining locker room, there are a limited number of [Proto Kinetic Accelerators](Pka.md), otherwise known as the Shaft Miner's best friend. It is a short range, high-damage, unlimited-use gun that can be used for propulsion in deep space, breaking asteroid rocks, and killing things.
+In the lockers in the mining locker room, there are a limited number of [Proto Kinetic Accelerators](PKA.md), otherwise known as the Shaft Miner's best friend. It is a short range, high-damage, unlimited-use gun that can be used for propulsion in deep space, breaking asteroid rocks, and killing things.
 
 In addition to the Common channel, the Shaft Miner's [headset](Headset.md) comes with access to the Supplies channel to communicate with the rest of [Cargo](Cargo-Technician.md), and the Science channel to organize what minerals and ores are needed to conduct R&D (when implemented).
 

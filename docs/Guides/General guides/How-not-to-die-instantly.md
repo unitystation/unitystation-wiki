@@ -50,7 +50,7 @@ b) If you are not armed or not robust then run away, cower behind sec and hide i
 
 
 
-12) You are expected to know how to role play to a certain extent, use these [role play abbreviations](Rp-words-and-abbreviations.md).
+12) You are expected to know how to role play to a certain extent, use these [role play abbreviations](RP-words-and-abbreviations.md).
 
 
 13) If you're a [traitor](Traitor.md), you are allowed to get away with many war crimes, but try to only make life hell for your target, please.
