@@ -1,6 +1,6 @@
 # Cargo Technician
 
-**Role type:** <font color## "#734823">Cargo</font>. **Access:** <font color="#734823">Cargo Department</font>, <font color="#734823">Mining Department</font>, Maintenance. **Difficulty:** <font color"Green">Easy</font>. Colloquial name: "Tech"
+**Role type:** <font color= "#734823">Cargo</font>. **Access:** <font color="#734823">Cargo Department</font>, <font color="#734823">Mining Department</font>, Maintenance. **Difficulty:** <font color="Green">Easy</font>. Colloquial name: "Tech"
 
 ## Overview
 
