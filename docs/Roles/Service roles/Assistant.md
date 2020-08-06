@@ -1,5 +1,5 @@
 # Assistant
-Role type: Civilian. Access levels: Maintenance. Difficulty: Easy.
+Role type: <font color="#4e7331">Service</font>. Access levels: Maintenance. Difficulty: <font color="Green">Easy</font>.
 
 
 Assistants are the most expendable role on the station, and usually number one suspect whenever something goes wrong, be it a broken window or items missing from a department. Picking assistant is usually a good choice for anyone new to the game.

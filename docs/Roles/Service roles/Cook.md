@@ -1,5 +1,5 @@
 # Cook
-**Role type:** <font color## "#4e7331">Service</font>. **Access:** <font color="#4e7331">Kitchen & Butcher</font>, Maintenance. **Difficulty:** <font color"Green">Easy</font>''. ''Colloquial title: "Chef"
+**Role type:** <font color= "#4e7331">Service</font>. **Access:** <font color="#4e7331">Kitchen & Butcher</font>, Maintenance. **Difficulty:** <font color="Green">Easy</font>''. ''Colloquial title: "Chef"
 
 Note: for the more detailed guide to food preperation, look \[Here](Guide to Food and Drink).
 
@@ -19,12 +19,25 @@ Being a Cook is a relatively simple job. You have one duty: make sure the statio
 
 To make a steak you must just take the meat, put it in a microwave, wait 10 seconds and serve. How does the microwave magically add a plate to the steak? Nobody knows, but we do know that those plates are pretty good for abusing the clown.
 
+![YOUTUBE](jmj_ldi3Www)?
 
-'Simple Burger'
-[[File:How to make a Burger- Unitystation|thumb|330x330px|By Waffielz|none]]'\[Xenomorph](Xenomorph) Burger'[[File:Xeno burger|thumb|330x330px|none|By Waffielz]]
 
-'Cutlets' 
-[[File:Cutlets|none|thumb|330x330px|By Waffielz]]'Insta Gibbing'[[File:Gibbing|none|thumb|330x330px|By Waffielz]]
+
+![YOUTUBE](ApV7pyqD4gU)?
+
+
+
+![YOUTUBE](bFQrt7NQ5A0)?
+
+
+
+![YOUTUBE](wDG9eMc9wqo)
+
+
+
+
+
+
 
 
 

@@ -1,5 +1,5 @@
 # Botanist
-**Role type:** <font color## "#4e7331">Service</font>. **Access:** <font color="#4e7331">Hydroponics</font>, Maintenance. **Difficulty:** <font color"Yellow">Medium</font>
+**Role type:** <font color= "#4e7331">Service</font>. **Access:** <font color="#4e7331">Hydroponics</font>, Maintenance. **Difficulty:** <font color="Yellow">Medium</font>
 
 Botanists are the farmers of the station, and the main source of food once the \[kitchen](Cook) runs out of food. Or, you could just grow some random crops instead of actually feeding people. Whichever one you feel like doing.
 
@@ -24,7 +24,7 @@ Even if many people think this job is more of a farm simulator rather than a tru
 
 At the moment, the amount of things the botanist can do is limited. Grow apples to supplement the hunger for meat and grow wheat so the \[Cook](Cook) can blend it into flour for burgers. When civil station life \[disintegrates](Battle royale), grow bananas and lay a minefield of peels around your turf to dissuade attackers. If you're an \[Antagonist](Antagonist), you should mass produce as many lemons as you can, destroying the plants after each harvest and planting new ones from your yield or simply using unstable mutagen with a non-help intent to get mass producible grenades. (note, lemon-nades are banned on solidarity station. Even for Antagonists.)
 | Plant | Consumable | Blendability |
- |----|----|----|
+|----|----|----|
 | Apple | Consumable (80 nutrition) | No |
 | Lemon | Consumable (60 nutrition) | No |
 | Tomato | Consumable (60 nutrition) | Produces 2u ketchup |

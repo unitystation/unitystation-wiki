@@ -1,5 +1,6 @@
 # Mime
-**Role type:** <font color## "#c51f57">Entertainment</font>. **Access:** <font color="#c51f57">Mime's office</font>, Maintenance. **Difficulty:** <font color"Green">Easy</font>.
+**Role type:** <font color= "#c51f57">Entertainment</font>. **Access:** <font color="#c51f57">Mime's office</font>, Maintenance. **Difficulty:** <font color="Green">Easy</font>.
+
 ## ...
 
 You are the mime, the silent type. you are bound by oath to keep your mouth shut and only express yourself through gestures using /me. Should you fail to keep your mouth shut, you'll likely end up suffering consequences ranging anywhere from annoyance to death. Your job is supposed to be t entertain the crew, but nobody will egg you on to do that. in practice, you are more or less a handicapped assistant, in that you cant scream for help.
