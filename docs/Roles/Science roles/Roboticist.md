@@ -1,5 +1,5 @@
 # Roboticist
-'Role type:** <font color## "#a85fb9">Science</font>. **Access:** <font color="#a85fb9">Robotics</font>, <font color="#a85fb9">Science</font>, Maintenance. **Difficulty:' <font color"Green">Easy</font>.
+**Role type:** <font color="#a85fb9">Science</font>. **Access:** <font color="#a85fb9">Robotics</font>, <font color="#a85fb9">Science</font>, Maintenance. **Difficulty**: <font color="Green">Easy</font>.
 
 
 
