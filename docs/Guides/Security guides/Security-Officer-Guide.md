@@ -30,11 +30,11 @@ Or commonly referred to as "shitcurity", are the kind of officers that believe i
 
 These kind of officers just go around the station and make sure everything is in order, not intervening unless needed, these types of officers are neutrally perceived by the public so don't expect praise or hate, well except general hate towards security because of the officers mentioned above. Some tips:
 
-1) You should request [AA](All-access.md) from [Head of Personnel](HoP.md) to make sure to sweep the whole station, to uncover any hidden plots unraveling in the research sector or else.
+1) You should request [AA](Access.md) from [Head of Personnel](HoP.md) to make sure to sweep the whole station, to uncover any hidden plots unraveling in the research sector or else.
 
 2) If people tell you to go, don't overstay your welcome.
 
-3) If you have [AA](All-access.md), make sure the kitchen and engineering are doing fine.
+3) If you have [AA](Access.md), make sure the kitchen and engineering are doing fine.
 
 4) If you find any xenomorphs then immediately request backup and wait for them, do not engage alone, unless someone is in direct danger.
 
