@@ -1,5 +1,5 @@
 # Xenomorph
-Xenomorphs are a threat that can be encountered on \[asteroids](Asteroid), in \[Caverna](Caverna), and, rarely, at the [[Official Maps|station.]] They are dangerous in numbers and should be avoided unless you have an effective range weapon. They are prized for their meat in making \[xenos borgers](Cooking). They have low resistances to most damage types and do not need air to live, yet will still suffocate once hardcritted. They can survive in the vacuum of space. Xenomorphs' current implementation is unfinished.    
+Xenomorphs are a threat that can be encountered on [asteroids](Asteroid.md), in [Caverna](Caverna.md), and, rarely, at the [[Official Maps|station.]] They are dangerous in numbers and should be avoided unless you have an effective range weapon. They are prized for their meat in making [xenos borgers](Cooking.md). They have low resistances to most damage types and do not need air to live, yet will still suffocate once hardcritted. They can survive in the vacuum of space. Xenomorphs' current implementation is unfinished.    
 
 
 ### "They're coming outta the Goddamn walls!"

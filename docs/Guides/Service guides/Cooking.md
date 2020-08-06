@@ -1,5 +1,5 @@
 # Cooking
-Note: this is the guide for making foods, the guide to the chef/cook job is \[here](Cook) and the guide to botany and bar tending are \[here](Botanist) and \[here](Bartender) respectively.
+Note: this is the guide for making foods, the guide to the chef/cook job is [here](Cook.md) and the guide to botany and bar tending are [here](Botanist.md) and [here](Bartender.md) respectively.
 
 ##  Non-Meats =
 |
@@ -13,7 +13,7 @@ meats are the raw hunks of dead things that can be cooked and made edible
 |Ordinary hunk of flesh, more likely to be human the longer the shift goes on.
 |Inedible
 |-
-|\[Green](Xenomorph) Meat
+|[Green](Xenomorph.md) Meat
 |A weird slimy and acidic meat found from butchered xenomorphs and cockroaches, Ew.
 |Inedible
 |-
@@ -33,7 +33,7 @@ These are foods made by a single microwaving or processing
 |An absolutely disgusting slimy black mass that you really dont want to eat. Currently can only be found randomly or in some locations in the gateway.
 |makes you hungrier
 |-
-|\[Xeno](Xenomorph) Steak
+|[Xeno](Xenomorph.md) Steak
 |Do xenos have a special steak yet? needs experimenting.
 |???
 |-
@@ -52,7 +52,7 @@ These are foods made by a single microwaving or processing
 |a whole burger, made by combining a bread roll and a steak
 |Tasty
 |-
-|\[Xeno](Xenomorph) Burger
+|[Xeno](Xenomorph.md) Burger
 |like a regular burger but made with a cooked xeno steak. Considered amongst many cultures to be a delicacy.
 |Tasty(+?)
 |}

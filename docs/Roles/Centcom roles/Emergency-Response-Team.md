@@ -6,7 +6,7 @@ Note: ERT are not round-start roles and can only be accessed via events. The rea
 ## ERT Overall
 
 
-So, the station is fucked, but not fucked enough to warrant a \[deathsquad](Death Squad)? Is \[someone](Captain) in command simply incompetent? Has someone killed a \[centcom officer](Central Command Officer)? Well, its times like these that an ERT team may be sent, especially if one is requested using the communications console. The ERT officers are well armed and can adapt to fill a wide variety of roles, from fixing a reactor about to blow to spreading the word of the honk-mother.
+So, the station is fucked, but not fucked enough to warrant a [deathsquad](Death-squad.md)? Is [someone](Captain.md) in command simply incompetent? Has someone killed a [centcom officer](Central-command-officer.md)? Well, its times like these that an ERT team may be sent, especially if one is requested using the communications console. The ERT officers are well armed and can adapt to fill a wide variety of roles, from fixing a reactor about to blow to spreading the word of the honk-mother.
 ### Know Your Power Rangers
 
 
@@ -14,11 +14,11 @@ ERT come in the following types. Commanders, who lead ERT teams, Security, who a
 ### Leading the A-team, ERT commanders
 
 
-ERT commanders are the most barebones squad member, equipped with nothing but their carbine, 2 batons, and a set of handcuffs. Their job, as the name implies, is to lead the ERT team on whatever objective they are given by \[centcom](Admin). To do this, they can make use of the unique centcom channel to communicate plans, information, and orders to other members of the ERT team. If the CoC is broken or \[the station is in anarchy](Battle royale), the commander ERT may be forced to TEMPORARILY take charge in order to plug the power vacuum and allow a proper leader to be found peacefully.
+ERT commanders are the most barebones squad member, equipped with nothing but their carbine, 2 batons, and a set of handcuffs. Their job, as the name implies, is to lead the ERT team on whatever objective they are given by [centcom](Admin.md). To do this, they can make use of the unique centcom channel to communicate plans, information, and orders to other members of the ERT team. If the CoC is broken or [the station is in anarchy](Battle-royale.md), the commander ERT may be forced to TEMPORARILY take charge in order to plug the power vacuum and allow a proper leader to be found peacefully.
 ### Diet Deathsquad, ERT Security
 
 
-The ERT security officer acts as the spearpoint of any ERT team. They are armed with a tactical energy carbine, baton, taser, and two pairs of handcuffs, and sport a red and black hardsuit. They are typically sent to to apprehend \[security](Security Officer) or \[heads](HoP) \[of](Chief Engineer) \[staff](Captain) when the personnel onboard the station are unable or unwilling to do so. This typically is not a peacful affair, and security ERT tend to kill more often then they apprehend, which is why they are often confused as being a \[deathsquad](Death Squad).
+The ERT security officer acts as the spearpoint of any ERT team. They are armed with a tactical energy carbine, baton, taser, and two pairs of handcuffs, and sport a red and black hardsuit. They are typically sent to to apprehend [security](Security-officer.md) or [heads](Hop.md) [of](Chief-engineer.md) [staff](Captain.md) when the personnel onboard the station are unable or unwilling to do so. This typically is not a peacful affair, and security ERT tend to kill more often then they apprehend, which is why they are often confused as being a [deathsquad](Death-squad.md).
 ### Glorified medkits, ERT Doctors
 
 

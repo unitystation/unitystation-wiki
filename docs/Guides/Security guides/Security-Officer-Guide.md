@@ -16,7 +16,7 @@ Or commonly referred to as "shitcurity", are the kind of officers that believe i
 
 2) Beware of people trying to disarm you.
 
-3) \[Clowns](Clown) and \[cargo](Cargo Technician) are your nemesis.
+3) [Clowns](Clown.md) and [cargo](Cargo-technician.md) are your nemesis.
 
 4) Don't expect people to respect you.
 
@@ -30,11 +30,11 @@ Or commonly referred to as "shitcurity", are the kind of officers that believe i
 
 These kind of officers just go around the station and make sure everything is in order, not intervening unless needed, these types of officers are neutrally perceived by the public so don't expect praise or hate, well except general hate towards security because of the officers mentioned above. Some tips:
 
-1) You should request \[AA](All Access) from \[Head of Personnel](HoP) to make sure to sweep the whole station, to uncover any hidden plots unraveling in the research sector or else.
+1) You should request [AA](All-access.md) from [Head of Personnel](Hop.md) to make sure to sweep the whole station, to uncover any hidden plots unraveling in the research sector or else.
 
 2) If people tell you to go, don't overstay your welcome.
 
-3) If you have \[AA](All Access), make sure the kitchen and engineering are doing fine.
+3) If you have [AA](All-access.md), make sure the kitchen and engineering are doing fine.
 
 4) If you find any xenomorphs then immediately request backup and wait for them, do not engage alone, unless someone is in direct danger.
 
@@ -45,7 +45,7 @@ These kind of officers just go around the station and make sure everything is in
 |-
 |}
 
-This type is better suited for those who prefer \[role play](RP words and abbreviations) over \[combat](combat), these guys hang around bars, talk to citizens, help around the station and otherwise liked. These are the tips that might come in handy for you:
+This type is better suited for those who prefer [role play](Rp-words-and-abbreviations.md) over [combat](Combat.md), these guys hang around bars, talk to citizens, help around the station and otherwise liked. These are the tips that might come in handy for you:
 
 1) Wear a blue uniform with a tie, to stand out and so people can tell you apart from the types above.
 

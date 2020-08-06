@@ -3,11 +3,11 @@
 
 Note: This is the guide to QM, if your new to cargo please read the guide to being a [Cargo Technician]() and/or [Shaft Miner]()
 
-"[Move Freight. Miners,](So close to impossible that it might as well not even exist)" - A wise QM
+"[Move Freight. Miners,](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)" - A wise QM
 
 ### King of the delivery squad
 
-As the QM, your job is simple, you oversee the regular operations of cargo, be that paperwork, orders, exports, or coordinating mining operations on some god-forsaken rock from the comfort of your office. While the normal [Cargo Techs](Cargo-Technician.md) are good at moving crates and making money, they tend to have trouble juggling bounties and spending that money. This is where you come in. Check with other departments to see what supplies they are running low on, and buy them, either in person or over the radio, they'll be more than happy to inform you. You should also almost always buy [meat crates](Cooking) for the [Chef](Cook) and metal for engineering as soon as you can, as stocks of both run out rapidly.
+As the QM, your job is simple, you oversee the regular operations of cargo, be that paperwork, orders, exports, or coordinating mining operations on some god-forsaken rock from the comfort of your office. While the normal [Cargo Techs](Cargo-technician.md) are good at moving crates and making money, they tend to have trouble juggling bounties and spending that money. This is where you come in. Check with other departments to see what supplies they are running low on, and buy them, either in person or over the radio, they'll be more than happy to inform you. You should also almost always buy [meat crates](Cooking.md) for the [Chef](Cook.md) and metal for engineering as soon as you can, as stocks of both run out rapidly.
 
 
 
@@ -15,19 +15,19 @@ As the QM, your job is simple, you oversee the regular operations of cargo, be t
 
 Oftentimes, you wont be the one asking others if they need supplies, rather, the crew will be asking you. You could be a prick and hand anyone asking for so much as a pen ten sheets of paperwork, which will likely result in your untimely demise, or you can heed their requests like an ordinary human being. The requests you'll get will range anywhere from spare generators to clowning tools. You will generally be expected to fulfill these requests in a reasonable time-frame and have someone deliver the goods to the relevant department or room.
 
-A critical part of fulfilling requests that you must coordinate with your [Cargo Techs](Cargo Technician) is crate reclamation.'' Shipping crates can be exchanged for a significant portion of their original cost, sometimes as high as 100% ("''it's free real state.") of their purchase price. Always badger people about the crates they have taken and not returned. Stretch those dollars as far as you can.
+A critical part of fulfilling requests that you must coordinate with your [Cargo Techs](Cargo-technician.md) is crate reclamation.'' Shipping crates can be exchanged for a significant portion of their original cost, sometimes as high as 100% ("''it's free real state.") of their purchase price. Always badger people about the crates they have taken and not returned. Stretch those dollars as far as you can.
 
 ### Exports
 
 To spend money, you must make money, and the way you do that is through exports. The way this is done is very simple. Drag whatever you want to sell onto the Cargo Shuttle and send it to Centcom. Lockers and crates (see above) are worth a sizable amount, with the prior being manufacturable with some metal for easy money. Other exports may include raw material, Bounties, stolen goods from other departments, refined ore, produce from botany, and generally whatever else you can find with your export scanner.
 
-When the [miners](Shaft Miner) actually [survive](So close to impossible that it might as well not even exist) their expedition and grace your department with a fresh haul of ore, you should:
+When the [miners](Shaft-miner.md) actually [survive](So-close-to-impossible-that-it-might-as-well-not-even-exist.md) their expedition and grace your department with a fresh haul of ore, you should:
 
-*Distribute all [construction](construction) materials (glass and metal) to lathes or [Engineer](Engineering)
-*Give \[solid plasma](Plasma) and uranium to engineering for powering the station.
+*Distribute all [construction](Construction.md) materials (glass and metal) to lathes or [Engineer](Engineering.md)
+*Give [solid plasma](Plasma.md) and uranium to engineering for powering the station.
 
-* Sell gold, silver, bananium, bluespace crystals, and diamonds. Or give them to the [Roboticist](Roboticist) and taunt them for their current lack of job functionality.
-*take all recovered [Xenomorph](Xenomorph) bodies to the [chef](Cook) for some green steaks.
+* Sell gold, silver, bananium, bluespace crystals, and diamonds. Or give them to the [Roboticist](Roboticist.md) and taunt them for their current lack of job functionality.
+*take all recovered [Xenomorph](Xenomorph.md) bodies to the [chef](Cook.md) for some green steaks.
 
 ole Na
 {| class="wikitable"
@@ -40,14 +40,14 @@ Payout (Refund %)
 |-
 !Kitchen
 |-
-|\[Beer Crate](Bartender)
+|[Beer Crate](Bartender.md)
 |700
 |3 beers (really?)
 |500 (71%)
 |-
-|\[Meat Kit Crate](Cook)
+|[Meat Kit Crate](Cook.md)
 |600
-|5 \[meats](Guide to food and drinks), 1 chef's knife
+|5 [meats](Guide-to-food-and-drinks.md), 1 chef's knife
 |500  (83%)
 |-
 |Knife Kit Crate
@@ -67,7 +67,7 @@ Payout (Refund %)
 |-
 !Security
 |-
-|\[Handcuffs Crate](Security Officer)
+|[Handcuffs Crate](Security-officer.md)
 |900
 |5 handcuffs
 |500 (55%)
@@ -99,7 +99,7 @@ Payout (Refund %)
 |-
 !Medical
 |-
-|\[First Aid Kit Crate](Medical Doctor)
+|[First Aid Kit Crate](Medical-doctor.md)
 |800
 |3 First Aid Kits
 |500 (62%)
@@ -121,7 +121,7 @@ Payout (Refund %)
 |-
 !Science
 |-
-|\[Chemistry Kit Crate](Chemist)
+|[Chemistry Kit Crate](Chemist.md)
 |800
 |1 bucket, 1 chemist's labcoat, 2 large beakers
 |500 (62%)
@@ -153,7 +153,7 @@ Payout (Refund %)
 |1 circuit board each: Cargo Console, Cloning console, Comms console, ID Console, Security Records Console, Shuttle Console
 |500 (62%)
 |-
-|\[Plasma Generator](Engineer)
+|[Plasma Generator](Engineer.md)
 |1000
 |1 Plasma Generator
 |500 (50%)
@@ -180,7 +180,7 @@ Payout (Refund %)
 |just an empty crate. Get the energy crate for cheaper. And it comes with free coffee!
 |500 (83%)
 |-
-|\[Cleaning Supplies Crate](Janitor)
+|[Cleaning Supplies Crate](Janitor.md)
 |700
 |1 bucket, 1 mop, 1 trashbag, 1 space cleaner bottle
 |500 (71%)
@@ -195,23 +195,23 @@ Payout (Refund %)
 |10 signs
 |500 (62%)
 |-
-|\[ID Crate](HoP)
+|[ID Crate](Hop.md)
 |550
 |10 blank IDs
 |500 (90%)
 |-
 !Botany
 |-
-|\[Hydroponics Crate](Botanist)
+|[Hydroponics Crate](Botanist.md)
 |800
 |1 seed pack each: apples, bananas, berries, cherries, chilis, grapes, grass, lemons, limes, sunflowers
 |750 (93%)
 |-
 !Mining
 |-
-|\[Mining Tools Crate](Shaft Miner)
+|[Mining Tools Crate](Shaft-miner.md)
 |600
-|2 shovels, 2 picks, 2 lanterns, 2 \[PKAs](PKA)
+|2 shovels, 2 picks, 2 lanterns, 2 [PKAs](Pka.md)
 |500 (83%)
 |-
 !Emergency
@@ -240,7 +240,7 @@ Payout (Refund %)
 |-
 |Metal Crate
 |850
-|60 \[metal](Construction)
+|60 [metal](Construction.md)
 |500 (58%)
 |-
 |Glass Crate
@@ -273,7 +273,7 @@ vending machine)
 |6 banana peels
 |500 (90%)
 |-
-|\[Robusting Crate](Combat)
+|[Robusting Crate](Combat.md)
 |1000
 |8 mechanical toolboxes
 |500 (50%)

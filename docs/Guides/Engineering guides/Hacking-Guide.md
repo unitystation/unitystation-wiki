@@ -3,7 +3,7 @@
 ## Spoiler-free Hacking Tips [as of build 4105]
 
 
-*Use a screwdriver on a door (on any \[intent](intent)) to open the panel. Clicking on the door with empty hands will then access the panel. The panel can be closed again by using a screwdriver on the door a second time, making it less evident that the door has been tampered with.
+*Use a screwdriver on a door (on any [intent](Intent.md)) to open the panel. Clicking on the door with empty hands will then access the panel. The panel can be closed again by using a screwdriver on the door a second time, making it less evident that the door has been tampered with.
 *Door wiring poses a risk of electric shock, so insulated gloves are a good idea!
 *The panel contains two rows of sockets with several wires running between them. Clicking on a wire with cutters selected will cut and remove it. With an empty hand selected, clicking an empty socket in the bottom row followed by one in the top row will connect the two sockets with a wire.
 *Try cutting a wire, trying the door out, then replacing the wire as you found it. Take note of any differences between the effects of cutting different individual wires. Experiment further by isolating and working with wires associated with a single type of behavior.

@@ -1,11 +1,11 @@
 # Space Law
 {{Template:Important
-|Title=This page is merely an \[IC](IC) roleplay suggestion
-|Note= It has 'NOT** been adopted as an official policy after two votes.<br> Administrators will only intervene when you are sentenced to grossly unfair times. If you get 3 minutes instead of 2, talk to the lawyer as it's considered an \[IC](IC) issue. ''If you cite Space Law in an adminhelp or anywhere outside IC communications, you will be laughed at.<br><br>
+|Title=This page is merely an [IC](Ic.md) roleplay suggestion
+|Note= It has 'NOT** been adopted as an official policy after two votes.<br> Administrators will only intervene when you are sentenced to grossly unfair times. If you get 3 minutes instead of 2, talk to the lawyer as it's considered an [IC](Ic.md) issue. ''If you cite Space Law in an adminhelp or anywhere outside IC communications, you will be laughed at.<br><br>
 A log of community votes can be found [[Talk:Space Law|here]].
 }}
 
-Space Law is a collection of rules and regulations enacted by [[Backstory#Nanotrasen|Nanotrasen]] which has oversight through [[Backstory#Central Command|CentCom]] and is enforced by the \[Sec Officers](Security) on the station. Space Law applies to all ranks and positions on station, from the lowliest Assistant to the highest Captain, all are equal under the eyes of the Law and ultimately answer to her.
+Space Law is a collection of rules and regulations enacted by [[Backstory#Nanotrasen|Nanotrasen]] which has oversight through [[Backstory#Central Command|CentCom]] and is enforced by the [Sec Officers](Security.md) on the station. Space Law applies to all ranks and positions on station, from the lowliest Assistant to the highest Captain, all are equal under the eyes of the Law and ultimately answer to her.
 
 The rules and regulations herein are not absolutes, instead they exist to serve mainly as **guidelines** for the law and order of the dynamic situations that exist for stations on the frontiers of space, as such some leeway is permitted.
 
@@ -124,7 +124,7 @@ In the instance of prisoners that have earned [[Labor Camp]] duty, you must dres
 
 **NOTE:** In the current revision of TG, Mineral spawn is heavily reduced in the gulag area. If you plan on using the gulag for several incidences [meaning the floors are already mined so people can't mine the floors for glass], you should use a lower conversion rate.
 
-The \[Warden](Warden) or [[Head of Security]] are responsible for placing prisoners and in permanent confinement.
+The [Warden](Warden.md) or [[Head of Security]] are responsible for placing prisoners and in permanent confinement.
 
 #Permanent Prisoners are to be completely stripped of their belongings, which are to be held in either evidence or a prison locker.
 #The prisoner is to be dressed in an Orange Prison Jumpsuit and Shoes, which are found in the prison lockers.
@@ -142,7 +142,7 @@ The Lawyer's security headset is a privilege not a right. Security personnel are
 
 If the lawyer continuously acts as a disruptive influence Security are fully permitted to confiscate their access, remove them from the brig and bar their future access to it.
 
-In instances where a conflict of opinion arises over the sentence of a prisoner the \[chain of command](Chain_of_Command) 'must' be followed. This goes, from top to bottom: Captain > Head of Security > Warden > Sec Officer / Detective.
+In instances where a conflict of opinion arises over the sentence of a prisoner the [chain of command](Chain_of_command.md) 'must' be followed. This goes, from top to bottom: Captain > Head of Security > Warden > Sec Officer / Detective.
 
 Trials are not to be performed for Timed Sentences. This is mainly for the benefit of the accused as trials will often run many times the length of the actual sentence. 
 

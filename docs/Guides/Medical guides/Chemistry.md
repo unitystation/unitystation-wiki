@@ -1,5 +1,5 @@
 # Chemistry
-The Chemistry that has been implemented into the game has been copied from tg station's old chem recipes. Note:this is the guide to reactions, for the job, click \[here](Chemist)
+The Chemistry that has been implemented into the game has been copied from tg station's old chem recipes. Note:this is the guide to reactions, for the job, click [here](Chemist.md)
 
 '<font color= red> ''(Disclaimer: at the current time of this edit, all chemicals are superheated, preventing you from making certain recipes such as Oil)''</font>'
 
