@@ -18,9 +18,9 @@ If your the goody two shoes sort, there are several ways to get into places with
 
 Some ways of getting into an area are in a gray area, and can be legal or illegal depending on who you ask and where it is done..
 
-#) Follow somebody inside. Wait outside the door, then, when someone passes in, tail them inside the room. This is often ignored for places like the kitchen or medical, but can get your ass kicked if you do it to enter someplace like command or security.
-#) Convince somebody, but lie. If your found out, security may do something about it, but unless you did it to get into a secure area its unlikely anyone will care.
-#) Bribe someone to let you enter. If you give someone a nice wad of cash or a gun, they'll be much more likely to "accidentally" leave the door open for you. This will work on practically everyone short of the most dutiful, command, and security. If your feeling ballsy, you can try to bribe the \[HoP](HoP) himself into giving you access.
+- Follow somebody inside. Wait outside the door, then, when someone passes in, tail them inside the room. This is often ignored for places like the kitchen or medical, but can get your ass kicked if you do it to enter someplace like command or security.
+- Convince somebody, but lie. If your found out, security may do something about it, but unless you did it to get into a secure area its unlikely anyone will care.
+- Bribe someone to let you enter. If you give someone a nice wad of cash or a gun, they'll be much more likely to "accidentally" leave the door open for you. This will work on practically everyone short of the most dutiful, command, and security. If your feeling ballsy, you can try to bribe the \[HoP](HoP) himself into giving you access.
 
 
 ### The Illegal Ways
