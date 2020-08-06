@@ -1,5 +1,5 @@
 # Atmospherics Technician
-Role type: <font color## "#74652c">Engineering</font>. Access: <font color="#74652c">Atmospherics</font>,<font color="#74652c">Engineering</font>, Maintenance. Difficulty: <font color"Yellow">Medium</font>
+Role type: <font color= "#74652c">Engineering</font>. Access: <font color="#74652c">Atmospherics</font>,<font color="#74652c">Engineering</font>, Maintenance. Difficulty: <font color="Yellow">Medium</font>
 
 As an Atmospherics Technician, your job is pretty much to [[So close to impossible that it might as well not even exist|stop the station's crew members from suffocating to death]]. As long as everyone's able to breathe while inside the station, you're doing your job.
 
