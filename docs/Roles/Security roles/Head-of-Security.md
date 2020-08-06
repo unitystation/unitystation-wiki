@@ -26,7 +26,7 @@ If things start burning and exploding, it may be a good time to order the [warde
 
 ### Martial Law? Whats that?
 
-If somehow the station has gone to [[Battle royale|complete shit,with over half the crew dead and the station itself an atmosphereless wreck]], but a [good portion of officers have survived](So-close-to-impossible-that-it-might-as-well-not-even-exist.md), its time to enact martial law. At this point the Brig is likely non functional and the danger posed by antagonists is at its greatest.  You can likely get away with executing people for so much as not obeying orders from their superiors.
+If somehow the station has gone to [|complete shit,with over half the crew dead and the station itself an atmosphereless wreck](Battle-royale.md), but a [good portion of officers have survived](So-close-to-impossible-that-it-might-as-well-not-even-exist.md), its time to enact martial law. At this point the Brig is likely non functional and the danger posed by antagonists is at its greatest.  You can likely get away with executing people for so much as not obeying orders from their superiors.
 
 
 
