@@ -16,7 +16,7 @@ Or commonly referred to as "shitcurity", are the kind of officers that believe i
 
 2) Beware of people trying to disarm you.
 
-3) [Clowns](Clown.md) and [cargo](Cargo-technician.md) are your nemesis.
+3) [Clowns](Clown.md) and [cargo](Cargo-Technician.md) are your nemesis.
 
 4) Don't expect people to respect you.
 
@@ -30,7 +30,7 @@ Or commonly referred to as "shitcurity", are the kind of officers that believe i
 
 These kind of officers just go around the station and make sure everything is in order, not intervening unless needed, these types of officers are neutrally perceived by the public so don't expect praise or hate, well except general hate towards security because of the officers mentioned above. Some tips:
 
-1) You should request [AA](All-access.md) from [Head of Personnel](Hop.md) to make sure to sweep the whole station, to uncover any hidden plots unraveling in the research sector or else.
+1) You should request [AA](All-access.md) from [Head of Personnel](HoP.md) to make sure to sweep the whole station, to uncover any hidden plots unraveling in the research sector or else.
 
 2) If people tell you to go, don't overstay your welcome.
 

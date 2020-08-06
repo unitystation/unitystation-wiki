@@ -4,7 +4,7 @@
 
 ## Overview
 
-Traitor is one of the three types of Antagonist roles that can spawn, with the other two currently in the game being [Nuke Ops](Nuclear-emergency.md) and [Cargonia](Cargonia.md).
+Traitor is one of the three types of Antagonist roles that can spawn, with the other two currently in the game being [Nuke Ops](Nuclear-Emergency.md) and [Cargonia](Cargonia.md).
 
 
 ### MISSION SPECIFICATION DECRYPTED. WELCOME, SYNDICATE AGENT.

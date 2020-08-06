@@ -10,13 +10,13 @@ Shaft Miner is one of the most dangerous roles that is not a Command role. Not b
 ## This is Mining, someone stole our shuttle. Anyone know who it was?
 
 
-As a Shaft Miner, the station crew expects you to head out into space, mine ores from asteroids (eventually also from lavaland if it gets added), and get [Cargo](Cargo-technician.md) some money. You're also expected to be at least somewhat [robust](Combat.md), since you'll run into a lot of Aliens out there.
+As a Shaft Miner, the station crew expects you to head out into space, mine ores from asteroids (eventually also from lavaland if it gets added), and get [Cargo](Cargo-Technician.md) some money. You're also expected to be at least somewhat [robust](Combat.md), since you'll run into a lot of Aliens out there.
 
-To assist in your efforts, you get given a multitude of tools: A Mining Hardsuit, to protect you from the cold, airless vacuum of space as well as to give you very slight protection against damage; a mining satchel, to store ores in; a lantern, since space is dark; and a pickaxe and shovel, to mine ores and dig sand out of the asteroid ground. Since you're part of the Cargo department, you're under the supervision of the [Quartermaster](Quartermaster.md), so ask them for help if you're ever confused on what to do. Also, if Cargo is flushed with [Cargo Technicians](Cargo-technician.md) who know what they are doing, the Quartermaster has their own set of mining gear in their office, and may join you on your adventures in deep space.
+To assist in your efforts, you get given a multitude of tools: A Mining Hardsuit, to protect you from the cold, airless vacuum of space as well as to give you very slight protection against damage; a mining satchel, to store ores in; a lantern, since space is dark; and a pickaxe and shovel, to mine ores and dig sand out of the asteroid ground. Since you're part of the Cargo department, you're under the supervision of the [Quartermaster](Quartermaster.md), so ask them for help if you're ever confused on what to do. Also, if Cargo is flushed with [Cargo Technicians](Cargo-Technician.md) who know what they are doing, the Quartermaster has their own set of mining gear in their office, and may join you on your adventures in deep space.
 
 In the lockers in the mining locker room, there are a limited number of [Proto Kinetic Accelerators](Pka.md), otherwise known as the Shaft Miner's best friend. It is a short range, high-damage, unlimited-use gun that can be used for propulsion in deep space, breaking asteroid rocks, and killing things.
 
-In addition to the Common channel, the Shaft Miner's [headset](Headset.md) comes with access to the Supplies channel to communicate with the rest of [Cargo](Cargo-technician.md), and the Science channel to organize what minerals and ores are needed to conduct R&D (when implemented).
+In addition to the Common channel, the Shaft Miner's [headset](Headset.md) comes with access to the Supplies channel to communicate with the rest of [Cargo](Cargo-Technician.md), and the Science channel to organize what minerals and ores are needed to conduct R&D (when implemented).
 
 When mining with the pick axe, keep in mind you can mine multiple chunks of rock at the same time as long as they are adjacent to you. This drastically speeds up mining operations.
 {| class="wikitable"
@@ -69,7 +69,7 @@ When mining with the pick axe, keep in mind you can mine multiple chunks of rock
 ## So you want to be a Space Man...
 
 
-The most important step to do before you leave is get the [Asteroid](Asteroid.md) Coordinates from the [Captain](Captain.md). This is best asked for as soon as possible before they leave their office. If you have a [Quartermaster](Quartermaster.md), ask them apply pressure to a resistant or distracted Captain, or involve the [Head of Personnel](Hop.md); you cannot do your job without those coordinates.
+The most important step to do before you leave is get the [Asteroid](Asteroid.md) Coordinates from the [Captain](Captain.md). This is best asked for as soon as possible before they leave their office. If you have a [Quartermaster](Quartermaster.md), ask them apply pressure to a resistant or distracted Captain, or involve the [Head of Personnel](HoP.md); you cannot do your job without those coordinates.
 
 In the meantime, prepare the Expeditionary Shuttle for launch. In order to fuel the shuttle, you must take the wrench stashed in the engine room and apply it to the plasma canister. The canister starts on top of the fuel coupling, so it should be secured immediately without a problem. If you do experience trouble, try dragging the plasma canister off the coupling and then back on.
 

@@ -7,7 +7,7 @@ Note: This is the guide to QM, if your new to cargo please read the guide to bei
 
 ### King of the delivery squad
 
-As the QM, your job is simple, you oversee the regular operations of cargo, be that paperwork, orders, exports, or coordinating mining operations on some god-forsaken rock from the comfort of your office. While the normal [Cargo Techs](Cargo-technician.md) are good at moving crates and making money, they tend to have trouble juggling bounties and spending that money. This is where you come in. Check with other departments to see what supplies they are running low on, and buy them, either in person or over the radio, they'll be more than happy to inform you. You should also almost always buy [meat crates](Cooking.md) for the [Chef](Cook.md) and metal for engineering as soon as you can, as stocks of both run out rapidly.
+As the QM, your job is simple, you oversee the regular operations of cargo, be that paperwork, orders, exports, or coordinating mining operations on some god-forsaken rock from the comfort of your office. While the normal [Cargo Techs](Cargo-Technician.md) are good at moving crates and making money, they tend to have trouble juggling bounties and spending that money. This is where you come in. Check with other departments to see what supplies they are running low on, and buy them, either in person or over the radio, they'll be more than happy to inform you. You should also almost always buy [meat crates](Cooking.md) for the [Chef](Cook.md) and metal for engineering as soon as you can, as stocks of both run out rapidly.
 
 
 
@@ -15,7 +15,7 @@ As the QM, your job is simple, you oversee the regular operations of cargo, be t
 
 Oftentimes, you wont be the one asking others if they need supplies, rather, the crew will be asking you. You could be a prick and hand anyone asking for so much as a pen ten sheets of paperwork, which will likely result in your untimely demise, or you can heed their requests like an ordinary human being. The requests you'll get will range anywhere from spare generators to clowning tools. You will generally be expected to fulfill these requests in a reasonable time-frame and have someone deliver the goods to the relevant department or room.
 
-A critical part of fulfilling requests that you must coordinate with your [Cargo Techs](Cargo-technician.md) is crate reclamation.'' Shipping crates can be exchanged for a significant portion of their original cost, sometimes as high as 100% ("''it's free real state.") of their purchase price. Always badger people about the crates they have taken and not returned. Stretch those dollars as far as you can.
+A critical part of fulfilling requests that you must coordinate with your [Cargo Techs](Cargo-Technician.md) is crate reclamation.'' Shipping crates can be exchanged for a significant portion of their original cost, sometimes as high as 100% ("''it's free real state.") of their purchase price. Always badger people about the crates they have taken and not returned. Stretch those dollars as far as you can.
 
 ### Exports
 
@@ -67,7 +67,7 @@ Payout (Refund %)
 |-
 !Security
 |-
-|[Handcuffs Crate](Security-officer.md)
+|[Handcuffs Crate](Security.md)
 |900
 |5 handcuffs
 |500 (55%)
@@ -99,7 +99,7 @@ Payout (Refund %)
 |-
 !Medical
 |-
-|[First Aid Kit Crate](Medical-doctor.md)
+|[First Aid Kit Crate](Medical-Doctor.md)
 |800
 |3 First Aid Kits
 |500 (62%)
@@ -195,7 +195,7 @@ Payout (Refund %)
 |10 signs
 |500 (62%)
 |-
-|[ID Crate](Hop.md)
+|[ID Crate](HoP.md)
 |550
 |10 blank IDs
 |500 (90%)
