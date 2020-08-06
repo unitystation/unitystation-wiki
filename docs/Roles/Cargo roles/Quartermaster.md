@@ -1,5 +1,5 @@
 # Quartermaster
-**Role type:** Cargo. **Access: ???**  **Difficulty:** Medium. Colloquial name: "QM"
+**Role type:**  <font color= "#734823">Cargo</font>. **Access: ???**  **Difficulty:** <font color="Yellow"> Medium</font>. Colloquial name: "QM"
 
 Note: This is the guide to QM, if your new to cargo please read the guide to being a [[Cargo Technician]] and/or [[Shaft Miner]]
 
