@@ -32,19 +32,19 @@ Below are a few kinds (not all) of meat. To obtain meat, butcher creatures by us
 !Nutritional Value
 !Notes
 |-
-|[[File:Food meat.png|frameless]] 
+|![Food meat](Food_meat.png) 
 |Meat
 |Butcher a dead creature.
 |148
 |
 |-
-|[[File:Food tomatomeat.png|frameless]]
+|![Food tomatomeat](Food_tomatomeat.png)
 |Killer Tomato Meat
-|Use a knife on a killer-tomato. [[File:Harvest killertomato.png|frameless]]
+|Use a knife on a killer-tomato. ![Harvest killertomato](Harvest_killertomato.png)
 |148
 |
 |-
-|[[File:Food spiderleg.png|frameless]]  
+|![Food spiderleg](Food_spiderleg.png)  
 |Spider Leg
 |Butcher a spider (such as Sergeant Araneus).
 |75

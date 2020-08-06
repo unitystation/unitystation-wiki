@@ -1,11 +1,11 @@
 # Space Law
 {{Template:Important
-|Title=This page is merely an \[IC](IC) roleplay suggestion
-|Note= It has 'NOT** been adopted as an official policy after two votes.<br> Administrators will only intervene when you are sentenced to grossly unfair times. If you get 3 minutes instead of 2, talk to the lawyer as it's considered an \[IC](IC) issue. ''If you cite Space Law in an adminhelp or anywhere outside IC communications, you will be laughed at.<br><br>
+|Title=This page is merely an [IC](Ic.md) roleplay suggestion
+|Note= It has 'NOT** been adopted as an official policy after two votes.<br> Administrators will only intervene when you are sentenced to grossly unfair times. If you get 3 minutes instead of 2, talk to the lawyer as it's considered an [IC](Ic.md) issue. ''If you cite Space Law in an adminhelp or anywhere outside IC communications, you will be laughed at.<br><br>
 A log of community votes can be found [[Talk:Space Law|here]].
 }}
 
-Space Law is a collection of rules and regulations enacted by [[Backstory#Nanotrasen|Nanotrasen]] which has oversight through [[Backstory#Central Command|CentCom]] and is enforced by the \[Sec Officers](Security) on the station. Space Law applies to all ranks and positions on station, from the lowliest Assistant to the highest Captain, all are equal under the eyes of the Law and ultimately answer to her.
+Space Law is a collection of rules and regulations enacted by [[Backstory#Nanotrasen|Nanotrasen]] which has oversight through [[Backstory#Central Command|CentCom]] and is enforced by the [Sec Officers](Security.md) on the station. Space Law applies to all ranks and positions on station, from the lowliest Assistant to the highest Captain, all are equal under the eyes of the Law and ultimately answer to her.
 
 The rules and regulations herein are not absolutes, instead they exist to serve mainly as **guidelines** for the law and order of the dynamic situations that exist for stations on the frontiers of space, as such some leeway is permitted.
 
@@ -120,15 +120,15 @@ Aiding a criminal makes you an accomplice; you can be charged with the same crim
 
 In the event of a sentence exceeding the 10 minute limit of the timer inform the Warden so he may add the rest of the time later.
 
-In the instance of prisoners that have earned [[Labor Camp]] duty, you must dress them in orange overalls and assign them targets, based on their sentence, by getting a prison ID, putting it in a [[Prisoner Management Console]], assigning their quota (with a conversion rate of 100 points per minute otherwise served in the brig) and then giving them the ID as you ship them to the Labor Camp. There are more details on this procedure at [[Labor Camp]].**
+In the instance of prisoners that have earned [Labor Camp](Labor-Camp.md) duty, you must dress them in orange overalls and assign them targets, based on their sentence, by getting a prison ID, putting it in a [Prisoner Management Console](Prisoner-Management-Console.md), assigning their quota (with a conversion rate of 100 points per minute otherwise served in the brig) and then giving them the ID as you ship them to the Labor Camp. There are more details on this procedure at [Labor Camp](Labor-Camp.md).**
 
 **NOTE:** In the current revision of TG, Mineral spawn is heavily reduced in the gulag area. If you plan on using the gulag for several incidences [meaning the floors are already mined so people can't mine the floors for glass], you should use a lower conversion rate.
 
-The \[Warden](Warden) or [[Head of Security]] are responsible for placing prisoners and in permanent confinement.
+The [Warden](Warden.md) or [Head of Security](Head-of-Security.md) are responsible for placing prisoners and in permanent confinement.
 
 #Permanent Prisoners are to be completely stripped of their belongings, which are to be held in either evidence or a prison locker.
 #The prisoner is to be dressed in an Orange Prison Jumpsuit and Shoes, which are found in the prison lockers.
-#Permanent Prisoners are not permitted to possess any personal belongings whilst they are incarcerated in the [[Prison Wing]].
+#Permanent Prisoners are not permitted to possess any personal belongings whilst they are incarcerated in the [Prison Wing](Prison-Wing.md).
 ##The Labor Camp can also be used to hold Permanent Prisoners. Simply do not issue a prisoner ID when transferring them to the camp.
 
 {{Sub Header|text=Legal Representation and Trials}}
@@ -142,7 +142,7 @@ The Lawyer's security headset is a privilege not a right. Security personnel are
 
 If the lawyer continuously acts as a disruptive influence Security are fully permitted to confiscate their access, remove them from the brig and bar their future access to it.
 
-In instances where a conflict of opinion arises over the sentence of a prisoner the \[chain of command](Chain_of_Command) 'must' be followed. This goes, from top to bottom: Captain > Head of Security > Warden > Sec Officer / Detective.
+In instances where a conflict of opinion arises over the sentence of a prisoner the [chain of command](Chain_of_command.md) 'must' be followed. This goes, from top to bottom: Captain > Head of Security > Warden > Sec Officer / Detective.
 
 Trials are not to be performed for Timed Sentences. This is mainly for the benefit of the accused as trials will often run many times the length of the actual sentence. 
 
@@ -183,31 +183,31 @@ All of these crimes carry a 1 minute sentence.
 ! style## "background-color:#ffee55;" width"300px" |Notes
 |-
 |101
-|[[File:Resisting Arrest.PNG|link=Special:FilePath/Resisting_Arrest.PNG]]
+|![Resisting Arrest](Resisting_Arrest.png)
 |'Resisting Arrest'
 |To not cooperate with an officer who attempts a proper arrest.
 | Follow proper arrest procedure and have a legitimate cause to arrest in the first place before you brig a suspect for this. Suspects who scream bloody murder while being arrested are not cooperating.
 |-
 |104
-|[[File:libertycap.png|link=Special:FilePath/Libertycap.png]]
+|![libertycap](libertycap.png)
 |'Drug Possession'
 |To possess space drugs or other narcotics by unauthorised personnel.
 | Botanists and MedSci staff are authorised to possess drugs for purposes of their jobs and are not subject to this law so long as they are not distributing or using them for profit or recreation.
 |-
 |106
-|[[File:Indecent_exposure.png|link=Special:FilePath/Indecent_exposure.png]]
+|![Indecent_exposure](Indecent_exposure.png)
 |'Indecent Exposure'
 |To be intentionally and publicly unclothed.
 |Running around the station naked. The mutual degradation of chasing a naked man down while he screams rape is only worth it on slow shifts.
 |-
 |107
-|[[File:Vandalism.PNG|link=Special:FilePath/Vandalism.PNG]]
+|![Vandalism](Vandalism.png)
 |'Vandalism'
 |To deliberately damage the station with malicious intent.
 |Sentence depends on quantity of property damaged.
 |-
 |109
-|[[File:Trespassing.png|link=Special:FilePath/Trespassing.png]]
+|![Trespassing](Trespassing.png)
 |'Trespass'
 |To be in an area which a person does not have access to. This counts for general areas of the ship, and trespass in restricted areas is a more serious crime.
 |Remember that people can either break in, sneak in, or be let in. Always check that the suspect wasn't let in to do a job by someone with access, or were given access on their ID. Trespassing and theft are often committed together; both sentences should be applied.
@@ -216,7 +216,7 @@ All of these crimes carry a 1 minute sentence.
 </font>
 
 
-## Medium CrimesAll of these crimes carry a 2 minute sentence or a 100 point target at the [[Labor Camp]], optional for the suspect you are arresting.
+## Medium CrimesAll of these crimes carry a 2 minute sentence or a 100 point target at the [Labor Camp](Labor-Camp.md), optional for the suspect you are arresting.
 
 <font color="Black">
 {| style## "text-align:center; background-color:#ffcc99;" border="1" cellspacing"0"
@@ -227,61 +227,61 @@ All of these crimes carry a 1 minute sentence.
 ! style## "background-color:#ffaa55;" width"300px" | Notes
 |-
 |201
-|[[File:Assault.png|link=Special:FilePath/Assault.png]]
+|![Assault](Assault.png)
 |'Assault'
 |To use physical force against someone without the apparent intent to kill them.
 |Depending on the amount and kind of force used, severe instances should be elevated to attempted manslaughter or even murder. Assaults with deadly weapons are a higher crime.
 |-
 |202
-|[[File:Pickpocketing.png|link=Special:FilePath/Pickpocketing.png]]
+|![Pickpocketing](Pickpocketing.png)
 |'Pick-Pocketing'
 |To steal items from another's person.
 |Remember to take the stolen items from the person and arrange for their return. Stealing an ID is the most common and most serious form of pick-pocketing.
 |-
 |203
-|[[File:Narcotics_Distribution.PNG|link=Special:FilePath/Narcotics_Distribution.PNG]]
+|![Narcotics_Distribution](Narcotics_Distribution.png)
 |'Narcotics Distribution'
 |To distribute narcotics and other controlled substances.
 |Forcing or tricking someone to consume substances such as space drugs is assault.
 |-
 |204
-|[[File:Deadly_Weapon.PNG|link=Special:FilePath/Deadly_Weapon.PNG]]
+|![Deadly_Weapon](Deadly_Weapon.png)
 |'Possession of a Weapon'
 | To be in possession of a dangerous item that is not part of their job role.
 |Items capable of a high level of damage, such as saws, axes, and hatchets fit into this category. Do remember that if it is an item that is part of their job they are permitted to carry it.
 |-
 |206
-|[[File:Rioting.PNG|link=Special:FilePath/Rioting.PNG]]
+|![Rioting](Rioting.png)
 |'Rioting'
 |To partake in an unauthorised and disruptive assembly of crewmen that refuse to disperse.
 |It is required to order the crowd to disperse, failure to disperse is the crime not the assembly. Any crimes committed during the riot are considered separate offences.
 |-
 | 207
-|[[File:Workplace_Hazard.PNG|link=Special:FilePath/Workplace_Hazard.PNG]]
+|![Workplace_Hazard](Workplace_Hazard.png)
 |'Creating a Workplace Hazard'
 |To endanger the crew or station through negligent or irresponsible, but not deliberately malicious, actions.
 |Good examples of this crime involves accidentally causing a plasma leak, slipping hazard, accidently electrifying doors, breaking windows to space, or Security personnel not keeping their equipment secure.
 |-
 |208
-|[[File:Petty_theft.png|link=Special:FilePath/Petty_theft.png]]
+|![Petty_theft](Petty_theft.png)
 |'Petty Theft'
 | To take items from areas one does not have access to or to take items belonging to others or the station as a whole.
 |Keeping items which are in short supply where they belong is what is important here. A doctor who takes all the surgical tools and hides them still commits theft, even though he had access.
 |-
 |210
-|[[File:BandE.PNG|link=Special:FilePath/BandE.PNG]]
+|![BandE](BandE.png)
 |'Breaking and Entry'
 |Forced entry to areas where the subject does not have access to. This counts for general areas, and breaking into restricted areas is a more serious crime.
 |Crew can still be charged with breaking & entry even if they do not enter the area themselves.
 |-
 |211
-|[[File:Insubordination.PNG|link=Special:FilePath/Insubordination.PNG]]
+|![Insubordination](Insubordination.png)
 |'Insubordination'
 |To disobey a lawful direct order from one's superior officer.
 |Charge issued by a head of staff to one of their direct subordinates. The person is usually demoted instead of incarcerated. Security is expected to assist the head in carrying out the demotion.
 |-
 |}
-## Major Crimes</font>These crimes carry a service at the [[Labor Camp]], with a 500 point target or a five minute brig sentence.
+## Major Crimes</font>These crimes carry a service at the [Labor Camp](Labor-Camp.md), with a 500 point target or a five minute brig sentence.
 <font color="Black">
 {| style## "text-align:center; background-color:#ffaa99;" border="1" cellspacing"0"
 ! style## "background-color:#ff6655;" width"20px" |Code
@@ -291,25 +291,25 @@ All of these crimes carry a 1 minute sentence.
 ! style## "background-color:#ff6655;" width"300px" |Notes
 |-
 |301
-|[[File:Assault_Deadly_Weapon.PNG|link=Special:FilePath/Assault_Deadly_Weapon.PNG]]
+|![Assault_Deadly_Weapon](Assault_Deadly_Weapon.png)
 |'Assault With a Deadly Weapon'
 | To use physical force, through a deadly weapon, against someone without the apparent intent to kill them.
 |Any variety of tools, chemicals or even construction materials can inflict serious injury in short order. If the victim was especially brutalized, consider charging them with attempted murder.
 |-
 |302
-|[[File:Assaulting_an_officer.PNG|link=Special:FilePath/Assaulting_an_officer.PNG]]
+|![Assaulting_an_officer](Assaulting_an_officer.png)
 |'Assault of an Officer'
 |To use physical force against a Department Head or member of Security without the apparent intent to kill them.
 |Criminals who attempt to disarm or grab officers while fleeing are guilty of this, even if bare handed. Officers should refrain from using lethal means to subdue the criminal if possible.
 |-
 | 303
-|[[File:Manslaughter.PNG|link=Special:FilePath/Manslaughter.PNG]]
+|![Manslaughter](Manslaughter.png)
 |'Manslaughter'
 |To unintentionally kill someone through negligent, but not malicious, actions.
 |Intent is important. Accidental deaths caused by negligent actions, such as creating workplace hazards (e.g. gas leaks), tampering with equipment, excessive force, and confinement in unsafe conditions are examples of Manslaughter.
 |-
 | 304
-|[[File:Lethal_Weapon.PNG|link=Special:FilePath/Lethal_Weapon.PNG]]
+|![Lethal_Weapon](Lethal_Weapon.png)
 |'Possession of a Restricted Weapon'
 |To be in possession of a restricted weapon without prior authorisation, such as: Guns, Batons, Flashes, Grenades, etc.
 |Any item that can cause severe bodily harm or incapacitate for a significant time. The following personnel have unrestricted license to carry weapons and firearms: Captain, HoP, all Security Personnel. 
@@ -317,44 +317,44 @@ The Barman is permitted his double barrel shotgun loaded with beanbag rounds.
 Only the Captain and HoS can issue weapon permits.
 |-
 |305
-|[[File:Possession_Explosives.PNG|link=Special:FilePath/Possession_Explosives.PNG]]
+|![Possession_Explosives](Possession_Explosives.png)
 |'Possession of Explosives'
 |To be in possession of an explosive device.
 |Scientists and Miners are permitted to possess explosives only whilst transporting them to the mining asteroid, otherwise their experimental bombs must remain within the Science department.
 |-
 |306
-|[[File:Inciting_Riot.PNG|link=Special:FilePath/Inciting_Riot.PNG]]
+|![Inciting_Riot](Inciting_Riot.png)
 |'Inciting a Riot'
 |To attempt to stir the crew into a riot
 | Additionally to the brig time the offender will also have restrictions placed on their radio traffic and be implanted with a tracking implant. For second offences or outright instigating violent uprisings consider charging with Mutiny.
 |-
 |307
-|[[File:Disrupting_power.png|link=Special:FilePath/Disrupting_power.png]]
+|![Disrupting_power](Disrupting_power.png)
 |'Sabotage'
 |To hinder the work of the crew or station through malicious actions.
 |Deliberately releasing N2O, bolting doors, disabling the power network, and constructing barricades are but some of many means of sabotage. For more violent forms, see Grand Sabotage.
 |-
 |308
-|[[File:Theft.PNG|link=Special:FilePath/Theft.PNG]]
+|![Theft](Theft.png)
 |'Theft'
 |To steal restricted or dangerous items
 |Weapons fall into this category, as do valuable items that are in limited supply such as insulated gloves, spacesuits, and jetpacks. 
 Note that Cargo breaking open crates to illegally arm and armor themselves are guilty of theft.
 |-
 | 309
-|[[File:Major_Trespass.PNG|link=Special:FilePath/Major_Trespass.PNG]]
+|![Major_Trespass](Major_Trespass.png)
 |'Major Trespass'
 |Being in a restricted area without prior authorisation. This includes any Security Area, Command area (including EVA), the Engine Room, Atmos, or Toxins Research.
 |Being in a very high security area, such as the armoury or the Captain's Quarters, is a more serious crime, and warrants a time of 10 minutes with a possible permabrigging if intent is believed to be malicious.
 |-
 |310
-|[[File:BE_Restricted.PNG|link=Special:FilePath/BE_Restricted.PNG]]
+|![BE_Restricted](BE_Restricted.png)
 |'B&E of a Restricted Area'
 |This is breaking into any Security area, Command area (Bridge, EVA, Captains Quarters, Teleporter, etc.), the Engine Room, Atmos, or Toxins research.
 |As a major crime sentences start at 5 minutes, but can be extended if security believes break in was for attempted Grand Theft or attempted Grand Sabotage (yellow gloves don't count as grand theft).
 |-
 |311
-|[[File:Dereliction.PNG|link=Special:FilePath/Dereliction.PNG]]
+|![Dereliction](Dereliction.png)
 |'Dereliction of Duty'
 |To willfully abandon an obligation that is critical to the station's continued operation.
 | A demotion is often included in the sentence. Emphasis on the word critical: An officer taking a break is not dereliction in of itself. An officer taking a break knowing that operatives are shooting up the Captain is. Engineers who do not secure a power source at the start of the shift and heads of staff who abandon the station can also be charged.
@@ -363,7 +363,7 @@ Note that Cargo breaking open crates to illegally arm and armor themselves are g
 {| style="border: 0px solid #76b1fb;text-align:center;width:90%;background-color:#19212c;border-top-left-radius: 30px;-moz-border-radius-topleft: 30px;border-bottom-right-radius: 2px;-moz-border-radius-bottomleft: 2px;"
 | style="background-color:#19212c; padding:2px; font-size:18px;border-top-left-radius: 30px;-moz-border-radius-topleft: 30px;border-bottom-right-radius: 30px;-moz-border-radius-bottomleft: 30px;color:White;font-weight:bold; box-shadow: 1px 1px 5px black;" |Capital Crimes
 |}
-These crimes can result in Execution, Permanent Prison Time, Permanent [[Labor Camp]] Time, or Cyborgization. 
+These crimes can result in Execution, Permanent Prison Time, Permanent [Labor Camp](Labor-Camp.md) Time, or Cyborgization. 
 
 Only the Captain, HoS, and Warden can authorize a Permanent Sentence. 
 
@@ -377,44 +377,44 @@ Only the Captain can authorize an Execution or Forced Cyborgization.
 ! style## "background-color:black;" width"300px" | Notes
 |-
 | 401
-|[[File:Murder.PNG|link=Special:FilePath/Murder.PNG]]
+|![Murder](Murder.png)
 |'Murder'
 | To maliciously kill someone.
 |Punishment should fit the nature of both the crime and the criminal. Murder committed by temporary emotional distress, such as fear or anger, warrants lower punishments. Cyborg candidates must have brains fit to obey relevant laws. Life imprisonment is the most humane option for the insane who might malfunction as cyborgs. 
 'Unauthorised executions are classed as Murder.'
 |-
 |402
-|[[File:Sexual_Assault.PNG|link=Special:FilePath/Sexual_Assault.PNG]]
+|![Sexual_Assault](Sexual_Assault.png)
 |'Sexual Assault'
 |To molest or otherwise sexually attack someone.
 |Unconsented ERP scenes, regardless of OOC consent by all parties, is a violation of server rules, and worthy of a permanent ban. Adminhelp it if this happens to you; it's against server rules, not just station rules.
 |-
 |403
-|[[File:Attempted_Murder.PNG|link=Special:FilePath/Attempted_Murder.PNG]]
+|![Attempted_Murder](Attempted_Murder.png)
 |'Attempted Murder'
 | To use physical force against a person until that person is in a critical state with the apparent intent to kill them.
 |Remember, if a person attempts to render first aid after the victim falls into a critical state they may not have intend to kill them.
 |-
 | 406
-|[[File:Mutiny.PNG|link=Special:FilePath/Mutiny.PNG]]
+|![Mutiny](Mutiny.png)
 |'Mutiny'
 |To act individually, or as a group, to overthrow or subvert the established Chain of Command without lawful and legitimate cause.
 | Mutiny is not as clear cut as it may seem, there may be a legitimate reason for their actions, such as their head of staff being utterly incompetent. This is one of the few crimes where it is recommended to always seek a third party opinion. If their actions are determined to be for the betterment of Nanotrasen consider a timed sentence or even a full pardon.
 |-
 |407
-|[[File:Compromising_Station_Integrity.PNG|link=Special:FilePath/Compromising_Station_Integrity.PNG]]
+|![Compromising_Station_Integrity](Compromising_Station_Integrity.png)
 |'Grand Sabotage'
 |To engage in maliciously destructive actions, seriously threatening crew or station.
 |Bombing, arson, releasing viruses, deliberately exposing areas to space, physically destroying machinery or electrifying doors all count as Grand Sabotage.
 |-
 |408
-|[[File:High_value_target_theft.png|link=Special:FilePath/High_value_target_theft.png]]
+|![High_value_target_theft](High_value_target_theft.png)
 |'Grand Theft'
 |To steal items of high value or sensitive nature.
 |Syndicate agents frequently attempt to steal cutting-edge technology. Examples include: intelligence or research samples, the Hand Teleporter, the Captain's Antique Laser, the Captain or the HoP's ID cards, or Mechs.This is by no means a exhaustive list of items that are high value to the syndicate; when in doubt use common sense when you see certain items that are stolen that can cause massive problems throughout the station. Remember if something is locked up in a secure area it probably should not be taken without prior permission.
 |-
 |411
-|[[File:Antag_skum.png|link=Special:FilePath/Antag_skum.png]]
+|![Antag_skum](Antag_skum.png)
 |'Enemy of the Corporation'
 |To act as, or knowingly aid, an enemy of Nanotrasen.
 |Current enemies of Nanotrasen currently include: The Syndicate (through secret agents, boarding parties, and brainwashing specialists), The Wizard Federation, The Changeling Hivemind, and The Cult of Nar'Sie. 

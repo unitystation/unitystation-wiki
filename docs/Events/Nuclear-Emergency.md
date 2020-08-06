@@ -3,7 +3,7 @@
 ## Overview
 
 
-Ten Hut! You have been hand picked by the \[Syndicate](Groups) to join an elite commando team with the one goal of blowing \[Nanotrasen](Groups)'s most valuable asset, Space Station 13, to high hell through the use of a nuclear bomb.
+Ten Hut! You have been hand picked by the [Syndicate](Groups.md) to join an elite commando team with the one goal of blowing [Nanotrasen](Groups.md)'s most valuable asset, Space Station 13, to high hell through the use of a nuclear bomb.
 
 
 ### How to get started
@@ -17,11 +17,11 @@ The typical nukie gear consists of your uniform, night vision goggles, hardsuit 
 ### How to do your job
 
 
-You need to get the [[Nuclear Authentication Disk]]. The pinpointer in your pack will show a large arrow pointing directly to it. plan with your fellow operatives as to how you'll approach it, will you infiltrate stealthily as miners, sneak up and blow open a wall to surprise security, or ram the shuttle directly into the station? <s>Once</s> If you get the disk, you will need to bring it back to nuke and insert it in. Enter the code you got at roundstart, unlock it, drag it over to the station, start the timer, and run like hell!
+You need to get the [Nuclear Authentication Disk](Nuclear-Authentication-Disk.md). The pinpointer in your pack will show a large arrow pointing directly to it. plan with your fellow operatives as to how you'll approach it, will you infiltrate stealthily as miners, sneak up and blow open a wall to surprise security, or ram the shuttle directly into the station? <s>Once</s> If you get the disk, you will need to bring it back to nuke and insert it in. Enter the code you got at roundstart, unlock it, drag it over to the station, start the timer, and run like hell!
 ### How to improve
 
 
 
-Nuke ops are generally very confrontational. Unlike most traitors you cant use the argument that you mean no harm, as you absolutely do. As such you will spend most of your time running around and shooting things. To get better at this, you can play <s>a catgirl clown</s> \[security](security). If your doing this, try being on patrol and responding to shootouts as often as possible. Maybe, just maybe, you could [[So close to impossible that it might as well not even exist|figure out a peaceful approach?]]
+Nuke ops are generally very confrontational. Unlike most traitors you cant use the argument that you mean no harm, as you absolutely do. As such you will spend most of your time running around and shooting things. To get better at this, you can play <s>a catgirl clown</s> [security](Security.md). If your doing this, try being on patrol and responding to shootouts as often as possible. Maybe, just maybe, you could [[So close to impossible that it might as well not even exist|figure out a peaceful approach?]]
 
 {{Role Navbox}}

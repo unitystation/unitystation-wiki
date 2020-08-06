@@ -15,9 +15,9 @@ The Bartender's job is to make sure those who want a drink get one. Serve your p
 ### Tending to your Bar 
 
 
-Because of the inhibiting nature of the sauce you serve, you get a shotgun that fires stunning beanbag shells and a type 1 armor vest. You are going to need them. The difficulty of \[making drinks](Drinks Guide) is minimal, but bar fights can be deadly. You will see some of the worst displays of violence on the station. It might not be a bad idea to get friendly with the local \[security officers](Security Officer) early into your shift for the inevitable scuffles that will happen. Especially the \[Detective](Detective). They tend to spend more time in the bar than in their office, anyways.
+Because of the inhibiting nature of the sauce you serve, you get a shotgun that fires stunning beanbag shells and a type 1 armor vest. You are going to need them. The difficulty of [making drinks](Drinks-guide.md) is minimal, but bar fights can be deadly. You will see some of the worst displays of violence on the station. It might not be a bad idea to get friendly with the local [security officers](Security-officer.md) early into your shift for the inevitable scuffles that will happen. Especially the [Detective](Detective.md). They tend to spend more time in the bar than in their office, anyways.
 
-When the bar's empty, it might be tempting to load up your bar counter with drinks to keep the boredom away, but half the fun of bartending is mixing the drinks people ask for while talking to them. Your down time is better spent trying to get people to come to the bar in the first place. Light up the comms with invitations. Get the \[chef](Cook) to deliver their food to the bar. Declare free drinks on the house; Even though its all free already, it gets butts in seats like you wouldn't believe.
+When the bar's empty, it might be tempting to load up your bar counter with drinks to keep the boredom away, but half the fun of bartending is mixing the drinks people ask for while talking to them. Your down time is better spent trying to get people to come to the bar in the first place. Light up the comms with invitations. Get the [chef](Cook.md) to deliver their food to the bar. Declare free drinks on the house; Even though its all free already, it gets butts in seats like you wouldn't believe.
 
 
 
@@ -40,6 +40,6 @@ Well, frankly, you just add liquids into a glass and they mix themselves. Before
 
 1 part Whiskey Cola, 1 part beer - Syndicate Bomb
 
-A full guide on all the drinks can be (will be) found \[here](Guide to food and drinks). Take in account that Vodka is called [https://wiki.baystation12.net/Tunguska_Triple_Distilled Tunguska Triple Distilled] and Whiskey is Old Git's Special Reserve. With that in mind, go out and help some people drink their sorrows away.
+A full guide on all the drinks can be (will be) found [here](Guide-to-food-and-drinks.md). Take in account that Vodka is called [https://wiki.baystation12.net/Tunguska_Triple_Distilled Tunguska Triple Distilled] and Whiskey is Old Git's Special Reserve. With that in mind, go out and help some people drink their sorrows away.
 
 {{Role Navbox}}

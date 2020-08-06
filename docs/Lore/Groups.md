@@ -1,5 +1,5 @@
 # Groups
-By the time UnityStation and SS13 take place, space is controlled by multiple different groups, with only a few relevant to the game. Also see the \[lore](The Lore)
+By the time UnityStation and SS13 take place, space is controlled by multiple different groups, with only a few relevant to the game. Also see the [lore](The-lore.md)
 
 <big>'Nanotrasen'</big>
 
@@ -7,7 +7,7 @@ A Megacorporation, the largest in the galaxy, that controls the station that Uni
 
 ## The Syndicate
 
-The Syndicate isn't so much one corporation, as it is a sort of union of multiple companies, mercenary organizations, and raider groups. They are often regarded as the number one enemy of Nanotrasen, and have many times been responsible for the \[destruction](Traitor) \[of](Nuke Ops) Nanotrasen's space stations.
+The Syndicate isn't so much one corporation, as it is a sort of union of multiple companies, mercenary organizations, and raider groups. They are often regarded as the number one enemy of Nanotrasen, and have many times been responsible for the [destruction](Traitor.md) [of](Nuke-ops.md) Nanotrasen's space stations.
 
 
-\[more to be added in a few centuries](So close to impossible that it might as well not even exist)
+[more to be added in a few centuries](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)
