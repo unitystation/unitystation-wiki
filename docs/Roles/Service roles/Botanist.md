@@ -16,7 +16,7 @@ Despite Botanist being classed as Medium, it's currently one of the easiest role
 | orange | plants are hungry | use the bottle of nutriment from the dispenser. |
 
 
-If the vending machine ever runs out of seeds, put some of your produce in the seed extractor or just ask [Cargo](Cargo-technician.md) to order some more. If you fail at your job and plants die, then use the gardening spade to dig them up.
+If the vending machine ever runs out of seeds, put some of your produce in the seed extractor or just ask [Cargo](Cargo-Technician.md) to order some more. If you fail at your job and plants die, then use the gardening spade to dig them up.
 ### Why aren't you playing stardew valley then?
 
 Even if many people think this job is more of a farm simulator rather than a true space station 13 role, the truth is that the biggest interaction the botanist has is with the [Cook](Cook.md), and it's a complicated one. Also, a plasma incident is bad for the crops, so you are not just watching the plants grow, you are protecting them from the raising chaos of the station while they slowly develop into a fully grown plant, not just waiting for them to be harvested. 

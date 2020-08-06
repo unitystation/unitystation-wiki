@@ -15,6 +15,6 @@ In this game, you pick from a variety of [roles](Roles.md) to keep the station r
 
 The game itself is a chaos machine, sometimes its a 30 minutes long [battle royale](Battle-royale.md) and others is a 2 hours long Phoenix Wright court simulator with heavy usage of [space law enforcement](Security.md), but most of the time you are just trapped in a room and never able to break free or just thrown into space for no reason at all.
 
-Anyway, since this wiki is awfully incomplete, you should add your own stuff to it. [Get to work](So-close-to-impossible-that-it-might-as-well-not-even-exist.md) u moron, and learn the [Space Law](Space-law.md).
+Anyway, since this wiki is awfully incomplete, you should add your own stuff to it. [Get to work](So-close-to-impossible-that-it-might-as-well-not-even-exist.md) u moron, and learn the [Space Law](Space-Law.md).
 
 ![Test](Test.png)

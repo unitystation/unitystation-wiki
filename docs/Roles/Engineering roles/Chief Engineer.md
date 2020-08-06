@@ -4,12 +4,12 @@ Job type: <font color## "#74652c">Engineer</font>. Access: <font color="#74652c"
 
 "ALRIGHT! what goddamn moron cut the high voltage wire again?"
 
-Relevent guides: [Construction](Construction.md), [Engineer](Engineer.md), and [Atmospherics technician](Atmospherics-technician.md)
+Relevent guides: [Construction](Construction.md), [Engineer](Engineer.md), and [Atmospherics technician](Atmospherics-Technician.md)
 
 
 ## Your Job
 
-As the CE your main goal is to make sure the rest of the station is airtight, breathable, and functional. To achieve this you have your hired help, ordinary [engineers](Engineer.md) and [atmospherics technicians](Atmospherics-technician.md). [Engineers](Engineer.md) are easier to order around, and will generally do their job, unlike [atmos techs](Atmospherics-technician.md), who while usually capable, are more likely dicking about and setting themselves on fire. Don't worry, chances are one of them is a wizard at engineering and will know how to do your job better than you, its almost guaranteed.
+As the CE your main goal is to make sure the rest of the station is airtight, breathable, and functional. To achieve this you have your hired help, ordinary [engineers](Engineer.md) and [atmospherics technicians](Atmospherics-Technician.md). [Engineers](Engineer.md) are easier to order around, and will generally do their job, unlike [atmos techs](Atmospherics-Technician.md), who while usually capable, are more likely dicking about and setting themselves on fire. Don't worry, chances are one of them is a wizard at engineering and will know how to do your job better than you, its almost guaranteed.
 
 
 
@@ -28,7 +28,7 @@ You'll have to ignore many of the calls for engineering that come your way, as y
 
 ### Help someone blew the wall open
 
-The most often thing you'll deal with is breaches, most can be fixed with a single [engineer](Engineer.md) and [atmos tech](Atmospherics-technician.md), but a shuttleram from the syndicate shuttle is another beast entirely. simply designate someone by name to patch up the wall or floor and make sure they have a space-worthy suit.
+The most often thing you'll deal with is breaches, most can be fixed with a single [engineer](Engineer.md) and [atmos tech](Atmospherics-Technician.md), but a shuttleram from the syndicate shuttle is another beast entirely. simply designate someone by name to patch up the wall or floor and make sure they have a space-worthy suit.
 
 
 

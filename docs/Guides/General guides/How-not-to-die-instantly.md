@@ -27,7 +27,7 @@ requires a mask and a oxygen tank in your hot bar, to enable the supply click th
 6) If you get spaced (the act of being thrown out into space by pressure) throw anything and everything you can in the direction you're flying, that will hopefully, make you fly the other way, you're still going to die, but you're more likely to be found by your crew mates.
 
 
-7) If there is a Xenomorph invasion, or [Syndies](Nuclear-emergency.md) on board:
+7) If there is a Xenomorph invasion, or [Syndies](Nuclear-Emergency.md) on board:
 
 
 
