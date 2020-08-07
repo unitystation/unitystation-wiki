@@ -17,6 +17,6 @@ The game itself is a chaos machine, sometimes its a 30 minutes long [battle roya
 
 Anyway, since this wiki is awfully incomplete, you should add your own stuff to it. [Get to work](So-close-to-impossible-that-it-might-as-well-not-even-exist.md) u moron, and learn the [Space Law](Space-Law.md).
 
-{{ get_server_data }}
+{{ get_server_data() }}
 
 {{ macros_info() }}
