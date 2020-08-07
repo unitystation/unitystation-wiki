@@ -12,5 +12,5 @@
                                                                                                                                                                                                                                         
 
                                                           
-{% include 'html/rolesnavbar.html' %}
+{% include 'html/rolesnavbar.md' %}
 [[Category:Maps]]

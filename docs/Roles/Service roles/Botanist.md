@@ -36,4 +36,4 @@ At the moment, the amount of things the botanist can do is limited. Grow apples 
 | Sugar cane | Consumable | Produces 2u sugar |
 | Tower Cap Mycelium | Makes woods logs; can be processed into wood planks with hatchet | No |
 
-{% include 'html/rolesnavbar.html' %}
+{% include 'html/rolesnavbar.md' %}

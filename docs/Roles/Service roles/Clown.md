@@ -15,4 +15,4 @@ Your job is simple. Make jokes, make people laugh, get beat up by the [people](S
 
 more to be added... eventually... probably... maybe not...
 
-{% include 'html/rolesnavbar.html' %}
+{% include 'html/rolesnavbar.md' %}

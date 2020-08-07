@@ -47,4 +47,4 @@ So, fighting "the perfect organism" covered in spikes and larger than you repete
 
 
 
-{% include 'html/rolesnavbar.html' %}
+{% include 'html/rolesnavbar.md' %}

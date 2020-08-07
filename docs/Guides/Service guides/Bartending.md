@@ -57,4 +57,4 @@
 |
 |Makes newbie sec scream and panic upon seeing it
 |}
-{% include 'html/rolesnavbar.html' %}
+{% include 'html/rolesnavbar.md' %}

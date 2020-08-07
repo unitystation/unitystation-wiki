@@ -10,4 +10,4 @@ You are the mime, the silent type. you are bound by oath to keep your mouth shut
 
 A mime has a variety of unique mime-specific tools and gear, such as his mask, uniform, backpack, and the bottle of nothing in his pack. The latter can be used by the bartender to make drinks. The Clown will often be either your best bud or greatest nemesis, as has been the case ever since the foundation of the clown and mime federation, the latter falling apart as they couldn't pass any laws.
 
-{% include 'html/rolesnavbar.html' %}
+{% include 'html/rolesnavbar.md' %}

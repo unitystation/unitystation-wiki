@@ -33,4 +33,4 @@ Due to a lack of set goals, you may be a tad overwhelmed, however, here are some
 * Lead a righteous crusade against other cults.
 * Work with the [lawyer](Lawyer.md), sue god!
 * Whatever other crazy shit you can come up with.
-{% include 'html/rolesnavbar.html' %}
+{% include 'html/rolesnavbar.md' %}

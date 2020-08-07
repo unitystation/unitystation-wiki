@@ -1809,7 +1809,7 @@ The Chemistry that has been implemented into the game has been copied from tg st
 
 
 
-{% include 'html/rolesnavbar.html' %}
+{% include 'html/rolesnavbar.md' %}
 
 
 

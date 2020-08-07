@@ -63,4 +63,4 @@ Where all the [scientists](Scientist.md) gather and make half-life references be
 ### Security
 Where the [true dictatorial overlords](Security.md) of the station send their victims.![Sec](Sec.png)
 ### Church
-[Sacerdos](Chaplain.md) in templum laborat et [vocat cum deus](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)![Chruch](Chruch.png){% include 'html/rolesnavbar.html' %}
+[Sacerdos](Chaplain.md) in templum laborat et [vocat cum deus](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)![Chruch](Chruch.png){% include 'html/rolesnavbar.md' %}

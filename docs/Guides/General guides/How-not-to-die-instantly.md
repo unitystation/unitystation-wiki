@@ -65,4 +65,4 @@ b) If you are not armed or not robust then run away, cower behind sec and hide i
 
 (Being 'robust' is being acquainted with the combat system enough, a guide on which can be found [here](Combat.md). How much is enough you ask? Well there's no real measure.)
 
-{% include 'html/rolesnavbar.html' %}
+{% include 'html/rolesnavbar.md' %}

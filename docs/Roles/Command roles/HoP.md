@@ -26,4 +26,4 @@ With you being second in command and the station being as dangerous as it is, yo
 
 If the shuttle has been called DO NOT FORGET TO BRING [IAN](Ian.md) WITH YOU. Ian is a trained dog, so you can say, "Ian follow!" and Ian will follow behind you somewhat competently (doors give him a hard time). when you have him safe in the shuttle, you can say "Ian stay!" to make him stop. Because he is your dog, only you, the HoP, can do this. 
 
-{% include 'html/rolesnavbar.html' %}
+{% include 'html/rolesnavbar.md' %}

@@ -92,4 +92,4 @@ When the [miners](Shaft-Miner.md) actually [survive](So-close-to-impossible-that
 
 
 
-{% include 'html/rolesnavbar.html' %}
+{% include 'html/rolesnavbar.md' %}
