@@ -78,4 +78,4 @@ So, fighting "the perfect organism" covered in spikes and larger than you repete
 
 
 
-{{Role Navbox}}
+!!Role Navbox!!

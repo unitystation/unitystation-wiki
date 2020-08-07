@@ -4,4 +4,4 @@
 
 Currently the laughing stock of the whole station
 
-{{Role Navbox}}
+!!Role Navbox!!

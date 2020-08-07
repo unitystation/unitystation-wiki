@@ -108,4 +108,4 @@ Relicta is a abandoned station filled with [Zombies](Zombie.md), [Husks](Husk.md
 !Random Item
 !x1
 |}
-{{Role Navbox}}
+!!Role Navbox!!
