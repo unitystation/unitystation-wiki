@@ -1,5 +1,5 @@
 # Shaft Miner
-Role type: <font color## "#734823">Cargo</font>. Access: <font color="#734823">Mining department</font>, <font color="#734823">Cargo department</font>, Maintenance. Difficulty: <font color="Orange">Hard</font>-<font color"Red">Very Hard</font>
+Role type: <font color= "#734823">Cargo</font>. Access: <font color="#734823">Mining department</font>, <font color="#734823">Cargo department</font>, Maintenance. Difficulty: <font color="Orange">Hard</font>-<font color="Red">Very Hard</font>
 
 
 ## Overview
@@ -19,52 +19,21 @@ In the lockers in the mining locker room, there are a limited number of [Proto K
 In addition to the Common channel, the Shaft Miner's [headset](Headset.md) comes with access to the Supplies channel to communicate with the rest of [Cargo](Cargo-Technician.md), and the Science channel to organize what minerals and ores are needed to conduct R&D (when implemented).
 
 When mining with the pick axe, keep in mind you can mine multiple chunks of rock at the same time as long as they are adjacent to you. This drastically speeds up mining operations.
-{| class="wikitable"
-|+Space Minerals
-!name
-! uses
-!processed sell value
-|-
-|iron ore
-|processed into metal, used for [construction](Construction.md)
-| 5/u
-|-
-|sand
-|processed into glass, used for construction
-| 5/u
-|-
-|plasma ore
-|processed into solid plasma, used for construction and powering plasma generators
-|200/u
-|-
-|Bananium ore
-|Henk honk honk henk. Sell it.
-|1000/u
-|-
-|Gold ore
-|useless, currently. Sell it.
-|125/u
-|-
-|uranium ore
-|can be used to manufacture additional fuel rods for the reactor.
-| 100/u
-|-
-|titanium ore
-|can be used to reinforce the fuck out of windows
-|125/u
-|-
-|silver ore
-|useless, currently. Sell it.
-|50/u
-|-
-|Diamond
-|useless, currently. Sell it.
-|500/u
-|-
-|bluespace crystal
-|useless, currently. Sell it.
-|300/u
-|}
+
+| Name              | Uses                                                         | Processed Sell Value |
+| ----------------- | ------------------------------------------------------------ | -------------------- |
+| Iron ore          | processed into metal, used for [construction]()              | 5/u                  |
+| Dand              | processed into glass, used for construction                  | 5/u                  |
+| Plasma ore        | processed into solid plasma, used for construction and powering plasma generators | 200/u                |
+| Bananium ore      | Henk honk honk henk. Sell it.                                | 1000/u               |
+| Gold ore          | useless, currently. Sell it.                                 | 125/u                |
+| Uranium ore       | can be used to manufacture additional fuel rods for the reactor. | 100/u                |
+| Titanium ore      | can be used to reinforce *the fuck* out of windows           | 125/u                |
+| Silver ore        | useless, currently. Sell it.                                 | 50/u                 |
+| Diamond           | useless, currently. Sell it.                                 | 500/u                |
+| Bluespace crystal | useless, currently. Sell it.                                 | 300/u                |
+
+
 
 ## So you want to be a Space Man...
 
