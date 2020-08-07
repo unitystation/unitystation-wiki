@@ -24,4 +24,4 @@
 
 Figuring out the door wiring can take a minute or two initially, but it's well worth the time investment, as a working pattern can be repeated with additional doors in seconds.
 
-{{Role Navbox}}
+!!Role Navbox!!

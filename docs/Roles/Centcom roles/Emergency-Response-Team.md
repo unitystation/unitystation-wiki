@@ -41,4 +41,4 @@ Clown ERT, sent to bring joy and annoyance to the crew. The clown ERT does'' com
 
 Chaplain ERT, otherwise known as the inquisitor. They come with a custom design hardsuit (ripped from 40k sisters of battle), with the purpose to combat the powers of the paranormal. Besides the armor, and the standard carbine, cuffs, and baton, the only unique item they carry is the obsidian rod, a currently non-functional item.
 
-{{Role Navbox}}
+!!Role Navbox!!

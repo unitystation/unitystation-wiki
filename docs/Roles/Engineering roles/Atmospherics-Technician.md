@@ -23,4 +23,4 @@ The atmosphere on the station is a mix of 20% oxygen and 80% nitrogen at 300 KPA
 
 While all the other members of the crew can still use extinguishers to put out fire, you can do it better in your fancy asbestos-lined hard-suit, which makes you completely immune to all* fire. Simply pop loose your fire extinguisher and blast away. alternatively, you may try making firebreaks or removing that weird flammable pink confetti in the air.
 
-{{Role Navbox}}
+!!Role Navbox!!
