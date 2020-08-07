@@ -23,12 +23,12 @@ shiet = \
 def define_env(env):
     @env.macro
     def get_server_data():
-        response = json.loads(requests.get(url).text)
-        # pprint(response)
+        # response = json.loads(requests.get(url).text)
+        # # pprint(response)
+        #
+        # html = build_html(response)
 
-        html = build_html(response)
-
-        return html
+        return "hola mundo"
 
 
 def build_html(api_response):
