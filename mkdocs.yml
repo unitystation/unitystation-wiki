@@ -44,7 +44,7 @@ markdown_extensions:
 
 plugins:
     - search
+    - macros
     - autolinks
     - awesome-pages
     - bootstrap-tables
-    - macros

@@ -30,18 +30,17 @@ def define_env(env):
 
         return "hola mundo"
 
+    def build_html(api_response):
+        html = ""
 
-def build_html(api_response):
-    html = ""
+        for server in api_response["servers"]:
+            name = server["ServerName"]
+            ip = server["ServerIP"]
+            port = server["ServerPort"]
+            _map = server["CurrentMap"]
+            gamemode = server["GameMode"]
+            players = server["PlayerCount"]
 
-    for server in api_response["servers"]:
-        name = server["ServerName"]
-        ip = server["ServerIP"]
-        port = server["ServerPort"]
-        _map = server["CurrentMap"]
-        gamemode = server["GameMode"]
-        players = server["PlayerCount"]
+            html += shiet.format(name, ip, port, _map, gamemode, players)
 
-        html += shiet.format(name, ip, port, _map, gamemode, players)
-
-    return html
+        return html
