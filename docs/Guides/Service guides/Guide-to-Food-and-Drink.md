@@ -11,42 +11,23 @@ In Unitystation, every character has a nutrition value that determines how full 
 You will gradually lose nutrition over time, though different actions cause different amounts of nutrition loss. Running around will cause you to go hungrier faster than walking around or staying still.
 
 
-##  Drinks =
+##  Drinks 
 To be continued...
 
 
-##  Food =
+##  Food 
 To be continued...
 
 
 
-##  Ingredients ==
+##  Ingredients 
 Basic items used to make other foods. You can eat them but you won't get much nutrition from them.
 
-
 Below are a few kinds (not all) of meat. To obtain meat, butcher creatures by using a knife on them while on harm intent.
-{| class="wikitable"
-!Picture
-!Recipe
-!Ingredients
-!Nutritional Value
-!Notes
-|-
-|![Food meat](Food_meat.png) 
-|Meat
-|Butcher a dead creature.
-|148
-|
-|-
-|![Food tomatomeat](Food_tomatomeat.png)
-|Killer Tomato Meat
-|Use a knife on a killer-tomato. ![Harvest killertomato](Harvest_killertomato.png)
-|148
-|
-|-
-|![Food spiderleg](Food_spiderleg.png)  
-|Spider Leg
-|Butcher a spider (such as Sergeant Araneus).
-|75
-|Spiders give you eight of these.
-|}
+
+| Picture                                 | Recipe             | Ingredients                                  | Nutritional Value | **Notes**                        |
+| --------------------------------------- | ------------------ | -------------------------------------------- | ----------------- | -------------------------------- |
+| ![Food meat](Food_meat.png)             | Meat               | Butcher a dead creature.                     | 148               |                                  |
+| ![Food tomatomeat](Food_tomatomeat.png) | Killer Tomato Meat | Use a knife on a killer-tomato               | 148               |                                  |
+| ![Food spiderleg](Food_spiderleg.png)   | Spider Leg         | Butcher a spider (such as Sergeant Araneus). | 75                | Spiders give you eight of these. |
+
