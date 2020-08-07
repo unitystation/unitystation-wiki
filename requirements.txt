@@ -1,1 +1,4 @@
 mkdocs-autolinks-plugin
+mkdocs-awesome-pages-plugin
+mkdocs-bootstrap-tables-plugin
+mkdocs-macros-plugin
