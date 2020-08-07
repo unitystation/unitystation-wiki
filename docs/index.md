@@ -19,3 +19,4 @@ Anyway, since this wiki is awfully incomplete, you should add your own stuff to 
 
 {{ get_server_data }}
 
+{{ macros_info() }}
