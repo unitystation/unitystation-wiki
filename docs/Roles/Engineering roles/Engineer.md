@@ -40,4 +40,4 @@ Engineers get given a set of tools, both in their toolbelt and in toolboxes stor
 
 In addition, on most stations, each Engineer gets their own hardsuit. Cherish your birthright and never take it off. It will save your life.
 
-!!Role Navbox!!
+{% include 'html/rolesnavbar.html' %}

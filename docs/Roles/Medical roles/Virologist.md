@@ -3,4 +3,4 @@
 
 Unfortunately, the only virus in Unity Station at the moment is stupidity, so look elsewhere for now.
 
-!!Role Navbox!!
+{% include 'html/rolesnavbar.html' %}

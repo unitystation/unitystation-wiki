@@ -37,4 +37,4 @@ Once some orders have been made, it will usually be your job to go deliver the c
 
 Sometimes people may ask you to order something sketchy; at that point you either do it no questions asked, or tell them to go away. If you do give them what they want, don't be surprised if the [HoP](HoP.md) or [Security](Security.md) bust down the door and arrest the entire department.
 
-!!Role Navbox!!
+{% include 'html/rolesnavbar.html' %}

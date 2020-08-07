@@ -47,4 +47,4 @@ So, fighting "the perfect organism" covered in spikes and larger than you repete
 
 
 
-!!Role Navbox!!
+{% include 'html/rolesnavbar.html' %}

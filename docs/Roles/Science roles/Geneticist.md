@@ -4,4 +4,4 @@
 
 Currently the laughing stock of the whole station
 
-!!Role Navbox!!
+{% include 'html/rolesnavbar.html' %}

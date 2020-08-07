@@ -36,4 +36,4 @@ The most often thing you'll deal with is breaches, most can be fixed with a sing
 
 The eventual end of most shifts, there are holes into space everywhere and almost everyone is dead. Generally, if the station gets to this point, its unfixable. Rather than bother with lost causes, seal burning halls and create safe routes to escape, making sure everyone at your disposal is working on getting others out alive. At this point your job is less about fixing the station and more about keeping it together just long enough for the shuttle to arrive. Make sure to pack a gun.
 
-!!Role Navbox!!
+{% include 'html/rolesnavbar.html' %}

@@ -57,4 +57,4 @@
 |
 |Makes newbie sec scream and panic upon seeing it
 |}
-!!Role Navbox!!
+{% include 'html/rolesnavbar.html' %}

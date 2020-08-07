@@ -12,5 +12,5 @@
                                                                                                                                                                                                                                         
 
                                                           
-!!Role Navbox!!
+{% include 'html/rolesnavbar.html' %}
 [[Category:Maps]]

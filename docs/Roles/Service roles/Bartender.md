@@ -42,4 +42,4 @@ Well, frankly, you just add liquids into a glass and they mix themselves. Before
 
 A full guide on all the drinks can be (will be) found [here](Guide-to-Food-and-Drink.md). Take in account that Vodka is called [https://wiki.baystation12.net/Tunguska_Triple_Distilled Tunguska Triple Distilled] and Whiskey is Old Git's Special Reserve. With that in mind, go out and help some people drink their sorrows away.
 
-!!Role Navbox!!
+{% include 'html/rolesnavbar.html' %}

@@ -24,4 +24,4 @@ You need to get the [Nuclear Authentication Disk](Nuclear-Authentication-Disk.md
 
 Nuke ops are generally very confrontational. Unlike most traitors you cant use the argument that you mean no harm, as you absolutely do. As such you will spend most of your time running around and shooting things. To get better at this, you can play <s>a catgirl clown</s> [security](Security.md). If your doing this, try being on patrol and responding to shootouts as often as possible. Maybe, just maybe, you could [[So close to impossible that it might as well not even exist|figure out a peaceful approach?]]
 
-!!Role Navbox!!
+{% include 'html/rolesnavbar.html' %}

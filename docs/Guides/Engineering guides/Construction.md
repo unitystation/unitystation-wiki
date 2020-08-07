@@ -788,4 +788,4 @@ Chair
 | colspan## "1" style"text-align: center;" |
 ![Wrench](Wrench.png)
 |}
-!!Role Navbox!!
+{% include 'html/rolesnavbar.html' %}

@@ -19,4 +19,4 @@ Traitors get 3 objectives, shown at the round start in the chat: Steal a random 
 
 At the moment, you get no special items as a Traitor. Instead, you have to make due with either what you're given from your job, or what you find lying around. Eventually however, once PDAs are added, you'll be able to order in some special toys.
 
-!!Role Navbox!!
+{% include 'html/rolesnavbar.html' %}
