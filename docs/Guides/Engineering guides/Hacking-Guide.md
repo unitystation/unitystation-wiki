@@ -12,8 +12,7 @@
 *Take it one step at a time--If you break a door irrecoverably, move on to a different one and try being more slow and methodical in your experimentation.
 *Have a good excuse ready for when the [Head of Security](Head-of-Security.md) (inevitably) wanders by while you're up to your yellow-gloved wrists in buzzing, sparking wires.
 
-
-{{Sub Header|text=Spoilers:}}
+!!Sub Header|text=Spoilers:!!
 
 
 'The quick and (probably) sure-fire way:'

@@ -1,5 +1,5 @@
 # PogStation
-{{Map Location|image1## Pog2.png|title1=Pog Station|type=nanotrasen|date_added2/9/2020}}Pog Station is the Second map to be added to the game, and the most revamped map in unitystation history 
+!!Map Location|image1## Pog2.png|title1=Pog Station|type=nanotrasen|date_added2/9/2020!!Pog Station is the Second map to be added to the game, and the most revamped map in unitystation history 
 
 
 [[File:Pog Station - R&D and Virology labs.png|thumb|Located in the Top-Left wing of the Station. Also includes a bomb range for testing explosives.|alt=|none|222x222px]]

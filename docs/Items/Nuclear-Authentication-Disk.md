@@ -1,6 +1,6 @@
 # Nuclear Authentication Disk
-{{Long Header|title=GET DAT FUKKEN DISK [[File:NuclearDisk.gif|
-frameless|200px|thumb|alt text|link=Special:FilePath/File.png]]}}
+!!Long Header|title=GET DAT FUKKEN DISK [[File:NuclearDisk.gif|
+frameless|200px|thumb|alt text|link=Special:FilePath/File.png]]!!
 
 
 This disk contains the the encrypted data needed to to activate the station's onboard nuke as well as the the nuke-on-wheels that the [Nuclear Operatives](Nuclear-Emergency.md) get.
