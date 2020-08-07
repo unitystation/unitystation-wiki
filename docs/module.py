@@ -1,6 +1,5 @@
 import requests
 import json
-from pprint import pprint
 
 url = "https://api.unitystation.org/serverlist"
 
@@ -21,14 +20,15 @@ shiet = \
 """
 
 
-@env.macro
-def get_server_data():
-    response = json.loads(requests.get(url).text)
-    # pprint(response)
+def define_env(env):
+    @env.macro
+    def get_server_data():
+        response = json.loads(requests.get(url).text)
+        # pprint(response)
 
-    html = build_html(response)
+        html = build_html(response)
 
-    return html
+        return html
 
 
 def build_html(api_response):
@@ -38,14 +38,10 @@ def build_html(api_response):
         name = server["ServerName"]
         ip = server["ServerIP"]
         port = server["ServerPort"]
-        map = server["CurrentMap"]
+        _map = server["CurrentMap"]
         gamemode = server["GameMode"]
         players = server["PlayerCount"]
 
-        html += shiet.format(name, ip, port, map, gamemode, players)
+        html += shiet.format(name, ip, port, _map, gamemode, players)
 
     return html
-
-
-if __name__ == "__main__":
-    pprint(get_server_data())
