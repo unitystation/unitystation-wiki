@@ -1,5 +1,6 @@
+### List of Roles
+
 <div id="RolesNavBar">
-    ### List of Roles
     <br>
     <table>
         <thead>
@@ -8,9 +9,9 @@
             </tr>
         </thead>
         <tbody>
-            <tr><td>[Central Command Officer](Central-Command-Officer.md)</td></tr>
-            <tr><td>[Emergency Response Team](Emergency-Response-Team.md)</td></tr>
-            <tr><td>[Death Squad](Death-Squad.md)</td></tr>
+            <tr><td><a href=Central-Command-Officer.md>Central Command Officer</a></td></tr>
+            <tr><td><a href=Emergency-Response-Team.md>Emergency Response Team</a></td></tr>
+            <tr><td><a href=Death-Squad.md>Death Squad</a></td></tr>
         </tbody>
     </table>
     <br>
@@ -22,8 +23,8 @@
             </tr>
         </thead>
         <tbody>
-            <tr><td>[Captain](Captain.md)</td></tr>
-            <tr><td>[Head of Personnel](Head-of-Personnel.md)</td></tr>
+            <tr><td><a href=Captain.md>Captain</a></td></tr>
+            <tr><td><a href=Head-of-Personnel.md>Head of Personnel</a></td></tr>
         </tbody>
     </table>
     <br>
@@ -35,9 +36,9 @@
             </tr>
         </thead>
         <tbody>
-            <tr><td>[Quartermaster](Quartermaster.md)</td></tr>
-            <tr><td>[Cargo Technician](Cargo-Technician.md)</td></tr>
-            <tr><td>[Shaft Miner](Shaft-Miner.md)</td></tr>
+            <tr><td><a href=Quartermaster.md>Quartermaster</a></td></tr>
+            <tr><td><a href=Cargo-Technician.md>Cargo Technician</a></td></tr>
+            <tr><td><a href=Shaft-Miner.md>Shaft Miner</a></td></tr>
         </tbody>
     </table>
     <br>
@@ -49,10 +50,10 @@
             </tr>
         </thead>
         <tbody>
-            <tr><td>[Bartender](Bartender.md)</td></tr>
-            <tr><td>[Cook](Cook.md)</td></tr>
-            <tr><td>[Botanist](Botanist.md)</td></tr>
-            <tr><td>[Janitor](Janitor.md)</td></tr>
+            <tr><td><a href=Bartender.md>Bartender</a></td></tr>
+            <tr><td><a href=Cook.md>Cook</a></td></tr>
+            <tr><td><a href=Botanist.md>Botanist</a></td></tr>
+            <tr><td><a href=Janitor.md>Janitor</a></td></tr>
         </tbody>
     </table>
     <br>
@@ -64,8 +65,8 @@
             </tr>
         </thead>
         <tbody>
-            <tr><td>[Clown](Clown.md)</td></tr>
-            <tr><td>[Mime](Mime.md)</td></tr>
+            <tr><td><a href=Clown.md>Clown</a></td></tr>
+            <tr><td><a href=Mime.md>Mime</a></td></tr>
         </tbody>
     </table>
     <br>
@@ -77,10 +78,10 @@
             </tr>
         </thead>
         <tbody>
-            <tr><td>[Curator](Curator.md)</td></tr>
-            <tr><td>[Lawyer](Lawyer.md)</td></tr>
-            <tr><td>[Chaplain](Chaplain.md)</td></tr>
-            <tr><td>[Assistant](Assistant.md)</td></tr>
+            <tr><td><a href=Curator.md>Curator</a></td></tr>
+            <tr><td><a href=Lawyer.md>Lawyer</a></td></tr>
+            <tr><td><a href=Chaplain.md>Chaplain</a></td></tr>
+            <tr><td><a href=Assistant.md>Assistant</a></td></tr>
         </tbody>
     </table>
     <br>
@@ -92,9 +93,9 @@
             </tr>
         </thead>
         <tbody>
-            <tr><td>[Chief Engineer](Chief-Engineer.md)</td></tr>
-            <tr><td>[Engineer](Engineer.md)</td></tr>
-            <tr><td>[Atmospherics Technician](Atmospherics-Technician.md)</td></tr>
+            <tr><td><a href=Chief-Engineer.md>Chief Engineer</a></td></tr>
+            <tr><td><a href=Engineer.md>Engineer</a></td></tr>
+            <tr><td><a href=Atmospherics-Technician.md>Atmospherics Technician</a></td></tr>
         </tbody>
     </table>
     <br>
@@ -106,10 +107,10 @@
             </tr>
         </thead>
         <tbody>
-            <tr><td>[Chief Medical Officer](Chief-Medical-Officer.md)</td></tr>
-            <tr><td>[Medical Doctor](Medical-Doctor.md)</td></tr>
-            <tr><td>[Chemist](Chemist.md)</td></tr>
-            <tr><td>[Virologist](Virologist.md)</td></tr>
+            <tr><td><a href=Chief-Medical-Officer.md>Chief Medical Officer</a></td></tr>
+            <tr><td><a href=Medical-Doctor.md>Medical Doctor</a></td></tr>
+            <tr><td><a href=Chemist.md>Chemist</a></td></tr>
+            <tr><td><a href=Virologist.md>Virologist</a></td></tr>
         </tbody>
     </table>
     <br>
@@ -121,10 +122,10 @@
             </tr>
         </thead>
         <tbody>
-            <tr><td>[Head of Security](Head-of-Security.md)</td></tr>
-            <tr><td>[Warden](Warden.md)</td></tr>
-            <tr><td>[Security Officer](Security.md)</td></tr>
-            <tr><td>[Detective](Detective.md)</td></tr>
+            <tr><td><a href=Head-of-Security.md>Head of Security</a></td></tr>
+            <tr><td><a href=Warden.md>Warden</a></td></tr>
+            <tr><td><a href=Security.md>Security Officer</a></td></tr>
+            <tr><td><a href=Detective.md>Detective</a></td></tr>
         </tbody>
     </table>
     <br>
@@ -136,10 +137,10 @@
             </tr>
         </thead>
         <tbody>
-            <tr><td>[Research Director](Research-Director.md)</td></tr>
-            <tr><td>[Scientist](Scientist.md)</td></tr>
-            <tr><td>[Geneticist](Geneticist.md)</td></tr>
-            <tr><td>[Roboticist](Roboticist.md)</td></tr>
+            <tr><td><a href=Research-Director.md>Research Director</a></td></tr>
+            <tr><td><a href=Scientist.md>Scientist</a></td></tr>
+            <tr><td><a href=Geneticist.md>Geneticist</a></td></tr>
+            <tr><td><a href=Roboticist.md>Roboticist</a></td></tr>
         </tbody>
     </table>
     <br>
