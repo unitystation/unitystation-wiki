@@ -19,4 +19,11 @@ Anyway, since this wiki is awfully incomplete, you should add your own stuff to 
 
 ![Test](Test.png)
 
-{{ macros_info() }}
+{%set server_data = get_server_data() %}
+{% for server in server_data.keys() %}
+Name: {{ server["ServerName"] }}
+Players: {{ server["PlayerCount"] }}
+Port: {{ server["ServerPort"] }}
+</br>
+{% endfor %}
+
