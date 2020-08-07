@@ -1,10 +1,10 @@
 # Outpost
-{{Map Location|image1##  Outpost.png|title1=OutpostStation|type=nanotrasen|date_added2/9/2020}}
+!!Map Location|image1##  Outpost.png|title1=OutpostStation|type=nanotrasen|date_added2/9/2020!!
 
 Outpost Station is the oldest, and most changed station in the game.  
 
 
-{{Headder|Header## |titleMining}}
+!!Headder|Header## |titleMining!!
 This is where the stations [miners](Shaft-Miner.md) can prepare expeditions and offload ores.![Mineing V4057](Mineing_V4057.png)
 
 

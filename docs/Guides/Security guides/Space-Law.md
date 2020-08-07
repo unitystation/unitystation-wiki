@@ -1,9 +1,9 @@
 # Space Law
-{{Template:Important
+!!Template:Important
 |Title=This page is merely an [IC](Ic.md) roleplay suggestion
 |Note= It has 'NOT** been adopted as an official policy after two votes.<br> Administrators will only intervene when you are sentenced to grossly unfair times. If you get 3 minutes instead of 2, talk to the lawyer as it's considered an [IC](Ic.md) issue. ''If you cite Space Law in an adminhelp or anywhere outside IC communications, you will be laughed at.<br><br>
 A log of community votes can be found [[Talk:Space Law|here]].
-}}
+!!
 
 Space Law is a collection of rules and regulations enacted by [[Backstory#Nanotrasen|Nanotrasen]] which has oversight through [[Backstory#Central Command|CentCom]] and is enforced by the [Sec Officers](Security.md) on the station. Space Law applies to all ranks and positions on station, from the lowliest Assistant to the highest Captain, all are equal under the eyes of the Law and ultimately answer to her.
 
@@ -100,7 +100,7 @@ A single incident has a single sentence, so if, for instance, the prisoner took 
 
 Aiding a criminal makes you an accomplice; you can be charged with the same crime as the person you aided.
 
-{{Sub Header|text=Brig Procedures}}
+!!Sub Header|text=Brig Procedures!!
 
 
 'Standard Operational Procedures for brigging are as follows:'
@@ -131,7 +131,7 @@ The [Warden](Warden.md) or [Head of Security](Head-of-Security.md) are responsib
 #Permanent Prisoners are not permitted to possess any personal belongings whilst they are incarcerated in the [Prison Wing](Prison-Wing.md).
 ##The Labor Camp can also be used to hold Permanent Prisoners. Simply do not issue a prisoner ID when transferring them to the camp.
 
-{{Sub Header|text=Legal Representation and Trials}}
+!!Sub Header|text=Legal Representation and Trials!!
 
 
 Prisoners are permitted to seek legal representation however you are under no obligation to provide or allow this.
@@ -150,7 +150,7 @@ Trials may be performed for Capital Crimes and Permanent Detention, however ther
 
 In cases where the Death Penalty is desired but the Captain or Acting-Captain is unable or unwilling to authorize the execution a trial 'is required' to authorise the death penalty.
 
-{{Sub Header|text=Use of Deadly Force}}
+!!Sub Header|text=Use of Deadly Force!!
 
 
 As a member of the stations Security force you are one of the best armed and protected people on the station, equipped with the almost latest in non-lethal takedown technology.
