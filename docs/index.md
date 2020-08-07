@@ -23,5 +23,6 @@ Name: {{ server["ServerName"] }}
 Players: {{ server["PlayerCount"] }}
 Port: {{ server["ServerPort"] }}
 </br>
+
 {% endfor %}
 
