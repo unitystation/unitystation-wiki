@@ -6,7 +6,7 @@
 </tr>
 <tr>
 <td>Security</td>
-<td>[Head of Security](Head-of-Security.md,&nbsp;[Warden](Warden.md),&nbsp;[Security Officer](Security.md),&nbsp;[Detective](Detective.md)</td>
+<td>[Head of Security](Head-of-Security.md),&nbsp;[Warden](Warden.md),&nbsp;[Security Officer](Security.md),&nbsp;[Detective](Detective.md)</td>
 </tr>
 <tr>
 <td>Engineering</td>
