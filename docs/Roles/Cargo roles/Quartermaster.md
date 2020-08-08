@@ -13,9 +13,8 @@
 
 Note: This is the guide to QM, if your new to cargo please read the guide to being a [Cargo Technician]() and/or [Shaft Miner]()
 
-> "[Move Freight. Miners,](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)" 
-
-- A wise QM
+> "[Move Freight. Miners,](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)"
+A wise QM
 
 ### King of the delivery squad
 
