@@ -53,7 +53,7 @@ Preventing a meltdown is very simple, and there are two ways to do it. Number on
 ## sabotage prevention
 If you want to prevent someone from turning engineering into a crater on purpose, there are a few things you can try. There are two places you need to protect, but still have accessible, these being the reactor and its control console. If you want to prevent sabotage, walling up the reactor and leaving an engineering airlock is typically the best course of action. The console is typically decently protected, but if you feel the need you can replace the windows with reinforced walls or place the console in a more hidden location.
 
-## 𝅘𝅥𝅮 [https://www.youtube.com/watch?v=pLvsmho1lGA I dont want to set the wooorld on fiiiire]𝅘𝅥𝅮
+## 𝅘𝅥𝅮 [I dont want to set the wooorld on fiiiire](https://www.youtube.com/watch?v=pLvsmho1lGA )𝅘𝅥𝅮
 So, lets say you're a traitor and need all of engineering gone. There are a few ways you can go about detonating the reactor, depending on if you approach the console or the core first.
 
 ## Chernobyl

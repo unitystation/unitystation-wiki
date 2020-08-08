@@ -59,7 +59,7 @@ Now that we have robot parts, we're ready to make robots.
 
 Congratulations! You now have a Cleaning bot.
 
-![YOUTUBE](Nvrszqqqeho.md)?
+![YOUTUBE](Nvrszqqqeho.md)
 
 ## Floor bots
 
