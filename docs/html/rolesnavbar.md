@@ -1,5 +1,6 @@
-| Command     | [Captain](Captain.md), [Head of Personnel](HoP.md)                                                                                                                                                    |
+| Department  | Roles                                                                                                                                                                                                 |
 |-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Command     | [Captain](Captain.md), [Head of Personnel](HoP.md)                                                                                                                                                    |
 | Security    | [Head of Security](Head-of-Security.md), [Warden](Warden.md), [Security Officer](Security.md), [Detective](Detective.md)                                                                              |
 | Engineering | [Chief Engineer](Chief-Engineer.md), [Engineer](Engineer.md), [Atmospherics Technician](Atmospherics-Technician.md)                                                                                   |
 | Science     | [Research Director](Research-Director.md), [Scientist](Scientist.md), [Geneticist](Geneticist.md), [Roboticist](Roboticist.md)                                                                        |
@@ -8,4 +9,4 @@
 | Service     | [Bartender](Bartender.md), [Cook](Cook.md), [Janitor](Janitor.md), [Clown](Clown.md), [Mime](Mime.md), [Curator](Curator.md), [Lawyer](Lawyer.md), [Chaplain](Chaplain.md), [Assistant](Assistant.md) |
 | Synthetic   | Currently empty                                                                                                                                                                                       |
 | Antagonist  | [revolutionary](Cargonia.md), [Nuclear operative](Nuclear-Emergency.md), [Traitor](Traitor.md)                                                                                                        |
-| Other       | [Cent officer](Central-Command-Officer.md), [Deathsquad](Death-Squad.md), [ERT](Emergency-Response-Team.md)                                                                                           |
+| Other       | [Cent officer](Central-Command-Officer.md), [Deathsquad](Death-Squad.md), [ERT](Emergency-Response-Team.md)       
