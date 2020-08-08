@@ -4,11 +4,7 @@
 
 As a security officer it is your direct responsibility to oversee the safety of the station. If the station is going haywire then it is because you failed to do your job. In other words being a security officer is fairly stressful, but please don't let that stress overwhelm you. Do make sure to follow the [Space Law](Space-Law.md) in all your doings. Here are a few play styles, pick one you see fitting to you, but don't be afraid to switch around:
 
-{| style="border: 0px solid #76b1fb;text-align:center;width:50%;background-color:#19212c;border-top-left-radius: 30px;-moz-border-radius-topleft: 30px;border-bottom-right-radius: 20px;-moz-border-radius-bottomleft: 20px;"
-|-
-| style="background-color:#19212c; padding:2px; font-size:18px;border-top-left-radius: 30px;-moz-border-radius-topleft: 30px;border-bottom-right-radius: 30px;-moz-border-radius-bottomleft: 30px;color:White;font-weight:bold; box-shadow: 1px 1px 5px black;" |[https://gta.fandom.com/wiki/Los_Santos_Police_Department_(HD_Universe) Obey & Survive]
-|-
-|}
+## [Obey & Survive]([https://gta.fandom.com/wiki/Los_Santos_Police_Department_(HD_Universe) )
 
 Or commonly referred to as "shitcurity", are the kind of officers that believe it's still 1947 and that we're in the USSR, so they can abuse and mess with anyone below them on the food chain. Here's some advice:
 
@@ -22,11 +18,7 @@ Or commonly referred to as "shitcurity", are the kind of officers that believe i
 
 5) The feeling of pride you get is temporary.
 
-{| style="border: 0px solid #76b1fb;text-align:center;width:50%;background-color:#19212c;border-top-left-radius: 30px;-moz-border-radius-topleft: 30px;border-bottom-right-radius: 20px;-moz-border-radius-bottomleft: 20px;"
-|-
-| style="background-color:#19212c; padding:2px; font-size:18px;border-top-left-radius: 30px;-moz-border-radius-topleft: 30px;border-bottom-right-radius: 30px;-moz-border-radius-bottomleft: 30px;color:White;font-weight:bold; box-shadow: 1px 1px 5px black;" |[https://en.wikipedia.org/wiki/Los_Angeles_Police_Department To Protect and to Serve]
-|-
-|}
+## [To Protect and to Serve](https://en.wikipedia.org/wiki/Los_Angeles_Police_Department )
 
 These kind of officers just go around the station and make sure everything is in order, not intervening unless needed, these types of officers are neutrally perceived by the public so don't expect praise or hate, well except general hate towards security because of the officers mentioned above. Some tips:
 
@@ -38,12 +30,7 @@ These kind of officers just go around the station and make sure everything is in
 
 4) If you find any xenomorphs then immediately request backup and wait for them, do not engage alone, unless someone is in direct danger.
 
-
-{| style="border: 0px solid #76b1fb;text-align:center;width:50%;background-color:#19212c;border-top-left-radius: 30px;-moz-border-radius-topleft: 30px;border-bottom-right-radius: 20px;-moz-border-radius-bottomleft: 20px;"
-|-
-| style="background-color:#19212c; padding:2px; font-size:18px;border-top-left-radius: 30px;-moz-border-radius-topleft: 30px;border-bottom-right-radius: 30px;-moz-border-radius-bottomleft: 30px;color:White;font-weight:bold; box-shadow: 1px 1px 5px black;" |[https://en.wikipedia.org/wiki/New_York_City_Police_Department Faithful to Death]
-|-
-|}
+## [Faithful to Death](https://en.wikipedia.org/wiki/New_York_City_Police_Department)
 
 This type is better suited for those who prefer [role play](RP-words-and-abbreviations.md) over [combat](Combat.md), these guys hang around bars, talk to citizens, help around the station and otherwise liked. These are the tips that might come in handy for you:
 
@@ -55,11 +42,7 @@ This type is better suited for those who prefer [role play](RP-words-and-abbrevi
 
 4) In no case you have the permission to shitcurity, if you do even once, people will remember that and avoid you.
 
-{| style="border: 0px solid #76b1fb;text-align:center;width:50%;background-color:#19212c;border-top-left-radius: 30px;-moz-border-radius-topleft: 30px;border-bottom-right-radius: 20px;-moz-border-radius-bottomleft: 20px;"
-|-
-| style="background-color:#19212c; padding:2px; font-size:18px;border-top-left-radius: 30px;-moz-border-radius-topleft: 30px;border-bottom-right-radius: 30px;-moz-border-radius-bottomleft: 30px;color:White;font-weight:bold; box-shadow: 1px 1px 5px black;" |[https://en.wikipedia.org/wiki/Maine_State_Police Semper Aequus]
-|-
-|}
+## [Semper Aequus](https://en.wikipedia.org/wiki/Maine_State_Police)
 
 If you don't like any of those but do want to stay at security and manage paperwork then this is just the style for you. Stay at the department, at the front desk, oversee prisoners, make sure they get out on time, and stay put until then, be warden's right hand. Take into account this information:
 
