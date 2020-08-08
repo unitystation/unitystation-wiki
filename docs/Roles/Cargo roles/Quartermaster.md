@@ -1,5 +1,15 @@
 # Quartermaster
-**Role type:**  <font color= "#734823">Cargo</font>. **Access: ???**  **Difficulty:** <font color="Yellow"> Medium</font>. Colloquial name: "QM"
+
+<div class="card bg-dark text-white">
+    <div class="card-body">
+        <div class="card-img-top d-flex align-items-center">
+            <div>
+                <img class="img-fluid" width=64 src="https://raw.githubusercontent.com/unitystation/unitystation-wiki/master/docs/assets/images/jobs/Generic_qm.png" alt="Card image cap">
+                <b>Role type:</b>  <font color= "#734823">Cargo</font>. <b>Access:</b> ???  <b>Difficulty:</b> <font color="Yellow"> Medium</font>. Colloquial name: "QM"
+            </div>
+        </div>
+    </div>
+</div>
 
 Note: This is the guide to QM, if your new to cargo please read the guide to being a [Cargo Technician]() and/or [Shaft Miner]()
 
@@ -8,8 +18,6 @@ Note: This is the guide to QM, if your new to cargo please read the guide to bei
 ### King of the delivery squad
 
 As the QM, your job is simple, you oversee the regular operations of cargo, be that paperwork, orders, exports, or coordinating mining operations on some god-forsaken rock from the comfort of your office. While the normal [Cargo Techs](Cargo-Technician.md) are good at moving crates and making money, they tend to have trouble juggling bounties and spending that money. This is where you come in. Check with other departments to see what supplies they are running low on, and buy them, either in person or over the radio, they'll be more than happy to inform you. You should also almost always buy [meat crates](Cooking.md) for the [Chef](Cook.md) and metal for engineering as soon as you can, as stocks of both run out rapidly.
-
-
 
 ### Requests
 
