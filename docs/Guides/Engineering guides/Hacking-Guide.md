@@ -18,7 +18,7 @@
 
 *Have a good excuse ready for when the [Head of Security](Head-of-Security.md) (inevitably) wanders by while you're up to your yellow-gloved wrists in buzzing, sparking wires.
 
-***Spoilers:
+## Spoilers: 
 
 'The quick and (probably) sure-fire way:'
 
