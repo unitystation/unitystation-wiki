@@ -16,10 +16,10 @@ Just a basic wall, they are easy to build and destroy, and an easy way to keep o
 
 |                      ![Wall](wall.png)                       |                         How to Build                         | Requres to Build |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-|                     ![metal](metal.png)                      | 1. Stand where you want the wall. <br />2. Click the **metal plates** in your hand to open the construction panel.<br />3. Choose 'Build wall girders' from the list.<br />Use the remaining 2 sheets of **metal plates** on the girder.<br /><br /> ***False wall*****<br /><br />1.  Stand where you want the wall.<br />2. Click the **metal** in your hand to open the construction panel.<br />3. Choose 'Build wall girders' from the list.<br />4. Unsecure the girder you built with a wrench<br />5. click on the girder with at least 2 **metal plates** |                  |
+|                    ![metal](metal.png)x4                     | 1. Stand where you want the wall. <br />2. Click the **metal plates** in your hand to open the construction panel.<br />3. Choose 'Build wall girders' from the list.<br />Use the remaining 2 sheets of **metal plates** on the girder.<br /><br /> ***False wall*****<br /><br />1.  Stand where you want the wall.<br />2. Click the **metal** in your hand to open the construction panel.<br />3. Choose 'Build wall girders' from the list.<br />4. Unsecure the girder you built with a wrench<br />5. click on the girder with at least 2 **metal plates** |                  |
 |                      How to deconstruct                      |                                                              |                  |
-| Tools<br />![welder](welder.png)<br />![wrench](wrench.png)<br />![Screwdriver](Screwdriver.png) | 1. **Weld** off the plating.<br />2. Use a **Wrench** to unsecure the girder.<br />3.**Screwdriver** to disassemble the girder. |                  |
-|                                                              |                                                              |                  |
+|                            Tools                             |                                                              |                  |
+| <br />![welder](welder.png)<br />![wrench](wrench.png)<br />![Screwdriver](Screwdriver.png)<br />![wirecutter](Wirecutter) | 1. **Weld** off the plating.<br />2. Use a **Wrench** to unsecure the girder.<br />3.**Screwdriver** to disassemble the girder. |                  |
 
 #### Reinforced Wall 
 
