@@ -27,9 +27,9 @@ A more hardy sort of wall, these take significantly longer to deconstruct, but a
 
 You'll find them lining command, security, and anywhere the Captain doesn't want you in.
 
-| [![such reinforce](https://static.wikia.nocookie.net/unitystation/images/5/5d/R_wall.png/revision/latest/scale-to-width-down/64?cb=20200315205826)](https://images.wikia.com/unitystation/images/5/5d/R_wall.png) Reinforced Wall |                         How to Build                         | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-|    ![metal](metal.png)x2  <br />![Plasteel](plasteel) x2     | 1. Stand where you want the reinforced wall. <br />2. Click the **metal** in your hand to open the construction panel.<br />3. Choose 'Build girders' form the list.<br />4. Use the **plasteel** on the girders to reinforce them.<br />5. Use the last **plasteel** sheet on the reinforced girders to finish the wall.<br />6. **False Reinforced wall**Stand where you want the reinforced wall.<br />7. Click the **metal** in your hand to open the construction panel.<br />8. Choose 'Build girder' form the list.Unsecure the girder with a **Wrench**<br />9. Use 1**plasteel** on the girders to reinforce them.<br />10. Use another **plastee sheet** on the reinforced girders to finish the wall. |                  |
+|          ![such reinforce](R_wall) Reinforced Wall           | How to Build                                                 | Requres to Build |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
+|    ![metal](metal.png)x2  <br />![plasteel](plasteel) x2     | 1. Stand where you want the reinforced wall. <br />2. Click the **metal** in your hand to open the construction panel.<br />3. Choose 'Build girders' form the list.<br />4. Use the **plasteel** on the girders to reinforce them.<br />5. Use the last **plasteel** sheet on the reinforced girders to finish the wall.<br />6. **False Reinforced wall**Stand where you want the reinforced wall.<br />7. Click the **metal** in your hand to open the construction panel.<br />8. Choose 'Build girder' form the list.Unsecure the girder with a **Wrench**<br />9. Use 1**plasteel** on the girders to reinforce them.<br />10. Use another **plastee sheet** on the reinforced girders to finish the wall. |                  |
 |                      How to deconstruct                      |                                                              |                  |
 |                            Tools                             | **1. Wirecutters** to cut the outer grille.<br />2. **Screwdriver** to remove the support lines.<br />3. **Weld** through the metal cover.<br />4. **Crowbar** to pry off the cover.<br />5. **Wrench** to loosen the support rods.<br />6. **Weld** through the support rods.**<br />7. Crowbar** to pry off the outer sheath.<br />8. **Screwdriver** to unsecure the support struts.<br />9. **Wirecutters** to remove the support struts.<br />10. **Wrench** to unsecure the girder.<br />11. **Screwdriver** to disassemble it. |        l         |
 | <br />![welder](Welder.png)<br />![wrench](Wrench.png)<br />![Screwdriver](Screwdriver.png)<br />![Wirecutter](Wirecutter) |                                                              |                  |
@@ -38,23 +38,23 @@ You'll find them lining command, security, and anywhere the Captain doesn't want
 
 used to create all of the Computers on the Station
 
-| [![img](https://static.wikia.nocookie.net/unitystation/images/9/9d/Computer_Frame.png/revision/latest/scale-to-width-down/82?cb=20200423031942)](https://images.wikia.com/unitystation/images/9/9d/Computer_Frame.png) |                         How to Build                         | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-| [![Metal](https://static.wikia.nocookie.net/unitystation/images/e/e1/Metal.png/revision/latest/scale-to-width-down/32?cb=20200315205652)](https://unitystation.fandom.com/wiki/Special:FilePath/Metal.png)x5 | 1. Hold at least 5 **Metal plate** in your hand<br />2. Press on the **metal plates** in your hand<br />3. Select the Computer Frame icon <br />4. use **wrench** to secure<br />5. insert a chip of your choice by clicking on the secured frame with the chip<br />6. click on the frame with a **Screwdriver** to screw into place<br />7. Click on the frame with 5 **Medium** power cables<br />8. click on the frame with 2 **glass sheets**<br />9. Click on the frame with a **screwdriver** to connect the monitor |                  |
+|                    ![PC FRAME](com_frame)                    | How to Build                                                 | Requres to Build |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
+|                    ![metal](metal.png)x5                     | 1. Hold at least 5 **Metal plate** in your hand<br /><br />2. Press on the **metal plates** in your hand<br /><br />3. Select the Computer Frame icon <br /><br />4. use **wrench** to secure<br /><br />5. insert a chip of your choice by clicking on the secured frame with the chip<br /><br />6. click on the frame with a **Screwdriver** to screw into place<br /><br />7. Click on the frame with 5 **Medium** power cables<br /><br />8. click on the frame with 2 **glass sheets**<br /><br />9. Click on the frame with a **screwdriver** to connect the monitor |                  |
 |                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             | 1. Click on the frame with a **screwdriver** to disconnect the monitor<br />2. Click on the frame with a **crowbar** to remove glass panel<br />3. Click on the frame with **wirecutter** to remove Medium power cables<br />4.Click on the frame with **screwdriver** to unscrew the chip<br />5. **wrench** the frame to unsecure<br />6. Click on unsecured frame with a **Crowbar** to remove chip<br />7. Click on the frame with a lit **Welding Tool** to deconstruct |                  |
+|                            Tools                             | 1. Click on the frame with a **screwdriver** to disconnect the monitor<br /><br />2. Click on the frame with a **crowbar** to remove glass panel<br /><br />3. Click on the frame with **wirecutter** to remove Medium power cables<br /><br />4.Click on the frame with **screwdriver** to unscrew the chip<br /><br />5. **wrench** the frame to unsecure<br /><br />6. Click on unsecured frame with a **Crowbar** to remove chip<br /><br />7. Click on the frame with a lit **Welding Tool** to deconstruct |                  |
 | <br />![welder](Welder.png)<br />![wrench](Wrench.png)<br />![Screwdriver](Screwdriver.png)<br />![Wirecutter](Wirecutter) |                                                              |                  |
 
 #### Closet 
 
 Used to store stuff, or hide from your biggest fears
 
-| [![Gay Baby Jail.png](https://static.wikia.nocookie.net/unitystation/images/4/47/Gay_Baby_Jail.png/revision/latest/scale-to-width-down/56?cb=20200427013219)](https://images.wikia.com/unitystation/images/4/47/Gay_Baby_Jail.png) |                         How to Build                         | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-| [![Metal](https://static.wikia.nocookie.net/unitystation/images/e/e1/Metal.png/revision/latest/scale-to-width-down/32?cb=20200315205652)](https://unitystation.fandom.com/wiki/Special:FilePath/Metal.png)x2 | 1. Hold at least **2 Metal plates** in your hand<br />2. Press on the **metal plates** in your hand<br />3. Select the Closet icon |                  |
-|                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             |                             N/A                              |                  |
-|                             N/A                              |                                                              |                  |
+|   ![closet](closet)   |                         How to Build                         | Requres to Build |
+| :-------------------: | :----------------------------------------------------------: | :--------------: |
+| ![metal](metal.png)x2 | 1. Hold at least **2 Metal plates** in your hand<br />2. Press on the **metal plates** in your hand<br />3. Select the Closet icon |                  |
+|  How to deconstruct   |                                                              |                  |
+|         Tools         |                             N/A                              |                  |
+|          N/A          |                                                              |                  |
 
 #### Chair 
 
@@ -62,10 +62,10 @@ Used for Sitting, but never standing
 
 | [![Chair 2.0.png](https://static.wikia.nocookie.net/unitystation/images/d/da/Chair_2.0.png/revision/latest/scale-to-width-down/71?cb=20200428200412)](https://images.wikia.com/unitystation/images/d/da/Chair_2.0.png) |                         How to Build                         | Requres to Build |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-| [![Metal](https://static.wikia.nocookie.net/unitystation/images/e/e1/Metal.png/revision/latest/scale-to-width-down/32?cb=20200315205652)](https://unitystation.fandom.com/wiki/Special:FilePath/Metal.png)x1 | 1. Hold at least 1 Metal plate in your hand<br />2.  Press on the **Metal plate** in your hand<br />3.  Select the Chair icon |                  |
+| [![Metal](https://static.wikia.nocookie.net/unitystation/images/e/e1/Metal.png/revision/latest/scale-to-width-down/32?cb=20200315205652)](https://unitystation.fandom.com/wiki/Special:FilePath/Metal.png)x1 | 1. Hold at least 1 Metal plate in your hand<br /><br />2.  Press on the **Metal plate** in your hand<br /><br />3.  Select the Chair icon |                  |
 |                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             |                  Click with Wrench in Hand                   |                  |
-| [![Wrench](https://static.wikia.nocookie.net/unitystation/images/7/7c/Wrench.png/revision/latest/scale-to-width-down/32?cb=20200315205300)](https://unitystation.fandom.com/wiki/Special:FilePath/Wrench.png) |                                                              |                  |
+|                            Tools                             |            <br /><br />Click with Wrench in Hand             |                  |
+|                    ![wrench](Wrench.png)                     |                                                              |                  |
 
 #### APC 
 
