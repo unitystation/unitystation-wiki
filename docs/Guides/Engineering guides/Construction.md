@@ -14,12 +14,11 @@ Just a basic wall, they are easy to build and destroy, and an easy way to keep o
 
 
 
-|                      ![Wall](wall.png)                       | How to Build                                                 | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
-|                    ![metal](metal.png)x4                     | 1. Stand where you want the wall. <br /><br />2. Click the **metal plates** in your hand to open the construction panel.<br /><br />3. Choose 'Build wall girders' from the list.<br /><br />Use the remaining 2 sheets of **metal plates** on the girder.<br /><br /> ***False wall***<br /><br /><br />1.  Stand where you want the wall.<br /><br />2. Click the **metal** in your hand to open the construction panel.<br /><br />3. Choose 'Build wall girders' from the list.<br /><br />4. Unsecure the girder you built with a wrench<br /><br />5. click on the girder with at least 2 **metal plates** |                  |
-|                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             |                                                              |                  |
-| <br />![welder](Welder.png)<br />![wrench](Wrench.png)<br />![Screwdriver](Screwdriver.png)<br />![Wirecutter](Wirecutter.png) | 1. **Weld** off the plating.<br /><br />2. Use a **Wrench** to unsecure the girder.<br /><br />3.**Screwdriver** to disassemble the girder. |                  |
+| ![Wall](wall.png) | How to Build                                                 |                       Requres to Build                       |
+| :---------------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+|                   | 1. Stand where you want the wall. <br /><br />2. Click the **metal plates** in your hand to open the construction panel.<br /><br />3. Choose 'Build wall girders' from the list.<br /><br />Use the remaining 2 sheets of **metal plates** on the girder.<br /><br /> ***False wall***<br /><br /><br />1.  Stand where you want the wall.<br /><br />2. Click the **metal** in your hand to open the construction panel.<br /><br />3. Choose 'Build wall girders' from the list.<br /><br />4. Unsecure the girder you built with a wrench<br /><br />5. click on the girder with at least 2 **metal plates** |                    ![metal](metal.png)x4                     |
+|                   | How to deconstruct                                           |                            Tools                             |
+|                   | 1. **Weld** off the plating.<br /><br />2. Use a **Wrench** to unsecure the girder.<br /><br />3.**Screwdriver** to disassemble the girder. | <br />![welder](Welder.png)<br />![wrench](Wrench.png)<br />![Screwdriver](Screwdriver.png)<br />![Wirecutter](Wirecutter.png) |
 
 #### Reinforced Wall 
 
@@ -27,7 +26,7 @@ A more hardy sort of wall, these take significantly longer to deconstruct, but a
 
 You'll find them lining command, security, and anywhere the Captain doesn't want you in.
 
-|                ![such reinforce](R_wall.png)                 | How to Build                                                 | Requres to Build |
+|                 ![such reinforce](Rwall.png)                 | How to Build                                                 | Requres to Build |
 | :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
 |  ![metal](metal.png)x2  <br />![plasteel](plasteel.png) x2   | 1. Stand where you want the reinforced wall. <br />2. Click the **metal** in your hand to open the construction panel.<br />3. Choose 'Build girders' form the list.<br />4. Use the **plasteel** on the girders to reinforce them.<br />5. Use the last **plasteel** sheet on the reinforced girders to finish the wall.<br />6. **False Reinforced wall**Stand where you want the reinforced wall.<br />7. Click the **metal** in your hand to open the construction panel.<br />8. Choose 'Build girder' form the list.Unsecure the girder with a **Wrench**<br />9. Use 1**plasteel** on the girders to reinforce them.<br />10. Use another **plastee sheet** on the reinforced girders to finish the wall. |                  |
 |                      How to deconstruct                      |                                                              |                  |
@@ -82,7 +81,7 @@ Powers to machines
 
 No ERP allowed
 
-|  ![Chair](Chair.png)  | How to Build                                                 | Requres to Build |
+|    ![bed](bed.png)    | How to Build                                                 | Requres to Build |
 | :-------------------: | :----------------------------------------------------------- | :--------------: |
 | ![metal](metal.png)x2 | 1. Hold at least 2 **Metal plate** in your hand<br />2.  Press on the **Metal plate** in your hand <br />3. Select the Bed icon |                  |
 |  How to deconstruct   |                                                              |                  |
