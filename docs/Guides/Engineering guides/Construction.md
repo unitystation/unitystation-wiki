@@ -27,9 +27,9 @@ A more hardy sort of wall, these take significantly longer to deconstruct, but a
 
 You'll find them lining command, security, and anywhere the Captain doesn't want you in.
 
-|        ![such reinforce](R_wall.png) Reinforced Wall         | How to Build                                                 | Requres to Build |
+|                ![such reinforce](R_wall.png)                 | How to Build                                                 | Requres to Build |
 | :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
-|    ![metal](metal.png)x2  <br />![plasteel](plasteel) x2     | 1. Stand where you want the reinforced wall. <br />2. Click the **metal** in your hand to open the construction panel.<br />3. Choose 'Build girders' form the list.<br />4. Use the **plasteel** on the girders to reinforce them.<br />5. Use the last **plasteel** sheet on the reinforced girders to finish the wall.<br />6. **False Reinforced wall**Stand where you want the reinforced wall.<br />7. Click the **metal** in your hand to open the construction panel.<br />8. Choose 'Build girder' form the list.Unsecure the girder with a **Wrench**<br />9. Use 1**plasteel** on the girders to reinforce them.<br />10. Use another **plastee sheet** on the reinforced girders to finish the wall. |                  |
+|  ![metal](metal.png)x2  <br />![plasteel](plasteel.png) x2   | 1. Stand where you want the reinforced wall. <br />2. Click the **metal** in your hand to open the construction panel.<br />3. Choose 'Build girders' form the list.<br />4. Use the **plasteel** on the girders to reinforce them.<br />5. Use the last **plasteel** sheet on the reinforced girders to finish the wall.<br />6. **False Reinforced wall**Stand where you want the reinforced wall.<br />7. Click the **metal** in your hand to open the construction panel.<br />8. Choose 'Build girder' form the list.Unsecure the girder with a **Wrench**<br />9. Use 1**plasteel** on the girders to reinforce them.<br />10. Use another **plastee sheet** on the reinforced girders to finish the wall. |                  |
 |                      How to deconstruct                      |                                                              |                  |
 |                            Tools                             | **1. Wirecutters** to cut the outer grille.<br />2. **Screwdriver** to remove the support lines.<br />3. **Weld** through the metal cover.<br />4. **Crowbar** to pry off the cover.<br />5. **Wrench** to loosen the support rods.<br />6. **Weld** through the support rods.**<br />7. Crowbar** to pry off the outer sheath.<br />8. **Screwdriver** to unsecure the support struts.<br />9. **Wirecutters** to remove the support struts.<br />10. **Wrench** to unsecure the girder.<br />11. **Screwdriver** to disassemble it. |        l         |
 | <br />![welder](Welder.png)<br />![wrench](Wrench.png)<br />![Screwdriver](Screwdriver.png)<br />![Wirecutter](Wirecutter.png) |                                                              |                  |
@@ -49,7 +49,7 @@ used to create all of the Computers on the Station
 
 Used to store stuff, or hide from your biggest fears
 
-| ![closet](closet.png) | How to Build                                                 | Requres to Build |
+| ![closet](Closet.png) | How to Build                                                 | Requres to Build |
 | :-------------------: | :----------------------------------------------------------- | :--------------: |
 | ![metal](metal.png)x2 | 1. Hold at least **2 Metal plates** in your hand<br />2. Press on the **metal plates** in your hand<br />3. Select the Closet icon |                  |
 |  How to deconstruct   |                                                              |                  |
@@ -126,7 +126,7 @@ The people mover mover
 
 60 Triple A batteries Tied together with string
 
-| ![Bat](Department_battery.png) | How to Build                                                 | Requres to Build |
+| ![Bat](Department_Battery.png) | How to Build                                                 | Requres to Build |
 | :----------------------------: | :----------------------------------------------------------- | :--------------: |
 |     ![metal](metal.png)x30     | 1. Hold at least 60 **Metal plate** in your hand <br />2. Press on the **Metal plate** in your hand <br />3. Select the Department Battery icon |                  |
 |       How to deconstruct       |                                                              |                  |
@@ -148,18 +148,18 @@ Floor Gang
 
 Put it in your teeth
 
-|      ![Grill](Grille.png)      | How to Build                                                 | Requres to Build |
-| :----------------------------: | :----------------------------------------------------------- | :--------------: |
-|      ![rods](rods.png)x2       | 1. Hold at least 2 Rods in your hand<br />2.  Press on the Rods in your hand <br />3. Select the Grill icon <br />4. use a Screwdriver to secure |                  |
-|       How to deconstruct       |                                                              |                  |
-|             Tools              | Click on the grill with wire cutter in hand                  |                  |
-| [![Wirecutter](Wirecutter.png) |                                                              |                  |
+|     ![Grill](grille.png)      | How to Build                                                 | Requres to Build |
+| :---------------------------: | :----------------------------------------------------------- | :--------------: |
+|      ![rods](rods.png)x2      | 1. Hold at least 2 Rods in your hand<br />2.  Press on the Rods in your hand <br />3. Select the Grill icon <br />4. use a Screwdriver to secure |                  |
+|      How to deconstruct       |                                                              |                  |
+|             Tools             | Click on the grill with wire cutter in hand                  |                  |
+| ![Wirecutter](Wirecutter.png) |                                                              |                  |
 
 #### Table Frame 
 
 Try and put Something on it, I dare you
 
-| ![table frame](Table_frame.png) | How to Build                                                 | Requres to Build |
+| ![table frame](Table_Frame.png) | How to Build                                                 | Requres to Build |
 | :-----------------------------: | :----------------------------------------------------------- | :--------------: |
 |      ![metal](metal.png)x2      | 1. Hold at least 2 **Metal plate** in your hand <br />2. Press on the **Metal plate** in your hand <br />2. Select the Table Frame icon<br />3.  Click on frame with 2 metal,glass, or wood to complete the table |                  |
 |       How to deconstruct        |                                                              |                  |
@@ -192,7 +192,7 @@ also connects stuff
 
 Very Hard
 
-|     ![rod](rods)      | How to Build                                                 | Requres to Build |
+|   ![rod](rods.png)    | How to Build                                                 | Requres to Build |
 | :-------------------: | :----------------------------------------------------------- | :--------------: |
 | ![metal](metal.png)x1 | 1. Hold at least 1 Metal plate in your hand <br />2. Press on the **Metal plate** in your hand <br />3. Select the Rod icon |                  |
 |  How to deconstruct   |                                                              |                  |
@@ -225,7 +225,7 @@ Keep Kicking it
 
 Sink Station
 
-|     ![sink](Sink)     | How to Build                                                 | Requres to Build |
+|   ![sink](Sink.png)   | How to Build                                                 | Requres to Build |
 | :-------------------: | :----------------------------------------------------------- | :--------------: |
 | ![metal](metal.png)x1 | 1. Hold at least 1 Metal plate in your hand <br />2. Press on the **Metal plate** in your hand <br />3. Select the Sink icon |                  |
 |  How to deconstruct   |                                                              |                  |
@@ -247,12 +247,12 @@ for standing, never sitting
 
 a window that's a window
 
-| ![Window](Window.png)  | How to Build                                                 | Requres to Build |
-| :--------------------: | :----------------------------------------------------------- | :--------------: |
-| [Glass](Glass_Sheet)x4 | 1. Hold at least 4 Glass plate in your hand <br />2. Press on the Glass in your hand <br />3. Select the window icon move the window to the place you want it installed <br />4. click on the window with a screw driver in hand to secure |                  |
-|   How to deconstruct   |                                                              |                  |
-|         Tools          | Click with Wrench in hand                                    |                  |
-| ![wrench](Wrench.png)  |                                                              |                  |
+|    ![Window](Window.png)    | How to Build                                                 | Requres to Build |
+| :-------------------------: | :----------------------------------------------------------- | :--------------: |
+| ![Glass](Glass_Sheet.png)x4 | 1. Hold at least 4 Glass plate in your hand <br />2. Press on the Glass in your hand <br />3. Select the window icon move the window to the place you want it installed <br />4. click on the window with a screw driver in hand to secure |                  |
+|     How to deconstruct      |                                                              |                  |
+|            Tools            | Click with Wrench in hand                                    |                  |
+|    ![wrench](Wrench.png)    |                                                              |                  |
 
 
 
@@ -262,7 +262,7 @@ Like a window, but stronger.
 
 |                   ![rwindow](rwindow.png)                    | Required to Build                                            | Requres to Build |
 | :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
-| ![rglass](rglass)]x2<br />![Screwdriver](Screwdriver.png)<br />![crowbar](Crowbar.png) | 1. Hold at least 2 **reinforced glass sheets** in your hand<br />2.  Press on the **reinforced glass** in your hand <br />3. Select the window icon. <br />4. Pull and drag the window to the place you want it installed. <br />4. Click on the window with a **screwdriver** in hand to anchor it in place.<br />5.  Use a **crowbar** to fully secure the reinforced window. |                  |
+| ![rglass](rglass.png)x2<br />![Screwdriver](Screwdriver.png)<br />![crowbar](Crowbar.png) | 1. Hold at least 2 **reinforced glass sheets** in your hand<br />2.  Press on the **reinforced glass** in your hand <br />3. Select the window icon. <br />4. Pull and drag the window to the place you want it installed. <br />4. Click on the window with a **screwdriver** in hand to anchor it in place.<br />5.  Use a **crowbar** to fully secure the reinforced window. |                  |
 |                      How to Deconstruct                      |                                                              |                  |
 |                            Tools                             | 1. Use a lit **welder** on *harm* intent to heat up the one-way screws. <br />2. Use a **screwdriver** to remove screws .<br />3. Use a **crowbar** to pry the window out of its frame. <br />4. Use **wire cutters** to cut exposed bars on the window. <br />5. Use a **wrench** to unbolt and un-anchor the window . <br />6. Use a **wrench** again to deconstruct the window into sheets. |                  |
 | <br />![welder](Welder.png)<br />![wrench](Wrench.png)<br />![Screwdriver](Screwdriver.png)<br />![Wirecutter](Wirecutter.png) |                                                              |                  |
@@ -271,7 +271,7 @@ Like a window, but stronger.
 
 a door that is a window
 
-|     ![windor](Windoor)      | How to Build                                                 | Requres to Build |
+|   ![windor](Windoor.png)    | How to Build                                                 | Requres to Build |
 | :-------------------------: | :----------------------------------------------------------- | :--------------: |
 | ![glass](Glass_Sheet.png)x4 | 1. Hold at least 4 glass plates in your hand<br />2. Press on the glass in your hand<br />3. Select the Windoor icon |                  |
 |     How to deconstruct      |                                                              |                  |
@@ -304,12 +304,12 @@ weeeeee
 
 it really do be wood
 
-| ![wood](tile_wood)  | How to Build                                                 | Requres to Build |
-| :-----------------: | :----------------------------------------------------------- | :--------------: |
-| ![wood](wood.png)x1 | 1. Hold at least wood Plank in your hand<br />2. Press on the wood in your hand<br />3. Select the wood Floor tile icon |                  |
-| How to deconstruct  |                                                              |                  |
-|        Tools        | ***N/A***                                                    |                  |
-|         N/A         |                                                              |                  |
+| ![wood](tile_wood.png) | How to Build                                                 | Requres to Build |
+| :--------------------: | :----------------------------------------------------------- | :--------------: |
+|  ![wood](wood.png)x1   | 1. Hold at least wood Plank in your hand<br />2. Press on the wood in your hand<br />3. Select the wood Floor tile icon |                  |
+|   How to deconstruct   |                                                              |                  |
+|         Tools          | ***N/A***                                                    |                  |
+|          N/A           |                                                              |                  |
 
 #### Wood Chair
 
