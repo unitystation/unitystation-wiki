@@ -219,7 +219,7 @@ Keep Kicking it
 |                    ![metal](metal.png)x1                     | 1. Hold at least 1 Metal plate in your hand <br />2. Press on the **Metal plate** in your hand <br />3. Select the Rack Part icon <br />4. Click on the Rack Part on the floor to assemble |                  |
 |                      How to deconstruct                      |                                                              |                  |
 |                            Tools                             | 1. Click on the Rack to kick it, which will cause it to turn back into an item <br />2. Click on the Rack with a wrench in hand |                  |
-| [![Welder](https://static.wikia.nocookie.net/unitystation/images/9/9a/Welder.png/revision/latest/scale-to-width-down/32?cb=20200315205250)](https://unitystation.fandom.com/wiki/Special:FilePath/Welder.png) [![Wrench](https://static.wikia.nocookie.net/unitystation/images/7/7c/Wrench.png/revision/latest/scale-to-width-down/32?cb=20200315205300)](https://unitystation.fandom.com/wiki/Special:FilePath/Wrench.png) [![Screwdriver](https://static.wikia.nocookie.net/unitystation/images/9/92/Screwdriver_tool.png/revision/latest/scale-to-width-down/32?cb=20200315205310)](https://unitystation.fandom.com/wiki/Special:FilePath/Screwdriver_tool.png) |                                                              |                  |
+| <br />![welder](Welder.png)<br />![wrench](Wrench.png)<br />![Screwdriver](Screwdriver.png) |                                                              |                  |
 
 #### Sink 
 
@@ -247,12 +247,12 @@ for standing, never sitting
 
 a window that's a window
 
-|                      ![Window](Window)                       | How to Build                                                 | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
-| [![x2](https://static.wikia.nocookie.net/unitystation/images/1/15/Glass.png/revision/latest/scale-to-width-down/32?cb=20200428221031)](https://images.wikia.com/unitystation/images/1/15/Glass.png)x4 | 1. Hold at least 4 Glass plate in your hand <br />2. Press on the Glass in your hand <br />3. Select the window icon move the window to the place you want it installed <br />4. click on the window with a screw driver in hand to secure |                  |
-|                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             | Click with Wrench in hand                                    |                  |
-|                    ![wrench](Wrench.png)                     |                                                              |                  |
+|   ![Window](Window)    | How to Build                                                 | Requres to Build |
+| :--------------------: | :----------------------------------------------------------- | :--------------: |
+| [Glass](Glass_Sheet)x4 | 1. Hold at least 4 Glass plate in your hand <br />2. Press on the Glass in your hand <br />3. Select the window icon move the window to the place you want it installed <br />4. click on the window with a screw driver in hand to secure |                  |
+|   How to deconstruct   |                                                              |                  |
+|         Tools          | Click with Wrench in hand                                    |                  |
+| ![wrench](Wrench.png)  |                                                              |                  |
 
 
 
@@ -260,9 +260,9 @@ a window that's a window
 
 Like a window, but stronger.
 
-| [![img](https://static.wikia.nocookie.net/unitystation/images/1/1a/Window_Reinforced.png/revision/latest/scale-to-width-down/32?cb=20200619020246)](https://images.wikia.com/unitystation/images/1/1a/Window_Reinforced.png) | Required to Build                                            | Requres to Build |
+|                     ![rwindow](rwindow)                      | Required to Build                                            | Requres to Build |
 | :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
-| [![Sheet-RGlass.png](https://static.wikia.nocookie.net/unitystation/images/e/ee/Sheet-RGlass.png/revision/latest/scale-to-width-down/32?cb=20200619014741)](https://images.wikia.com/unitystation/images/e/ee/Sheet-RGlass.png)x2[![Screwdriver](https://static.wikia.nocookie.net/unitystation/images/9/92/Screwdriver_tool.png/revision/latest/scale-to-width-down/32?cb=20200315205310)](https://images.wikia.com/unitystation/images/9/92/Screwdriver_tool.png)[![Crowbar](https://static.wikia.nocookie.net/unitystation/images/c/c0/Crowbar.png/revision/latest/scale-to-width-down/32?cb=20200315205355)](https://images.wikia.com/unitystation/images/c/c0/Crowbar.png) | 1. Hold at least 2 **reinforced glass sheets** in your hand<br />2.  Press on the **reinforced glass** in your hand <br />3. Select the window icon. <br />4. Pull and drag the window to the place you want it installed. <br />4. Click on the window with a **screwdriver** in hand to anchor it in place.<br />5.  Use a **crowbar** to fully secure the reinforced window. |                  |
+| ![rglass](rglass)]x2<br />![Screwdriver](Screwdriver.png)<br />![crowbar](Crowbar) | 1. Hold at least 2 **reinforced glass sheets** in your hand<br />2.  Press on the **reinforced glass** in your hand <br />3. Select the window icon. <br />4. Pull and drag the window to the place you want it installed. <br />4. Click on the window with a **screwdriver** in hand to anchor it in place.<br />5.  Use a **crowbar** to fully secure the reinforced window. |                  |
 |                      How to Deconstruct                      |                                                              |                  |
 |                            Tools                             | 1. Use a lit **welder** on *harm* intent to heat up the one-way screws. <br />2. Use a **screwdriver** to remove screws .<br />3. Use a **crowbar** to pry the window out of its frame. <br />4. Use **wire cutters** to cut exposed bars on the window. <br />5. Use a **wrench** to unbolt and un-anchor the window . <br />6. Use a **wrench** again to deconstruct the window into sheets. |                  |
 | <br />![welder](Welder.png)<br />![wrench](Wrench.png)<br />![Screwdriver](Screwdriver.png)<br />![Wirecutter](Wirecutter) |                                                              |                  |
@@ -271,34 +271,34 @@ Like a window, but stronger.
 
 a door that is a window
 
-|                      ![windor](Windoor)                      | How to Build                                                 | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
-| [![img](https://static.wikia.nocookie.net/unitystation/images/1/15/Glass.png/revision/latest/scale-to-width-down/32?cb=20200428221031)](https://images.wikia.com/unitystation/images/1/15/Glass.png)x4 | 1. Hold at least 4 glass plates in your hand<br />2. Press on the glass in your hand<br />3. Select the Windoor icon |                  |
-|                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             | ***N/A***                                                    |                  |
-|                             N/A                              |                                                              |                  |
+|    ![windor](Windoor)    | How to Build                                                 | Requres to Build |
+| :----------------------: | :----------------------------------------------------------- | :--------------: |
+| ![glass](Glass_Sheet))x4 | 1. Hold at least 4 glass plates in your hand<br />2. Press on the glass in your hand<br />3. Select the Windoor icon |                  |
+|    How to deconstruct    |                                                              |                  |
+|          Tools           | ***N/A***                                                    |                  |
+|           N/A            |                                                              |                  |
 
 #### WhiteServiceDoor
 
 a glass door, but a white 
 
-| [![Glass door.png](https://static.wikia.nocookie.net/unitystation/images/d/d5/Glass_door.png/revision/latest/scale-to-width-down/111?cb=20200428210009)](https://images.wikia.com/unitystation/images/d/d5/Glass_door.png) |                         How to Build                         | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-| [![img](https://static.wikia.nocookie.net/unitystation/images/1/15/Glass.png/revision/latest/scale-to-width-down/32?cb=20200428221031)](https://images.wikia.com/unitystation/images/1/15/Glass.png)x6 | 1. Hold at least 6 glass plates in your hand <br />2. Press on the glass in your hand <br />3. Select the WhiteServiceDoor icon |                  |
-|                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             |                          ***N/A***                           |                  |
-|                             N/A                              |                                                              |                  |
+| ![glassdoor](Glass_door) | How to Build                                                 | Requres to Build |
+| :----------------------: | :----------------------------------------------------------- | :--------------: |
+| ![Sheet](Glass_Sheet)x6  | 1. Hold at least 6 glass plates in your hand <br />2. Press on the glass in your hand <br />3. Select the WhiteServiceDoor icon |                  |
+|    How to deconstruct    |                                                              |                  |
+|          Tools           | ***N/A***                                                    |                  |
+|           N/A            |                                                              |                  |
 
-#### Swivel Chair 
+#### Office Chair 
 
 weeeeee
 
-| [![Chair with weel.png](https://static.wikia.nocookie.net/unitystation/images/d/dc/Chair_with_weel.png/revision/latest/scale-to-width-down/74?cb=20200428210324)](https://images.wikia.com/unitystation/images/d/dc/Chair_with_weel.png) | How to Build                                                 | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
-|                    ![metal](metal.png)x1                     | 1. Hold at least 1 Metal plate in your hand<br />2. Press on the **Metal plate** in your hand<br />3. Select the Swivel Chair icon |                  |
-|                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             | Click on the Swivel Chair with a wrench in hand              |                  |
-|                    ![wrench](Wrench.png)                     |                                                              |                  |
+| ![chair](office_chair) | How to Build                                                 | Requres to Build |
+| :--------------------: | :----------------------------------------------------------- | :--------------: |
+| ![metal](metal.png)x1  | 1. Hold at least 1 Metal plate in your hand<br />2. Press on the **Metal plate** in your hand<br />3. Select the Swivel Chair icon |                  |
+|   How to deconstruct   |                                                              |                  |
+|         Tools          | Click on the Swivel Chair with a wrench in hand              |                  |
+| ![wrench](Wrench.png)  |                                                              |                  |
 
 #### Wood floor tiles 
 
@@ -315,11 +315,11 @@ it really do be wood
 
 Chair
 
-| [![Wood Chair.png](https://static.wikia.nocookie.net/unitystation/images/9/99/Wood_Chair.png/revision/latest/scale-to-width-down/71?cb=20200428211016)](https://images.wikia.com/unitystation/images/9/99/Wood_Chair.png) | How to Build                                                 | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
-|                       ![wood](wood) x1                       | 1. Hold at least wood Plank in your hand<br />2. Press on the wood in your hand<br />3. Select the Wooden Chair icon |                  |
-|                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             | Click on the Wood Chair with a wrench in hand                |                  |
+| ![chair](chairs_wooden_chair) | How to Build                                                 | Requres to Build |
+| :---------------------------: | :----------------------------------------------------------- | :--------------: |
+|       ![wood](wood) x1        | 1. Hold at least wood Plank in your hand<br />2. Press on the wood in your hand<br />3. Select the Wooden Chair icon |                  |
+|      How to deconstruct       |                                                              |                  |
+|             Tools             | Click on the Wood Chair with a wrench in hand                |                  |
 
 
 
