@@ -14,11 +14,11 @@ Just a basic wall, they are easy to build and destroy, and an easy way to keep o
 
 
 
-| ![Wall](wall.png) | How to Build                                                 |                       Requres to Build                       |
-| :---------------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-|                   | 1. Stand where you want the wall. <br /><br />2. Click the **metal plates** in your hand to open the construction panel.<br /><br />3. Choose 'Build wall girders' from the list.<br /><br />Use the remaining 2 sheets of **metal plates** on the girder.<br /><br /> ***False wall***<br /><br /><br />1.  Stand where you want the wall.<br /><br />2. Click the **metal** in your hand to open the construction panel.<br /><br />3. Choose 'Build wall girders' from the list.<br /><br />4. Unsecure the girder you built with a wrench<br /><br />5. click on the girder with at least 2 **metal plates** |                    ![metal](metal.png)x4                     |
-|                   | How to deconstruct                                           |                            Tools                             |
-|                   | 1. **Weld** off the plating.<br /><br />2. Use a **Wrench** to unsecure the girder.<br /><br />3.**Screwdriver** to disassemble the girder. | <br />![welder](Welder.png)<br />![wrench](Wrench.png)<br />![Screwdriver](Screwdriver.png)<br />![Wirecutter](Wirecutter.png) |
+| <img class="img-fluid" width=64 src="https://raw.githubusercontent.com/unitystation/unitystation-wiki/master/docs/assets/images/wall" alt="Card image cap"> | How to Build                                                 |                       Requres to Build                       |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+|                                                              | 1. Stand where you want the wall. <br /><br />2. Click the **metal plates** in your hand to open the construction panel.<br /><br />3. Choose 'Build wall girders' from the list.<br /><br />Use the remaining 2 sheets of **metal plates** on the girder.<br /><br /> ***False wall***<br /><br /><br />1.  Stand where you want the wall.<br /><br />2. Click the **metal** in your hand to open the construction panel.<br /><br />3. Choose 'Build wall girders' from the list.<br /><br />4. Unsecure the girder you built with a wrench<br /><br />5. click on the girder with at least 2 **metal plates** |                    ![metal](metal.png)x4                     |
+|                                                              | How to deconstruct                                           |                            Tools                             |
+|                                                              | 1. **Weld** off the plating.<br /><br />2. Use a **Wrench** to unsecure the girder.<br /><br />3.**Screwdriver** to disassemble the girder. | <br />![welder](Welder.png)<br />![wrench](Wrench.png)<br />![Screwdriver](Screwdriver.png)<br />![Wirecutter](Wirecutter.png) |
 
 #### Reinforced Wall 
 
