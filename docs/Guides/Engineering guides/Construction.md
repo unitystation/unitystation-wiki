@@ -49,78 +49,78 @@ used to create all of the Computers on the Station
 
 Used to store stuff, or hide from your biggest fears
 
-|   ![closet](closet)   |                         How to Build                         | Requres to Build |
-| :-------------------: | :----------------------------------------------------------: | :--------------: |
+|   ![closet](closet)   | How to Build                                                 | Requres to Build |
+| :-------------------: | :----------------------------------------------------------- | :--------------: |
 | ![metal](metal.png)x2 | 1. Hold at least **2 Metal plates** in your hand<br />2. Press on the **metal plates** in your hand<br />3. Select the Closet icon |                  |
 |  How to deconstruct   |                                                              |                  |
-|         Tools         |                             N/A                              |                  |
+|         Tools         | N/A                                                          |                  |
 |          N/A          |                                                              |                  |
 
 #### Chair 
 
 Used for Sitting, but never standing
 
-| [![Chair 2.0.png](https://static.wikia.nocookie.net/unitystation/images/d/da/Chair_2.0.png/revision/latest/scale-to-width-down/71?cb=20200428200412)](https://images.wikia.com/unitystation/images/d/da/Chair_2.0.png) |                         How to Build                         | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-| [![Metal](https://static.wikia.nocookie.net/unitystation/images/e/e1/Metal.png/revision/latest/scale-to-width-down/32?cb=20200315205652)](https://unitystation.fandom.com/wiki/Special:FilePath/Metal.png)x1 | 1. Hold at least 1 Metal plate in your hand<br /><br />2.  Press on the **Metal plate** in your hand<br /><br />3.  Select the Chair icon |                  |
+| [![Chair 2.0.png](https://static.wikia.nocookie.net/unitystation/images/d/da/Chair_2.0.png/revision/latest/scale-to-width-down/71?cb=20200428200412)](https://images.wikia.com/unitystation/images/d/da/Chair_2.0.png) | How to Build                                                 | Requres to Build |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
+|                    ![metal](metal.png)x1                     | 1. Hold at least 1 Metal plate in your hand<br /><br />2.  Press on the **Metal plate** in your hand<br /><br />3.  Select the Chair icon |                  |
 |                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             |            <br /><br />Click with Wrench in Hand             |                  |
+|                            Tools                             | <br /><br />Click with Wrench in Hand                        |                  |
 |                    ![wrench](Wrench.png)                     |                                                              |                  |
 
 #### APC 
 
 Powers to machines
 
-| [![APC Frame.png](https://static.wikia.nocookie.net/unitystation/images/a/a5/APC_Frame.png/revision/latest/scale-to-width-down/96?cb=20200428200533)](https://images.wikia.com/unitystation/images/a/a5/APC_Frame.png) |                         How to Build                         | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-| [![Metal](https://static.wikia.nocookie.net/unitystation/images/e/e1/Metal.png/revision/latest/scale-to-width-down/32?cb=20200315205652)](https://unitystation.fandom.com/wiki/Special:FilePath/Metal.png)x5 | 1. Hold at least 5 **Metal plate** in your hand <br />2. Press on the **Metal plate** in your hand <br />3. Select the APC Frame icon <br />4. Click on the APC Frame to pick up <br />5. Click on any surface to install |                  |
+| [![APC Frame.png](https://static.wikia.nocookie.net/unitystation/images/a/a5/APC_Frame.png/revision/latest/scale-to-width-down/96?cb=20200428200533)](https://images.wikia.com/unitystation/images/a/a5/APC_Frame.png) | How to Build                                                 | Requres to Build |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
+|                    ![metal](metal.png)x5                     | 1. Hold at least 5 **Metal plate** in your hand <br />2. Press on the **Metal plate** in your hand <br />3. Select the APC Frame icon <br />4. Click on the APC Frame to pick up <br />5. Click on any surface to install |                  |
 |                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             |                          ***N/A***                           |                  |
+|                            Tools                             | ***N/A***                                                    |                  |
 |                             N/A                              |                                                              |                  |
 
 #### Bed 
 
 No ERP allowed
 
-| [![Bed.png](https://static.wikia.nocookie.net/unitystation/images/c/c5/Bed.png/revision/latest/scale-to-width-down/102?cb=20200428200458)](https://images.wikia.com/unitystation/images/c/c5/Bed.png) |                         How to Build                         | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-| [![Metal](https://static.wikia.nocookie.net/unitystation/images/e/e1/Metal.png/revision/latest/scale-to-width-down/32?cb=20200315205652)](https://unitystation.fandom.com/wiki/Special:FilePath/Metal.png)x2 | 1. Hold at least 2 **Metal plate** in your hand<br />2.  Press on the **Metal plate** in your hand <br />3. Select the Bed icon |                  |
+| [![Bed.png](https://static.wikia.nocookie.net/unitystation/images/c/c5/Bed.png/revision/latest/scale-to-width-down/102?cb=20200428200458)](https://images.wikia.com/unitystation/images/c/c5/Bed.png) | How to Build                                                 | Requres to Build |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
+|                    ![metal](metal.png)x2                     | 1. Hold at least 2 **Metal plate** in your hand<br />2.  Press on the **Metal plate** in your hand <br />3. Select the Bed icon |                  |
 |                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             |             Click on the bed with wrench in hand             |                  |
-| [![Wrench](https://static.wikia.nocookie.net/unitystation/images/7/7c/Wrench.png/revision/latest/scale-to-width-down/32?cb=20200315205300)](https://unitystation.fandom.com/wiki/Special:FilePath/Wrench.png) |                                                              |                  |
+|                            Tools                             | Click on the bed with wrench in hand                         |                  |
+|                    ![wrench](Wrench.png)                     |                                                              |                  |
 
 #### Comfy Chair 
 
 filled with the jell of a slime
 
-| [![Comfy Chair.png](https://static.wikia.nocookie.net/unitystation/images/c/cd/Comfy_Chair.png/revision/latest/scale-to-width-down/98?cb=20200428200602)](https://images.wikia.com/unitystation/images/c/cd/Comfy_Chair.png) |                         How to Build                         | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-| [![Metal](https://static.wikia.nocookie.net/unitystation/images/e/e1/Metal.png/revision/latest/scale-to-width-down/32?cb=20200315205652)](https://unitystation.fandom.com/wiki/Special:FilePath/Metal.png)x2 | 1. Hold at least 2 **Metal plate** in your hand <br />2. Press on the **Metal plate** in your hand <br />3. Select the Comfy Chair icon |                  |
+| [![Comfy Chair.png](https://static.wikia.nocookie.net/unitystation/images/c/cd/Comfy_Chair.png/revision/latest/scale-to-width-down/98?cb=20200428200602)](https://images.wikia.com/unitystation/images/c/cd/Comfy_Chair.png) | How to Build                                                 | Requres to Build |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
+|                    ![metal](metal.png)x2                     | 1. Hold at least 2 **Metal plate** in your hand <br />2. Press on the **Metal plate** in your hand <br />3. Select the Comfy Chair icon |                  |
 |                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             |         Click on the Comfy Chair with wrench in hand         |                  |
-| [![Wrench](https://static.wikia.nocookie.net/unitystation/images/7/7c/Wrench.png/revision/latest/scale-to-width-down/32?cb=20200315205300)](https://unitystation.fandom.com/wiki/Special:FilePath/Wrench.png) |                                                              |                  |
+|                            Tools                             | Click on the Comfy Chair with wrench in hand                 |                  |
+|                    ![wrench](Wrench.png)                     |                                                              |                  |
 
 #### Conveyor Belt 
 
 The People Mover
 
-| [![Conveyor Belt.png](https://static.wikia.nocookie.net/unitystation/images/1/12/Conveyor_Belt.png/revision/latest/scale-to-width-down/83?cb=20200428200638)](https://images.wikia.com/unitystation/images/1/12/Conveyor_Belt.png) |                         How to Build                         | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-| [![Metal](https://static.wikia.nocookie.net/unitystation/images/e/e1/Metal.png/revision/latest/scale-to-width-down/32?cb=20200315205652)](https://unitystation.fandom.com/wiki/Special:FilePath/Metal.png)x5 | 1. Hold at least 5 **Metal plate** in your hand <br />2. Press on the **Metal plate** in your hand Select the Conveyor Belt icon<br />3.  choose the direction you want the conveyor belt to move |                  |
+| [![Conveyor Belt.png](https://static.wikia.nocookie.net/unitystation/images/1/12/Conveyor_Belt.png/revision/latest/scale-to-width-down/83?cb=20200428200638)](https://images.wikia.com/unitystation/images/1/12/Conveyor_Belt.png) | How to Build                                                 | Requres to Build |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
+|                    ![metal](metal.png)x5                     | 1. Hold at least 5 **Metal plate** in your hand <br />2. Press on the **Metal plate** in your hand Select the Conveyor Belt icon<br />3.  choose the direction you want the conveyor belt to move |                  |
 |                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             |        Click on the Conveyor Belt with wrench in hand        |                  |
-| [![Wrench](https://static.wikia.nocookie.net/unitystation/images/7/7c/Wrench.png/revision/latest/scale-to-width-down/32?cb=20200315205300)](https://unitystation.fandom.com/wiki/Special:FilePath/Wrench.png) |                                                              |                  |
+|                            Tools                             | Click on the Conveyor Belt with wrench in hand               |                  |
+|                    ![wrench](Wrench.png)                     |                                                              |                  |
 
 #### Conveyor Belt Switch 
 
 The people mover mover
 
-| [![Converor belt switch.png](https://static.wikia.nocookie.net/unitystation/images/b/b4/Converor_belt_switch.png/revision/latest/scale-to-width-down/67?cb=20200428200905)](https://images.wikia.com/unitystation/images/b/b4/Converor_belt_switch.png) |                         How to Build                         | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-| [![Metal](https://static.wikia.nocookie.net/unitystation/images/e/e1/Metal.png/revision/latest/scale-to-width-down/32?cb=20200315205652)](https://unitystation.fandom.com/wiki/Special:FilePath/Metal.png)x5 | 1. Hold at least 5 **Metal plate** in your hand <br />2. Press on the **Metal plate** in your hand <br />3. Select the Conveyor Belt Switch icon |                  |
+| [![Converor belt switch.png](https://static.wikia.nocookie.net/unitystation/images/b/b4/Converor_belt_switch.png/revision/latest/scale-to-width-down/67?cb=20200428200905)](https://images.wikia.com/unitystation/images/b/b4/Converor_belt_switch.png) | How to Build                                                 | Requres to Build |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
+|                    ![metal](metal.png)x5                     | 1. Hold at least 5 **Metal plate** in your hand <br />2. Press on the **Metal plate** in your hand <br />3. Select the Conveyor Belt Switch icon |                  |
 |                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             |    Click on the Conveyor Belt Switch with wrench in hand     |                  |
-| [![Wrench](https://static.wikia.nocookie.net/unitystation/images/7/7c/Wrench.png/revision/latest/scale-to-width-down/32?cb=20200315205300)](https://unitystation.fandom.com/wiki/Special:FilePath/Wrench.png) |                                                              |                  |
+|                            Tools                             | Click on the Conveyor Belt Switch with wrench in hand        |                  |
+|                    ![wrench](Wrench.png)                     |                                                              |                  |
 
 #### Department Battery 
 
@@ -144,17 +144,6 @@ Floor Gang
 |                            Tools                             |                          ***N/A***                           |                  |
 |                             N/A                              |                                                              |                  |
 
-#### High Voltage to Medium Voltage Transformer 
-
-can't roll out
-
-| [![Transformer.png](https://static.wikia.nocookie.net/unitystation/images/1/18/Transformer.png/revision/latest/scale-to-width-down/91?cb=20200428203940)](https://images.wikia.com/unitystation/images/1/18/Transformer.png) |                         How to Build                         | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-| [![Metal](https://static.wikia.nocookie.net/unitystation/images/e/e1/Metal.png/revision/latest/scale-to-width-down/32?cb=20200315205652)](https://unitystation.fandom.com/wiki/Special:FilePath/Metal.png)x30 | 1. Hold at least 30 **Metal plate** in your hand <br />2. Press on the **Metal plate** in your hand <br />3. Select the Transformer icon |                  |
-|                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             |                          ***N/A***                           |                  |
-|                             N/A                              |                                                              |                  |
-
 #### Grill 
 
 Put it in your teeth
@@ -170,64 +159,64 @@ Put it in your teeth
 
 Try and put Something on it, I dare you
 
-| [![Table Frame.png](https://static.wikia.nocookie.net/unitystation/images/9/96/Table_Frame.png/revision/latest/scale-to-width-down/94?cb=20200428204039)](https://images.wikia.com/unitystation/images/9/96/Table_Frame.png) |                         How to Build                         | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-| [![Metal](https://static.wikia.nocookie.net/unitystation/images/e/e1/Metal.png/revision/latest/scale-to-width-down/32?cb=20200315205652)](https://unitystation.fandom.com/wiki/Special:FilePath/Metal.png)x2 | 1. Hold at least 2 **Metal plate** in your hand <br />2. Press on the **Metal plate** in your hand <br />2. Select the Table Frame icon<br />3.  Click on frame with 2 metal,glass, or wood to complete the table |                  |
+| [![Table Frame.png](https://static.wikia.nocookie.net/unitystation/images/9/96/Table_Frame.png/revision/latest/scale-to-width-down/94?cb=20200428204039)](https://images.wikia.com/unitystation/images/9/96/Table_Frame.png) | How to Build                                                 | Requres to Build |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
+|                    ![metal](metal.png)x2                     | 1. Hold at least 2 **Metal plate** in your hand <br />2. Press on the **Metal plate** in your hand <br />2. Select the Table Frame icon<br />3.  Click on frame with 2 metal,glass, or wood to complete the table |                  |
 |                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             |                          ***N/A***                           |                  |
+|                            Tools                             | ***N/A***                                                    |                  |
 |                             N/A                              |                                                              |                  |
 
 #### Low-voltage Machine Connector 
 
 Connects Stuff
 
-| [![Low voltage.png](https://static.wikia.nocookie.net/unitystation/images/0/08/Low_voltage.png/revision/latest/scale-to-width-down/85?cb=20200428220956)](https://images.wikia.com/unitystation/images/0/08/Low_voltage.png) |                         How to Build                         | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-| [![Metal](https://static.wikia.nocookie.net/unitystation/images/e/e1/Metal.png/revision/latest/scale-to-width-down/32?cb=20200315205652)](https://unitystation.fandom.com/wiki/Special:FilePath/Metal.png)x2 | 1. Hold at least 2 **Metal plate** in your hand<br />2.  Press on the **Metal plate** in your hand<br />3.  Select the Low-voltage Machine Connector icon |                  |
+| [![Low voltage.png](https://static.wikia.nocookie.net/unitystation/images/0/08/Low_voltage.png/revision/latest/scale-to-width-down/85?cb=20200428220956)](https://images.wikia.com/unitystation/images/0/08/Low_voltage.png) | How to Build                                                 | Requres to Build |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
+|                    ![metal](metal.png)x2                     | 1. Hold at least 2 **Metal plate** in your hand<br />2.  Press on the **Metal plate** in your hand<br />3.  Select the Low-voltage Machine Connector icon |                  |
 |                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             |                          ***N/A***                           |                  |
+|                            Tools                             | ***N/A***                                                    |                  |
 |                             N/A                              |                                                              |                  |
 
 #### Medium-voltage Machine Connector 
 
 also connects stuff
 
-| [![Medium-voltage machine connectors.png](https://static.wikia.nocookie.net/unitystation/images/3/31/Medium-voltage_machine_connectors.png/revision/latest/scale-to-width-down/77?cb=20200428204141)](https://images.wikia.com/unitystation/images/3/31/Medium-voltage_machine_connectors.png) |                         How to Build                         | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-| [![Metal](https://static.wikia.nocookie.net/unitystation/images/e/e1/Metal.png/revision/latest/scale-to-width-down/32?cb=20200315205652)](https://unitystation.fandom.com/wiki/Special:FilePath/Metal.png)x2 | 1. Hold at least 2 **Metal plate** in your hand <br />2. Press on the **Metal plate** in your hand<br />3.  Select the Medium-voltage Machine Connector icon |                  |
+| [![Medium-voltage machine connectors.png](https://static.wikia.nocookie.net/unitystation/images/3/31/Medium-voltage_machine_connectors.png/revision/latest/scale-to-width-down/77?cb=20200428204141)](https://images.wikia.com/unitystation/images/3/31/Medium-voltage_machine_connectors.png) | How to Build                                                 | Requres to Build |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
+|                    ![metal](metal.png)x2                     | 1. Hold at least 2 **Metal plate** in your hand <br />2. Press on the **Metal plate** in your hand<br />3.  Select the Medium-voltage Machine Connector icon |                  |
 |                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             |                          ***N/A***                           |                  |
+|                            Tools                             | ***N/A***                                                    |                  |
 |                             N/A                              |                                                              |                  |
 
 #### Metal Rods x2 
 
 Very Hard
 
-| [![Metal Rod.png](https://static.wikia.nocookie.net/unitystation/images/3/33/Metal_Rod.png/revision/latest/scale-to-width-down/86?cb=20200428204227)](https://images.wikia.com/unitystation/images/3/33/Metal_Rod.png) |                         How to Build                         | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-| [![Metal](https://static.wikia.nocookie.net/unitystation/images/e/e1/Metal.png/revision/latest/scale-to-width-down/32?cb=20200315205652)](https://unitystation.fandom.com/wiki/Special:FilePath/Metal.png)x1 | 1. Hold at least 1 Metal plate in your hand <br />2. Press on the **Metal plate** in your hand <br />3. Select the Rod icon |                  |
+| [![Metal Rod.png](https://static.wikia.nocookie.net/unitystation/images/3/33/Metal_Rod.png/revision/latest/scale-to-width-down/86?cb=20200428204227)](https://images.wikia.com/unitystation/images/3/33/Metal_Rod.png) | How to Build                                                 | Requres to Build |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
+|                    ![metal](metal.png)x1                     | 1. Hold at least 1 Metal plate in your hand <br />2. Press on the **Metal plate** in your hand <br />3. Select the Rod icon |                  |
 |                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             |                          ***N/A***                           |                  |
+|                            Tools                             | ***N/A***                                                    |                  |
 |                             N/A                              |                                                              |                  |
 
 #### Oxygen Canister 
 
 good luck filling it lmao
 
-| [![Oxygen Canister.png](https://static.wikia.nocookie.net/unitystation/images/5/5b/Oxygen_Canister.png/revision/latest/scale-to-width-down/78?cb=20200428204254)](https://images.wikia.com/unitystation/images/5/5b/Oxygen_Canister.png) |                         How to Build                         | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-| [![Metal](https://static.wikia.nocookie.net/unitystation/images/e/e1/Metal.png/revision/latest/scale-to-width-down/32?cb=20200315205652)](https://unitystation.fandom.com/wiki/Special:FilePath/Metal.png)x10 | 1. Hold at least 10 Metal plate in your hand <br />2. Press on the **Metal plate** in your hand <br />3. Select the Oxygen Canister icon |                  |
+| [![Oxygen Canister.png](https://static.wikia.nocookie.net/unitystation/images/5/5b/Oxygen_Canister.png/revision/latest/scale-to-width-down/78?cb=20200428204254)](https://images.wikia.com/unitystation/images/5/5b/Oxygen_Canister.png) | How to Build                                                 | Requres to Build |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
+|                    ![metal](metal.png)x10                    | 1. Hold at least 10 Metal plate in your hand <br />2. Press on the **Metal plate** in your hand <br />3. Select the Oxygen Canister icon |                  |
 |                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             |                          ***N/A***                           |                  |
+|                            Tools                             | ***N/A***                                                    |                  |
 |                             N/A                              |                                                              |                  |
 
 #### Rack 
 
 Keep Kicking it
 
-| [![Rack parts.png](https://static.wikia.nocookie.net/unitystation/images/4/43/Rack_parts.png/revision/latest/scale-to-width-down/78?cb=20200428205246)](https://images.wikia.com/unitystation/images/4/43/Rack_parts.png) |                         How to Build                         | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-| [![Metal](https://static.wikia.nocookie.net/unitystation/images/e/e1/Metal.png/revision/latest/scale-to-width-down/32?cb=20200315205652)](https://unitystation.fandom.com/wiki/Special:FilePath/Metal.png)x1 | 1. Hold at least 1 Metal plate in your hand <br />2. Press on the **Metal plate** in your hand <br />3. Select the Rack Part icon <br />4. Click on the Rack Part on the floor to assemble |                  |
+| [![Rack parts.png](https://static.wikia.nocookie.net/unitystation/images/4/43/Rack_parts.png/revision/latest/scale-to-width-down/78?cb=20200428205246)](https://images.wikia.com/unitystation/images/4/43/Rack_parts.png) | How to Build                                                 | Requres to Build |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
+|                    ![metal](metal.png)x1                     | 1. Hold at least 1 Metal plate in your hand <br />2. Press on the **Metal plate** in your hand <br />3. Select the Rack Part icon <br />4. Click on the Rack Part on the floor to assemble |                  |
 |                      How to deconstruct                      |                                                              |                  |
 |                            Tools                             | 1. Click on the Rack to kick it, which will cause it to turn back into an item <br />2. Click on the Rack with a wrench in hand |                  |
 | [![Welder](https://static.wikia.nocookie.net/unitystation/images/9/9a/Welder.png/revision/latest/scale-to-width-down/32?cb=20200315205250)](https://unitystation.fandom.com/wiki/Special:FilePath/Welder.png) [![Wrench](https://static.wikia.nocookie.net/unitystation/images/7/7c/Wrench.png/revision/latest/scale-to-width-down/32?cb=20200315205300)](https://unitystation.fandom.com/wiki/Special:FilePath/Wrench.png) [![Screwdriver](https://static.wikia.nocookie.net/unitystation/images/9/92/Screwdriver_tool.png/revision/latest/scale-to-width-down/32?cb=20200315205310)](https://unitystation.fandom.com/wiki/Special:FilePath/Screwdriver_tool.png) |                                                              |                  |
@@ -236,45 +225,32 @@ Keep Kicking it
 
 Sink Station
 
-| [![Sink.png](https://static.wikia.nocookie.net/unitystation/images/6/66/Sink.png/revision/latest/scale-to-width-down/72?cb=20200428205323)](https://images.wikia.com/unitystation/images/6/66/Sink.png) |                         How to Build                         | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-| [![Metal](https://static.wikia.nocookie.net/unitystation/images/e/e1/Metal.png/revision/latest/scale-to-width-down/32?cb=20200315205652)](https://unitystation.fandom.com/wiki/Special:FilePath/Metal.png)x1 | 1. Hold at least 1 Metal plate in your hand <br />2. Press on the **Metal plate** in your hand <br />3. Select the Sink icon |                  |
+| [![Sink.png](https://static.wikia.nocookie.net/unitystation/images/6/66/Sink.png/revision/latest/scale-to-width-down/72?cb=20200428205323)](https://images.wikia.com/unitystation/images/6/66/Sink.png) | How to Build                                                 | Requres to Build |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
+|                    ![metal](metal.png)x1                     | 1. Hold at least 1 Metal plate in your hand <br />2. Press on the **Metal plate** in your hand <br />3. Select the Sink icon |                  |
 |                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             |           Click on the Sink with a wrench in hand            |                  |
-| [![Wrench](https://static.wikia.nocookie.net/unitystation/images/7/7c/Wrench.png/revision/latest/scale-to-width-down/32?cb=20200315205300)](https://unitystation.fandom.com/wiki/Special:FilePath/Wrench.png) |                                                              |                  |
-
-#### SMES Battery 
-
-60 D batteries ties together with rope
-
-| [![SMES.png](https://static.wikia.nocookie.net/unitystation/images/4/4e/SMES.png/revision/latest/scale-to-width-down/90?cb=20200428205404)](https://images.wikia.com/unitystation/images/4/4e/SMES.png) |                         How to Build                         | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-| [![Metal](https://static.wikia.nocookie.net/unitystation/images/e/e1/Metal.png/revision/latest/scale-to-width-down/32?cb=20200315205652)](https://unitystation.fandom.com/wiki/Special:FilePath/Metal.png)x40 | 1. Hold at least 40 **Metal plate** in your hand<br />4.  Press on the **Metal plate** in your hand <br />4. Select the Smes Battery icon |                  |
-|                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             |                          ***N/A***                           |                  |
-|                             N/A                              |                                                              |                  |
-
-#### Stool 
+|                            Tools                             | Click on the Sink with a wrench in hand                      |                  |
+|                    ![wrench](Wrench.png)                     |                                                              |                  |
 
 for standing, never sitting
 
-| [![Stool.png](https://static.wikia.nocookie.net/unitystation/images/5/50/Stool.png/revision/latest/scale-to-width-down/67?cb=20200428205444)](https://images.wikia.com/unitystation/images/5/50/Stool.png) |                         How to Build                         | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-| [![Metal](https://static.wikia.nocookie.net/unitystation/images/e/e1/Metal.png/revision/latest/scale-to-width-down/32?cb=20200315205652)](https://unitystation.fandom.com/wiki/Special:FilePath/Metal.png)x1 | 1. Hold at least 1 Metal plate in your hand <br />2. Press on the **Metal plate** in your hand <br />3. Select the Stool icon |                  |
+| [![Stool.png](https://static.wikia.nocookie.net/unitystation/images/5/50/Stool.png/revision/latest/scale-to-width-down/67?cb=20200428205444)](https://images.wikia.com/unitystation/images/5/50/Stool.png) | How to Build                                                 | Requres to Build |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
+|                    ![metal](metal.png)x1                     | 1. Hold at least 1 Metal plate in your hand <br />2. Press on the **Metal plate** in your hand <br />3. Select the Stool icon |                  |
 |                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             |           Click on the Sink with a wrench in hand            |                  |
-| [![Wrench](https://static.wikia.nocookie.net/unitystation/images/7/7c/Wrench.png/revision/latest/scale-to-width-down/32?cb=20200315205300)](https://unitystation.fandom.com/wiki/Special:FilePath/Wrench.png) |                                                              |                  |
+|                            Tools                             | Click on the Sink with a wrench in hand                      |                  |
+|                    ![wrench](Wrench.png)                     |                                                              |                  |
 
 #### Window 
 
 a window that's a window
 
-| [![Window.png](https://static.wikia.nocookie.net/unitystation/images/d/dc/Window.png/revision/latest/scale-to-width-down/107?cb=20200428205752)](https://images.wikia.com/unitystation/images/d/dc/Window.png) |                         How to Build                         | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
+| [![Window.png](https://static.wikia.nocookie.net/unitystation/images/d/dc/Window.png/revision/latest/scale-to-width-down/107?cb=20200428205752)](https://images.wikia.com/unitystation/images/d/dc/Window.png) | How to Build                                                 | Requres to Build |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
 | [![x2](https://static.wikia.nocookie.net/unitystation/images/1/15/Glass.png/revision/latest/scale-to-width-down/32?cb=20200428221031)](https://images.wikia.com/unitystation/images/1/15/Glass.png)x4 | 1. Hold at least 4 Glass plate in your hand <br />2. Press on the Glass in your hand <br />3. Select the window icon move the window to the place you want it installed <br />4. click on the window with a screw driver in hand to secure |                  |
 |                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             |                  Click with Wrench in hand                   |                  |
-| [![Wrench](https://static.wikia.nocookie.net/unitystation/images/7/7c/Wrench.png/revision/latest/scale-to-width-down/32?cb=20200315205300)](https://unitystation.fandom.com/wiki/Special:FilePath/Wrench.png) |                                                              |                  |
+|                            Tools                             | Click with Wrench in hand                                    |                  |
+|                    ![wrench](Wrench.png)                     |                                                              |                  |
 
 
 
@@ -282,12 +258,12 @@ a window that's a window
 
 Like a window, but stronger.
 
-| [![img](https://static.wikia.nocookie.net/unitystation/images/1/1a/Window_Reinforced.png/revision/latest/scale-to-width-down/32?cb=20200619020246)](https://images.wikia.com/unitystation/images/1/1a/Window_Reinforced.png) |                      Required to Build                       | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-| [![Sheet-RGlass.png](https://static.wikia.nocookie.net/unitystation/images/e/ee/Sheet-RGlass.png/revision/latest/scale-to-width-down/32?cb=20200619014741)](https://images.wikia.com/unitystation/images/e/ee/Sheet-RGlass.png)x2[![Screwdriver](https://static.wikia.nocookie.net/unitystation/images/9/92/Screwdriver_tool.png/revision/latest/scale-to-width-down/32?cb=20200315205310)](https://images.wikia.com/unitystation/images/9/92/Screwdriver_tool.png)[![Crowbar](https://static.wikia.nocookie.net/unitystation/images/c/c0/Crowbar.png/revision/latest/scale-to-width-down/32?cb=20200315205355)](https://images.wikia.com/unitystation/images/c/c0/Crowbar.png) | 1. Hold at least 2 reinforced glass sheets in your hand<br />2.  Press on the reinforced glass in your hand <br />3. Select the window icon. <br />4. Pull and drag the window to the place you want it installed. <br />4. Click on the window with a screw driver in hand to anchor it in place.<br />5.  Use a crowbar to fully secure the reinforced window. |                  |
+| [![img](https://static.wikia.nocookie.net/unitystation/images/1/1a/Window_Reinforced.png/revision/latest/scale-to-width-down/32?cb=20200619020246)](https://images.wikia.com/unitystation/images/1/1a/Window_Reinforced.png) | Required to Build                                            | Requres to Build |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
+| [![Sheet-RGlass.png](https://static.wikia.nocookie.net/unitystation/images/e/ee/Sheet-RGlass.png/revision/latest/scale-to-width-down/32?cb=20200619014741)](https://images.wikia.com/unitystation/images/e/ee/Sheet-RGlass.png)x2[![Screwdriver](https://static.wikia.nocookie.net/unitystation/images/9/92/Screwdriver_tool.png/revision/latest/scale-to-width-down/32?cb=20200315205310)](https://images.wikia.com/unitystation/images/9/92/Screwdriver_tool.png)[![Crowbar](https://static.wikia.nocookie.net/unitystation/images/c/c0/Crowbar.png/revision/latest/scale-to-width-down/32?cb=20200315205355)](https://images.wikia.com/unitystation/images/c/c0/Crowbar.png) | 1. Hold at least 2 **reinforced glass sheets** in your hand<br />2.  Press on the **reinforced glass** in your hand <br />3. Select the window icon. <br />4. Pull and drag the window to the place you want it installed. <br />4. Click on the window with a **screwdriver** in hand to anchor it in place.<br />5.  Use a **crowbar** to fully secure the reinforced window. |                  |
 |                      How to Deconstruct                      |                                                              |                  |
-|                            Tools                             | 1. Use a lit welder on *harm* intent to heat up the one-way screws. <br />2. Use a screwdriver to remove screws .<br />3. Use a crowbar to pry the window out of its frame. <br />4. Use wire cutters to cut exposed bars on the window. <br />5. Use a wrench to unbolt and un-anchor the window . <br />6. Use a wrench again to deconstruct the window into sheets. |                  |
-| [![Welder](https://static.wikia.nocookie.net/unitystation/images/9/9a/Welder.png/revision/latest/scale-to-width-down/32?cb=20200315205250)](https://unitystation.fandom.com/wiki/Special:FilePath/Welder.png)[![Screwdriver](https://static.wikia.nocookie.net/unitystation/images/9/92/Screwdriver_tool.png/revision/latest/scale-to-width-down/32?cb=20200315205310)](https://images.wikia.com/unitystation/images/9/92/Screwdriver_tool.png)[![Crowbar](https://static.wikia.nocookie.net/unitystation/images/c/c0/Crowbar.png/revision/latest/scale-to-width-down/32?cb=20200315205355)](https://images.wikia.com/unitystation/images/c/c0/Crowbar.png)[![Wirecutters](https://static.wikia.nocookie.net/unitystation/images/8/8c/Wirecutters.png/revision/latest/scale-to-width-down/32?cb=20200315205347)](https://images.wikia.com/unitystation/images/8/8c/Wirecutters.png)[![Wrench](https://static.wikia.nocookie.net/unitystation/images/7/7c/Wrench.png/revision/latest/scale-to-width-down/32?cb=20200315205300)](https://unitystation.fandom.com/wiki/Special:FilePath/Wrench.png) |                                                              |                  |
+|                            Tools                             | 1. Use a lit **welder** on *harm* intent to heat up the one-way screws. <br />2. Use a **screwdriver** to remove screws .<br />3. Use a **crowbar** to pry the window out of its frame. <br />4. Use **wire cutters** to cut exposed bars on the window. <br />5. Use a **wrench** to unbolt and un-anchor the window . <br />6. Use a **wrench** again to deconstruct the window into sheets. |                  |
+| <br />![welder](Welder.png)<br />![wrench](Wrench.png)<br />![Screwdriver](Screwdriver.png)<br />![Wirecutter](Wirecutter) |                                                              |                  |
 
 #### Windoor 
 
@@ -315,12 +291,12 @@ a glass door, but a white
 
 weeeeee
 
-| [![Chair with weel.png](https://static.wikia.nocookie.net/unitystation/images/d/dc/Chair_with_weel.png/revision/latest/scale-to-width-down/74?cb=20200428210324)](https://images.wikia.com/unitystation/images/d/dc/Chair_with_weel.png) |                         How to Build                         | Requres to Build |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
-| [![Metal](https://static.wikia.nocookie.net/unitystation/images/e/e1/Metal.png/revision/latest/scale-to-width-down/32?cb=20200315205652)](https://unitystation.fandom.com/wiki/Special:FilePath/Metal.png)x1 | 1. Hold at least 1 Metal plate in your hand<br />2. Press on the **Metal plate** in your hand<br />3. Select the Swivel Chair icon |                  |
+| [![Chair with weel.png](https://static.wikia.nocookie.net/unitystation/images/d/dc/Chair_with_weel.png/revision/latest/scale-to-width-down/74?cb=20200428210324)](https://images.wikia.com/unitystation/images/d/dc/Chair_with_weel.png) | How to Build                                                 | Requres to Build |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | :--------------: |
+|                    ![metal](metal.png)x1                     | 1. Hold at least 1 Metal plate in your hand<br />2. Press on the **Metal plate** in your hand<br />3. Select the Swivel Chair icon |                  |
 |                      How to deconstruct                      |                                                              |                  |
-|                            Tools                             |       Click on the Swivel Chair with a wrench in hand        |                  |
-| [![Wrench](https://static.wikia.nocookie.net/unitystation/images/7/7c/Wrench.png/revision/latest/scale-to-width-down/32?cb=20200315205300)](https://unitystation.fandom.com/wiki/Special:FilePath/Wrench.png) |                                                              |                  |
+|                            Tools                             | Click on the Swivel Chair with a wrench in hand              |                  |
+|                    ![wrench](Wrench.png)                     |                                                              |                  |
 
 #### Wood floor tiles 
 
