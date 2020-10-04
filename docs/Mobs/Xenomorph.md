@@ -5,10 +5,13 @@ Xenomorphs are a threat that can be encountered on [asteroids](Asteroid.md), in 
 ### "They're coming outta the Goddamn walls!"
 
 ![Facehugger](Facehugger.png) Xenomorphs have a complex maturation cycle, starting off as a facehugger, which latches onto a human or monkey to impregnate them with a chestburster, which evolves into an adult xenomorph. Facehuggers are extremely dangerous to fight in confined spaces or without ranged weapons. A facehugger will automatically render a person unconscious once it latches onto their face, which means if you don't have friends looking for you, you're dead. Masks and helmets provide only a second or two of protection as the facehugger rips them off.
+
 ![Larva](Larva.png)
 Once a facehugger latches onto a victim's face, they will begin planting a larva, or chestburster. After a couple of minutes, the larva will burst from their chest, killing them. The larva is small, vulnerable, and very fast. It will attempt to hide in dark spaces long enough to evolve into a xenomorph drone.
+
 ![Alien drone](Alien_drone.png)
 Adult xenomorphs currently come in two forms. The first is the generic xenomorph drone. Drones have 150 hp and deal 15 brute damage per melee attack. 
+
 ![Alien queen](Alien_queen.png)
 Once a xenomorph drone lives long enough, they will evolve into a queen, a fully mature xenomorph. Despite their large size and elite nature, currently, queens are much more vulnerable than drones, having only 100 hp and moving significantly slower. However, their melee attack is faster and deals 30 brute damage, so they should still be prioritized when fighting a hive.
 
