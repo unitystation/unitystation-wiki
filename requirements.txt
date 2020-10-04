@@ -1,3 +1,4 @@
+requests
 mkdocs-macros-plugin
 mkdocs-autolinks-plugin
 mkdocs-awesome-pages-plugin
