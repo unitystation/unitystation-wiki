@@ -81,16 +81,31 @@ When the [miners](Shaft-Miner.md) actually [survive](So-close-to-impossible-that
 | Hydroponics Crate                            | 800          | 1 seed pack each: apples, bananas, berries, cherries, chilis, grapes, grass, lemons, limes, sunflowers | 750 (93%)                          |
 | **Mining**                                   |              |                                                              |                                    |
 | Mining Tools Crate                           | 600          | 2 shovels, 2 picks, 2 lanterns, 2 PKAs                       | 500 (83%)                          |
+| Plasma Cutter Crate                          | 600          | 1 Plasma Cutter                                              | 500                                |
+| Advanced Plasma Cutter Crate                 | 600          | 1 Advanced Plasma Cutter                                     | 500                                |
 | **Emergency**                                |              |                                                              |                                    |
 | EVA Crate                                    | 800          | 1 mining hardsuit set, 1 large oxygen tank and mask          | 500 (62%)                          |
 | Internals Crate                              | 1000         | 3 oxygen masks, 3 large oxygen tanks, 3 personal oxygen tanks | 500 (50%)                          |
 | Firefighting Crate                           | 1000         | 2 flashlights, 2 fire extinguishers, 2 large oxygen tanks and masks | 500 (50%)                          |
 | Radiation Protection Crate                   | 800          | 2 radiation suit sets, 2 Geiger counters, 1 large oxygen tank and mask | 500 (62%)                          |
 | **Materials**                                |              |                                                              |                                    |
-| Metal Crate                                  | 850          | 60 metal                                                     | 500 (58%)                          |
-| Glass Crate                                  | 850          | 60 glass                                                     | 500 (58%)                          |
-| Solid Plasma Crate                           | 3000         | 4 solid plasma                                               | 750 (25%)                          |
-| Plasteel Crate                               | 800          | 30 Plasteel                                                  | 500 (62%)                          |
+| Cardboard sheets Crate                       | 1000         | 50 cardboard sheets                                          | 750                                |
+| Metal Crate                                  | 1500         | 50 metal                                                     | 500                                |
+| Glass Crate                                  | 2000         | 50 glass                                                     | 500                                |
+| Solid Plasma Crate                           | 3000         | 4 solid plasma                                               | 750                                |
+| Half Plasteel Crate                          | 7500         | 20 Plasteel                                                  | 500                                |
+| Full Plasteel Crate                          | 16500        | 50 Plasteel                                                  | 500                                |
+| Wood Planks Crate                            | 2000         | 50 wood planks                                               | 500                                |
+| BZ Canister                                  | 8000         | 1 Canister                                               | N/A                                |
+| CO2 Canister                                 | 3000         | 1 Canister                                               | N/A                                |
+| N2 Canister                                  | 2000         | 1 Canister                                               | N/A                                |
+| N2O Canister                                 | 3000         | 1 Canister                                               | N/A                                |
+| O2 Canister                                  | 1500         | 1 Canister                                               | N/A                                |
+| Water Vapor Canister                                  | 2500         | 1 Canister                                               | N/A                                |
+| Firefighting Foam Tank                            | 1500         | 1 Tank                                               | N/A                                |
+| Fuel Tank                            | 800         | 1 Tank                                               | N/A                                |
+| Extra Capacity Water Tank                            | 1200         | 1 Tank                                               | N/A                                |
+| Water Tank                            | 600         | 1 Tank                                               | N/A                                |
 | Vending Resupply Crate                       | 1500         | 1 Vending Resupply pack (doesn't work, just eats credits like a real vending machine) | 500 (33%)                          |
 | **Miscellaneous**                            |              |                                                              |                                    |
 | Monkey Crate                                 | 550          | 6 banana peels                                               | 500 (90%)                          |
