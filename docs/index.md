@@ -1,5 +1,5 @@
 
-# UnityStation
+[![Unity](Unitystation.png)]
 
 If you are new to the game, check the [how not to die instantly](How-not-to-die-instantly.md) guide.  
 
