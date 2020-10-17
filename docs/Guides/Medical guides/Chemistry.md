@@ -20,7 +20,7 @@ The Chemistry that has been implemented into the game has been copied from tg st
 
 |        | ammonia         |
 | ------ | --------------- |
-| Step 1 | 1 part oxygen   |
+| Step 1 | 1 part Nitrogen |
 | Step 2 | 3 part Hydrogen |
 
 
