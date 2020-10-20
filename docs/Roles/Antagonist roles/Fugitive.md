@@ -9,5 +9,7 @@ Being a fugitive on the run means that you start with **no** station access. In 
 
 So you've been dropped in a small maintenance service hallway. What is your list of priorities. Well, first, _loot anything and everything around you._ Without a crew PDA and being trapped in maintenance means that finding a source of light is probably one of your highest priorities. Another one you may not have thought of is food. It can actually be pretty difficult to keep yourself satiated, so you gotta find whatever snacks and cookies you can. If you see a mouse, _kill it._ Not only is it competing with you for any open food left in maintenance, but it can be used as food itself if you become desperate.
 
+Some other things you will want to grab ASAP are any uniforms nearby (so as to cover up your very obvious prisoner jumpsuit), any med belts that are stored on racks or in closets, A mask to both allow for emergency oxygen and cover your face. any tools are incredibly useful, and can serve as an easy way to exit your predicament of being stuck in a dusty shaft without an id. Backup uniforms can also be useful as disguises.
+
 While you do this, you must use your ears and listen for activity near you. Make mental plans to hide in an empty locker or retreat further into the halls you are stuck in so that you can evade detection from any passing assistants or security officers. If you think you're robust enough, you can attempt to spring an ambush. _It is a bad idea to do this versus a security officer because they have every advantage against you except surprise._ 
 
