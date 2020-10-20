@@ -16,6 +16,7 @@ However, sometimes this isn't enough. Maybe [Xenomorphs](Xenomorph.md) have inva
 ## Know Your Place
 
 The station is ultimately _not_ a military operation, but, as a member of Security, you follow the chain of command closer than any other crewmember:
+
 * You take your orders from the [HoS](Head-of-Security.md). 
 * You do _not_ have to obey orders from the [Warden](Warden.md) _unless_ they are acting-HoS. 
 * You also take orders from the [Captain](Captain.md), and their orders superceed the HoS and anyone else except [Central Command](Central-Command-Officer.md). 
