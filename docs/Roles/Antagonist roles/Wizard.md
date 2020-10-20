@@ -15,19 +15,22 @@ _coming soon_
 
 ## Spells
 
-| Spell Name | Cost | Cooldown | description | Invocation |
-| Offensive Spells |
-| **Fireball** | 2 spell points | 6 seconds | Summons an explosive fireball. When thrown, it will explode upon hitting a target, dealing a high amount of fire damage. Maximum range 8 tiles | 6 seconds | ONI'SOMA | ONI'SOMA! |
-| **Lesser Summon Guns** | 3 spell points | 75 seconds | Summon a Surplus rifle in hand. Several others pop out of worm holes around the wizard | N/A |
-| Mobility Spells |
-| **Teleport** | 2 spell points | 60 seconds | Instantly teleport to a chosen location anywhere on your Z-level. | SCYAR NILA! |
-| **Blink** | 2 spell points | 2 seconds | _randomly_ teleport a medium distance. It will _try_ to not teleport the wizard into space, but it will sometimes, so be prepared. | N/A |
+| # Spell Name     | Cost | Cooldown | description | Invocation |
+| -------------------- | ---- | -------- | ----------- | ---------- |
+| **Offensive Spells** |      |          |             |            |
+| Fireball | 2 spell points | 6 seconds | Summons an explosive fireball. When thrown, it will explode upon hitting a target, dealing a high amount of fire damage. Maximum range 8 tiles | 6 seconds | ONI'SOMA | ONI'SOMA! |
+| Lesser Summon Guns | 3 spell points | 75 seconds | Summon a Surplus rifle in hand. Several others pop out of worm holes around the wizard | N/A |
+| **Mobility Spells** |  |  |  |  |
+| Teleport | 2 spell points | 60 seconds | Instantly teleport to a chosen location anywhere on your Z-level. | SCYAR NILA! |
+| Blink | 2 spell points | 2 seconds | _randomly_ teleport a medium distance. It will _try_ to not teleport the wizard into space, but it will sometimes, so be prepared. | N/A |
 
 
 ## Artifacts
 
-| Defensive Artifacts |
-| Mastercrafted Armor | 2 spell points | Delivered via a drop pod landing on the wizard's tile. **move out of the way or you will be crushed.** A magic-encrusted spacesuit. It is a space worthy suit of armor. It slows you down a bit, but it provides good armor. | 6 seconds | ONI'SOMA | ONI'SOMA! |
+| # Artifact Name     | Cost | description |
+| - | - | - |
+| **Defensive Artifacts** |      |      |
+| Mastercrafted Armor | 2 spell points | Delivered via a drop pod landing on the wizard's tile. **Move out of the way or you will be crushed.** A magic-encrusted spacesuit. It slows you down a bit, but it provides good armor. |
 
 ## The Friendly Wizard
 
