@@ -17,9 +17,9 @@ In this game, you pick from a variety of [roles](Roles.md) on different [maps](M
 
 [![Service](Service.png)](Roles/Service.md) [![Civilian](Civilian.png)](Roles/Civilian.md) [![Artificials](Artificials.png)](Roles/Artificials.md) [![Antagonists](Antagonists.png)](Roles/Antag.md) [![Special](Special.png)](Roles/Special.md) [![Admin](Admin.png)](Roles/Admin.md)
 
-Or you can try attacking it and maby nuking it to [ashes](antags/Nuclear-Emergency.md):
+Or you can try attacking it and maybe nuking it to [ashes](antags/Nuclear-Emergency.md):
 
-Traitor,Changeling,Wizard,Cultist,NukeOps,Blob,Alien,Spider
+Traitor, Changeling, Wizard, Cultist, NukeOps, Blob, Alien, Spider
 
 You can also become various difference races although some may be disabled on certain servers and some to be added:
 
@@ -27,22 +27,11 @@ You can also become various difference races although some may be disabled on ce
 
 [![Nanos](Nano.png)](Races/NaniteFolk),[![Slug](Slug.png)](Races/Slug),[![Wooloo](Sheeple.png)](Races/Sheeple),[![Polygeri](Polygeri.png)](Races/Polygeri),[![Podpeople](Pod.png)](Races/Pod),[![Ave](Ave.png)](Races/Ave)
 
-But the most important factor, you don't need to be an antagonist to start shooting people in the face, because of this thing, freedom. 
-However, you are bound by the individual server [rules](https://sites.google.com/view/unitystation-server-rules/server-rules) of playing, so even if you really want to shoot that clown in the face with your gun, you must first have a really [good reason.](https://www.youtube.com/watch?v=rs6V2oHvwXw) Like the clown tried to kill you or [something.](https://sites.google.com/view/unitystation-server-rules/server-rules)
-
->Servers are branched into different levels of roleplay, It is my hope that servers will have separate and clear rules for LRP, MRP and HRP respectively. With clear rules on what is acceptable and in what situation its easier for everyone to be on the same page. Sadly it is a plague in ss13 that rules are often used by badmins to hide behind for irregular enforcement of them. We can all move past this and onto a version of enforcement where the admin researches first and is sure a rule has been broken before it even gets to contacting the [player](https://www.youtube.com/watch?v=NP1I4r-e760) and interrupting the [game.](https://www.youtube.com/watch?v=YE37AOPX9VI)
 
 The game itself is a chaos machine, some times rounds can take 2 minutes. Usually if the wizard suicides into security. Otherwise it can be a 30 minute long [Royale](Battle-royale.md) and others it can be a multiple hour long phoenix wright court simulator or even cult wasteland as the chaplain holds the line against the onslaught. It depends partly on what the server it is and what [random](antags.md) thing happens.
 
 
-Other links TBD:
-
-The Company
-FAQ
-Construction
-Combat
-
 
 This wiki is still incomplete and can always use edits, you should [add to it!](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)
-We thankyou for all the devs who took their time in order to make unitystation a [thing](Thankyou.md), if you want to support us consider [donating](https://www.patreon.com/unitystation) to the cause.
+We would like to thank all the devs who took their time in order to make unitystation a [thing](Thankyou.md), if you want to support us consider [donating](https://www.patreon.com/unitystation) to the cause.
 
