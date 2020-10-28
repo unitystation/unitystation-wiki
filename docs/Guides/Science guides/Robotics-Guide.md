@@ -59,7 +59,7 @@ Now that we have robot parts, we're ready to make robots.
 
 Congratulations! You now have a Cleaning bot.
 
-![YOUTUBE](Nvrszqqqeho.md)
+![YOUTUBE](NvRSzqQQEHo)
 
 ## Floor bots
 
@@ -74,7 +74,7 @@ Congratulations! You now have a Cleaning bot.
 
 
 Congratulations! You now have a Clean bot.
-![YOUTUBE](Pwc-bqr-zie.md)
+![YOUTUBE](Pwc-BqR-ziE)
 
 ## Medical bots
 
@@ -88,7 +88,7 @@ Congratulations! You now have a Medical bot.
 
 
 
-![YOUTUBE](LcTxIvPBN_k&t)
+![YOUTUBE](LcTxIvPBN_k)
 
 
 

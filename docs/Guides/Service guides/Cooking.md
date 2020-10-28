@@ -29,4 +29,20 @@ Note: this is the guide for making foods, the guide to the chef/cook job is [her
 | Burger                                                       | a whole burger, made by combining a bread roll and a steak   | Tasty     |
 | [Xeno](https://unitystation.fandom.com/wiki/Xenomorph) Burger | like a regular burger but made with a cooked xeno steak. Considered amongst many cultures to be a delicacy. | Tasty(+?) |
 
+# How To Videos
+
+because actions speak louder then wiki-text
+
+
+
+### Cutlets
+
+![YOUTUBE](ApV7pyqD4gU)
+
+
+
+![YOUTUBE](jmj_ldi3Www)
+
+(xeno burger is the same, just use xeno meat)
+
 {% include 'html/rolesnavbar.md' %}

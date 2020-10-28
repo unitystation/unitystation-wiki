@@ -1,7 +1,7 @@
 # Groups
 By the time UnityStation and SS13 take place, space is controlled by multiple different groups, with only a few relevant to the game. Also see the [lore](The-Lore.md)
 
-<big>'Nanotrasen'</big>
+### **Nanotrasen**
 
 A Megacorporation, the largest in the galaxy, that controls the station that UnityStation takes place on. A few decades before the game takes place, the company was losing both ground and money due to rival corporations, and alien empires. However, in one system, they discovered a system filled with a new, rare, and mysterious material: Plasma'', the discovery of which allowing Nanotrasen to become the largest corporation in the galaxy once again''.
 
