@@ -31,3 +31,16 @@ Below are a few kinds (not all) of meat. To obtain meat, butcher creatures by us
 | ![Food tomatomeat](Food_tomatomeat.png) | Killer Tomato Meat | Use a knife on a killer-tomato               | 148               |                                  |
 | ![Food spiderleg](Food_spiderleg.png)   | Spider Leg         | Butcher a spider (such as Sergeant Araneus). | 75                | Spiders give you eight of these. |
 
+# How To Videos
+
+because actions speak louder then wiki-text
+
+
+
+### Cutlets
+
+![YOUTUBE](ApV7pyqD4gU)
+
+### Burger
+
+![YOUTUBE](jmj_ldi3Www)
