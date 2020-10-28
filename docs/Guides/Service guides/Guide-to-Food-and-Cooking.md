@@ -1,4 +1,4 @@
-# Guide to Food and Drink
+# Guide to Food and Cooking
 ##  Understanding Nutrition =
 In Unitystation, every character has a nutrition value that determines how full their stomach is. The nutrition value goes from 1 to 500, and every character has 400 nutrition at the start of a round. You will receive different messages in the chat log and possibly effects depending on how much nutrition you have.
 
@@ -32,8 +32,6 @@ Below are a few kinds (not all) of meat. To obtain meat, butcher creatures by us
 | ![Food spiderleg](Food_spiderleg.png)   | Spider Leg         | Butcher a spider (such as Sergeant Araneus). | 75                | Spiders give you eight of these. |
 
 # How To Videos
-
-because actions speak louder then wiki-text
 
 
 
