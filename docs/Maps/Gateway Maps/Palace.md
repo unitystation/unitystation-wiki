@@ -9,7 +9,7 @@ The Palace is one of the possible teleporter destinations. It is currently unfin
 
 ## Grand Church
 
-![Grandchurch](Grandchrch.png)
+![Grandchurch](Grandchurch.png)
 
 ## Southwest Tower
 
