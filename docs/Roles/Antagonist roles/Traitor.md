@@ -25,40 +25,40 @@ At the start of your round as traitor, you will be given a password that you mus
 
 As a traitor, you must kill a person and get an item. In small rounds (little players, not all the roles covered), that means entering a high security area and sooting down a locker and killing someone. In big rounds it means killing a higher up and praying they have their item on them, and then killing some random dude. As the higher ups are usually at least half competent at the game, this is a hard task, not even taking into account security. However, there are some things you can do:
 
-# Get a gun
+### Get a gun
 
 The basic p90 pistol and as much ammo as you can is the blind pick, however you can also go with the more expensive gun and its ammo (im not sure if it works tho). If you manage to get the Justitia or the Imperitor, dont use them, they dont work yet. Also try to get as much ammo as you can, because it is rally hard to get some on most stations.
 If you run out of bullets DO NOT BUY ANOTHER GUN, the ammo boxes are way cheaper and have more rounds.
 
-# Don't spend all of your money
+### Don't spend all of your money
 
 Its UnityStation, you never know what is going to happen. You may have lost your gun or you just ran out of ammo. Usually saving money for later wont kill you, but not having any might.
 
-# Get access
+### Get access
 
 Your first task is to either get as much access as you can through the HoP, getting or stealing a card with all access or in the worst case getting a wirecutter, some wires and a screwdriver and start hacking open some doors. You need to go to all the places you can to get your items, and the capitan's bedroom may be the place you need to be.
 
-# Make others grief
+### Make others grief
 
 As a traitor, your best trait is not that you can grief, but that you can make others grief. Recruit some people and be amazaed of how many of them are willing to join the syndicate. People like to grief, and you are giving them the ultimate excuse to grief others, treachery. This works even in HRP servers of hardcore ss13, and will often go unpunished because of the power of friendship. Remember to try to convince people 1 on 1 if you can. I dont know why, but it seems to work best. Also beware, now they are traitors just as you, and they may betray you as well.
 
-# Be polite
+### Be polite
 
 This may be the best advice you can take. Somehow, if you are polite people can even turn a blind eye on you TRYING TO MURDER THEM if they are not entirely aware of your status as a traitor. If there is no shitcurity this round, they are going to pick the mean guy, and you are not the mean guy, BECAUSE YOU ARE POLITE. You are a traitor, so you will have to betray them, but you can make them WANT to be betrayed, because you are such a nice guy, mostly because they are roleplaying, and you are making them feel better being betrayed than not.
 
-# Go for that kill, but not in public
+### Go for that kill, but not in public
 
 Get a good rp reason to make people you want to kill to be alone with you when you want to kill them and where you want to kill them. Preferably when the rest of the station is in chaos. You should space the person you killed if you can, because if they are cloned they may start "remembering" stuff from their past life.
 
-# Go fast
+### Go fast
 
 Lag and people being distracted makes swift and effective actions often go unnoticed. If you are lucky and fast enough, you may even go through the entire command room, get to the capitain bedroom and loot everything without being noticed.
 
-# Just shoot
+### Just shoot
 
 People dont give a fuck about hearing a gunshot, its unitystation, thats part of the job and as long as you havent seen any traitors shooting, the shot is far and not important. This is not among us and probably no one is going to check who was the "big bad traitor who killed my buddy", so dont wait for it, make your moment and roleplay your way out. This may not be Dwarf Fortress since losing is not fun always, but it can be if you get permajailed after a really good phoenix wright simulator in a space station.
 
-# Helpful locations and how to get there
+### Helpful locations and how to get there
 
 The lockers have to be shot down if you want to get whats inside of them and dont have access. Get a gun.
 The Justitia is the HoS big laser gun and is on his locker on his office on security.
@@ -66,7 +66,7 @@ The Imperator is the Capitan's big laser gun and is on his locker on his bedroom
 The chain of command is a chain whip on the capitain's bedroom.
 The nuclear disk is the thing you use to turn on the nuke to the side of the capitan's bedroom (you also need a password, so dont try it unless you are nuke ops or similar). Its in the capitain's bedroom.
 
-# Grief and have fun
+## Grief and have fun
 
 If you dont want to do any hard work and just want to grief like a boss, you can. You are a traitor, anyway, so you can always argue its to "get your objectives done", because you need chaos to do so, and unitystation is always chaos (at least it should work in a MRP server). Kill that clown because you dont like him and BECOME the clown. Steal a plasma canister and blow half the station to pieces. You name it. You are the bad guy, you can always just roleplay a dick, but expect security to get you and put you into jail, or to die to the people you are trying to grief.
 
