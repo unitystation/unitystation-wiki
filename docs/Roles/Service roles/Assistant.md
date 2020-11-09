@@ -1,6 +1,7 @@
 # Assistant
 Role type: <font color="#4e7331">Service</font>. Access levels: Maintenance. Difficulty: <font color="Green">Easy</font>.
 
+"I've seen enough greysuits with more red than grey on them to work that job." -Chap McCip, writer of Much Ado About Robusting!, and The Drunkards Guide to losing 32% Less Limbs
 
 Assistants are the most expendable role on the station, and usually number one suspect whenever something goes wrong, be it a broken window or items missing from a department. Picking assistant is usually a good choice for anyone new to the game.
 
