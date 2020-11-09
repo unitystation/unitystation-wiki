@@ -27,14 +27,14 @@ Relicta is a abandoned station filled with [Zombies](Zombie.md), [Husks](Husk.md
 
 ### Arrivals
 
-![arrivals](zarrivles)
+![arrivals](zarrivles.PNG)
 
 ###  Botany
 
-![bot](zbot)
+![bot](zbot.PNG)
 
 ### Mining/Cargo 
 
- ![mine](Zmining)
+ ![mine](Zmining.PNG)
 
 {% include 'html/rolesnavbar.md' %}
