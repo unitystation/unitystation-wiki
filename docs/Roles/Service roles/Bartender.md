@@ -6,8 +6,9 @@
 
 ## Overview 
 
+So you're the Bartender, eh? Selling drinks to security officers and traitors? You'd better keep your beanbags handy." -Chap McCip, self-proclaimed Nanotransen 'Head Demolitions Expert' and 3 time 'War Opportunist'.
 
-The Bartender's job is to make sure those who want a drink get one. Serve your patrons, listen to their gossip and feed them useless advice. This job is better suited for those who would like a role play heavy experience from their game. Spark conversation, ask the crew how their day has been. Make up some specials or discounts to get people to come over. Make it fun.
+The Bartender's job is to make sure those who want a drink get one. Serve your patrons, try to deal with the Detective's 'rogue officer of the law' schtick, listen to their gossip, and feed them useless advice. This job is better suited for those who would like a role play heavy experience from their game. Spark conversation, ask the crew how their day has been. Make up some specials or discounts to get people to come over. Make it fun.
 
 
 
