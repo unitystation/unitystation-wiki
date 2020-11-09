@@ -5,27 +5,27 @@ The Palace is one of the possible teleporter destinations. It is currently unfin
 
 ## Village
 
-
+![villa](village)
 
 ##  Grand Church
 
-
+![church](Grandchurch)
 
 ##  Southwest Tower
 
-
+![tower](southwesttower)
 
 ##  Southeast Tower
 
-
+![tower](southesttower)
 
 ## Northeast Tower
 
-
+![tower](Northesttower)
 
 ##  Northwest Tower
 
- 
+ ![tower](Northwesttower)
 
 
 
