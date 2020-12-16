@@ -21,6 +21,37 @@ Traitors get 3 objectives, shown at the round start in the chat: Steal a random 
 
 At the start of your round as traitor, you will be given a password that you must put on the ringtone changer in your PDA, that password is usually composed of three NATO alphabet letters separated by dashes, another dash and three numbers. When you open your PDA, you go to options and below where it says ringtone changer you enter the password. Then, you will get to a screen that has weapons. Be sure to have your off hand empty and the items you select will be teleported there. However, the items cost credits, and you have only 20 of those to start. The items that have been tested and proven to work are the guns and the ammo mags, take other items at your own risk (im only 100% sure explosives dont work however).
 
+| Conspicuous Weapons              | Price |
+| -------------------------------- | ----- |
+| Cutthroat 9 Pistol               | 7TC   |
+| -Energy Sword                    | 8TC   |
+| -Lucifer .357 Magnum Revolver 8  | 9TC   |
+| -Reverse Revolver                | 8TC   |
+| **AMMUNITION**                   |       |
+| 9mm Pistol Magazine              | 1TC   |
+| .357 Speedloader                 | 4TC   |
+| **EXPLOSIVES**                   |       |
+| Syndicate Minibomb               | 6TC   |
+| **STEALTHY WEAPONS**             |       |
+| Energy Dagger                    | 2TC   |
+| Miniature Energy Crossbow        | 10TC  |
+| Syndicate Holster                | 1TC   |
+| **SUITS**                        |       |
+| Syndicate Spacesuit              | 4TC   |
+| Syndicate Hardsuit               | 8TC   |
+| **MSIC. GADGETS**                |       |
+| Blood-Red Magboots               | 2TC   |
+| Chest Rig                        | 1TC   |
+| Cryptographic Sequencer          | 6TC   |
+| Full Syndicate Toolbox           | 1TC   |
+| Syndicate Soap                   |       |
+| (POINTLESS) BADASSERY            |       |
+| Syndicate Balloon                | 20TC  |
+| Syndicate Briefcase Full of Cash | 1TC   |
+| Syndicate Smokes (cigarette)     | 2TC   |
+| **Bundles**                      |       |
+| N/A                              |       |
+
 ## The treachery tricks
 
 As a traitor, you must kill a person and get an item. In small rounds (little players, not all the roles covered), that means entering a high security area and sooting down a locker and killing someone. In big rounds it means killing a higher up and praying they have their item on them, and then killing some random dude. As the higher ups are usually at least half competent at the game, this is a hard task, not even taking into account security. However, there are some things you can do:

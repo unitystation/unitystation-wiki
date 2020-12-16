@@ -13,14 +13,51 @@ As a nuke operative you will spawn aboard or near a Syndicate shuttle. This shut
 ### Your gear and you
 
 
-The typical nukie gear consists of your uniform, night vision goggles, hardsuit helm, a syndicate mask, your signature red hardsuit, a pair of red magboots or a pair of black jackboots, your headset, gloves, an oxygen tank, a c20r smg, and your trusty stetchkin pistol. Your night vision does exactly what youd expect, letting you see in dark areas. The hardsuit helm and torso pieces make you immune to the cold and pressure, while offering very decent protection against weapons and explosives. You are not invincible in these however, and getting shot will still hurt. The headset doesn't let you hear the crew, but it does give you access to your own syndicate channel. The c20r will be your main offensive weapon, it is fully automatic and comparable to security's own p90, be sure to bring extra ammo for it, as it burns through magazines rapidly. the stetchkin is a small but scrappy fallback pistol. Use it if you've run out of other ammo or wish to conserve it. It is better than the security pistol but that isn't saying much. One of the best uses for the pistol, however, is getting someone out of the way, as one or two shots will usually send any unarmed crew member running. All this gear can be used along with more specialized tools, such as grenades for flushing out crew or a machine-gun for true rip-and-tear action. Be creative with your gear and strategize before hand, its how you'll win! speaking of which:
+The typical nukie gear consists of your uniform, night vision goggles, hardsuit helm, a syndicate mask, your signature red hardsuit, a pair of red magboots or a pair of black jackboots, your headset, gloves, an oxygen tank, a c20r smg, telecommunication uplink, and your trusty stetchkin pistol. Your night vision does exactly what youd expect, letting you see in dark areas. The hardsuit helm and torso pieces make you immune to the cold and pressure, while offering very decent protection against weapons and explosives. You are not invincible in these however, and getting shot will still hurt. The headset doesn't let you hear the crew, but it does give you access to your own syndicate channel. The c20r will be your main offensive weapon, it is fully automatic and comparable to security's own p90, be sure to bring extra ammo for it, as it burns through magazines rapidly. the stetchkin is a small but scrappy fallback pistol. Use it if you've run out of other ammo or wish to conserve it. It is better than the security pistol but that isn't saying much. One of the best uses for the pistol, however, is getting someone out of the way, as one or two shots will usually send any unarmed crew member running. All this gear can be used along with more specialized tools, such as grenades for flushing out crew or a machine-gun for true rip-and-tear action. Be creative with your gear and strategize before hand, its how you'll win! speaking of which:
 ### How to do your job
 
-
 You need to get the [Nuclear Authentication Disk](Nuclear-Authentication-Disk.md). The pinpointer in your pack will show a large arrow pointing directly to it. plan with your fellow operatives as to how you'll approach it, will you infiltrate stealthily as miners, sneak up and blow open a wall to surprise security, or ram the shuttle directly into the station? <s>Once</s> If you get the disk, you will need to bring it back to nuke and insert it in. Enter the code you got at roundstart, unlock it, drag it over to the station, start the timer, and run like hell!
+
+###  How to use TC Shop
+
+First what you need to do is open your PDA, go to settings, click in the textbox underneath "Change Ringtone" and type in that ***case sensitive*** code you see in chat. The code should look something like **"Echo-Hotel-Kilo-350"** Don't forget the code, not even an admin can get it back without respawning you (as of version 4116). You have a max of 20TC per round.
+
+
+
+| Conspicuous Weapons              | Price |
+| -------------------------------- | ----- |
+| Cutthroat 9 Pistol               | 7TC   |
+| -Energy Sword                    | 8TC   |
+| -Lucifer .357 Magnum Revolver 8  | 9TC   |
+| -Reverse Revolver                | 8TC   |
+| **AMMUNITION**                   |       |
+| 9mm Pistol Magazine              | 1TC   |
+| .357 Speedloader                 | 4TC   |
+| **EXPLOSIVES**                   |       |
+| Syndicate Minibomb               | 6TC   |
+| **STEALTHY WEAPONS**             |       |
+| Energy Dagger                    | 2TC   |
+| Miniature Energy Crossbow        | 10TC  |
+| Syndicate Holster                | 1TC   |
+| **SUITS**                        |       |
+| Syndicate Spacesuit              | 4TC   |
+| Syndicate Hardsuit               | 8TC   |
+| **MSIC. GADGETS**                |       |
+| Blood-Red Magboots               | 2TC   |
+| Chest Rig                        | 1TC   |
+| Cryptographic Sequencer          | 6TC   |
+| Full Syndicate Toolbox           | 1TC   |
+| Syndicate Soap                   |       |
+| (POINTLESS) BADASSERY            |       |
+| Syndicate Balloon                | 20TC  |
+| Syndicate Briefcase Full of Cash | 1TC   |
+| Syndicate Smokes (cigarette)     | 2TC   |
+| **Bundles**                      |       |
+| N/A                              |       |
+
+
+
 ### How to improve
-
-
 
 Nuke ops are generally very confrontational. Unlike most traitors you cant use the argument that you mean no harm, as you absolutely do. As such you will spend most of your time running around and shooting things. To get better at this, you can play <s>a catgirl clown</s> [security](Security.md). If your doing this, try being on patrol and responding to shootouts as often as possible. Maybe, just maybe, you could [[So close to impossible that it might as well not even exist|figure out a peaceful approach?]]
 
