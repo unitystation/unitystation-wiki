@@ -21,36 +21,38 @@ Traitors get 3 objectives, shown at the round start in the chat: Steal a random 
 
 At the start of your round as traitor, you will be given a password that you must put on the ringtone changer in your PDA, that password is usually composed of three NATO alphabet letters separated by dashes, another dash and three numbers. When you open your PDA, you go to options and below where it says ringtone changer you enter the password. Then, you will get to a screen that has weapons. Be sure to have your off hand empty and the items you select will be teleported there. However, the items cost credits, and you have only 20 of those to start. The items that have been tested and proven to work are the guns and the ammo mags, take other items at your own risk (im only 100% sure explosives dont work however).
 
-| Conspicuous Weapons              | Price |
-| -------------------------------- | ----- |
-| Cutthroat 9 Pistol               | 7TC   |
-| -Energy Sword                    | 8TC   |
-| -Lucifer .357 Magnum Revolver 8  | 9TC   |
-| -Reverse Revolver                | 8TC   |
-| **AMMUNITION**                   |       |
-| 9mm Pistol Magazine              | 1TC   |
-| .357 Speedloader                 | 4TC   |
-| **EXPLOSIVES**                   |       |
-| Syndicate Minibomb               | 6TC   |
-| **STEALTHY WEAPONS**             |       |
-| Energy Dagger                    | 2TC   |
-| Miniature Energy Crossbow        | 10TC  |
-| Syndicate Holster                | 1TC   |
-| **SUITS**                        |       |
-| Syndicate Spacesuit              | 4TC   |
-| Syndicate Hardsuit               | 8TC   |
-| **MSIC. GADGETS**                |       |
-| Blood-Red Magboots               | 2TC   |
-| Chest Rig                        | 1TC   |
-| Cryptographic Sequencer          | 6TC   |
-| Full Syndicate Toolbox           | 1TC   |
-| Syndicate Soap                   |       |
-| (POINTLESS) BADASSERY            |       |
-| Syndicate Balloon                | 20TC  |
-| Syndicate Briefcase Full of Cash | 1TC   |
-| Syndicate Smokes (cigarette)     | 2TC   |
-| **Bundles**                      |       |
-| N/A                              |       |
+
+
+| <font color="red">Conspicuous Weapons</font>       | <font color="blue">Price</font> |
+| -------------------------------------------------- | :-----------------------------: |
+| Cutthroat 9 Pistol                                 |  <font color="blue">7TC</font>  |
+| Energy Sword                                       |  <font color="blue">8TC</font>  |
+| Lucifer .357 Magnum Revolver 8                     |  <font color="blue">9TC</font>  |
+| Reverse Revolver                                   |  <font color="blue">8TC</font>  |
+| **<font color="red">AMMUNITION</font>**            |                                 |
+| 9mm Pistol Magazine                                |  <font color="blue">1TC</font>  |
+| .357 Speedloader                                   |  <font color="blue">4TC</font>  |
+| <font color="red">**EXPLOSIVES**</font>            |                                 |
+| Syndicate Minibomb                                 |  <font color="blue">6TC</font>  |
+| <font color="red">**STEALTHY WEAPONS**</font>      |                                 |
+| Energy Dagger                                      |  <font color="blue">2TC</font>  |
+| Miniature Energy Crossbow                          | <font color="blue">10TC</font>  |
+| Syndicate Holster                                  |  <font color="blue">1TC</font>  |
+| <font color="red">**SUITS**</font>                 |                                 |
+| Syndicate Spacesuit                                |  <font color="blue">4TC</font>  |
+| Syndicate Hardsuit                                 |  <font color="blue">8TC</font>  |
+| <font color="red">**MSIC. GADGETS**</font>         |                                 |
+| Blood-Red Magboots                                 |  <font color="blue">2TC</font>  |
+| Chest Rig                                          |  <font color="blue">1TC</font>  |
+| Cryptographic Sequencer                            |  <font color="blue">6TC</font>  |
+| Full Syndicate Toolbox                             |  <font color="blue">1TC</font>  |
+| Syndicate Soap                                     |                                 |
+| <font color="red">**(POINTLESS) BADASSERY**</font> |                                 |
+| Syndicate Balloon                                  | <font color="blue">20TC</font>  |
+| Syndicate Briefcase Full of Cash                   |  <font color="blue">1TC</font>  |
+| Syndicate Smokes (cigarette)                       |  <font color="blue">2TC</font>  |
+| <font color="red">**Bundles**</font>               |                                 |
+| N/A                                                |                                 |
 
 ## The treachery tricks
 

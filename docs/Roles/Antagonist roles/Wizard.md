@@ -15,7 +15,7 @@ _coming soon_
 
 ## Spells
 
-| # Spell Name     | Cost | Cooldown | description | Invocation |
+| Spell Name     | Cost | Cooldown | description | Invocation |
 | -------------------- | ---- | -------- | ----------- | ---------- |
 | **Offensive Spells** |      |          |Used to kill or otherwise injure others             |            |
 | Fireball | 2 spell points | 6 seconds | Summons an explosive fireball. When thrown, it will explode upon hitting a target, dealing a high amount of fire damage. Maximum range 8 tiles |ONI'SOMA! |
@@ -27,10 +27,10 @@ _coming soon_
 
 ## Artifacts
 
-| # Artifact Name     | Cost | description |
+| Artifact Name     | Cost | description |
 | - | - | - |
 | **Defensive Artifacts** |      |      |
-| Mastercrafted Armor | 2 spell points | Delivered via a drop pod landing on the wizard's tile. **Move out of the way or you will be crushed.** A magic-encrusted spacesuit. It slows you down a bit, but it provides good armor. |
+| Master crafted Armor | 2 spell points | Delivered via a drop pod landing on the wizard's tile. **Move out of the way or you will be crushed.** A magic-encrusted spacesuit. It slows you down a bit, but it provides good armor. |
 
 ## The Friendly Wizard
 
