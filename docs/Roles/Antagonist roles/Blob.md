@@ -30,12 +30,12 @@ So you took one extra taco from the kitchen and now feel the sudden urge to walk
 
 Eats everything in its path, items, objects, and humanoids. Can reactively throw debris at attacking beings.
 
-| Damage Types  |       |      |      |
-| ------------- | ----- | ---- | ---- |
-| Player Damage |       |      |      |
-|               | Brute | 20   |      |
-| Object damage |       |      |      |
-|               | Brute | 50   |      |
+| Damage Types  |       |      |
+| ------------- | ----- | ---- |
+| Player Damage |       |      |
+|               | Brute | 20   |
+| Object damage |       |      |
+|               | Brute | 50   |
 
 
 
@@ -57,13 +57,13 @@ Eats everything in its path, items, objects, and humanoids. Can reactively throw
 
 More undead shall walk this station.
 
-| Damage Types  |       |      |      |
-| ------------- | ----- | ---- | ---- |
-| Player Damage |       |      |      |
-|               | Brute | 5    |      |
-|               | Toxin | 15   |      |
-| Object damage |       |      |      |
-|               | Brute | 50   |      |
+| Damage Types  |       |      |
+| ------------- | ----- | ---- |
+| Player Damage |       |      |
+|               | Brute | 5    |
+|               | Toxin | 15   |
+| Object damage |       |      |
+|               | Brute | 50   |
 
 
 
@@ -85,13 +85,13 @@ More undead shall walk this station.
 
 Localized electromagnetic pulses are emitted through the web of connected blob, keep electronics away.
 
-| Damage Types  |       |      |      |
-| ------------- | ----- | ---- | ---- |
-| Player Damage |       |      |      |
-|               | Brute | 5    |      |
-|               | Toxin | 25   |      |
-| Object damage |       |      |      |
-|               | Brute | 50   |      |
+| Damage Types  |       |      |
+| ------------- | ----- | ---- |
+| Player Damage |       |      |
+|               | Brute | 5    |
+|               | Toxin | 25   |
+| Object damage |       |      |
+|               | Brute | 50   |
 
 
 
@@ -113,12 +113,12 @@ Localized electromagnetic pulses are emitted through the web of connected blob, 
 
 Blob has adpated to become a bomb itself, and has become immune to explosions. Be careful of fires
 
-| Damage Types  |       |      |      |
-| ------------- | ----- | ---- | ---- |
-| Player Damage |       |      |      |
-|               | Brute | 20   |      |
-| Object damage |       |      |      |
-|               | Brute | 50   |      |
+| Damage Types  |       |      |
+| ------------- | ----- | ---- |
+| Player Damage |       |      |
+|               | Brute | 20   |
+| Object damage |       |      |
+|               | Brute | 50   |
 
 
 
@@ -144,13 +144,13 @@ Can only expand manually (by clicking). can only expand next to core. manual exp
 
 
 
-| Damage Types  |       |      |      |
-| ------------- | ----- | ---- | ---- |
-| Player Damage |       |      |      |
-|               | Brute | 20   |      |
-|               | Toxin | 15   |      |
-| Object damage |       |      |      |
-|               | Brute | 50   |      |
+| Damage Types  |       |      |
+| ------------- | ----- | ---- |
+| Player Damage |       |      |
+|               | Brute | 20   |
+|               | Toxin | 15   |
+| Object damage |       |      |
+|               | Brute | 50   |
 
 
 
@@ -174,14 +174,14 @@ Filled with water, this blob isn't afraid to get wet.
 
 
 
-| Damage Types  |         |      |      |
-| ------------- | ------- | ---- | ---- |
-| Player Damage |         |      |      |
-|               | Brute   | 15   |      |
-|               | Oxy     | 10   |      |
-|               | Stamina | 25   |      |
-| Object damage |         |      |      |
-|               | Brute   | 50   |      |
+| Damage Types  |         |      |
+| ------------- | ------- | ---- |
+| Player Damage |         |      |
+|               | Brute   | 15   |
+|               | Oxy     | 10   |
+|               | Stamina | 25   |
+| Object damage |         |      |
+|               | Brute   | 50   |
 
 
 
@@ -203,12 +203,12 @@ Filled with water, this blob isn't afraid to get wet.
 
 A spike blob, dangerous to attack head on. will fight back
 
-| Damage Types  |       |      |      |
-| ------------- | ----- | ---- | ---- |
-| Player Damage |       |      |      |
-|               | Brute | 5    |      |
-| Object damage |       |      |      |
-|               | Brute | 50   |      |
+| Damage Types  |       |      |
+| ------------- | ----- | ---- |
+| Player Damage |       |      |
+|               | Brute | 5    |
+| Object damage |       |      |
+|               | Brute | 50   |
 
 
 
@@ -230,13 +230,13 @@ A spike blob, dangerous to attack head on. will fight back
 
 Blob core health regenerative abilities are extreme and produce extra resource.
 
-| Damage Types  |       |      |      |
-| ------------- | ----- | ---- | ---- |
-| Player Damage |       |      |      |
-|               | Brute | 5    |      |
-|               | Toxin | 17   |      |
-| Object damage |       |      |      |
-|               | Brute | 50   |      |
+| Damage Types  |       |      |
+| ------------- | ----- | ---- |
+| Player Damage |       |      |
+|               | Brute | 5    |
+|               | Toxin | 17   |
+| Object damage |       |      |
+|               | Brute | 50   |
 
 
 
@@ -260,12 +260,12 @@ Burning causes the blob to spread out over an area, but it can still be over bur
 
 
 
-| Damage Types  |       |      |      |
-| ------------- | ----- | ---- | ---- |
-| Player Damage |       |      |      |
-|               | Brute | 22   |      |
-| Object damage |       |      |      |
-|               | Brute | 50   |      |
+| Damage Types  |       |      |
+| ------------- | ----- | ---- |
+| Player Damage |       |      |
+|               | Brute | 22   |
+| Object damage |       |      |
+|               | Brute | 50   |
 
 
 
@@ -287,12 +287,12 @@ Burning causes the blob to spread out over an area, but it can still be over bur
 
 When damaged blob always swaps positions with a nearby blob.
 
-| Damage Types  |       |      |      |
-| ------------- | ----- | ---- | ---- |
-| Player Damage |       |      |      |
-|               | Brute | 22   |      |
-| Object damage |       |      |      |
-|               | Brute | 50   |      |
+| Damage Types  |       |      |
+| ------------- | ----- | ---- |
+| Player Damage |       |      |
+|               | Brute | 22   |
+| Object damage |       |      |
+|               | Brute | 50   |
 
 
 
@@ -314,12 +314,12 @@ When damaged blob always swaps positions with a nearby blob.
 
 Damage to the blob will be spread out in order for higher chance of survival
 
-| Damage Types  |       |      |      |
-| ------------- | ----- | ---- | ---- |
-| Player Damage |       |      |      |
-|               | Brute | 17   |      |
-| Object damage |       |      |      |
-|               | Brute | 50   |      |
+| Damage Types  |       |      |
+| ------------- | ----- | ---- |
+| Player Damage |       |      |
+|               | Brute | 17   |
+| Object damage |       |      |
+|               | Brute | 50   |
 
 
 
