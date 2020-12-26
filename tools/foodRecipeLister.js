@@ -79,7 +79,13 @@ const init = () => {
       prefabIdToSpriteIdDictionary[prefabData.prefabId] = prefabData.spriteId;
   });
 
-  console.log(prefabIdToSpriteIdDictionary);
+  textureFiles.forEach((fileName) => {
+    const pngMetaData = utils.extractTextureData(fileName);
+    spriteIdToImageDictionary[pngMetaData.textureId] = pngMetaData.pngFileName;
+  });
+  console.log(spriteIdToImageDictionary);
+
+  //    console.log(prefabIdToSpriteIdDictionary);
 
   //  console.log(craftables);
   //    console.log(craftables);
@@ -117,7 +123,7 @@ utils.walk(prefabPath, (err, res) => {
 });
 
 utils.walk(texturePath, (err, res) => {
-  textureFiles = res.filter((arg) => arg.indexOf(".meta") !== -1);
+  textureFiles = res.filter((arg) => arg.indexOf(".png.meta") !== -1);
   foldersRead++;
   init();
 });

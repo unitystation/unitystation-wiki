@@ -117,8 +117,20 @@ const extractPrefabData = (fileName) => {
   };
 };
 
+const extractTextureData = (fileName) => {
+  const pngMetaContents = fs.readFileSync(fileName).toString();
+  const textureId = pngMetaContents.split("guid: ")[1].split("\r\n")[0];
+
+  let pngFileName = fileName.split(".meta")[0];
+  return {
+    textureId,
+    pngFileName,
+  };
+};
+
 module.exports = {
   walk,
   extractRecipeFromScriptableObjectFile,
   extractPrefabData,
+  extractTextureData,
 };
