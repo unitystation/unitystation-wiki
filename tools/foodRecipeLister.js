@@ -83,6 +83,7 @@ const init = () => {
     const pngMetaData = utils.extractTextureData(fileName);
     spriteIdToImageDictionary[pngMetaData.textureId] = pngMetaData.pngFileName;
   });
+
   console.log(spriteIdToImageDictionary);
 
   //    console.log(prefabIdToSpriteIdDictionary);
