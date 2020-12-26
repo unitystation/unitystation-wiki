@@ -91,15 +91,26 @@ const init = () => {
     const prefabId = craftable.prefabId;
     const textureId = prefabIdToSpriteIdDictionary[prefabId];
     const pngFilePath = spriteIdToImageDictionary[textureId];
+    delete spriteIdToImageDictionary[textureId];
     //    console.log(craftable.name, craftable.ingredients, pngFilePath);
     finalList +=
       `${craftable.name},${craftable.ingredients},${pngFilePath}` + "\r\n";
   });
 
+  fs.unlinkSync("orphaned.txt");
+  fs.unlinkSync("recipes.txt");
+
+  fs.writeFile(
+    "orphaned.txt",
+    Object.values(spriteIdToImageDictionary).join(", \r\n"),
+    function (err) {
+      if (err) return console.log(err);
+    }
+  );
+
   fs = require("fs");
-  fs.writeFile("helloworld.txt", finalList, function (err) {
+  fs.writeFile("recipes.txt", finalList, function (err) {
     if (err) return console.log(err);
-    console.log("Hello World > helloworld.txt");
   });
 };
 

@@ -74,11 +74,13 @@ const extractRecipeFromScriptableObjectFile = (fileName) => {
     recipe.ingredients.length - 3
   );
 
-  if (isCraftable) {
-    return recipe;
-  } else {
-    return null;
-  }
+  return recipe;
+
+  // if (isCraftable) {
+  //   return recipe;
+  // } else {
+  //   return null;
+  // }
 };
 
 /**
@@ -94,11 +96,12 @@ const extractPrefabData = (fileName) => {
     prefabContents = fs.readFileSync(fileName.split(".meta")[0]).toString();
   } catch {
     // edge case for .meta files with no prefab (folders)
-    console.log("booo");
     return null;
   }
 
   let spriteId = null;
+  //  let spriteSheetId = null;
+
   if (prefabContents.indexOf("m_Sprite") !== -1) {
     try {
       spriteId = prefabContents
@@ -107,7 +110,19 @@ const extractPrefabData = (fileName) => {
         .split(",")[0];
     } catch {
       // edge case for prefabs with no sprites. the fk are those?
-      return null;
+      //return null;
+    }
+  }
+
+  if (spriteId === null && prefabContents.indexOf("PresentSpriteSet") !== -1) {
+    try {
+      spriteId = prefabContents
+        .split("PresentSpriteSet")[1]
+        .split("guid: ")[1]
+        .split(",")[0];
+    } catch {
+      // edge case for prefabs with no sprites. the fk are those?
+      //return null;
     }
   }
 
