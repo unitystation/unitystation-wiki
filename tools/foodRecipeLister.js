@@ -31,6 +31,17 @@ const PREFAB_FOLDER = "/Assets/Resources/Prefabs/Items/Food/";
 // eg:we'll search for files containing 'bearburger'
 const TEXTURE_FOLDER = "/Assets/Textures/items/food";
 
+/** list of caftables
+ * contains a whole lotts
+ * {
+    name: "",
+    ingredients: "",
+    prefabId: "",
+    textureId: "",
+    texturePath
+  };
+ * 
+ */
 let craftables = [];
 
 let assetFiles = [];
@@ -52,7 +63,7 @@ const init = () => {
   }
   craftables = readRecipes(assetFiles);
 
-  console.log(craftables);
+  //  console.log(craftables);
   //    console.log(craftables);
 
   // craftables.map(craftable => {
@@ -81,9 +92,15 @@ utils.walk(scriptablePath, (err, res) => {
 });
 
 utils.walk(prefabPath, (err, res) => {
-  prefabFiles = res.filter(
-    (arg) => arg.indexOf(".png") !== -1 && arg.indexOf(".meta") === -1
-  );
+  const prefabMetaFiles = res.filter((arg) => arg.indexOf(".meta") !== -1);
+
+  prefabMetaFiles.forEach((fileName) => {
+    const prefabId = utils.extractPrefabIdFromMetaFile(fileName);
+    // point to the actual prefab file
+    prefabFiles[prefabId] = fileName.split(".meta")[0];
+  });
+
+  console.log(prefabFiles);
   foldersRead++;
   init();
 });

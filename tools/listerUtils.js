@@ -43,7 +43,8 @@ const extractRecipeFromScriptableObjectFile = (fileName) => {
     name: "",
     ingredients: "",
     prefabId: "",
-    texture: "",
+    textureId: "",
+    texturePath: "",
   };
 
   let isCraftable = false;
@@ -79,7 +80,26 @@ const extractRecipeFromScriptableObjectFile = (fileName) => {
   }
 };
 
+/**
+ * Reads the prefab id from a given fileName
+ * @param {string} fileName
+ */
+const extractPrefabIdFromMetaFile = (fileName) => {
+  const fileContents = fs.readFileSync(fileName).toString();
+  return fileContents.split("guid: ")[1].split("\r\n")[0];
+
+  //   const lines = fileContents.split("\r\n");
+  //   lines.forEach((line) => {
+  //     if (line.indexOf("guid: ") !== -1) {
+  //       const prefabId = line.split("guid: ")[1];
+  //       return prefabId;
+  //     }
+  //   });
+  //   return null;
+};
+
 module.exports = {
   walk,
   extractRecipeFromScriptableObjectFile,
+  extractPrefabIdFromMetaFile,
 };
