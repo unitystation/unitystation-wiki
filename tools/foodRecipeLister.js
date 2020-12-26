@@ -43,9 +43,16 @@ const TEXTURE_FOLDER = "/Assets/Textures/items/food";
  * 
  */
 let craftables = [];
+// pairs PREFAB_ID with SPRITE_ID
+let prefabIdToSpriteIdDictionary = {};
+// pairs PREFAB_ID with SPRITE_ID
+let spriteIdToImageDictionary = {};
 
-let assetFiles = [];
-let prefabFiles = {};
+// list of all scriptableObject files
+let scriptableFiles = [];
+// list of all prefab meta files
+let prefabMetaFiles = [];
+// list of all texture meta files
 let textureFiles = [];
 
 var foldersRead = 0;
@@ -57,11 +64,22 @@ var foldersRead = 0;
 // }
 
 const init = () => {
-  if (foldersRead !== 2) {
+  if (foldersRead !== 3) {
     //        console.log(' not ready yet ');
     return;
   }
-  craftables = readRecipes(assetFiles);
+  // STEP 1. read the craftables from the list of all possible scriptables (some are not craftable!)
+  craftables = readRecipes(scriptableFiles);
+
+  // STEP 2. create a list of all the prefab id's and their correspond sprite guid
+  prefabMetaFiles.forEach((fileName) => {
+    const prefabData = utils.extractPrefabData(fileName);
+    // point to the actual prefab file
+    if (prefabData)
+      prefabIdToSpriteIdDictionary[prefabData.prefabId] = prefabData.spriteId;
+  });
+
+  console.log(prefabIdToSpriteIdDictionary);
 
   //  console.log(craftables);
   //    console.log(craftables);
@@ -81,10 +99,11 @@ const init = () => {
 var basePath = "C:/git/unitystation/UnityProject";
 const scriptablePath = basePath + SCRIPTABLE_FOLDER;
 const prefabPath = basePath + PREFAB_FOLDER;
+const texturePath = basePath + TEXTURE_FOLDER;
 
 utils.walk(scriptablePath, (err, res) => {
   // only the .asset interest us
-  assetFiles = res.filter(
+  scriptableFiles = res.filter(
     (arg) => arg.indexOf(".asset") !== -1 && arg.indexOf(".meta") === -1
   );
   foldersRead++;
@@ -92,15 +111,13 @@ utils.walk(scriptablePath, (err, res) => {
 });
 
 utils.walk(prefabPath, (err, res) => {
-  const prefabMetaFiles = res.filter((arg) => arg.indexOf(".meta") !== -1);
+  prefabMetaFiles = res.filter((arg) => arg.indexOf(".meta") !== -1);
+  foldersRead++;
+  init();
+});
 
-  prefabMetaFiles.forEach((fileName) => {
-    const prefabId = utils.extractPrefabIdFromMetaFile(fileName);
-    // point to the actual prefab file
-    prefabFiles[prefabId] = fileName.split(".meta")[0];
-  });
-
-  console.log(prefabFiles);
+utils.walk(texturePath, (err, res) => {
+  textureFiles = res.filter((arg) => arg.indexOf(".meta") !== -1);
   foldersRead++;
   init();
 });

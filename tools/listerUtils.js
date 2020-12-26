@@ -84,22 +84,41 @@ const extractRecipeFromScriptableObjectFile = (fileName) => {
  * Reads the prefab id from a given fileName
  * @param {string} fileName
  */
-const extractPrefabIdFromMetaFile = (fileName) => {
-  const fileContents = fs.readFileSync(fileName).toString();
-  return fileContents.split("guid: ")[1].split("\r\n")[0];
+const extractPrefabData = (fileName) => {
+  const metaContents = fs.readFileSync(fileName).toString();
+  const prefabId = metaContents.split("guid: ")[1].split("\r\n")[0];
 
-  //   const lines = fileContents.split("\r\n");
-  //   lines.forEach((line) => {
-  //     if (line.indexOf("guid: ") !== -1) {
-  //       const prefabId = line.split("guid: ")[1];
-  //       return prefabId;
-  //     }
-  //   });
-  //   return null;
+  let prefabContents;
+  try {
+    prefabContents = fs.readFileSync(fileName.split(".meta")[0]).toString();
+  } catch {
+    // edge case for .meta files with no prefab (folders)
+    return null;
+  }
+
+  let spriteId = null;
+  if (prefabContents.indexOf("m_Sprite") !== -1) {
+    try {
+      spriteId = prefabContents
+        .split("m_Sprite")[1]
+        .split("guid: ")[1]
+        .split(",")[0];
+    } catch {
+      // edge case for prefabs with no sprites. the fk are those?
+      return null;
+    }
+  }
+
+  if (spriteId === null) return null;
+
+  return {
+    prefabId,
+    spriteId,
+  };
 };
 
 module.exports = {
   walk,
   extractRecipeFromScriptableObjectFile,
-  extractPrefabIdFromMetaFile,
+  extractPrefabData,
 };
