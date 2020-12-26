@@ -2,6 +2,30 @@ var fs = require('fs');
 var path = require('path');
 
 
+// scriptableobject -> prefab -> sprite
+// 1) c:\git\unitystation\UnityProject\Assets\Resources\ScriptableObjects\FoodRecipes\
+// read
+// Name: Meat Donut
+//   Ingredients:
+//   - requiredAmount: 1
+//     ingredientName: raw cutlet
+//   - requiredAmount: 1
+//     ingredientName: pastry base
+//   Output: {fileID: 5602298466666205948, guid: c3aae48c2e0c81140a838e4e5a6f5b2a, type: 3}
+
+
+// 2 c:\git\unitystation\UnityProject\Assets\Resources\Prefabs\Items\Food\Snacks\
+// read donutmeat.meta -> get guid
+// read donutmean.prefab -> get the sprite!
+
+
+// 3 READ THE TEXTURES FROM c:\git\unitystation\UnityProject\Assets\Textures\items\food\
+// read the .asset files, get the guid!
+// match with png!
+
+
+
+
 // this is where we are reading the craftable recipes from. 
 // eg: we will find a 'bearburger' recipe
 const CRAFTABLE_FOLDER = '/Assets/Resources/ScriptableObjects/FoodRecipes';
@@ -60,7 +84,13 @@ const init = ()  => {
 
 //    console.log(craftables);
     craftables.map(craftable => {
-        matchRecipeNameWithImage(craftable.textureName, textureFiles)
+        const matchedImage = matchRecipeNameWithImage(craftable.textureName, textureFiles)
+        if (matchedImage) {
+            console.log(`matched ${craftable.name} with ${matchedImage}`)
+        }
+        else {
+            console.log('---- not matched', craftable.name);
+        }
     })
 //    
 }
@@ -88,11 +118,10 @@ const matchRecipeNameWithImage = (recipeName, textureFiles) => {
     const filesNr = textureFiles.length;
     for (let i=0; i<filesNr; i++) {
         if (textureFiles[i].indexOf(lowerCaseRecipeName) !== -1) {
-            console.log(`matched ${recipeName} with ${textureFiles[i]}`)
-            return;
-            // return textureFiles[i];
+            return textureFiles[i];
         }
     }
+    return null;
 }
 
 const readRecipes = (filesList) => {
