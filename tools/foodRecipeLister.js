@@ -84,7 +84,13 @@ const init = () => {
     spriteIdToImageDictionary[pngMetaData.textureId] = pngMetaData.pngFileName;
   });
 
-  console.log(spriteIdToImageDictionary);
+  //  console.log(spriteIdToImageDictionary);
+  craftables.forEach((craftable) => {
+    const prefabId = craftable.prefabId;
+    const textureId = prefabIdToSpriteIdDictionary[prefabId];
+    const pngFilePath = spriteIdToImageDictionary[textureId];
+    console.log(craftable.name, craftable.ingredients, pngFilePath);
+  });
 
   //    console.log(prefabIdToSpriteIdDictionary);
 
