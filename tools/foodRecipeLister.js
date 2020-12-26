@@ -2,14 +2,26 @@ var fs = require('fs');
 var path = require('path');
 
 
-const craftables = [];
+// this is where we are reading the craftable recipes from. 
+// eg: we will find a 'bearburger' recipe
+const CRAFTABLE_FOLDER = '/Assets/Resources/ScriptableObjects/FoodRecipes';
+
+// this is where we're trying to find the textures, based on the recipe name. 
+// eg:we'll search for files containing 'bearburger'
+const TEXTURE_FOLDER = '/Assets/Textures/items/food';
+
+let craftables = [];
+
+let assetFiles = []
+let textureFiles = [];
+
+var foldersRead = 0;
 
 // const pathToUnityProject = process.argv[2];
 // console.log('foobar ', pathToUnityProject);
 // if (typeof(pathToUnityProject) === "undefined" || pathToUnityProject.indexOf('UnityProject') !== -1) {
 //     throw new Error('You must specify a path to the UnityProject folder!');
 // }
-
 
 /**
  * Read a folder structure recursively
@@ -39,24 +51,60 @@ const walk = (dir, done) => {
 };
 
 
+const init = ()  => {
+    if (foldersRead !== 2) {
+//        console.log(' not ready yet ');
+        return;
+    }
+    craftables = readRecipes(assetFiles);
+
+//    console.log(craftables);
+    craftables.map(craftable => {
+        matchRecipeNameWithImage(craftable.textureName, textureFiles)
+    })
+//    
+}
+
 var basePath =  'C:/git/unitystation/UnityProject';
-var prefabPath = basePath + '/Assets/Resources/ScriptableObjects/FoodRecipes';
+const prefabPath = basePath + CRAFTABLE_FOLDER;
+const texturePath = basePath + TEXTURE_FOLDER;
 
 walk(prefabPath, (err, res) => {
     // only the .asset interest us
-    const assetFiles = res.filter(arg => arg.indexOf('.asset') !== -1 && arg.indexOf('.meta') === -1);
-    readRecipes(assetFiles)
+    assetFiles = res.filter(arg => arg.indexOf('.asset') !== -1 && arg.indexOf('.meta') === -1);
+    foldersRead++;
+    init();
 })
 
+walk(texturePath, (err, res) => {
+    textureFiles = res.filter(arg => arg.indexOf('.png') !== -1 && arg.indexOf('.meta') === -1);
+    foldersRead++;
+    init();    
+});
+
+
+const matchRecipeNameWithImage = (recipeName, textureFiles) => {
+    const lowerCaseRecipeName = recipeName.toLowerCase();
+    const filesNr = textureFiles.length;
+    for (let i=0; i<filesNr; i++) {
+        if (textureFiles[i].indexOf(lowerCaseRecipeName) !== -1) {
+            console.log(`matched ${recipeName} with ${textureFiles[i]}`)
+            return;
+            // return textureFiles[i];
+        }
+    }
+}
+
 const readRecipes = (filesList) => {
-//   console.log('reading ', filesList);
-    console.log('read Recipes');
+    const myRecipes = [];
     filesList.map(file => {
         const newRecipe = extractRecipeFromFile(file);
-        if (newRecipe) craftables.push(newRecipe);
+        if (newRecipe) myRecipes.push(newRecipe);
     })
-    console.log(craftables);
+    return myRecipes;
 }
+
+
 
 
  /**
@@ -68,28 +116,42 @@ const extractRecipeFromFile = (fileName) => {
     const fileContents = fs.readFileSync(fileName).toString();
     
     const lines = fileContents.split('\r\n');
-    let recipe = "";
+    let recipe = {
+        name:'',
+        textureName:'',
+        ingredients:''
+    };
 
     let isCraftable = false;
     lines.forEach(line => {
         // hardcoded as per unity saving scheme (2 spaces)!
 
-        m_Name
+//        m_Name
+
+        if (line.indexOf('m_Name: ') === 2) {
+            // edge case. some of the craftables are plural (CheeseWedges, but the texture  is singular (cheesewedge.png))
+            let recipeName = line.split('m_Name: ')[1];
+            if (recipeName.charAt(recipeName.length-1) === 's') {
+                recipeName.slice(0, recipeName.length-1)
+            }
+            
+            recipe.textureName = recipeName;
+        }
+
         if (line.indexOf('Name: ') === 2) {
-            recipe += `Name: ${line.split('Name: ')[1]} `;
+            recipe.name = line.split('Name: ')[1];
         }
 
         if (line.indexOf('requiredAmount: ') != -1) {
-            recipe += `requiredAmount: ${line.split('requiredAmount: ')[1]} `;
+            recipe.ingredients += `requiredAmount: ${line.split('requiredAmount: ')[1]} `;
             isCraftable = true;
         }
 
         if (line.indexOf('ingredientName: ') != -1) {
-            recipe += `ingredientName: ${line.split('ingredientName: ')[1]} `;
+            recipe.ingredients += `ingredientName: ${line.split('ingredientName: ')[1]} `;
             isCraftable = true;
         }
     })
-    recipe += '\r\n';
 
     if (isCraftable) {
         return recipe;
