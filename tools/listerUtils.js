@@ -55,16 +55,12 @@ const extractRecipeFromScriptableObjectFile = (fileName) => {
     }
 
     if (line.indexOf("requiredAmount: ") != -1) {
-      recipe.ingredients += `requiredAmount: ${
-        line.split("requiredAmount: ")[1]
-      } `;
+      recipe.ingredients += `${line.split("requiredAmount: ")[1]} `;
       isCraftable = true;
     }
 
     if (line.indexOf("ingredientName: ") != -1) {
-      recipe.ingredients += `ingredientName: ${
-        line.split("ingredientName: ")[1]
-      } `;
+      recipe.ingredients += `${line.split("ingredientName: ")[1]} + `;
       isCraftable = true;
     }
 
@@ -72,6 +68,11 @@ const extractRecipeFromScriptableObjectFile = (fileName) => {
       recipe.prefabId = line.split("guid: ")[1].split(",")[0];
     }
   });
+
+  recipe.ingredients = recipe.ingredients.slice(
+    0,
+    recipe.ingredients.length - 3
+  );
 
   if (isCraftable) {
     return recipe;
@@ -93,6 +94,7 @@ const extractPrefabData = (fileName) => {
     prefabContents = fs.readFileSync(fileName.split(".meta")[0]).toString();
   } catch {
     // edge case for .meta files with no prefab (folders)
+    console.log("booo");
     return null;
   }
 

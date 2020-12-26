@@ -86,12 +86,20 @@ const init = () => {
     spriteIdToImageDictionary[pngMetaData.textureId] = pngMetaData.pngFileName;
   });
 
-  //  console.log(spriteIdToImageDictionary);
+  let finalList = "Name,Ingredients,Sprite\r\n";
   craftables.forEach((craftable) => {
     const prefabId = craftable.prefabId;
     const textureId = prefabIdToSpriteIdDictionary[prefabId];
     const pngFilePath = spriteIdToImageDictionary[textureId];
-    console.log(craftable.name, craftable.ingredients, pngFilePath);
+    //    console.log(craftable.name, craftable.ingredients, pngFilePath);
+    finalList +=
+      `${craftable.name},${craftable.ingredients},${pngFilePath}` + "\r\n";
+  });
+
+  fs = require("fs");
+  fs.writeFile("helloworld.txt", finalList, function (err) {
+    if (err) return console.log(err);
+    console.log("Hello World > helloworld.txt");
   });
 };
 
@@ -119,17 +127,6 @@ utils.walk(texturePath, (err, res) => {
   foldersRead++;
   init();
 });
-
-const matchRecipeNameWithImage = (recipeName, textureFiles) => {
-  const lowerCaseRecipeName = recipeName.toLowerCase();
-  const filesNr = textureFiles.length;
-  for (let i = 0; i < filesNr; i++) {
-    if (textureFiles[i].indexOf(lowerCaseRecipeName) !== -1) {
-      return textureFiles[i];
-    }
-  }
-  return null;
-};
 
 const readRecipes = (filesList) => {
   const myRecipes = [];
