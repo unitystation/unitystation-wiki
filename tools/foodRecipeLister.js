@@ -21,18 +21,20 @@ var utils = require("./listerUtils");
 // read the .asset files, get the guid!
 // match with png!
 
+// basepath to the unityProject folder
+var basePath = "C:/git/unitystation/UnityProject";
+
 // this is where we are reading the craftable recipes from.
 // eg: we will find a 'bearburger' recipe
 const SCRIPTABLE_FOLDER = "/Assets/Resources/ScriptableObjects/FoodRecipes";
 
 const PREFAB_FOLDER = "/Assets/Resources/Prefabs/Items/Food/";
 
-// this is where we're trying to find the textures, based on the recipe name.
-// eg:we'll search for files containing 'bearburger'
+// this is where we're trying to find the textures
 const TEXTURE_FOLDER = "/Assets/Textures/items/food";
 
 /** list of caftables
- * contains a whole lotts
+ * contains a whole lotta
  * {
     name: "",
     ingredients: "",
@@ -91,25 +93,8 @@ const init = () => {
     const pngFilePath = spriteIdToImageDictionary[textureId];
     console.log(craftable.name, craftable.ingredients, pngFilePath);
   });
-
-  //    console.log(prefabIdToSpriteIdDictionary);
-
-  //  console.log(craftables);
-  //    console.log(craftables);
-
-  // craftables.map(craftable => {
-  //     const matchedImage = matchRecipeNameWithImage(craftable.textureName, textureFiles)
-  //     if (matchedImage) {
-  //         console.log(`matched ${craftable.name} with ${matchedImage}`)
-  //     }
-  //     else {
-  //         console.log('---- not matched', craftable.name);
-  //     }
-  // })
-  //
 };
 
-var basePath = "C:/git/unitystation/UnityProject";
 const scriptablePath = basePath + SCRIPTABLE_FOLDER;
 const prefabPath = basePath + PREFAB_FOLDER;
 const texturePath = basePath + TEXTURE_FOLDER;
