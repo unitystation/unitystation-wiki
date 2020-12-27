@@ -145,13 +145,30 @@ const extractPrefabData = (fileName) => {
     initialDescription = prefabContents
       .split("initialDescription")[1]
       .split("value: ")[1]
-      .split("\r\n")[0];
+      .split("objectReference")[0];
   }
+
+  // try to extract the prefab name
+  // propertyPath: m_Name
+  // value: AstrotamePack  
+  let name = null;
+  if (prefabContents.indexOf("propertyPath: m_Name") !== -1) {
+    try {
+      name = prefabContents
+        .split("propertyPath: m_Name")[1]
+        .split("value: ")[1]
+        .split("\r\n")[0];
+    }
+    catch {
+      console.log('foobar');
+    }
+  }  
 
   if (spriteId === null) return null;
 
   return {
     prefabId,
+    name,
     spriteId,
     nutritionLevel,
     initialDescription

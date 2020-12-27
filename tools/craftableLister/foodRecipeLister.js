@@ -86,6 +86,8 @@ const init = () => {
     spriteIdToImageDictionary[pngMetaData.textureId] = pngMetaData.pngFileName;
   });
 
+
+  // OUTPUT THE CRAFTABLE RECIPES!
   let finalList = "| Picture | Name | Ingredients | Nutrition Level | Comments |\r\n";
   craftables.forEach((craftable) => {
     const prefabId = craftable.prefabId;
@@ -96,6 +98,7 @@ const init = () => {
       const initialDescription = prefabDictionary[prefabId].initialDescription || "N/A";;
 
       delete spriteIdToImageDictionary[textureId];
+      delete prefabDictionary[prefabId];
       // create the wiki .md table
       let wikiFilePath = "";
       if (pngFilePath) wikiFilePath = pngFilePath.split("\\").pop();
@@ -107,10 +110,32 @@ const init = () => {
     }
   });
 
-  //  | ![Food meat](Food_meat.png)             | Meat               | Butcher a dead creature.                     | 148               |                                  |
+
+  // OUTPUT THE NON CRAFTABLES!
+  let nonCraftables = "| Picture | Name | Nutrition Level | Comments |\r\n";
+  Object.values(prefabDictionary).forEach((prefabData) => {
+    const prefabId = prefabData.prefabId;
+    const textureId = prefabDictionary[prefabId].spriteId;
+    const pngFilePath = spriteIdToImageDictionary[textureId];
+    const nutritionLevel = prefabDictionary[prefabId].nutritionLevel || "N/A";
+    const initialDescription = prefabDictionary[prefabId].initialDescription || "N/A";;
+
+    delete spriteIdToImageDictionary[textureId];
+    delete prefabDictionary[prefabId];
+    // create the wiki .md table
+    let wikiFilePath = "";
+    if (pngFilePath) wikiFilePath = pngFilePath.split("\\").pop();
+    nonCraftables += `| ![${prefabData.name}](${wikiFilePath}) |`;
+    nonCraftables += ` ${prefabData.name} |`;
+    nonCraftables += ` ${nutritionLevel} |`; // nutritionLevel
+    nonCraftables += ` ${initialDescription} |\r\n`; // comments?
+  });  
+
+
 
   if (fs.existsSync("orphaned.txt")) fs.unlinkSync("orphaned.txt");
   if (fs.existsSync("recipes.txt")) fs.unlinkSync("recipes.txt");
+  if (fs.existsSync("noncraftables.txt")) fs.unlinkSync("noncraftables.txt");
 
   fs.writeFile(
     "orphaned.txt",
@@ -124,6 +149,11 @@ const init = () => {
   fs.writeFile("recipes.txt", finalList, function (err) {
     if (err) return console.log(err);
   });
+
+  fs = require("fs");
+  fs.writeFile("noncraftables.txt", nonCraftables, function (err) {
+    if (err) return console.log(err);
+  });  
 };
 
 const scriptablePath = basePath + SCRIPTABLE_FOLDER;
