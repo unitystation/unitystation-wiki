@@ -131,15 +131,21 @@ const extractPrefabData = (fileName) => {
   // value: 113;
   let nutritionLevel = null;
   if (prefabContents.indexOf("NutritionLevel") !== -1) {
-    try {
-      nutritionLevel = prefabContents
-        .split("NutritionLevel")[1]
-        .split("value: ")[1]
-        .split("\r\n")[0];
-    } catch {
-      // edge case for prefabs with no sprites. the fk are those?
-      //return null;
-    }
+    nutritionLevel = prefabContents
+      .split("NutritionLevel")[1]
+      .split("value: ")[1]
+      .split("\r\n")[0];
+  }
+
+  // try to extract the initialDescription
+  // propertyPath: initialDescription
+  // value: A base for any self-respecting burger.  
+  let initialDescription = null;
+  if (prefabContents.indexOf("initialDescription") !== -1) {
+    initialDescription = prefabContents
+      .split("initialDescription")[1]
+      .split("value: ")[1]
+      .split("\r\n")[0];
   }
 
   if (spriteId === null) return null;
@@ -148,6 +154,7 @@ const extractPrefabData = (fileName) => {
     prefabId,
     spriteId,
     nutritionLevel,
+    initialDescription
   };
 };
 

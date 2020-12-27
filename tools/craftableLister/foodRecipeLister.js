@@ -45,12 +45,10 @@ const TEXTURE_FOLDER = "/Assets/Textures/items/food";
  * 
  */
 let craftables = [];
-// pairs PREFAB_ID with SPRITE_ID
-let prefabIdToSpriteIdDictionary = {};
+// pairs a prefabId to an object {nutritionLevel, initialDescription, spriteId, prefabId}
+let prefabDictionary = {};
 // pairs PREFAB_ID with SPRITE_ID
 let spriteIdToImageDictionary = {};
-// mapped a prefab id with it's nutrition level (if it's edible)
-let prefabIdToNutritionLevelDictionary = {};
 
 // list of all scriptableObject files
 let scriptableFiles = [];
@@ -78,10 +76,8 @@ const init = () => {
   prefabMetaFiles.forEach((fileName) => {
     const prefabData = utils.extractPrefabData(fileName);
     // point to the actual prefab file
-    if (prefabData) {
-      prefabIdToSpriteIdDictionary[prefabData.prefabId] = prefabData.spriteId;
-      prefabIdToNutritionLevelDictionary[prefabData.prefabId] =
-        prefabData.nutritionLevel;
+    if (prefabData !== null) {
+      prefabDictionary[prefabData.prefabId] = prefabData;
     }
   });
 
@@ -90,21 +86,25 @@ const init = () => {
     spriteIdToImageDictionary[pngMetaData.textureId] = pngMetaData.pngFileName;
   });
 
-  let finalList = "Picture,Name,Ingredients,Nutrition Level, Comments\r\n";
+  let finalList = "| Picture | Name | Ingredients | Nutrition Level | Comments |\r\n";
   craftables.forEach((craftable) => {
     const prefabId = craftable.prefabId;
-    const textureId = prefabIdToSpriteIdDictionary[prefabId];
-    const pngFilePath = spriteIdToImageDictionary[textureId];
-    const nutritionLevel = prefabIdToNutritionLevelDictionary[prefabId];
-    delete spriteIdToImageDictionary[textureId];
-    // create the wiki file Path
-    let wikiFilePath = "";
-    if (pngFilePath) wikiFilePath = pngFilePath.split("Textures")[1].slice(1);
-    finalList += `![${craftable.name}](${wikiFilePath}),`;
-    finalList += `${craftable.name},`;
-    finalList += `${craftable.ingredients},`;
-    finalList += `${nutritionLevel},`; // nutritionLevel
-    finalList += `,\r\n`; // comments?
+    if (prefabDictionary[prefabId] !== undefined) {
+      const textureId = prefabDictionary[prefabId].spriteId;
+      const pngFilePath = spriteIdToImageDictionary[textureId];
+      const nutritionLevel = prefabDictionary[prefabId].nutritionLevel || "N/A";
+      const initialDescription = prefabDictionary[prefabId].initialDescription || "N/A";;
+
+      delete spriteIdToImageDictionary[textureId];
+      // create the wiki .md table
+      let wikiFilePath = "";
+      if (pngFilePath) wikiFilePath = pngFilePath.split("\\").pop();
+      finalList += `| ![${craftable.name}](${wikiFilePath}) |`;
+      finalList += ` ${craftable.name} |`;
+      finalList += ` ${craftable.ingredients} |`;
+      finalList += ` ${nutritionLevel} |`; // nutritionLevel
+      finalList += ` ${initialDescription} |\r\n`; // comments?
+    }
   });
 
   //  | ![Food meat](Food_meat.png)             | Meat               | Butcher a dead creature.                     | 148               |                                  |
