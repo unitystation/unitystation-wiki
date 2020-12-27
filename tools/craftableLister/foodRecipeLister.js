@@ -39,8 +39,6 @@ const TEXTURE_FOLDER = "/Assets/Textures/items/food";
     name: "",
     ingredients: "",
     prefabId: "",
-    textureId: "",
-    texturePath
   };
  * 
  */
@@ -59,12 +57,6 @@ let textureFiles = [];
 
 var foldersRead = 0;
 
-// const pathToUnityProject = process.argv[2];
-// console.log('foobar ', pathToUnityProject);
-// if (typeof(pathToUnityProject) === "undefined" || pathToUnityProject.indexOf('UnityProject') !== -1) {
-//     throw new Error('You must specify a path to the UnityProject folder!');
-// }
-
 const init = () => {
   if (foldersRead !== 3) {
     return;
@@ -72,7 +64,7 @@ const init = () => {
   // STEP 1. read the craftables from the list of all possible scriptables (some are not craftable!)
   craftables = readRecipes(scriptableFiles);
 
-  // STEP 2. create a list of all the prefab id's and their correspond sprite guid
+  // STEP 2. create a list of all the prefab id's and their corresponding description object
   prefabMetaFiles.forEach((fileName) => {
     const prefabData = utils.extractPrefabData(fileName);
     // point to the actual prefab file
@@ -81,6 +73,7 @@ const init = () => {
     }
   });
 
+  // STEP 3. Create a dictionary for the textureId -> real png file
   textureFiles.forEach((fileName) => {
     const pngMetaData = utils.extractTextureData(fileName);
     spriteIdToImageDictionary[pngMetaData.textureId] = pngMetaData.pngFileName;
@@ -127,8 +120,8 @@ const init = () => {
     if (pngFilePath) wikiFilePath = pngFilePath.split("\\").pop();
     nonCraftables += `| ![${prefabData.name}](${wikiFilePath}) |`;
     nonCraftables += ` ${prefabData.name} |`;
-    nonCraftables += ` ${nutritionLevel} |`; // nutritionLevel
-    nonCraftables += ` ${initialDescription} |\r\n`; // comments?
+    nonCraftables += ` ${nutritionLevel} |`;
+    nonCraftables += ` ${initialDescription} |\r\n`;
   });  
 
 
@@ -140,20 +133,10 @@ const init = () => {
   fs.writeFile(
     "orphaned.txt",
     Object.values(spriteIdToImageDictionary).join(", \r\n"),
-    function (err) {
-      if (err) return console.log(err);
-    }
+    ()=>{}
   );
-
-  fs = require("fs");
-  fs.writeFile("recipes.txt", finalList, function (err) {
-    if (err) return console.log(err);
-  });
-
-  fs = require("fs");
-  fs.writeFile("noncraftables.txt", nonCraftables, function (err) {
-    if (err) return console.log(err);
-  });  
+  fs.writeFile("recipes.txt", finalList, ()=>{});
+  fs.writeFile("noncraftables.txt", nonCraftables, ()=>{});  
 };
 
 const scriptablePath = basePath + SCRIPTABLE_FOLDER;

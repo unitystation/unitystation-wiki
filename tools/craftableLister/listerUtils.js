@@ -43,8 +43,6 @@ const extractRecipeFromScriptableObjectFile = (fileName) => {
     name: "",
     ingredients: "",
     prefabId: "",
-    textureId: "",
-    texturePath: "",
   };
 
   let isCraftable = false;
