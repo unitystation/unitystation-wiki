@@ -39,18 +39,14 @@ const TEXTURE_FOLDER = "/Assets/Textures/items/food";
     name: "",
     ingredients: "",
     prefabId: "",
-    textureId: "",
-    texturePath
   };
  * 
  */
 let craftables = [];
-// pairs PREFAB_ID with SPRITE_ID
-let prefabIdToSpriteIdDictionary = {};
+// pairs a prefabId to an object {nutritionLevel, initialDescription, spriteId, prefabId}
+let prefabDictionary = {};
 // pairs PREFAB_ID with SPRITE_ID
 let spriteIdToImageDictionary = {};
-// mapped a prefab id with it's nutrition level (if it's edible)
-let prefabIdToNutritionLevelDictionary = {};
 
 // list of all scriptableObject files
 let scriptableFiles = [];
@@ -61,12 +57,6 @@ let textureFiles = [];
 
 var foldersRead = 0;
 
-// const pathToUnityProject = process.argv[2];
-// console.log('foobar ', pathToUnityProject);
-// if (typeof(pathToUnityProject) === "undefined" || pathToUnityProject.indexOf('UnityProject') !== -1) {
-//     throw new Error('You must specify a path to the UnityProject folder!');
-// }
-
 const init = () => {
   if (foldersRead !== 3) {
     return;
@@ -74,56 +64,79 @@ const init = () => {
   // STEP 1. read the craftables from the list of all possible scriptables (some are not craftable!)
   craftables = readRecipes(scriptableFiles);
 
-  // STEP 2. create a list of all the prefab id's and their correspond sprite guid
+  // STEP 2. create a list of all the prefab id's and their corresponding description object
   prefabMetaFiles.forEach((fileName) => {
     const prefabData = utils.extractPrefabData(fileName);
     // point to the actual prefab file
-    if (prefabData) {
-      prefabIdToSpriteIdDictionary[prefabData.prefabId] = prefabData.spriteId;
-      prefabIdToNutritionLevelDictionary[prefabData.prefabId] =
-        prefabData.nutritionLevel;
+    if (prefabData !== null) {
+      prefabDictionary[prefabData.prefabId] = prefabData;
     }
   });
 
+  // STEP 3. Create a dictionary for the textureId -> real png file
   textureFiles.forEach((fileName) => {
     const pngMetaData = utils.extractTextureData(fileName);
     spriteIdToImageDictionary[pngMetaData.textureId] = pngMetaData.pngFileName;
   });
 
-  let finalList = "Picture,Name,Ingredients,Nutrition Level, Comments\r\n";
+
+  // OUTPUT THE CRAFTABLE RECIPES!
+  let finalList = "| Picture | Name | Ingredients | Nutrition Level | Comments |\r\n";
   craftables.forEach((craftable) => {
-    const prefabId = craftable.prefabId;
-    const textureId = prefabIdToSpriteIdDictionary[prefabId];
-    const pngFilePath = spriteIdToImageDictionary[textureId];
-    const nutritionLevel = prefabIdToNutritionLevelDictionary[prefabId];
-    delete spriteIdToImageDictionary[textureId];
-    // create the wiki file Path
-    let wikiFilePath = "";
-    if (pngFilePath) wikiFilePath = pngFilePath.split("Textures")[1].slice(1);
-    finalList += `![${craftable.name}](${wikiFilePath}),`;
-    finalList += `${craftable.name},`;
-    finalList += `${craftable.ingredients},`;
-    finalList += `${nutritionLevel},`; // nutritionLevel
-    finalList += `,\r\n`; // comments?
+    let prefabId = craftable.prefabId ;
+    if (prefabDictionary[prefabId] && prefabDictionary[prefabId].spriteId) {
+      const textureId = prefabDictionary[prefabId].spriteId || "???";
+      const pngFilePath = spriteIdToImageDictionary[textureId] || "???";
+      const nutritionLevel = prefabDictionary[prefabId].nutritionLevel || "N/A";
+      const initialDescription = prefabDictionary[prefabId].initialDescription || "N/A";;
+
+      delete spriteIdToImageDictionary[textureId];
+      delete prefabDictionary[prefabId];
+      // create the wiki .md table
+      let wikiFilePath = "";
+      if (pngFilePath) wikiFilePath = pngFilePath.split("\\").pop();
+      finalList += `| ![${craftable.name}](${wikiFilePath}) |`;
+      finalList += ` ${craftable.name} |`;
+      finalList += ` ${craftable.ingredients} |`;
+      finalList += ` ${nutritionLevel} |`; // nutritionLevel
+      finalList += ` ${initialDescription} |\r\n`; // comments?
+    }
   });
 
-  //  | ![Food meat](Food_meat.png)             | Meat               | Butcher a dead creature.                     | 148               |                                  |
+
+  // OUTPUT THE NON CRAFTABLES!
+  let nonCraftables = "| Picture | Name | Nutrition Level | Comments |\r\n";
+  Object.values(prefabDictionary).forEach((prefabData) => {
+    const prefabId = prefabData.prefabId;
+    const textureId = prefabDictionary[prefabId].spriteId;
+    const pngFilePath = spriteIdToImageDictionary[textureId];
+    const nutritionLevel = prefabDictionary[prefabId].nutritionLevel || "N/A";
+    const initialDescription = prefabDictionary[prefabId].initialDescription || "N/A";;
+
+    delete spriteIdToImageDictionary[textureId];
+    delete prefabDictionary[prefabId];
+    // create the wiki .md table
+    let wikiFilePath = "";
+    if (pngFilePath) wikiFilePath = pngFilePath.split("\\").pop();
+    nonCraftables += `| ![${prefabData.name}](${wikiFilePath}) |`;
+    nonCraftables += ` ${prefabData.name} |`;
+    nonCraftables += ` ${nutritionLevel} |`;
+    nonCraftables += ` ${initialDescription} |\r\n`;
+  });  
+
+
 
   if (fs.existsSync("orphaned.txt")) fs.unlinkSync("orphaned.txt");
   if (fs.existsSync("recipes.txt")) fs.unlinkSync("recipes.txt");
+  if (fs.existsSync("noncraftables.txt")) fs.unlinkSync("noncraftables.txt");
 
   fs.writeFile(
     "orphaned.txt",
     Object.values(spriteIdToImageDictionary).join(", \r\n"),
-    function (err) {
-      if (err) return console.log(err);
-    }
+    ()=>{}
   );
-
-  fs = require("fs");
-  fs.writeFile("recipes.txt", finalList, function (err) {
-    if (err) return console.log(err);
-  });
+  fs.writeFile("recipes.txt", finalList, ()=>{});
+  fs.writeFile("noncraftables.txt", nonCraftables, ()=>{});  
 };
 
 const scriptablePath = basePath + SCRIPTABLE_FOLDER;

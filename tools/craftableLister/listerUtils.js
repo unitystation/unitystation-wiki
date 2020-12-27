@@ -43,8 +43,6 @@ const extractRecipeFromScriptableObjectFile = (fileName) => {
     name: "",
     ingredients: "",
     prefabId: "",
-    textureId: "",
-    texturePath: "",
   };
 
   let isCraftable = false;
@@ -74,13 +72,11 @@ const extractRecipeFromScriptableObjectFile = (fileName) => {
     recipe.ingredients.length - 3
   );
 
-  return recipe;
-
-  // if (isCraftable) {
-  //   return recipe;
-  // } else {
-  //   return null;
-  // }
+  if (isCraftable) {
+    return recipe;
+  } else {
+    return null;
+  }
 };
 
 /**
@@ -110,7 +106,6 @@ const extractPrefabData = (fileName) => {
         .split(",")[0];
     } catch {
       // edge case for prefabs with no sprites. the fk are those?
-      //return null;
     }
   }
 
@@ -122,7 +117,6 @@ const extractPrefabData = (fileName) => {
         .split(",")[0];
     } catch {
       // edge case for prefabs with no sprites. the fk are those?
-      //return null;
     }
   }
 
@@ -131,23 +125,67 @@ const extractPrefabData = (fileName) => {
   // value: 113;
   let nutritionLevel = null;
   if (prefabContents.indexOf("NutritionLevel") !== -1) {
+    nutritionLevel = prefabContents
+      .split("NutritionLevel")[1]
+      .split("value: ")[1]
+      .split("\r\n")[0];
+  }
+
+  // try to extract the initialDescription
+  // propertyPath: initialDescription
+  // value: A base for any self-respecting burger.  
+  let initialDescription = null;
+  if (prefabContents.indexOf("initialDescription") !== -1) {
+    initialDescription = prefabContents
+      .split("initialDescription")[1]
+      .split("value: ")[1]
+      .split("objectReference")[0]
+      .replace("\r\n", "")
+      .trim();
+
+    while (initialDescription.indexOf('  ') !== -1) initialDescription = initialDescription.replace('  ', ' ');
+  }
+
+  // try to extract the prefab name
+  // propertyPath: m_Name
+  // value: AstrotamePack  
+  let name = null;
+  if (prefabContents.indexOf("propertyPath: m_Name") !== -1) {
     try {
-      nutritionLevel = prefabContents
-        .split("NutritionLevel")[1]
+      name = prefabContents
+        .split("propertyPath: m_Name")[1]
         .split("value: ")[1]
         .split("\r\n")[0];
+    }
+    catch {
+    }
+  }
+
+  // try to extract the source prefab, if he has one
+  // m_SourcePrefab: {fileID: 100100000, guid: bdbfea1235c0674488cd2a61b2e9cfa4, type: 3}
+  let sourcePrefabId = null;
+  if (spriteId === null && prefabContents.indexOf("m_SourcePrefab") !== -1) {
+    try {
+      sourcePrefabId = prefabContents
+        .split("m_SourcePrefab")[1]
+        .split("guid: ")[1]
+        .split(",")[0];
     } catch {
       // edge case for prefabs with no sprites. the fk are those?
       //return null;
     }
-  }
+  }    
 
-  if (spriteId === null) return null;
+
+//  if (spriteId === null) return null;
 
   return {
     prefabId,
+    sourcePrefabId,
+    name,
     spriteId,
     nutritionLevel,
+    initialDescription
   };
 };
 
