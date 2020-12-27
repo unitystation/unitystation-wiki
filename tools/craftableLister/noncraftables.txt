@@ -1,0 +1,445 @@
+| Picture | Name | Nutrition Level | Comments |
+| ![AstrotamePack]() | AstrotamePack | N/A | N/A |
+| ![BBQSaucePack]() | BBQSaucePack | N/A | N/A |
+| ![CondimentBottle]() | CondimentBottle | N/A | Just your average condiment bottle. |
+| ![CondimentPack](containers_condi_empty.png) | CondimentPack | N/A | A small plastic pack with condiments to put on your food. |
+| ![FlourSack](containers_flour.png) | FlourSack | N/A | A big bag of flour. Good for baking! |
+| ![Mayonnaise](containers_mayonnaise.png) | Mayonnaise | N/A | An oily condiment made from egg yolks. |
+| ![PepperMill](containers_peppermillsmall.png) | PepperMill | N/A | Often used to flavor food or make people sneeze. |
+| ![RiceSack](containers_rice.png) | RiceSack | N/A | A big bag of rice. Good for cooking! |
+| ![SaltShaker](containers_saltshakersmall.png) | SaltShaker | N/A | Salt. From space oceans, presumably. |
+| ![SoyMilk](containers_soymilk.png) | SoyMilk | N/A | It's soy milk. White and nutritious goodness! |
+| ![SoySauce](containers_soysauce.png) | SoySauce | N/A | A salty soy-based flavoring. |
+| ![SpaceMilk](containers_milk.png) | SpaceMilk | N/A | It's milk. White and nutritious goodness! |
+| ![SugarSack](containers_sugar.png) | SugarSack | N/A | Tasty spacey sugar! |
+| ![UniversalEnzyme](containers_enzyme.png) | UniversalEnzyme | N/A | N/A |
+| ![BottleOfWater]() | BottleOfWater | N/A | A bottle of water filled at an old Earth bottling facility. |
+| ![BottleOfWaterLarge]() | BottleOfWaterLarge | N/A | A fresh commercial-sized bottle of water. |
+| ![BritCup]() | BritCup | N/A | A cup with the british flag emblazoned on it. |
+| ![CaptainsFlask]() | CaptainsFlask | N/A | A gold flask belonging to the captain. |
+| ![ColoCup]() | ColoCup | N/A | A cheap, mass produced style of cup, typically used at parties. They never seem to come out red, for some reason... |
+| ![CupRamen]() | CupRamen | N/A | Just add 5ml of water, self heats! A taste that reminds you of your school years. Now new with salty flavour! |
+| ![DetectivesFlask]() | DetectivesFlask | N/A | The detective's only true friend. |
+| ![DirtyIceCup]() | DirtyIceCup | N/A | Either Nanotrasen's water supply is contaminated, or this machine actually vends lemon, chocolate, and cherry snow cones. |
+| ![BadminBrew]() | BadminBrew | N/A | ....It's green! |
+| ![BadminkaVodka]() | BadminkaVodka | N/A | The label's written in Cyrillic. All you can make out is the name and a word that looks vaguely like 'Vodka'. |
+| ![BottleOfLizardWine]() | BottleOfLizardWine | N/A | An alcoholic beverage from Space China, made by infusing lizard tails in ethanol. Inexplicably popular among command staff. |
+| ![BottleOfNothing]() | BottleOfNothing | N/A | A bottle filled with nothing. |
+| ![BuckinBroncosApplejack]() | BuckinBroncosApplejack | N/A | Kicks like a horse, tastes like an apple! |
+| ![CaccavoGuaranteedQualityTequila]() | CaccavoGuaranteedQualityTequila | N/A | Made from premium petroleum distillates, pure thalidomide and other fine quality ingredients! |
+| ![CaptainPetesCubanSpicedRum]() | CaptainPetesCubanSpicedRum | N/A | This isn't just rum, oh no. It's practically GRIFF in a bottle. |
+| ![ChateauDeBatonPremiumCognac]() | ChateauDeBatonPremiumCognac | N/A | A sweet and strongly alchoholic drink, made after numerous distillations and years of maturing. You might as well not scream 'SHITCURITY' this time. |
+| ![CollegeGirlGoldschlager]() | CollegeGirlGoldschlager | N/A | Because they are the only ones who will drink 100 proof cinnamon schnapps. |
+| ![DoublebeardsBeardedSpecialWine]() | DoublebeardsBeardedSpecialWine | N/A | A faint aura of unease and asspainery surrounds the bottle. |
+| ![EauDDandyBrutchampagne]() | EauDDandyBrutchampagne | N/A | Finely sourced from only the most pretentious French vineyards. |
+| ![ExtraStrongAbsinthe]() | ExtraStrongAbsinthe | N/A | A strong alcoholic drink brewed and distributed by... someone. |
+| ![FernetBronca]() | FernetBronca | N/A | A bottle of pure Fernet Bronca, produced in Cordoba Space Station. |
+| ![FlaskOfHolyWater]() | FlaskOfHolyWater | N/A | A flask of the chaplain's holy water. |
+| ![GinbadsBlazaam]() | GinbadsBlazaam | N/A | You feel like you should give the bottle a good rub before opening. |
+| ![GlassBottle]() | GlassBottle | N/A | N/A |
+| ![GlassBottleSmall]() | GlassBottleSmall | N/A | N/A |
+| ![GoldeneyeVermouth]() | GoldeneyeVermouth | N/A | Sweet, sweet dryness~ |
+| ![GriffeaterGin]() | GriffeaterGin | N/A | A bottle of high quality gin, produced in the New London Space Station. |
+| ![GwynsPremiumAbsinthe]() | GwynsPremiumAbsinthe | N/A | A potent alcoholic beverage, almost makes you forget the ash in your lungs. |
+| ![HoochBottle]() | HoochBottle | N/A | A bottle of rotgut. Its owner has applied some street wisdom to cleverly disguise it as a brown paper bag. |
+| ![JesterGrenadine]() | JesterGrenadine | N/A | Contains 0% real cherries! |
+| ![JianHardCider]() | JianHardCider | N/A | Apple juice for adults. |
+| ![LimeJuice]() | LimeJuice | N/A | Sweet-sour goodness. |
+| ![Menthol]() | Menthol | N/A | Tastes naturally minty, and imparts a very mild numbing sensation. |
+| ![MilkCream]() | MilkCream | N/A | It's cream. Made from milk. What else did you think you'd find in there? |
+| ![MonteDeRequinTrappistesBleu]() | MonteDeRequinTrappistesBleu | N/A | Brewed in space-Belgium. Fancy! |
+| ![MoonshineJug]() | MoonshineJug | N/A | It is said that the ancient Applalacians used these stoneware jugs to capture lightning in a bottle. |
+| ![OrangeJuice]() | OrangeJuice | N/A | Full of vitamins and deliciousness! |
+| ![PhillipesWellAgedGrappa]() | PhillipesWellAgedGrappa | N/A | A bottle of Grappa. |
+| ![PineappleJuice]() | PineappleJuice | N/A | Extremely tart, yellow juice. |
+| ![RobertRobustsCoffeeLiqueur]() | RobertRobustsCoffeeLiqueur | N/A | A widely known, Mexican coffee-flavoured liqueur. In production since 1936, HONK. |
+| ![RyosTraditionalSake]() | RyosTraditionalSake | N/A | Sweet as can be, and burns like fire going down. |
+| ![TomatoJuice]() | TomatoJuice | N/A | Well, at least it LOOKS like tomato juice. You can't tell with all that redness. |
+| ![TunguskaTripleDistilled]() | TunguskaTripleDistilled | N/A | Aah, vodka. Prime choice of drink AND fuel by Russians worldwide. |
+| ![UncleGitsSpecialReserve]() | UncleGitsSpecialReserve | N/A | A premium single-malt whiskey, gently matured inside the tunnels of a nuclear shelter. TUNNEL WHISKEY RULES. |
+| ![WrappeArtistePatron]() | WrappeArtistePatron | N/A | Silver laced tequila, served in space night clubs across the galaxy. |
+| ![DrinkingGlass]() | DrinkingGlass | N/A | Your standard drinking glass. |
+| ![Flask]() | Flask | N/A | Every good spaceman knows it's a good idea to bring along a couple of pints of whiskey wherever they go. |
+| ![GromitMug]() | GromitMug | N/A | You can see funny dog on it. |
+| ![IceCup]() | IceCup | N/A | Careful, cold ice, do not chew. |
+| ![MagmAle]() | MagmAle | N/A | A true dorf's drink of choice. |
+| ![Mug]() | Mug | N/A | A classy mug. |
+| ![MugBrit]() | MugBrit | N/A | A classy mug. This one has the British flag emblazoned on it. |
+| ![PaperCup]() | PaperCup | N/A | A paper water cup. |
+| ![RobustCoffee]() | RobustCoffee | N/A | Careful, the beverage you're about to enjoy is extremely hot. |
+| ![Shaker]() | Shaker | N/A | A metal shaker to mix drinks in. |
+| ![ShotGlass]() | ShotGlass | N/A | A shot glass - the universal symbol for bad decisions. |
+| ![SmallCarton]() | SmallCarton | N/A | A small carton, intended for holding drinks. |
+| ![CannedAir]() | CannedAir | N/A | There is no air shortage. Do not drink. |
+| ![DrGibb]() | DrGibb | N/A | A delicious mixture of 42 different flavors. |
+| ![GreyBull]() | GreyBull | N/A | Grey Bull, it gives you gloves! |
+| ![LemonLimeSoda]() | LemonLimeSoda | N/A | You wanted ORANGE. It gave you Lemon Lime. |
+| ![MonkeyEnergy]() | MonkeyEnergy | N/A | Unleash the ape! |
+| ![PwrGame]() | PwrGame | N/A | The only drink with the PWR that true gamers crave. When a gamer talks about gamerfuel, this is what they're literally referring to. |
+| ![ShamblersJuice]() | ShamblersJuice | N/A | ~Shake me up some of that Shambler's Juice!~ |
+| ![SodaWater]() | SodaWater | N/A | A can of soda water. Why not make a scotch and soda? |
+| ![SolDry]() | SolDry | N/A | Maybe this will help your tummy feel better. Maybe not. |
+| ![SpaceColaCan]() | SpaceColaCan | N/A | Cola. in space. |
+| ![SpaceMountainWind]() | SpaceMountainWind | N/A | Blows right through you like a space wind. |
+| ![SpaceUp]() | SpaceUp | N/A | Tastes like a hull breach in your mouth. |
+| ![StarKist]() | StarKist | N/A | The taste of a star in liquid form. And, a bit of tuna...? |
+| ![TBorgsTonicWater]() | TBorgsTonicWater | N/A | Quinine tastes funny, but at least it'll keep that Space Malaria away. |
+| ![ThirteenLoko]() | ThirteenLoko | N/A | The CMO has advised crew members that consumption of Thirteen Loko may result in seizures, blindness, drunkenness, or even death. Please Drink Responsibly. |
+| ![SpaceBeer]() | SpaceBeer | N/A | Beer. In space. |
+| ![BronzeCup]() | BronzeCup | N/A | At least you ranked! |
+| ![GoldCup]() | GoldCup | N/A | You're winner! |
+| ![PewterCup]() | PewterCup | N/A | Everyone gets a trophy. |
+| ![SilverCup]() | SilverCup | N/A | Best loser! |
+| ![4noRaisins](food_4no_raisins.png) | 4noRaisins | 175 | Best raisins in the universe. Not sure why. |
+| ![BoritosCornChips](food_boritos.png) | BoritosCornChips | 173 | Triangular corn chips. They do seem a bit bland but would probably go well with some kind of dipping sauce. |
+| ![BranRequestsCereal](food_bran_requests.png) | BranRequestsCereal | 200 | A dry cereal that satiates your requests for bran. Tastes uniquely like raisins and salt. |
+| ![Baguette](burgerbread_baguette.png) | Baguette | 263 | "Bon app\xE9tit!" |
+| ![BananaNutBreadLoaf](burgerbread_bananabread.png) | BananaNutBreadLoaf | 800 | A heavenly and filling treat. |
+| ![BreadMonsterLoafDead](burgerbread_monsterbread_dead.png) | BreadMonsterLoafDead | N/A | A smashed up loaf of monster bread, now inanimate. Careful with the spikes. |
+| ![Butterdog](food_butterdog.png) | Butterdog | 188 | Made from exotic butters. |
+| ![CreamCheeseBreadLoaf](burgerbread_creamcheesebread.png) | CreamCheeseBreadLoaf | 938 | Yum yum yum! |
+| ![GarlicBread](burgerbread_garlicbread.png) | GarlicBread | 348 | Alas, it is limited. |
+| ![MeatbreadLoaf](burgerbread_meatbread.png) | MeatbreadLoaf | 1313 | The culinary base of every self-respecting eloquen/tg/entleman. |
+| ![MimamaBreadLoaf](burgerbread_mimanabread.png) | MimamaBreadLoaf | 950 | Best eaten in silence. |
+| ![MoldyBreadSlice](burgerbread_moldybreadslice.png) | MoldyBreadSlice | N/A | Entire stations have been ripped apart over arguing whether this is still good to eat. |
+| ![SpiderMeatbreadLoaf](burgerbread_spidermeatbread.png) | SpiderMeatbreadLoaf | 1313 | Reassuringly green meatloaf made from spider meat |
+| ![TofubreadLoaf](burgerbread_tofubread.png) | TofubreadLoaf | 938 | Like meatbread but for vegetarians. Not guaranteed to give superpowers. |
+| ![XenomeatbreadLoaf](burgerbread_xenomeatbread.png) | XenomeatbreadLoaf | 1313 | The culinary base of every self-respecting eloquen/tg/entleman. Extra Heretical. |
+| ![Bubblegum](food_bubblegum.png) | Bubblegum | 125 | A rubbery strip of gum. Not exactly filling, but it keeps you busy. |
+| ![AppendixBurger](burgerbread_appendixburger.png) | AppendixBurger | N/A | Tastes like appendicitis. |
+| ![BaconBurger](burgerbread_baconburger.png) | BaconBurger | N/A | The perfect combination of all things American. |
+| ![BigBiteBurger](burgerbread_bigbiteburger.png) | BigBiteBurger | 450 | Forget the Big Mac. THIS is the future! |
+| ![BlackBurger](burgerbread_cburger.png) | BlackBurger | N/A | This is overcooked. |
+| ![BlueBurger]() | BlueBurger | N/A | Is this blue rare? |
+| ![Brainburger](burgerbread_brainburger.png) | Brainburger | N/A | A strange looking burger. It looks almost sentient. |
+| ![BurgerBase](burgerbread_hburger.png) | BurgerBase | 263 | N/A |
+| ![CheeseBurger](burgerbread_cheeseburger.png) | CheeseBurger | N/A | This noble burger stands proudly clad in golden cheese. |
+| ![ChickenSandwich](burgerbread_chickenburger.png) | ChickenSandwich | N/A | A delicious chicken sandwich, it is said the proceeds from this treat helps criminalize disarming people on the space frontier. |
+| ![CrabBurger](burgerbread_crabburger.png) | CrabBurger | N/A | A delicious patty of the crabby kind, slapped in between a bun. |
+| ![EmpoweredBurger](burgerbread_empoweredburger.png) | EmpoweredBurger | N/A | It's shockingly good, if you live off of electricity that is. |
+| ![FilletOCarpSandwich](burgerbread_fishburger.png) | FilletOCarpSandwich | N/A | Almost like a carp is yelling somewhere... Give me back that fillet -o- carp, give me that carp. |
+| ![FiveAlarmBurger](burgerbread_fivealarmburger.png) | FiveAlarmBurger | 288 | HOT! HOT! |
+| ![GhostBurger](burgerbread_ghostburger.png) | GhostBurger | N/A | Too Spooky! |
+| ![GreenBurger]() | GreenBurger | N/A | It's not tainted meat, it's painted meat! |
+| ![HomeRunBaseballBurger](burgerbread_baseball.png) | HomeRunBaseballBurger | N/A | It's still warm. The steam coming off of it looks like baseball. |
+| ![JellyBurgerBase](burgerbread_jellyburger.png) | JellyBurgerBase | N/A | Culinary delight..? |
+| ![Mcguffin](burgerbread_mcguffin.png) | Mcguffin | N/A | A cheap and greasy imitation of an eggs benedict. |
+| ![Mcrib](burgerbread_mcrib.png) | Mcrib | N/A | An elusive rib shaped burger with limited availablity across the galaxy. Not as good as you remember it. |
+| ![OrangeBurger]() | OrangeBurger | N/A | Contains 0% juice. |
+| ![PurpleBurger]() | PurpleBurger | N/A | Regal and low class at the same time. |
+| ![RedBurger]() | RedBurger | N/A | Perfect for hiding the fact it's burnt to a crisp. |
+| ![Roburger](burgerbread_roburger.png) | Roburger | N/A | The lettuce is the only organic component. Beep. |
+| ![SoylentBurger](burgerbread_soylentburger.png) | SoylentBurger | N/A | An eco-friendly burger made using upcycled low value biomass. |
+| ![SuperBiteBurger](burgerbread_superbiteburger.png) | SuperBiteBurger | 1688 | This is a mountain of a burger. FOOD! |
+| ![WhiteBurger]() | WhiteBurger | N/A | Delicous Titanium! |
+| ![YellowBurger]() | YellowBurger | N/A | Bright to the last bite. |
+| ![BurnedMess](food_badrecipe.png) | BurnedMess | 0 | Someone should be demoted from cook for this. |
+| ![Burrito](food_burrito.png) | Burrito | 188 | Tortilla wrapped goodness. |
+| ![ButterOnAStick](food_butteronastick.png) | ButterOnAStick | N/A | Delicious, golden, fatty goodness on a stick. |
+| ![AngelFoodCake](piecake_holy_cake.png) | AngelFoodCake | N/A | A cake made for angels and chaplains alike! Contains holy water. |
+| ![AppleCake](piecake_applecake.png) | AppleCake | N/A | A cake centred with apple. |
+| ![BirthdayCake](piecake_birthdaycake.png) | BirthdayCake | 950 | Happy Birthday little clown... |
+| ![BlackberryAndStrawberryChocolateCake](piecake_blackbarry_strawberries_cake_coco_cake.png) | BlackberryAndStrawberryChocolateCake | N/A | A chocolate cake, filled with assortment of blackberries and strawberries! |
+| ![BlackberryAndStrawberryVanillaCake](piecake_blackbarry_strawberries_cake_vanilla_cake.png) | BlackberryAndStrawberryVanillaCake | N/A | A plain cake, filled with assortment of blackberries and strawberries! |
+| ![BrainCake](piecake_braincake.png) | BrainCake | N/A | A squishy cake-thing. |
+| ![CarrotCake](piecake_carrotcake.png) | CarrotCake | N/A | A favorite desert of a certain wascally wabbit. Not a lie. |
+| ![CheeseCake](piecake_cheesecake.png) | CheeseCake | N/A | DANGEROUSLY cheesy. |
+| ![ChocolateCake](piecake_chocolatecake.png) | ChocolateCake | N/A | A cake with added chocolate. |
+| ![ClownCake](piecake_clowncake.png) | ClownCake | N/A | A funny cake with a clown face on it. |
+| ![EnergyCake]() | EnergyCake | 738 | Just enough calories for a whole nuclear operative squad. |
+| ![HardwareCake](piecake_hardware_cake.png) | HardwareCake | N/A | A quote on quote cake that is made with electronic boards and leaks acid... |
+| ![LemonCake](piecake_lemoncake.png) | LemonCake | N/A | A cake with added lemon. |
+| ![LimeCake](piecake_limecake.png) | LimeCake | N/A | A cake with added lime. |
+| ![OrangeCake](piecake_orangecake.png) | OrangeCake | N/A | A cake with added orange. |
+| ![PoundCake](piecake_pound_cake.png) | PoundCake | 1313 | A condensed cake made for filling people up quickly. |
+| ![PumpkinSpiceCake](piecake_pumpkinspicecake.png) | PumpkinSpiceCake | N/A | A hollow cake with real pumpkin. |
+| ![SlimeCake](piecake_slimecake.png) | SlimeCake | N/A | A cake made of slimes. Probably not electrified. |
+| ![VanillaCake](piecake_vanillacake.png) | VanillaCake | N/A | A vanilla frosted cake. |
+| ![CandiedApple](food_candiedapple.png) | CandiedApple | 338 | An apple coated in sugary sweetness. |
+| ![Candy](food_candy.png) | Candy | 113 | Nougat love it or hate it. |
+| ![CandyCigaretteButt]() | CandyCigaretteButt | 100 | The leftover from a smoked-out candy cigarette. Can be eaten! |
+| ![CandyCorn](food_candy_corn.png) | CandyCorn | 200 | It's a handful of candy corn. Can be stored in a detective's hat. |
+| ![CannedPeaches](food_peachcan.png) | CannedPeaches | 350 | Just a nice can of ripe peaches swimming in their own juices. |
+| ![CannedAir]() | CannedAir | 0 | If you ever wondered where air came from... |
+| ![CarneAsadaBurrito](food_carneburrito.png) | CarneAsadaBurrito | 225 | The best burrito for meat lovers. |
+| ![CarrotFries](food_carrotfries.png) | CarrotFries | 188 | Tasty fries from fresh carrots. |
+| ![CheeseWheel](food_cheesewheel.png) | CheeseWheel | 750 | A big wheel of delcious Cheddar. |
+| ![CheesieHonkers](food_cheesie_honkers.png) | CheesieHonkers | 113 | Bite sized cheesie snacks that will honk all over your mouth. |
+| ![CheesyBurrito](food_cheesyburrito.png) | CheesyBurrito | 225 | It's a burrito filled with cheese. |
+| ![CheesyNachos](food_cheesynachos.png) | CheesyNachos | N/A | The delicious combination of nachos and melting cheese. |
+| ![Chips](food_chips.png) | Chips | 115 | Commander Riker's What-The-Crisps. |
+| ![ChocolateBar](food_chocolatebar.png) | ChocolateBar | 155 | Such, sweet, fattening food. |
+| ![ChocolateCoin](food_chococoin.png) | ChocolateCoin | 128 | A completely edible but nonflippable festive coin. |
+| ![ChocolateOrange](food_chocoorange.png) | ChocolateOrange | 128 | A festive chocolate orange. |
+| ![CrabRangoon](food_crabrangoon.png) | CrabRangoon | 563 | Has many names, like crab puffs, cheese won'tons, crab dumplings? Whatever you call them, they're a fabulous blast of cream cheesy crab. |
+| ![CubanNachos](food_cubannachos.png) | CubanNachos | 150 | That's some dangerously spicy nachos. |
+| ![DeadMouseBrown]() | DeadMouseBrown | N/A | N/A |
+| ![DeadMouse]() | DeadMouse | 188 | It looks like somebody dropped the bass on it. A lizard's favorite meal. |
+| ![DeadMouseWhite]() | DeadMouseWhite | N/A | N/A |
+| ![CakeBatter](food_ingredients_cakebatter.png) | CakeBatter | 338 | Cook it to get a cake. |
+| ![Dough](food_ingredients_dough.png) | Dough | 225 | A piece of dough. |
+| ![EggplantParmigiana](food_eggplantparm.png) | EggplantParmigiana | 300 | The only good recipe for eggplant. |
+| ![Egg]() | Egg | 38 | An egg! |
+| ![EggsBenedict](food_benedict.png) | EggsBenedict | 375 | There is only one egg on this, how rude. |
+| ![FriedEgg](food_friedegg.png) | FriedEgg | 113 | A fried egg, with a touch of salt and pepper. |
+| ![OmeletteDuFromage](food_omelette.png) | OmeletteDuFromage | 338 | That's all you can say! |
+| ![EggWrap](food_eggwrap.png) | EggWrap | 188 | The precursor to Pigs in a Blanket. |
+| ![BerryCreamsicle](frozen_treats_creamsicle_m.png) | BerryCreamsicle | 145 | A vibrant berry creamsicle. A berry good frozen treat. |
+| ![Cornuto](frozen_treats_cornuto.png) | Cornuto | 376 | A neapolitan vanilla and chocolate icecream cone. It menaces with a sprinkling of caramelized nuts. |
+| ![Honkdae](frozen_treats_honkdae.png) | Honkdae | 400 | The clown's favorite dessert. |
+| ![IceCreamSandwich](frozen_treats_icecreamsandwich.png) | IceCreamSandwich | 75 | Portable Ice-cream in its own packaging. |
+| ![JumboIcecream](frozen_treats_jumbo.png) | JumboIcecream | 186 | A luxurious icecream covered in rich chocolate. It seems smaller than you remember it being. |
+| ![NoggaBlack](frozen_treats_nogga_black.png) | NoggaBlack | 273 | A salty licorice icecream recently reintroduced due to all the records of the controversy being lost to time. Those who cannot remember the past
+ are doomed to repeat it. |
+| ![PopsicleBase](frozen_treats_creamsicle_o.png) | PopsicleBase | 285 | Mmmm, this should not exist. |
+| ![PopsicleStick](frozen_treats_popsicle_stick.png) | PopsicleStick | N/A | This humble little stick usually carries a frozen treat, at the moment it seems freed from this atlassian burden. |
+| ![SnowconeApple](frozen_treats_amber_sc.png) | SnowconeApple | N/A | Apple syrup drizzled over a snowball in a paper cup. |
+| ![SnowconeBerry](frozen_treats_berry_sc.png) | SnowconeBerry | N/A | Berry syrup drizzled over a snowball in a paper cup. |
+| ![SnowconeBluecherry](frozen_treats_blue_sc.png) | SnowconeBluecherry | 50 | Bluecherry syrup drizzled over a snowball in a paper cup, how rare! |
+| ![SnowconeCherry](frozen_treats_red_sc.png) | SnowconeCherry | N/A | Cherry syrup drizzled over a snowball in a paper cup. |
+| ![SnowconeClown](frozen_treats_clown_sc.png) | SnowconeClown | 50 | Laughter drizzled over a snowball in a paper cup. |
+| ![SnowconeFlavorless](frozen_treats_flavorless_sc.png) | SnowconeFlavorless | 0 | It's just shaved ice. Still fun to chew on. |
+| ![SnowconeFruitSalad](frozen_treats_fruitsalad_sc.png) | SnowconeFruitSalad | 75 | A delightful mix of citrus syrups drizzled over a snowball in a paper cup. |
+| ![SnowconeGrape](frozen_treats_grape_sc.png) | SnowconeGrape | 50 | Grape syrup drizzled over a snowball in a paper cup. |
+| ![SnowconeHoney]() | SnowconeHoney | 225 | Honey drizzled over a snowball in a paper cup. |
+| ![SnowconeLemon](frozen_treats_lemon_sc.png) | SnowconeLemon | 50 | Lemon syrup drizzled over a snowball in a paper cup. |
+| ![SnowconeLime](frozen_treats_lime_sc.png) | SnowconeLime | 50 | Lime syrup drizzled over a snowball in a paper cup. |
+| ![SnowconeMime](frozen_treats_mime_sc.png) | SnowconeMime | 50 | ... |
+| ![SnowconeOrange](frozen_treats_orange_sc.png) | SnowconeOrange | 50 | Orange syrup drizzled over a snowball in a paper cup. |
+| ![SnowconePineapple](frozen_treats_pineapple_sc.png) | SnowconePineapple | 50 | Pineapple syrup drizzled over a snowball in a paper cup. |
+| ![SnowconePwrGame](frozen_treats_pwrgame_sc.png) | SnowconePwrGame | 50 | Pwr Game soda drizzled over a snowball in a paper cup. |
+| ![SnowconeRainbow](frozen_treats_rainbow_sc.png) | SnowconeRainbow | 250 | A very colorful snowball in a paper cup. |
+| ![SnowconeSpaceCola](frozen_treats_soda_sc.png) | SnowconeSpaceCola | 50 | Space Cola drizzled over a snowball in a paper cup. |
+| ![SnowconeSpaceMountainWind](frozen_treats_mountainwind_sc.png) | SnowconeSpaceMountainWind | 50 | Space Mountain Wind drizzled over a snowball in a paper cup. |
+| ![SpaceFreezy](frozen_treats_spacefreezy.png) | SpaceFreezy | 388 | The best icecream in space. |
+| ![StrawberryIceCreamSandwich](frozen_treats_strawberryicecreamsandwich.png) | StrawberryIceCreamSandwich | 75 | Portable ice-cream in its own packaging of the strawberry variety. |
+| ![Sundae](frozen_treats_sundae.png) | Sundae | 313 | A classic dessert. |
+| ![FudgeDice](food_chocodice.png) | FudgeDice | 128 | A little cube of chocolate that tends to have a less intense taste if you eat too many at once. |
+| ![FuegoPlasmaBurrito](food_fuegoburrito.png) | FuegoPlasmaBurrito | 275 | A super spicy burrito. |
+| ![Gumball]() | Gumball | 125 | A colorful, sugary gumball. |
+| ![HighPowerEnergyBars](food_energybar.png) | HighPowerEnergyBars | 150 | An energy bar with a lot of punch, you probably shouldn't eat this if you're not an Ethereal. |
+| ![HoneyNutBar](food_honeybar.png) | HoneyNutBar | 375 | Oats and nuts compressed together into a bar, held together with a honey glaze. |
+| ![HugeMushroomSlice](food_hugemushroomslice.png) | HugeMushroomSlice | 150 | A slice from a huge mushroom. |
+| ![Lollipop]() | Lollipop | 200 | A delicious lollipop. Makes for a great Valentine's present. |
+| ![MaintenancePeaches](food_peachcanmaint.png) | MaintenancePeaches | N/A | I have a mouth and I must eat. |
+| ![CutletBase](food_cutlet.png) | CutletBase | 75 | A cooked meat cutlet. |
+| ![CutletHuman]() | CutletHuman | N/A | N/A |
+| ![BearMeat](food_bearmeat.png) | BearMeat | 630 | A very manly slab of meat. |
+| ![ChickenMeat](food_birdmeat.png) | ChickenMeat | N/A | A slab of raw chicken. Remember to wash your hands! |
+| ![CorgiMeat]() | CorgiMeat | N/A | Tastes like... well you know... |
+| ![GoliathMeat](food_goliathmeat.png) | GoliathMeat | 165 | A slab of goliath meat. It's not very edible now, but it cooks great in lava. |
+| ![GondolaMeat]() | GondolaMeat | 162 | According to legends of old, consuming raw gondola flesh grants one inner peace. |
+| ![GorillaMeat]() | GorillaMeat | 298 | Much meatier than monkey meat. |
+| ![MeatProduct](food_meatproduct.png) | MeatProduct | N/A | A slab of station reclaimed and chemically processed meat product. |
+| ![MeatSlabBase](food_meat.png) | MeatSlabBase | 148 | A slab of meat. |
+| ![MeatSlabEthereal](food_etherealmeat.png) | MeatSlabEthereal | 38 | So shiny you feel like ingesting it might make you shine too. |
+| ![MeatSlabFly](food_flymeat.png) | MeatSlabFly | N/A | Nothing says tasty like maggot filled radioactive mutant flesh. |
+| ![MeatSlabGolem](food_golemmeat.png) | MeatSlabGolem | 113 | Edible rocks, welcome to the future. |
+| ![MeatSlabGolemAdamantine](food_agolemmeat.png) | MeatSlabGolemAdamantine | N/A | From the slime pen to the rune to the kitchen, science. |
+| ![MeatSlabLizard](food_lizardmeat.png) | MeatSlabLizard | N/A | Delicious dino damage. |
+| ![MeatSlabMoth](food_mothmeat.png) | MeatSlabMoth | N/A | Unpleasantly powdery and dry. Kind of pretty, though. |
+| ![MeatSlabPlant](food_plantmeat.png) | MeatSlabPlant | N/A | All the joys of healthy eating with all the fun of cannibalism. |
+| ![MeatSlabShadow](food_shadowmeat.png) | MeatSlabShadow | N/A | Ow, the edge. |
+| ![MeatSlabSlime](food_slimemeat.png) | MeatSlabSlime | 113 | Because jello wasn't offensive enough to vegans. |
+| ![MeatwheatClump](food_meatwheat_clump.png) | MeatwheatClump | 205 | This doesn't look like meat, but your standards aren't that high to begin with. |
+| ![PenguinMeat]() | PenguinMeat | 128 | A slab of penguin meat. |
+| ![RottenMeat](food_rottenmeat.png) | RottenMeat | N/A | Halfway to becoming fertilizer for your garden. |
+| ![SkeletonMeat](food_skeletonmeat.png) | SkeletonMeat | N/A | There's a point where this needs to stop, and clearly we have passed it. |
+| ![SpiderMeat](food_spidermeat.png) | SpiderMeat | 150 | A slab of spider meat. That is so Kafkaesque. |
+| ![Synthmeat](food_meat_old.png) | Synthmeat | N/A | A synthetic slab of meat. |
+| ![XenoMeat](food_xenomeat.png) | XenoMeat | 150 | N/A |
+| ![RawCrabMeat](food_crabmeatraw.png) | RawCrabMeat | 90 | A pile of raw crab meat. |
+| ![RawCutletBase](food_rawcutlet.png) | RawCutletBase | 38 | A raw meat cutlet. |
+| ![RawCutletHuman]() | RawCutletHuman | N/A | N/A |
+| ![RawPieceOfBacon](food_bacon.png) | RawPieceOfBacon | 90 | A raw piece of bacon. |
+| ![GoliathSteak](food_goliathsteak.png) | GoliathSteak | N/A | A delicious, lava cooked steak. |
+| ![PenguinSteak]() | PenguinSteak | N/A | N/A |
+| ![SteakBase](food_meatsteak.png) | SteakBase | 188 | A piece of hot spicy meat. |
+| ![SteakLizard]() | SteakLizard | N/A | N/A |
+| ![Synthsteak](food_meatsteak_old.png) | Synthsteak | N/A | A synthetic meat steak. It doesn't look quite right, now does it? |
+| ![ThermallyProcessedMeatProduct](food_meatproductsteak.png) | ThermallyProcessedMeatProduct | N/A | N/A |
+| ![BBQRibs](food_ribs.png) | BBQRibs | 450 | BBQ ribs, slathered in a healthy coating of BBQ sauce. The least vegan thing to ever exist. |
+| ![CarpFillet](food_fishfillet.png) | CarpFillet | 188 | A fillet of spess carp meat. |
+| ![CarpSashimi](food_sashimi.png) | CarpSashimi | 238 | Celebrate surviving attack from hostile alien lifeforms by hospitalising yourself. |
+| ![ChickenNugget](food_nugget_lump.png) | ChickenNugget | 75 | A 'chicken' nugget vaguely shaped like a lump. |
+| ![CornedBeefAndCabbage](food_cornedbeef.png) | CornedBeefAndCabbage | 188 | Now you can feel like a real tourist vacationing in Ireland. |
+| ![CubanCarp](food_cubancarp.png) | CubanCarp | 228 | N/A |
+| ![Enchiladas](food_enchiladas.png) | Enchiladas | 315 | "\xA1Viva M\xE9xico!" |
+| ![FiestaSkewer](food_fiestaskewer.png) | FiestaSkewer | N/A | "\xA1M\xE1s, por favor!" |
+| ![FiletMigrawr](food_bearsteak.png) | FiletMigrawr | 263 | Because eating bear wasn't manly enough. |
+| ![FishFingers](food_fishfingers.png) | FishFingers | 150 | A finger of fish. |
+| ![GorillaCube]() | GorillaCube | N/A | A Waffle Co. brand gorilla cube. Now with extra molecules! |
+| ![GreenEggsAndHam](food_spidereggsham.png) | GreenEggsAndHam | 225 | Would you eat them on a train? Would you eat them on a plane? Would you eat them on a state of the art corporate deathtrap floating through space? |
+| ![KebabBase](food_kebab.png) | KebabBase | 300 | N/A |
+| ![Meatball](food_meatball.png) | Meatball | 188 | A great meal all round. Not a cord of wood. |
+| ![MonkeyCube](food_monkeycube.png) | MonkeyCube | 0 | Just add water! |
+| ![PigInABlanket](food_pigblanket.png) | PigInABlanket | 263 | A tiny sausage wrapped in a flakey, buttery roll. Free this pig from its blanket prison by eating it. |
+| ![RawKhinkali]() | RawKhinkali | 78 | One hundred khinkalis? Do I look like a pig? |
+| ![Salami](food_salami.png) | Salami | 44 | A slice of cured salami. |
+| ![Sausage](food_sausage.png) | Sausage | 262 | A piece of mixed, long meat. |
+| ![SpiderLeg](food_spiderleg.png) | SpiderLeg | 75 | A still twitching leg of a giant spider... you don't really want to eat this, do you? |
+| ![StewedSoyMeat](food_stewedsoymeat.png) | StewedSoyMeat | 300 | Even non-vegetarians will LOVE this! |
+| ![Tofu](food_tofu.png) | Tofu | 75 | We all love tofu. |
+| ![MelonFruitBowl](food_melonfruitbowl.png) | MelonFruitBowl | 375 | For people who wants edible fruit bowls. |
+| ![MelonKeg](food_melonkeg.png) | MelonKeg | 488 | Who knew vodka was a fruit? |
+| ![Mint](food_mint.png) | Mint | 0 | It is only wafer thin. |
+| ![Nachos](food_nachos.png) | Nachos | 300 | Chips from Space Mexico. |
+| ![OnionRings](food_onionrings.png) | OnionRings | 113 | Onion slices coated in batter. |
+| ![BlueCherryCupcake](food_bluecherrycupcake.png) | BlueCherryCupcake | 225 | Blue cherries inside a delicious cupcake. |
+| ![Cannoli](food_cannoli.png) | Cannoli | 225 | A sicilian treat that makes you into a wise guy. |
+| ![Chawanmushi](food_chawanmushi.png) | Chawanmushi | 188 | A legendary egg custard that makes friends out of enemies. Probably too hot for a cat to eat. |
+| ![CherryCupcake](food_cherrycupcake.png) | CherryCupcake | 225 | A sweet cupcake with cherry bits. |
+| ![ChocolateCornet](food_chococornet.png) | ChocolateCornet | 225 | Which side's the head, the fat end or the thin end? |
+| ![Cookie](food_COOKIE.png) | Cookie | 38 | COOKIE!!! |
+| ![Cracker](food_cracker.png) | Cracker | 38 | It's a salted cracker. |
+| ![BerryPocket]() | BerryPocket | 158 | A relentlessly sweet donk-pocket first created for use in Operation Dessert Storm. |
+| ![DankPocket](food_dankpocket.png) | DankPocket | 150 | The food of choice for the seasoned botanist. |
+| ![GondolaPocket]() | GondolaPocket | N/A | The choice to use real gondola meat in the recipe is controversial, to say the least. |
+| ![HonkPocket]() | HonkPocket | 160 | The award-winning donk-pocket that won the hearts of clowns and humans alike. |
+| ![PizzaPocket]() | PizzaPocket | 154 | Delicious, cheesy and surprisingly filling. |
+| ![SpicyPocket]() | SpicyPocket | 154 | The classic snack food, now with a heat-activated spicy flair. |
+| ![TeriyakiPocket]() | TeriyakiPocket | 160 | An east-asian take on the classic stationside snack. |
+| ![DonutApple](donuts_donut_green.png) | DonutApple | N/A | Goes great with a shot of cinnamon schnapps. |
+| ![DonutBlumpkin](donuts_donut_blue.png) | DonutBlumpkin | N/A | Goes great with a mug of soothing drunken blumpkin. |
+| ![DonutBungo](donuts_donut_yellow.png) | DonutBungo | N/A | Goes great with a mason jar of hippie's delight. |
+| ![DonutCaramel](donuts_donut_beige.png) | DonutCaramel | N/A | Goes great with a mug of hot coco. |
+| ![DonutChaos](donuts_donut_chaos.png) | DonutChaos | N/A | Like life, it never quite tastes the same. |
+| ![DonutChocolate](donuts_donut_choc.png) | DonutChocolate | N/A | Goes great with a glass of warm milk. |
+| ![DonutMatcha](donuts_donut_olive.png) | DonutMatcha | N/A | Goes great with a cup of tea. |
+| ![DonutPink](donuts_donut_pink.png) | DonutPink | N/A | Goes great with a soy latte. |
+| ![HoneyBun](food_honeybun.png) | HoneyBun | 375 | A sticky pastry bun glazed with honey. |
+| ![JellyDonutApple](donuts_jelly_green.png) | JellyDonutApple | N/A | Goes great with a shot of cinnamon schnapps. |
+| ![JellyDonutBlumpkin](donuts_jelly_blue.png) | JellyDonutBlumpkin | N/A | Goes great with a mug of soothing drunken blumpkin. |
+| ![JellyDonutBungo](donuts_jelly_yellow.png) | JellyDonutBungo | N/A | Goes great with a mason jar of hippie's delight. |
+| ![JellyDonutCaramel](donuts_jelly_beige.png) | JellyDonutCaramel | N/A | Goes great with a mug of hot coco. |
+| ![JellyDonutChocolate](donuts_jelly_choc.png) | JellyDonutChocolate | N/A | Goes great with a glass of warm milk. |
+| ![JellyDonutMatcha](donuts_jelly_olive.png) | JellyDonutMatcha | N/A | Goes great with a cup of tea. |
+| ![JellyDonutPink](donuts_jelly_pink.png) | JellyDonutPink | N/A | Goes great with a soy latte. |
+| ![SlimeJellyApple]() | SlimeJellyApple | N/A | Goes great with a shot of cinnamon schnapps. |
+| ![SlimeJellyDonutBlumpkin]() | SlimeJellyDonutBlumpkin | N/A | Goes great with a mug of soothing drunken blumpkin. |
+| ![SlimeJellyDonutBungo]() | SlimeJellyDonutBungo | N/A | Goes great with a mason jar of hippie's delight. |
+| ![SlimeJellyDonutCaramel]() | SlimeJellyDonutCaramel | N/A | Goes great with a mug of hot coco. |
+| ![SlimeJellyDonutChocolate]() | SlimeJellyDonutChocolate | N/A | Goes great with a glass of warm milk. |
+| ![SlimeJellyDonutMatcha]() | SlimeJellyDonutMatcha | N/A | Goes great with a cup of tea. |
+| ![SlimeJellyDonutPink]() | SlimeJellyDonutPink | N/A | Goes great with a soy latte. |
+| ![SlimeJellyDonutPlain]() | SlimeJellyDonutPlain | N/A | N/A |
+| ![DonutBase](donuts_donut.png) | DonutBase | 165 | Goes great with robust coffee. |
+| ![_JellyDonutBase](donuts_jelly.png) | _JellyDonutBase | 173 | You jelly? |
+| ![FortuneCookie](food_fortune_cookie.png) | FortuneCookie | 75 | A true prophecy in each cookie! |
+| ![Hotdog](food_hotdog.png) | Hotdog | 383 | Fresh footlong ready to go down on. |
+| ![Kachapuri](food_khachapuri.png) | Kachapuri | 525 | Bread with egg and cheese? |
+| ![MeatBun](food_meatbun.png) | MeatBun | 300 | Has the potential to not be Dog. |
+| ![MuffinBase](food_muffin.png) | MuffinBase | 225 | A delicious and spongy little cake. |
+| ![MuffinBerry](food_berrymuffin.png) | MuffinBerry | N/A | A delicious and spongy little cake, with berries. |
+| ![MuffinBooBerry]() | MuffinBooBerry | N/A | My stomach is a graveyard! No living being can quench my bloodthirst! |
+| ![OatmealCookie](food_oatmealcookie.png) | OatmealCookie | 225 | The best of both cookie and oat. |
+| ![PancakeBlueberry](food_bbpancakes_1.png) | PancakeBlueberry | 338 | A fluffy and delicious blueberry pancake. |
+| ![PlumpHelmetBiscuit](food_phelmbiscuit.png) | PlumpHelmetBiscuit | 188 | This is a finely-prepared plump helmet biscuit. The ingredients are exceptionally minced plump helmet, and well-minced dwarven wheat flour. |
+| ![PoppyPretzel](food_poppypretzel.png) | PoppyPretzel | 188 | It's all twisted up! |
+| ![RaisinCookie](food_raisincookie.png) | RaisinCookie | 225 | Why would you put raisins on a cookie? |
+| ![RoffleWaffles](food_rofflewaffles.png) | RoffleWaffles | 375 | Waffles from Roffle. Co. |
+| ![SoylentGreen](food_soylent_green.png) | SoylentGreen | 413 | Not made of people. Honest. |
+| ![SoylentViridians](food_soylent_yellow.png) | SoylentViridians | 413 | Not made of people. Honest. |
+| ![SugarCookie](food_sugarcookie.png) | SugarCookie | 188 | Just like your little sister used to make. |
+| ![Waffles](food_waffles.png) | Waffles | 338 | Mmm, waffles. |
+| ![AmanitaPie](piecake_amanita_pie.png) | AmanitaPie | 375 | Sweet and tasty poison pie. |
+| ![ApplePie](piecake_applepie.png) | ApplePie | N/A | A pie containing sweet sweet love...or apple. |
+| ![Baklava](piecake_baklava.png) | Baklava | N/A | A delightful healthy snack made of nut layers with thin bread. |
+| ![BananaCreamPie](piecake_pie.png) | BananaCreamPie | 313 | Just like back home, on clown planet! HONK! |
+| ![BearyPie](piecake_bearypie.png) | BearyPie | 188 | No brown bears, this is a good sign. |
+| ![BerryClafoutis](piecake_berryclafoutis.png) | BerryClafoutis | 463 | No black birds, this is a good sign. |
+| ![BerryTart](piecake_berrytart.png) | BerryTart | 300 | A tasty dessert of many different small barries on a thin pie crust. |
+| ![BlumpkinPie](piecake_blumpkinpie.png) | BlumpkinPie | N/A | An odd blue pie made with toxic blumpkin. |
+| ![CherryPie](piecake_cherrypie.png) | CherryPie | N/A | Taste so good, make a grown man cry. |
+| ![ChocolateLavaTart](piecake_cocolavatart.png) | ChocolateLavaTart | 300 | A tasty dessert made of chocolate, with a liquid core. |
+| ![DulceDeBatata](piecake_dulcedebatata.png) | DulceDeBatata | N/A | A delicious jelly made with sweet potatoes. |
+| ![FrostyPie](piecake_frostypie.png) | FrostyPie | N/A | Tastes like blue and cold. |
+| ![GoldenAppleStreuselTart](piecake_gappletart.png) | GoldenAppleStreuselTart | N/A | A tasty dessert that won't make it through a metal detector. |
+| ![GrapeTart](piecake_grapetart.png) | GrapeTart | 300 | A tasty dessert that reminds you of the wine you didn't make. |
+| ![MeatPie]() | MeatPie | N/A | An old barber recipe, very delicious! |
+| ![MimeTart](piecake_mimetart.png) | MimeTart | 375 | ... |
+| ![PlainPie]() | PlainPie | N/A | A simple pie, still delicious. |
+| ![PlumpPie](piecake_plump_pie.png) | PlumpPie | N/A | I bet you love stuff made out of plump helmets! |
+| ![PumpkinPie](piecake_pumpkinpie.png) | PumpkinPie | N/A | A delicious treat for the autumn months. |
+| ![ArnoldPizza](pizzaspaghetti_arnoldpizza.png) | ArnoldPizza | 1350 | Hello, you've reached Arnold's pizza shop. I'm not here now, I'm out killing pepperoni |
+| ![DankPizza](pizzaspaghetti_dankpizza.png) | DankPizza | 1155 | The hippie's pizza of choice. |
+| ![DonkpocketPizza](pizzaspaghetti_donkpocketpizza.png) | DonkpocketPizza | 1140 | Who thought this would be a good idea? |
+| ![HawaiianPizza](pizzaspaghetti_pineapplepizza.png) | HawaiianPizza | N/A | The pizza equivalent of Einstein's riddle. |
+| ![MeatPizza](pizzaspaghetti_meatpizza.png) | MeatPizza | 1590 | Greasy pizza with delicious meat. |
+| ![MushroomPizza](pizzaspaghetti_mushroompizza.png) | MushroomPizza | 1350 | Very special pizza. |
+| ![PizzaMargherita](pizzaspaghetti_pizzamargherita.png) | PizzaMargherita | N/A | The most cheezy pizza in galaxy. |
+| ![SausagePizza](pizzaspaghetti_sausagepizza.png) | SausagePizza | N/A | You can really smell the... sausage-ness. |
+| ![VegetablePizza](pizzaspaghetti_vegetablepizza.png) | VegetablePizza | 1140 | No one of Tomatos Sapiens were harmed during making this pizza. |
+| ![Popcorn](food_popcorn.png) | Popcorn | 75 | Now let's find some cinema. |
+| ![Powercreoe](food_powercrepe.png) | Powercreoe | 575 | With great power, comes great crepes. It looks like a pancake filled with jelly but packs quite a punch. |
+| ![RoastParsnip](food_roastparsnip.png) | RoastParsnip | 263 | Sweet and crunchy. |
+| ![RoyalCheese](food_royalcheese.png) | RoyalCheese | 750 | Ascend the throne. Consume the wheel. Feel the POWER. |
+| ![AesirSalad](soupsalad_aesirsalad.png) | AesirSalad | 525 | Probably too incredible for mortal men to fully enjoy. |
+| ![CitrusDelight](soupsalad_citrusdelight.png) | CitrusDelight | 450 | Citrus overload! |
+| ![EggBowl](soupsalad_eggbowl.png) | EggBowl | N/A | A bowl of rice with a fried egg. |
+| ![FruitSalad](soupsalad_fruitsalad.png) | FruitSalad | N/A | Your standard fruit salad. |
+| ![HerbSalad](soupsalad_herbsalad.png) | HerbSalad | 375 | A tasty salad with apples on top. |
+| ![JungleSalad](soupsalad_junglesalad.png) | JungleSalad | 425 | Exotic fruits in a bowl. |
+| ![Oatmeal](soupsalad_oatmeal.png) | Oatmeal | 363 | A nice bowl of oatmeal. |
+| ![RiceAndPork](soupsalad_riceporkbowl.png) | RiceAndPork | 300 | Well, it looks like pork... |
+| ![Ricebowl](soupsalad_ricebowl.png) | Ricebowl | 150 | A bowl of raw rice. |
+| ![RicePudding](soupsalad_ricepudding.png) | RicePudding | N/A | Everybody loves rice pudding! |
+| ![ValidSalid](soupsalad_validsalad.png) | ValidSalid | 388 | It's just an herb salad with meatballs and fried potato slices. Nothing suspicious about it. |
+| ![ButteredToast](food_butteredtoast.png) | ButteredToast | N/A | Butter lightly spread over a piece of toast. |
+| ![CheeseSandwich]() | CheeseSandwich | 263 | Goes great with tomato soup! |
+| ![JelliedToastBase](burgerbread_jellytoast.png) | JelliedToastBase | N/A | A slice of toast covered with delicious jam. |
+| ![JellySandwichBase](burgerbread_jellysandwich.png) | JellySandwichBase | N/A | You wish you had some peanut butter to go with this... |
+| ![NotASandwich](burgerbread_notasandwich.png) | NotASandwich | 450 | Something seems to be wrong with this, you can't quite figure what. Maybe it's his moustache. |
+| ![Sandwich](burgerbread_sandwich.png) | Sandwich | 300 | A grand creation of meat, cheese, bread, and several leaves of lettuce! Arthur Dent would be proud. |
+| ![TwoBread](burgerbread_twobread.png) | TwoBread | 150 | This seems awfully bitter. |
+| ![ScaredysPrivateReserveBeefJerky](food_sosjerky.png) | ScaredysPrivateReserveBeefJerky | 115 | Beef jerky made from the finest space cows. |
+| ![AmanitaJelly](soupsalad_amanitajelly.png) | AmanitaJelly | 225 | Looks curiously toxic. |
+| ![BeetSoup](soupsalad_beetsoup.png) | BeetSoup | N/A | Wait, how do you spell it again..? |
+| ![Bisque](soupsalad_bisque.png) | Bisque | N/A | A classic entree from Space-France. |
+| ![BloodSoup](soupsalad_tomatosoup.png) | BloodSoup | 225 | Smells like copper. |
+| ![BungoCurry](soupsalad_bungocurry.png) | BungoCurry | 238 | A spicy vegetable curry made with the humble bungo fruit, Exotic! |
+| ![ChantrelleSoup](soupsalad_mushroomsoup.png) | ChantrelleSoup | N/A | A delicious and hearty mushroom soup. |
+| ![ChiliConCarnival](soupsalad_clownchili.png) | ChiliConCarnival | 273 | A delicious stew of meat, chiles, and salty, salty clown tears. |
+| ![ClownsTears](soupsalad_clownstears.png) | ClownsTears | 588 | Not very funny. |
+| ![ColdChili](soupsalad_coldchili.png) | ColdChili | 270 | This slush is barely a liquid! |
+| ![ElectronSoup](soupsalad_electronsoup.png) | ElectronSoup | 175 | A gastronomic curiosity of ethereal origin. It is famed for the minature weather system formed over a properly prepared soup. |
+| ![EyeballSoup](soupsalad_eyeballsoup.png) | EyeballSoup | N/A | It looks back at you... |
+| ![FrenchOnionSoup](soupsalad_onionsoup.png) | FrenchOnionSoup | N/A | Good enough to make a grown mime cry. |
+| ![HotChili](soupsalad_hotchili.png) | HotChili | 345 | A five alarm Texan Chili! |
+| ![MeatballSoup](soupsalad_meatballsoup.png) | MeatballSoup | N/A | You've got balls kid, BALLS! |
+| ![Milosoup](soupsalad_milosoup.png) | Milosoup | N/A | The universes best soup! Yum!!! |
+| ![MonkeysDelight](soupsalad_monkeysdelight.png) | MonkeysDelight | 575 | A delicious soup with dumplings and hunks of monkey meat simmered to perfection, in a broth that tastes faintly of bananas. |
+| ![MysterySoup](soupsalad_mysterysoup.png) | MysterySoup | 225 | The mystery is, why aren't you eating it? |
+| ![NettleSoup](soupsalad_nettlesoup.png) | NettleSoup | N/A | To think, the botanist would've beat you to death with one of these. |
+| ![RedBeetSoup](soupsalad_redbeetsoup.png) | RedBeetSoup | N/A | Quite a delicacy. |
+| ![SlimeSoup](soupsalad_slimesoup.png) | SlimeSoup | 338 | If no water is available, you may substitute tears. |
+| ![SpacyLibertyDuff](soupsalad_spacylibertyduff.png) | SpacyLibertyDuff | 225 | Jello gelatin, from Alfred Hubbard's cookbook. |
+| ![Stew](soupsalad_stew.png) | Stew | 575 | A nice and warm stew. Healthy and strong. |
+| ![SweetPotatoSoup](soupsalad_sweetpotatosoup.png) | SweetPotatoSoup | N/A | Delicious sweet potato in soup form. |
+| ![TomatoSoup]() | TomatoSoup | 325 | Drinking this feels like being a vampire! A tomato vampire... |
+| ![VegetableSoup](soupsalad_vegetablesoup.png) | VegetableSoup | N/A | A true vegan meal. |
+| ![WingFangChu](soupsalad_wingfangchu.png) | WingFangChu | N/A | A savory dish of alien wing wang in soy. |
+| ![WishSoup](soupsalad_wishsoup.png) | WishSoup | 0 | I wish this was soup. |
+| ![SoyDope](food_soydope.png) | SoyDope | N/A | Dope from a soy. |
+| ![SpaceFries](food_fries.png) | SpaceFries | N/A | 'AKA: French Fries, Freedom Fries, etc.' |
+| ![SpaceTwinkie](food_space_twinkie.png) | SpaceTwinkie | 100 | Guaranteed to survive longer than you will. |
+| ![BeefNoodle](pizzaspaghetti_beefnoodle.png) | BeefNoodle | 413 | Nutritious, beefy and noodly. |
+| ![ChowMein](pizzaspaghetti_chowmein.png) | ChowMein | 488 | A nice mix of noodles and fried vegetables. |
+| ![Copypasta](pizzaspaghetti_copypasta.png) | Copypasta | 800 | You probably shouldn't try this, you always hear people talking about how bad it is... |
+| ![SpaghettiAndMeatballs](pizzaspaghetti_meatballspaghetti.png) | SpaghettiAndMeatballs | 450 | Now that's a nic'e meatball! |
+| ![SpaghettiTomato](pizzaspaghetti_pastatomato.png) | SpaghettiTomato | 400 | Spaghetti and crushed tomatoes. Just like your abusive father used to make! |
+| ![SpaghettiUncooked](pizzaspaghetti_spaghetti.png) | SpaghettiUncooked | 75 | Now that's a nic'e pasta! |
+| ![Spesslaw](pizzaspaghetti_spesslaw.png) | Spesslaw | 525 | A lawyers favourite. |
+| ![SpiderEggs](food_spidereggs.png) | SpiderEggs | 75 | A cluster of juicy spider eggs. A great side dish for when you care not for your health. |
+| ![Spiderling](food_spiderling.png) | Spiderling | 38 | It's slightly twitching in your hand. Ew... |
+| ![SpiderLollipop](food_spiderlollipop.png) | SpiderLollipop | 88 | Still gross, but at least it has a mountain of sugar on it. |
+| ![StickOfButter](food_butter.png) | StickOfButter | 188 | A stick of delicious, golden, fatty goodness. |
+| ![StuffedLegion](food_stuffed_legion.png) | StuffedLegion | 380 | The former skull of a damned human, filled with goliath meat. It has a decorative lava pool made of ketchup and hotsauce. |
+| ![SyndiCakes](food_syndi_cakes.png) | SyndiCakes | 163 | An extremely moist snack cake that tastes just as good after being nuked. |
+| ![Taco](food_taco.png) | Taco | 225 | A traditional taco with meat, cheese, and lettuce. |
+| ![TacoPlain](food_taco_plain.png) | TacoPlain | 150 | A traditional taco with meat and cheese, minus the rabbit food. |
+| ![TatorTot](food_tatortot.png) | TatorTot | 150 | A large fried potato nugget that may or may not try to valid you. |
+| ![TinOfBeans](food_beans.png) | TinOfBeans | 375 | Musical fruit in a slightly less musical container. |
+| ![TinyChocolate](food_tiny_chocolate.png) | TinyChocolate | 78 | A tiny and sweet chocolate. |
+| ![Tortilla](food_ingredients_tortilla.png) | Tortilla | 150 | The base for all your burritos. |
+| ![YakiImo](food_yakiimo.png) | YakiImo | 338 | Made with roasted sweet potatoes! |

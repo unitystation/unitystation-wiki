@@ -145,7 +145,11 @@ const extractPrefabData = (fileName) => {
     initialDescription = prefabContents
       .split("initialDescription")[1]
       .split("value: ")[1]
-      .split("objectReference")[0];
+      .split("objectReference")[0]
+      .replace("\r\n", "")
+      .trim();
+
+    while (initialDescription.indexOf('  ') !== -1) initialDescription = initialDescription.replace('  ', ' ');
   }
 
   // try to extract the prefab name
