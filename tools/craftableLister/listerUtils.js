@@ -72,13 +72,11 @@ const extractRecipeFromScriptableObjectFile = (fileName) => {
     recipe.ingredients.length - 3
   );
 
-  return recipe;
-
-  // if (isCraftable) {
-  //   return recipe;
-  // } else {
-  //   return null;
-  // }
+  if (isCraftable) {
+    return recipe;
+  } else {
+    return null;
+  }
 };
 
 /**
@@ -108,7 +106,6 @@ const extractPrefabData = (fileName) => {
         .split(",")[0];
     } catch {
       // edge case for prefabs with no sprites. the fk are those?
-      //return null;
     }
   }
 
@@ -120,7 +117,6 @@ const extractPrefabData = (fileName) => {
         .split(",")[0];
     } catch {
       // edge case for prefabs with no sprites. the fk are those?
-      //return null;
     }
   }
 
@@ -162,14 +158,30 @@ const extractPrefabData = (fileName) => {
         .split("\r\n")[0];
     }
     catch {
-      console.log('foobar');
     }
-  }  
+  }
 
-  if (spriteId === null) return null;
+  // try to extract the source prefab, if he has one
+  // m_SourcePrefab: {fileID: 100100000, guid: bdbfea1235c0674488cd2a61b2e9cfa4, type: 3}
+  let sourcePrefabId = null;
+  if (spriteId === null && prefabContents.indexOf("m_SourcePrefab") !== -1) {
+    try {
+      sourcePrefabId = prefabContents
+        .split("m_SourcePrefab")[1]
+        .split("guid: ")[1]
+        .split(",")[0];
+    } catch {
+      // edge case for prefabs with no sprites. the fk are those?
+      //return null;
+    }
+  }    
+
+
+//  if (spriteId === null) return null;
 
   return {
     prefabId,
+    sourcePrefabId,
     name,
     spriteId,
     nutritionLevel,

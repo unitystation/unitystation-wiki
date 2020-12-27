@@ -83,10 +83,10 @@ const init = () => {
   // OUTPUT THE CRAFTABLE RECIPES!
   let finalList = "| Picture | Name | Ingredients | Nutrition Level | Comments |\r\n";
   craftables.forEach((craftable) => {
-    const prefabId = craftable.prefabId;
-    if (prefabDictionary[prefabId] !== undefined) {
-      const textureId = prefabDictionary[prefabId].spriteId;
-      const pngFilePath = spriteIdToImageDictionary[textureId];
+    let prefabId = craftable.prefabId ;
+    if (prefabDictionary[prefabId] && prefabDictionary[prefabId].spriteId) {
+      const textureId = prefabDictionary[prefabId].spriteId || "???";
+      const pngFilePath = spriteIdToImageDictionary[textureId] || "???";
       const nutritionLevel = prefabDictionary[prefabId].nutritionLevel || "N/A";
       const initialDescription = prefabDictionary[prefabId].initialDescription || "N/A";;
 
