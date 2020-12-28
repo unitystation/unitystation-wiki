@@ -12,21 +12,9 @@ In Unitystation, every character has a nutrition value that determines how full 
 
 You will gradually lose nutrition over time, though different actions cause different amounts of nutrition loss. Running around will cause you to go hungrier faster than walking around or staying still.
 
-## Drinks
-
-To be continued...
-
 ## Food
 
-To be continued...
-
-## Ingredients
-
-Basic items used to make other foods. You can eat them but you won't get much nutrition from them.
-
-Below are a few kinds (not all) of meat. To obtain meat, butcher creatures by using a knife on them while on harm intent.
-
-| Picture                                                                                             | Recipe                                     | Ingredients                                | Nutritional Value | **Notes**                                                                             |
+| Picture                                                                                             | Name                                       | Ingredients                                | Nutritional Value | **Notes**                                                                             |
 | --------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------ | ----------------- | ------------------------------------------------------------------------------------- |
 | ![Bearger](burgerbread_bearger.png)                                                                 | Bearger                                    | 1 bun + 1 bear steak                       | N/A               | N/A                                                                                   |
 | ![Bun](burgerbread_bun.png)                                                                         | Bun                                        | 1 dough slice                              | 113               | A base for any self-respecting burger.                                                |
