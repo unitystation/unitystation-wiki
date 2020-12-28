@@ -1,5 +1,6 @@
 var fs = require("fs");
 var path = require("path");
+var jsyaml = require ("./js-yaml.min.js")
 
 /**
  * Reads all the files in a folder and it's subfolders recursively
@@ -200,9 +201,24 @@ const extractTextureData = (fileName) => {
   };
 };
 
+/**
+ * Reads a yaml unity file and returns an object
+ */
+const fileToObject = (filePath) => {
+  let fileContents = fs.readFileSync(filePath).toString();
+  // clean up the tags so yaml doesn't shit itself
+  if (fileContents.indexOf('MonoBehaviour:') !== -1) {
+    fileContents = 'MonoBehaviour:' + fileContents.split('MonoBehaviour:')[1]; 
+  }
+  let obj = jsyaml.safeLoad(fileContents);
+  obj.rawText = fileContents;
+  return (obj);
+}
+
 module.exports = {
   walk,
   extractRecipeFromScriptableObjectFile,
   extractPrefabData,
   extractTextureData,
+  fileToObject,
 };
