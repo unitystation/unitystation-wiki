@@ -85,8 +85,8 @@ const init = () => {
   craftables.forEach((craftable) => {
     let prefabId = craftable.prefabId ;
     if (prefabDictionary[prefabId] && prefabDictionary[prefabId].spriteId) {
-      const textureId = prefabDictionary[prefabId].spriteId || "???";
-      const pngFilePath = spriteIdToImageDictionary[textureId] || "???";
+      const textureId = prefabDictionary[prefabId].spriteId;
+      const pngFilePath = spriteIdToImageDictionary[textureId];
       const nutritionLevel = prefabDictionary[prefabId].nutritionLevel || "N/A";
       const initialDescription = prefabDictionary[prefabId].initialDescription || "N/A";;
 
