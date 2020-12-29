@@ -2,54 +2,40 @@ var fs = require("fs");
 var utils = require("./listerUtils");
 
 
-
-let craftables = [];
-// pairs a prefabId to an object {nutritionLevel, initialDescription, spriteId, prefabId}
-let prefabDictionary = {};
-// pairs PREFAB_ID with SPRITE_ID
-let spriteIdToImageDictionary = {};
-
-// list of all scriptableObject files
-let reactionFiles = [];
-let reactionObjects = [];
+// list of all the reactions
+let reactionFiles = []; // .meta files
+let reactionObjects = []; // .asset objects
 
 
-// list of all scriptableObject files
-let reagentsFiles = [];
-let reagentObjects = []
+// list of all reagents
+let reagentsFiles = []; // .meta files
+let reagentObjects = [] // .asset objects
 
-// list of all scriptableObject files
-let textureFiles = [];
+// list of all textures
+let textureFiles = []; // png files, all of them
+let spriteIdToImageDictionary = {}; // guid -> png file dictionary
 
 
 let morphableGlassObject;
 let glassKeys = {}
 
-
-// B52: 
-// .meta
-// guid: 825e3281f4989673cb81d18311bd17d6
-
-// .asset
-// displayName: B-52
-// description: Coffee, Irish Cream, and cognac. You will get bombed.
-
-
-// drinkin glass morphable -> mKeys 825e3281f4989673cb81d18311bd17d6
-
-
-
-// 1) get the reagents list
-
-// 2) get the drinkingGlassMOrphable descriptions ?
-
-
-// - CustomName: B-52
-// CustomDescription: Kahlua, Irish Cream, and cognac. You will get bombed.
-// MainSprite: {fileID: 21300000, guid: 8754ae17615a0e2409501af8b478d6b7, type: 3}
-
-
-// this is the texture
+/**
+ * The how-to. not in this particular order
+ * 
+ * 1) read the textures and map them as object.guid -> png file
+ * 2) read all the reagents (ingredients), even toxins
+ * 3) read all the reactions from 
+ * 4) UNIQUE STEP FOR DRINKS
+ * read the morphableglass file and map them
+ * 5) put them all together. each reaction outputs a guid. we search that in the morphableglass and take
+ * it's description and spritesheet. search the ingredients in the reagents
+ * after we find a recipe, we delete it from the glassKeys
+ * 
+ * 6). whatever is left in the glassKeys dictionary are the non-craftables
+ * we output those separately
+ * 
+ * // as of december 2020, there are 121 recipes and 51 simple reagents!
+ */
 
 let foldersRead = 0;
 
@@ -72,12 +58,12 @@ utils.walk(reactionsPath, (err, res) => {
     init();
 });
 
-// step 3. load all the DRINKING reagents
+// step 3. load all the reagents
 const reagentsPath = basePath + '/Assets/Resources/ScriptableObjects/Chemistry/Reagents/'
 utils.walk(reagentsPath, (err, res) => {
     // only the .asset interest us
     reagentsFiles = res.filter(
-      (arg) => arg.indexOf(".asset.meta") !== -1 && (arg.indexOf('Reagents\\Alcohol') !== -1 || arg.indexOf('Reagents\\Drink') !== -1)
+        (arg) => arg.indexOf(".asset.meta") !== -1
     );
     foldersRead++;
 
@@ -85,13 +71,12 @@ utils.walk(reagentsPath, (err, res) => {
 });
 
 
-
 // step 3. load all the pictures
 const texturePath = basePath + '/Assets/Textures/items/drinks'
 utils.walk(texturePath, (err, res) => {
     // only the .asset interest us
     textureFiles = res.filter(
-      (arg) => arg.indexOf("png.meta") !== -1
+      (arg) => arg.indexOf(".meta") !== -1
     );
     foldersRead++;
 
@@ -183,16 +168,28 @@ const init = () =>{
   if (fs.existsSync("drinks.txt")) fs.unlinkSync("drinks.txt");
   fs.writeFile("drinks.txt", allDrinks, ()=>{});
 
-  Object.keys(reactionObjects).map(key => {
-      for (let rkey in reagentObjects) {
-          if (reagentObjects[rkey].name === reactionObjects[key].name) {
-            delete reagentObjects[rkey];
-            console.log('deleting ', reactionObjects[key].name)
-          }
-          delete reagentObjects[key];
-      }
-  });
-  console.log(reagentObjects);
-  
 
+
+  // remove the craftables from the glasses collection!
+  Object.keys(reactionObjects).forEach(reactId => delete glassKeys[reactId]);
+  for (let key in glassKeys) {
+    let glass = glassKeys[key];
+    const pngFile = spriteIdToImageDictionary[glass.MainSprite.guid];
+    if (pngFile) {
+        glass.pngFile = pngFile.split('\\').pop();
+    }
+  }  
+
+
+// output the remaining glass shapes
+// non-craftable glasses (based on simple reagents, juice / alcohol)
+  let simpleReagents = "| Picture | Name | Description |\r\n";
+  Object.values(glassKeys).forEach((glass) => {
+      const pngFilePath = spriteIdToImageDictionary[glass.MainSprite.guid].split('\\').pop();
+      simpleReagents += `| ![${glass.CustomName}](${pngFilePath}) |`;
+      simpleReagents += ` ${glass.CustomName} |`;
+      simpleReagents += ` ${glass.CustomDescription} |\r\n`;
+  });    
+  if (fs.existsSync("simpleReagents.txt")) fs.unlinkSync("simpleReagents.txt");
+  fs.writeFile("simpleReagents.txt", simpleReagents, ()=>{});  
 }
