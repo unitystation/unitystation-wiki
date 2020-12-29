@@ -1,6 +1,11 @@
-## What this tool does
+## Prerequisites
 
-This is basically a file crawler. It will output:
+- You must have [node.js](https://nodejs.org/en/) installed.
+- You must have the [UnityStation](https://github.com/unitystation/unitystation) project cloned.
+
+## Food Lister
+
+It will output:
 
 - a "recipes.txt" file containing a markdown table with all the food that can be crafted
 - a "noncraftables.txt" file containinng a markdown table with all the food that is not craftable\*
@@ -8,23 +13,23 @@ This is basically a file crawler. It will output:
 
 \*by craftable i mean it has no ingredients, but can still be found in the game (vendomat items, world items, items that can be spawned only by admins)
 
-## How do i get it working?
+### How do i get it working?
 
-### Prerequisites
-
-- You must have [node.js](https://nodejs.org/en/) installed.
-- You must have the [UnityStation](https://github.com/unitystation/unitystation) project cloned.
-
-### Running
-
-1. edit the foodRecipesListr and change this variable to point to the "UnityProject"! folder on your computer.
+1. edit the foodRecipesLister.js and change this variable to point to the "UnityProject"! folder on your computer.
    > var basePath = "C:/git/unitystation/UnityProject";
-2. Open a bash console in this folder, and run "node file.js"
+2. Open a bash console in the craftableLister folder (windows explorer, right click, Git Bash Here )
 3. Run this command "node foodRecipeLister.js"
 
-## The how (this is the ugly part)
+## Drinks Lister
 
-1. crawl the scriptableObjects folder. Search all files and extract the output guid (this points to a prefab)
-2. crawl the prefab folder. map each prefab guid to an object with the following props: name, spriteId, nutritionLevel, initialDescription
-3. crawl the textures folder. map each guid to it's .png file
-4. put them all together.
+It will output:
+
+- a "drinks.txt" file containing all the drinks that can be crafted
+- a "simpleReagents.txt" file containinng all the simple reagents (juice, simple alcohol from machines)
+
+### How do i get it working?
+
+1. edit the drinksRecipeLister.js and change this variable to point to the "UnityProject"! folder on your computer.
+   > var basePath = "C:/git/unitystation/UnityProject";
+2. Open a bash console in the craftableLister folder (windows explorer, right click, Git Bash Here )
+3. Run this command "node drinksRecipeLister.js"
