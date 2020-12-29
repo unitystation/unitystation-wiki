@@ -126,7 +126,8 @@ const init = () =>{
                     .split('\r\n')[0]
                     .trim()
                     .replace(r = new RegExp(/0/gi), '')
-                    .split('');
+                    .split('')
+                    .map(el => parseInt(`0x${el}`));
                 reactionObjects[reactionGuid].amounts = amounts;
             }
             catch {
@@ -151,7 +152,7 @@ const init = () =>{
       const pngFilePath = reaction.spriteFile.split('\\').pop();
       let ingredients = ""
       for (let i=0; i<reaction.ingredients.length; i++) {
-        ingredients += `${reaction.amounts[i]} ${reaction.ingredients[i]} , `;
+        ingredients += `${reaction.amounts[i]} ${reaction.ingredients[i]}, `;
       }
       ingredients = ingredients.split(',');
       ingredients.pop()
