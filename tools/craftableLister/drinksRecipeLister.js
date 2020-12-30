@@ -44,7 +44,7 @@ let foldersRead = 0;
 var basePath = "C:/git/unitystation/UnityProject";
 
 // 1. load the morphableglass file
-morphableGlassObject = utils.fileToObject(basePath + "/Assets/Resources/ScriptableObjects/Chemistry/Visual/DrinkingGlassMorphable.asset");
+morphableGlassObject = utils.fileToObject(basePath + "/Assets/Resources/ScriptableObjects/Chemistry/Visual/DrinkingGlassMorphable.asset")[0];
 
 
 // step 2. read the reaction files
@@ -96,8 +96,8 @@ const init = () =>{
 
     // parse all the reagents and their names!
     reagentsFiles.map(file => {
-        let reagentMeta  = utils.fileToObject(file);
-        let reagentAsset = utils.fileToObject(file.split('.meta')[0]);
+        let reagentMeta  = utils.fileToObject(file)[0];
+        let reagentAsset = utils.fileToObject(file.split('.meta')[0])[0];
         let reagentGuid = reagentMeta.guid;
 
         reagentObjects[reagentGuid] = {
@@ -110,7 +110,7 @@ const init = () =>{
     // parse all the reactions and ingredient names
     let failedReactions = [];
     reactionFiles.map(file => {
-        let reaction  = utils.fileToObject(file);
+        let reaction  = utils.fileToObject(file)[0];
         if (reaction.MonoBehaviour.results.m_keys.length !== 0) {
             let reactionGuid = reaction.MonoBehaviour.results.m_keys[0].guid
             try {
