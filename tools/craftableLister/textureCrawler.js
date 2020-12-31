@@ -1,20 +1,20 @@
 const fs = require('fs');
 const utils = require('./listerUtils');
-// const textures = require('./textures2');
-const prefabs = require('./prefabs');
+const textures = require('./textures2');
+// const prefabs = require('./prefabs');
 
 const crawlTextures = (basePath) => {
   let textureFiles = [];
   const textureDictionary = {};
 
   return new Promise((resolve) => {
-    const texturePath = basePath + '/Assets/Textures'; //  /items/food/burgerbread
-    utils.walk(texturePath, (err, res) => {
-      if (err) throw new Error(err);
+    let foldersLoaded = 0;
 
-      textureFiles = res.filter(
-        (arg) => arg.indexOf('.meta') !== -1
-      );
+    const doResolve = () => {
+      foldersLoaded++;
+      if (foldersLoaded !== 2) {
+        return;
+      }
 
       textureFiles.forEach(metaFilePath => {
         const metaFile = utils.fileToObject(metaFilePath)[0];
@@ -23,13 +23,30 @@ const crawlTextures = (basePath) => {
         // we presume that they have the same name, and just add .png !!
         // lazy way to not create 2 lists and cross-check both
         if (filePath.indexOf('.png') === -1) filePath += '.png';
-        // filePath = filePath.replace(new RegExp(/\\/g), '\\\\');
-        // filePath = filePath.replace(new RegExp(/\'/g), "\\'");
         textureDictionary[metaFile.guid] = filePath;
       });
-      //      const textureMetaFile
 
       resolve(textureDictionary);
+    };
+
+    const iconsPath = basePath + '/Assets/Resources/Icons';
+    utils.walk(iconsPath, (err, res) => {
+      if (err) throw new Error(err);
+
+      textureFiles = textureFiles.concat(res.filter(
+        (arg) => arg.indexOf('.meta') !== -1
+      ));
+      doResolve();
+    });
+
+    const texturePath = basePath + '/Assets/Textures'; //  /items/food/burgerbread
+    utils.walk(texturePath, (err, res) => {
+      if (err) throw new Error(err);
+
+      textureFiles = textureFiles.concat(res.filter(
+        (arg) => arg.indexOf('.meta') !== -1
+      ));
+      doResolve();
     });
   });
 };

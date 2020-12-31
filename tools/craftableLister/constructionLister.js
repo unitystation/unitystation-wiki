@@ -2,6 +2,9 @@
 const fs = require('fs');
 const utils = require('./listerUtils');
 
+const prefabs = require('./prefabs');
+const textures = require('./textures2');
+
 // list of all the construction materials
 let materialsFiles = []; // .meta files
 let materialsDictionary = {};
@@ -10,11 +13,11 @@ let materialsDictionary = {};
 let buildFiles = []; // .meta files
 const buildDictionary = {};
 
-let prefabFiles = []; // .meta files
+const prefabFiles = []; // .meta files
 const prefabObjects = {};
 
 // list of all textures
-let textureFiles = []; // png files, all of them
+const textureFiles = []; // png files, all of them
 const spriteIdToImageDictionary = {}; // guid -> png file dictionary
 
 /**
@@ -50,38 +53,6 @@ utils.walk(constructionPath, (err, res) => {
   init();
 });
 
-// step 3. read the prefab list files, FROM 2 FOLDERS!
-const prefabPath = basePath + '/Assets/Resources/Prefabs';
-utils.walk(prefabPath, (err, res) => {
-  // only the .asset interest us
-  prefabFiles = res.filter(
-    (arg) => arg.indexOf('.prefab.meta') !== -1
-  );
-  foldersRead++;
-  init();
-});
-
-// const prefabPath2 = basePath + '/Assets/Resources/Prefabs/Items/Construction/Materials/Resources';
-// utils.walk(prefabPath2, (err, res) => {
-//   // only the .asset interest us
-//   prefabFiles.concat(res.filter(
-//     (arg) => arg.indexOf('.prefab.meta') !== -1
-//   ));
-//   foldersRead++;
-//   init();
-// });
-
-// step 4. load all the pictures
-const texturePath = basePath + '/Assets/Textures';
-utils.walk(texturePath, (err, res) => {
-  textureFiles = res.filter(
-    (arg) => arg.indexOf('.meta') !== -1
-  );
-  foldersRead++;
-
-  init();
-});
-
 const init = () => {
   const finalListV2 = {};
   /**
@@ -100,7 +71,7 @@ const init = () => {
 
    */
 
-  if (foldersRead !== 4) {
+  if (foldersRead !== 2) {
     return;
   }
   // STEP 1: read the materials and their corresponding build list
@@ -136,50 +107,6 @@ const init = () => {
     buildDictionary[buildMetaFile.guid] = buildFile.MonoBehaviour.entries;
   });
 
-  // STEP 3. Create a dictionary for the textureId -> real png file
-  textureFiles.forEach((fileName) => {
-    const pngMetaData = utils.extractTextureData(fileName);
-    spriteIdToImageDictionary[pngMetaData.textureId] = pngMetaData.pngFileName;
-  });
-
-  // map the prefabs!
-  prefabFiles.forEach(file => {
-    const prefabMetaFile = utils.fileToObject(file)[0];
-    const prefabFile = utils.fileToObject(file.split('.meta')[0]);
-    let name = prefabFile.rawText
-      .split('propertyPath: initialName')[1]
-      ?.split('value: ')[1]
-      ?.split('\n')[0]
-      ?.replace('\r', '');
-
-    if (name === undefined) {
-      name = prefabFile.rawText
-        .split('initialName: ')[1]
-        ?.split('\n')[0]
-        ?.replace('\r', '');
-    }
-
-    let spriteId = prefabFile.rawText
-      .split('propertyPath: m_Sprite')[1]
-      ?.split('guid: ')[1]
-      ?.split(',')[0];
-
-    if (spriteId === undefined) {
-      spriteId = prefabFile.rawText
-        .split('m_Sprite: ')[1]
-        ?.split('guid: ')[1]
-        ?.split(',')[0];
-    }
-
-    if (name !== undefined && spriteId !== undefined) {
-      prefabObjects[prefabMetaFile.guid] = {
-        name,
-        spriteId,
-        spritePng: spriteIdToImageDictionary[spriteId]
-      };
-    }
-  });
-
   for (const key in finalListV2) {
     const material = finalListV2[key];
     const craftables = buildDictionary[material.buildListId];
@@ -188,7 +115,7 @@ const init = () => {
       material.entries.push({
         name: craftable.name,
         cost: craftable.cost,
-        spritePng: prefabObjects[craftable.prefab.guid]?.spritePng
+        spritePng: prefabs[craftable.prefab.guid]?.spritePng
       });
     });
   };
