@@ -1,5 +1,6 @@
 /* eslint-disable node/handle-callback-err */
 const fs = require('fs');
+const path = require('path');
 const utils = require('./listerUtils');
 
 const prefabs = require('./prefabs');
@@ -12,13 +13,6 @@ let materialsDictionary = {};
 // list of all the build
 let buildFiles = []; // .meta files
 const buildDictionary = {};
-
-const prefabFiles = []; // .meta files
-const prefabObjects = {};
-
-// list of all textures
-const textureFiles = []; // png files, all of them
-const spriteIdToImageDictionary = {}; // guid -> png file dictionary
 
 /**
 load the c:\git\unitystation\UnityProject\Assets\Resources\ScriptableObjects\Construction\BuildList\
@@ -55,21 +49,6 @@ utils.walk(constructionPath, (err, res) => {
 
 const init = () => {
   const finalListV2 = {};
-  /**
-   * example
-  finallistVs["metal rods"] = {
-    spriteId:
-    buildListID:
-    entries: [{
-      name,
-      prefabId,
-      cost,
-    }
-    ...
-    ]
-  }
-
-   */
 
   if (foldersRead !== 2) {
     return;
@@ -120,10 +99,18 @@ const init = () => {
     });
   };
 
+  fs.mkdir('construction', () => {});
+  fs.mkdir('construction/images', () => {});
   let finalTable = '';
   for (const key in finalListV2) {
     const categoryName = key;
-    let materialPng = spriteIdToImageDictionary[finalListV2[key].spriteId];
+    let materialPng = textures[finalListV2[key].spriteId];
+    fs.copyFile(materialPng, `construction/images/${path.basename(materialPng)}`, (err) => {
+      if (err) {
+        console.log('err', err);
+      }
+    });
+
     if (materialPng !== undefined) materialPng = materialPng?.split('\\').pop();
     finalTable += `## ${categoryName} [${categoryName}](${materialPng}) \r\n`;
     finalTable += '| Picture | Name | Cost |\r\n';
@@ -135,31 +122,18 @@ const init = () => {
       finalTable += `| [${item.name}](${item.spritePng?.split('\\').pop()}) |`;
       finalTable += ` ${item.name} |`;
       finalTable += ` ${item.cost} | \r\n`;
+
+      if (item.spritePng) {
+        fs.copyFile(item.spritePng, `construction/images/${path.basename(item.spritePng)}`, (err) => {
+          if (err) {
+            console.log('err', err);
+          }
+        });
+      }
     });
     finalTable += '\r\n\r\n';
   }
 
-  if (fs.existsSync('construction.txt')) fs.unlinkSync('construction.txt');
-  fs.writeFile('construction.txt', finalTable, () => {});
-
-  const a = 1;
-
-  return;
-
-  const finalList = {};
-
-  for (const key in buildDictionary) {
-    const list = buildDictionary[key];
-    finalList[key] = [];
-    list.forEach(craftable => {
-      const prefabGuid = craftable.prefab.guid;
-      const prefabSprite = prefabObjects[prefabGuid]?.spritePng;
-      finalList[key].push({
-        name: craftable.name,
-        cost: craftable.cost,
-        sprite: prefabSprite,
-        buildTime: craftable.buildTime
-      });
-    });
-  }
+  if (fs.existsSync('construction/construction.txt')) fs.unlinkSync('construction/construction.txt');
+  fs.writeFile('construction/construction.txt', finalTable, () => {});
 };
