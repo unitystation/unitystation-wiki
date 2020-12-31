@@ -1,7 +1,7 @@
 const fs = require('fs');
 const utils = require('./listerUtils');
-
-const textures = require('./textures2');
+// const textures = require('./textures2');
+const prefabs = require('./prefabs');
 
 const crawlTextures = (basePath) => {
   let textureFiles = [];
@@ -114,7 +114,7 @@ const exportPrefabs = async () => {
   let prefabsTxt = '';
   for (const key in prefabDictionary) {
     const prefab = prefabDictionary[key];
-    prefabsTxt += `${key.toString()}: ${JSON.stringify(prefab)} \r\n`;
+    prefabsTxt += `"${key.toString()}": ${JSON.stringify(prefab)}, \r\n`;
   };
 
   const finalText = `// generated at ${new Date().toString().slice(0, 10)}
@@ -129,7 +129,6 @@ module.exports = prefabs;`;
 };
 
 exportPrefabs();
-// process.stdout.write("Downloading " + data.length + " bytes\r");
 
 // const exportTextures = async () => {
 //   const textureDictionary = await crawlTextures(basePath);
