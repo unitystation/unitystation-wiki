@@ -1,5 +1,8 @@
 const fs = require('fs');
+const path = require('path');
 const utils = require('./listerUtils');
+
+const textures = require('./textures');
 
 // list of all the reactions
 let reactionFiles = []; // .meta files
@@ -9,19 +12,14 @@ const reactionObjects = []; // .asset objects
 let reagentsFiles = []; // .meta files
 const reagentObjects = []; // .asset objects
 
-// list of all textures
-let textureFiles = []; // png files, all of them
-const spriteIdToImageDictionary = {}; // guid -> png file dictionary
-
 let morphableGlassObject;
 const glassKeys = {};
 
 /**
  * The how-to. not in this particular order
  *
- * 1) read the textures and map them as object.guid -> png file
- * 2) read all the reagents (ingredients), even toxins
- * 3) read all the reactions from
+ * 1) read all the reagents (ingredients), even toxins
+ * 2) read all the reactions
  * 4) UNIQUE STEP FOR DRINKS
  * read the morphableglass file and map them
  * 5) put them all together. each reaction outputs a guid. we search that in the morphableglass and take
@@ -65,20 +63,8 @@ utils.walk(reagentsPath, (err, res) => {
   init();
 });
 
-// step 3. load all the pictures
-const texturePath = basePath + '/Assets/Textures/items/drinks';
-utils.walk(texturePath, (err, res) => {
-  // only the .asset interest us
-  textureFiles = res.filter(
-    (arg) => arg.indexOf('.meta') !== -1
-  );
-  foldersRead++;
-
-  init();
-});
-
 const init = () => {
-  if (foldersRead !== 3) {
+  if (foldersRead !== 2) {
     return;
   }
 
@@ -126,21 +112,24 @@ const init = () => {
       }
     }
   });
-
-  // STEP 3. Create a dictionary for the textureId -> real png file
-  textureFiles.forEach((fileName) => {
-    const pngMetaData = utils.extractTextureData(fileName);
-    spriteIdToImageDictionary[pngMetaData.textureId] = pngMetaData.pngFileName;
-  });
-
   Object.values(reactionObjects).forEach(reaction => {
-    reaction.spriteFile = spriteIdToImageDictionary[reaction.spriteId];
+    reaction.spriteFile = textures[reaction.spriteId];
   });
+
+  fs.mkdir('drinks', () => {});
+  fs.mkdir('drinks/images', () => {});
 
   // OUTPUT THE CRAFTABLE RECIPES!
   let allDrinks = '| Picture | Name | Recipe | Description |\r\n';
   Object.values(reactionObjects).forEach((reaction) => {
     const pngFilePath = reaction.spriteFile.split('\\').pop();
+
+    fs.copyFile(reaction.spriteFile, `drinks/images/${path.basename(reaction.spriteFile)}`, (err) => {
+      if (err) {
+        console.log('err', err);
+      }
+    });
+
     let ingredients = '';
     for (let i = 0; i < reaction.ingredients.length; i++) {
       ingredients += `${reaction.amounts[i]} ${reaction.ingredients[i]}, `;
@@ -156,14 +145,14 @@ const init = () => {
     allDrinks += ` ${ingredients} |`;
     allDrinks += ` ${reaction.description} |\r\n`;
   });
-  if (fs.existsSync('drinks.txt')) fs.unlinkSync('drinks.txt');
-  fs.writeFile('drinks.txt', allDrinks, () => {});
+  if (fs.existsSync('drinks/drinks.txt')) fs.unlinkSync('drinks/drinks.txt');
+  fs.writeFile('drinks/drinks.txt', allDrinks, () => {});
 
   // remove the craftables from the glasses collection!
   Object.keys(reactionObjects).forEach(reactId => delete glassKeys[reactId]);
   for (const key in glassKeys) {
     const glass = glassKeys[key];
-    const pngFile = spriteIdToImageDictionary[glass.MainSprite.guid];
+    const pngFile = textures[glass.MainSprite.guid];
     if (pngFile) {
       glass.pngFile = pngFile.split('\\').pop();
     }
@@ -173,13 +162,18 @@ const init = () => {
   // non-craftable glasses (based on simple reagents, juice / alcohol)
   let simpleReagents = '| Picture | Name | Description |\r\n';
   Object.values(glassKeys).forEach((glass) => {
-    const pngFilePath = spriteIdToImageDictionary[glass.MainSprite.guid].split('\\').pop();
+    const pngFullPath = textures[glass.MainSprite.guid];
+    const pngFilePath = textures[glass.MainSprite.guid].split('\\').pop();
+    fs.copyFile(pngFullPath, `drinks/images/${path.basename(pngFullPath)}`, (err) => {
+      if (err) {
+        console.log('err', err);
+      }
+    });
+
     simpleReagents += `| ![${glass.CustomName}](${pngFilePath}) |`;
     simpleReagents += ` ${glass.CustomName} |`;
     simpleReagents += ` ${glass.CustomDescription} |\r\n`;
   });
-  if (fs.existsSync('simpleReagents.txt')) fs.unlinkSync('simpleReagents.txt');
-  fs.writeFile('simpleReagents.txt', simpleReagents, () => {});
-}
-;
-// eof
+  if (fs.existsSync('drinks/simpleReagents.txt')) fs.unlinkSync('drinks/simpleReagents.txt');
+  fs.writeFile('drinks/simpleReagents.txt', simpleReagents, () => {});
+};

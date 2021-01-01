@@ -4,7 +4,7 @@ const path = require('path');
 const utils = require('./listerUtils');
 
 const prefabs = require('./prefabs');
-const textures = require('./textures2');
+const textures = require('./textures');
 
 // list of all the construction materials
 let materialsFiles = []; // .meta files
@@ -103,7 +103,9 @@ const init = () => {
   fs.mkdir('construction/images', () => {});
   let finalTable = '';
   for (const key in finalListV2) {
-    const categoryName = key;
+    let categoryName = key;
+    categoryName = categoryName.charAt(0).toUpperCase() + categoryName.slice(1);
+
     let materialPng = textures[finalListV2[key].spriteId];
     fs.copyFile(materialPng, `construction/images/${path.basename(materialPng)}`, (err) => {
       if (err) {
@@ -119,8 +121,10 @@ const init = () => {
     const craftables = finalListV2[key].entries;
 
     craftables.forEach(item => {
-      finalTable += `| [${item.name}](${item.spritePng?.split('\\').pop()}) |`;
-      finalTable += ` ${item.name} |`;
+      const capitalizedName = item.name.charAt(0).toUpperCase() + item.name.slice(1);
+
+      finalTable += `| ![${item.name}](${item.spritePng?.split('\\').pop()}) |`;
+      finalTable += ` ${capitalizedName} |`;
       finalTable += ` ${item.cost} | \r\n`;
 
       if (item.spritePng) {

@@ -314,191 +314,191 @@ Chair
 |        How to deconstruct         |                                                                                                                      |                   |
 |               Tools               | Click on the Wood Chair with a wrench in hand                                                                        |                   |
 
-## cloth [cloth](stack_objects_sheet-cloth.png)
+## Cloth [Cloth](stack_objects_sheet-cloth.png)
 
-| Picture                                    | Name              | Cost |
-| ------------------------------------------ | ----------------- | ---- |
-| [Grey Jumpskirt](uniforms_grey_skirt.png)  | Grey Jumpskirt    | 3    |
-| [Grey Jumpsuit](uniforms_grey.png)         | Grey Jumpsuit     | 3    |
-| [White Shoes](shoes_icon_paletteable.png)  | White Shoes       | 2    |
-| [White Scarf](neck_scarf_icon.png)         | White Scarf       | 1    |
-| [Backpack](Backpack.png)                   | Backpack          | 4    |
-| [Beanie](hats_beanie.png)                  | Beanie            | 2    |
-| [Plant Bag](equipment_plantbag.png)        | Plant Bag         | 4    |
-| [Mining Satchel](mining_satchel.png)       | Mining Satchel    | 4    |
-| [White Bedsheet](bedsheets_sheetwhite.png) | White Bedsheet    | 3    |
-| [Fingerless Gloves](gloves_fingerless.png) | Fingerless Gloves | 1    |
-| [White Gloves](gloves_white.png)           | White Gloves      | 3    |
+| Picture                                     | Name              | Cost |
+| ------------------------------------------- | ----------------- | ---- |
+| ![Grey Jumpskirt](uniforms_grey_skirt.png)  | Grey Jumpskirt    | 3    |
+| ![Grey Jumpsuit](uniforms_grey.png)         | Grey Jumpsuit     | 3    |
+| ![White Shoes](shoes_icon_paletteable.png)  | White Shoes       | 2    |
+| ![White Scarf](neck_scarf_icon.png)         | White Scarf       | 1    |
+| ![Backpack](Backpack.png)                   | Backpack          | 4    |
+| ![Beanie](hats_beanie.png)                  | Beanie            | 2    |
+| ![Plant Bag](equipment_plantbag.png)        | Plant Bag         | 4    |
+| ![Mining Satchel](mining_satchel.png)       | Mining Satchel    | 4    |
+| ![White Bedsheet](bedsheets_sheetwhite.png) | White Bedsheet    | 3    |
+| ![Fingerless Gloves](gloves_fingerless.png) | Fingerless Gloves | 1    |
+| ![White Gloves](gloves_white.png)           | White Gloves      | 3    |
 
-## durathread [durathread](stack_objects_sheet-durathread.png)
+## Durathread [Durathread](stack_objects_sheet-durathread.png)
 
-| Picture                                        | Name                | Cost |
-| ---------------------------------------------- | ------------------- | ---- |
-| [Durathread Jumpsuit](uniforms_durathread.png) | Durathread Jumpsuit | 4    |
-| [Durathread Beanie](hats_beaniedurathread.png) | Durathread Beanie   | 2    |
-| [Durathread Beret](hats_beretdurathread.png)   | Durathread Beret    | 2    |
-| [Durathread Bandana](masks_banddurathread.png) | Durathread Bandana  | 1    |
+| Picture                                         | Name                | Cost |
+| ----------------------------------------------- | ------------------- | ---- |
+| ![Durathread Jumpsuit](uniforms_durathread.png) | Durathread Jumpsuit | 4    |
+| ![Durathread Beanie](hats_beaniedurathread.png) | Durathread Beanie   | 2    |
+| ![Durathread Beret](hats_beretdurathread.png)   | Durathread Beret    | 2    |
+| ![Durathread Bandana](masks_banddurathread.png) | Durathread Bandana  | 1    |
 
-## glass [glass](stack_objects_sheet-glass.png)
+## Glass [Glass](stack_objects_sheet-glass.png)
 
-| Picture                       | Name             | Cost |
-| ----------------------------- | ---------------- | ---- |
-| [WhiteServiceDoor](glass.png) | WhiteServiceDoor | 6    |
-| [WinDoor](windoor.png)        | WinDoor          | 4    |
-| [Window](window.png)          | Window           | 2    |
+| Picture                        | Name             | Cost |
+| ------------------------------ | ---------------- | ---- |
+| ![WhiteServiceDoor](glass.png) | WhiteServiceDoor | 6    |
+| ![WinDoor](windoor.png)        | WinDoor          | 4    |
+| ![Window](window.png)          | Window           | 2    |
 
-## metal rods [metal rods](stack_objects_rods-1.png)
+## Metal rods [Metal rods](stack_objects_rods-1.png)
 
-| Picture                                   | Name        | Cost |
-| ----------------------------------------- | ----------- | ---- |
-| [Grill](structures_grille.png)            | Grill       | 2    |
-| [Table frame](structures_table_frame.png) | Table frame | 2    |
+| Picture                                    | Name        | Cost |
+| ------------------------------------------ | ----------- | ---- |
+| ![Grill](structures_grille.png)            | Grill       | 2    |
+| ![Table frame](structures_table_frame.png) | Table frame | 2    |
 
-## metal [metal](stack_objects_sheet-metal.png)
+## Metal [Metal](stack_objects_sheet-metal.png)
 
-| Picture                                                        | Name                             | Cost |
-| -------------------------------------------------------------- | -------------------------------- | ---- |
-| [Girder](structures_girder.png)                                | Girder                           | 2    |
-| [Chair](chairs_chair.png)                                      | Chair                            | 1    |
-| [Office Chair](chairs_officechair_dark.png)                    | Office Chair                     | 1    |
-| [Comfy Chair](undefined)                                       | Comfy Chair                      | 2    |
-| [Stool](chairs_stool.png)                                      | Stool                            | 1    |
-| [Bed](objects_bed.png)                                         | Bed                              | 2    |
-| [Rack Parts](items_and_weapons_rack_parts.png)                 | Rack Parts                       | 1    |
-| [Closet](closet_generic_door.png)                              | Closet                           | 10   |
-| [Canister](canister_generic.png)                               | Canister                         | 10   |
-| [Floor Tiles x4](tiles_tile.png)                               | Floor Tiles x4                   | 1    |
-| [Metal Rods x2](stack_objects_rods-1.png)                      | Metal Rods x2                    | 1    |
-| [Sink](watercloset_sink.png)                                   | Sink                             | 1    |
-| [Computer Frame](stock_parts_computer_0.png)                   | Computer Frame                   | 5    |
-| [Airlock](overlays.png)                                        | Airlock                          | 4    |
-| [Low-voltage Machine Connector](undefined)                     | Low-voltage Machine Connector    | 2    |
-| [Medium-voltage Machine Connector](undefined)                  | Medium-voltage Machine Connector | 2    |
-| [Conveyor Belt Switch](recycling_switch-off.png)               | Conveyor Belt Switch             | 5    |
-| [Bar Stool](chairs_bar.png)                                    | Bar Stool                        | 1    |
-| [Machine Frame](stock_parts_box_0.png)                         | Machine Frame                    | 5    |
-| [APC Frame](wallframe_apc.png)                                 | APC Frame                        | 2    |
-| [Conveyor Belt](recycling_conveyor0.png)                       | Conveyor Belt                    | 5    |
-| [Fire Extinguisher Cabinet Frame](wallframe_extinguisher.png)  | Fire Extinguisher Cabinet Frame  | 2    |
-| [Mounted Monitor Frame](status_display_frame_cabled_empty.png) | Mounted Monitor Frame            | 2    |
-| [Light Tube Fixture Frame](lighting_tube-construct-item.png)   | Light Tube Fixture Frame         | 2    |
-| [Light Bulb Fixture Frame](lighting_bulb-construct-item.png)   | Light Bulb Fixture Frame         | 1    |
-| [Water pump L to R](electronic_components_reagent_pump.png)    | Water pump L to R                | 25   |
-| [FluidTank](pressure_tank_blue.png)                            | FluidTank                        | 20   |
-| [Boiler Tank](TurbineBoiler.png)                               | Boiler Tank                      | 15   |
-| [Fire Alarm Frame](monitors_fire_bitem.png)                    | Fire Alarm Frame                 | 2    |
-| [Light Switch Frame](wallframe_button.png)                     | Light Switch Frame               | 1    |
-| [Iron Door](undefined)                                         | Iron Door                        | 20   |
-| [Button Frame](wallframe_button.png)                           | Button Frame                     | 1    |
+| Picture                                                         | Name                             | Cost |
+| --------------------------------------------------------------- | -------------------------------- | ---- |
+| ![Girder](structures_girder.png)                                | Girder                           | 2    |
+| ![Chair](chairs_chair.png)                                      | Chair                            | 1    |
+| ![Office Chair](chairs_officechair_dark.png)                    | Office Chair                     | 1    |
+| ![Comfy Chair](undefined)                                       | Comfy Chair                      | 2    |
+| ![Stool](chairs_stool.png)                                      | Stool                            | 1    |
+| ![Bed](objects_bed.png)                                         | Bed                              | 2    |
+| ![Rack Parts](items_and_weapons_rack_parts.png)                 | Rack Parts                       | 1    |
+| ![Closet](closet_generic_door.png)                              | Closet                           | 10   |
+| ![Canister](canister_generic.png)                               | Canister                         | 10   |
+| ![Floor Tiles x4](tiles_tile.png)                               | Floor Tiles x4                   | 1    |
+| ![Metal Rods x2](stack_objects_rods-1.png)                      | Metal Rods x2                    | 1    |
+| ![Sink](watercloset_sink.png)                                   | Sink                             | 1    |
+| ![Computer Frame](stock_parts_computer_0.png)                   | Computer Frame                   | 5    |
+| ![Airlock](overlays.png)                                        | Airlock                          | 4    |
+| ![Low-voltage Machine Connector](undefined)                     | Low-voltage Machine Connector    | 2    |
+| ![Medium-voltage Machine Connector](undefined)                  | Medium-voltage Machine Connector | 2    |
+| ![Conveyor Belt Switch](recycling_switch-off.png)               | Conveyor Belt Switch             | 5    |
+| ![Bar Stool](chairs_bar.png)                                    | Bar Stool                        | 1    |
+| ![Machine Frame](stock_parts_box_0.png)                         | Machine Frame                    | 5    |
+| ![APC Frame](wallframe_apc.png)                                 | APC Frame                        | 2    |
+| ![Conveyor Belt](recycling_conveyor0.png)                       | Conveyor Belt                    | 5    |
+| ![Fire Extinguisher Cabinet Frame](wallframe_extinguisher.png)  | Fire Extinguisher Cabinet Frame  | 2    |
+| ![Mounted Monitor Frame](status_display_frame_cabled_empty.png) | Mounted Monitor Frame            | 2    |
+| ![Light Tube Fixture Frame](lighting_tube-construct-item.png)   | Light Tube Fixture Frame         | 2    |
+| ![Light Bulb Fixture Frame](lighting_bulb-construct-item.png)   | Light Bulb Fixture Frame         | 1    |
+| ![Water pump L to R](electronic_components_reagent_pump.png)    | Water pump L to R                | 25   |
+| ![FluidTank](pressure_tank_blue.png)                            | FluidTank                        | 20   |
+| ![Boiler Tank](TurbineBoiler.png)                               | Boiler Tank                      | 15   |
+| ![Fire Alarm Frame](monitors_fire_bitem.png)                    | Fire Alarm Frame                 | 2    |
+| ![Light Switch Frame](wallframe_button.png)                     | Light Switch Frame               | 1    |
+| ![Iron Door](undefined)                                         | Iron Door                        | 20   |
+| ![Button Frame](wallframe_button.png)                           | Button Frame                     | 1    |
 
-## alien alloy [alien alloy](alien_sheet-abductor.png)
+## Alien alloy [Alien alloy](alien_sheet-abductor.png)
 
-| Picture                                           | Name                   | Cost |
-| ------------------------------------------------- | ---------------------- | ---- |
-| [Alien Bed](Aileen_bed.png)                       | Alien Bed              | 2    |
-| [Alien Locker](closet_abductor_door.png)          | Alien Locker           | 2    |
-| [Alien Table Frame](structures_alien_frame.png)   | Alien Table Frame      | 1    |
-| [Alien Airlock Assembly](generic_blanksprite.png) | Alien Airlock Assembly | 4    |
-| [Alien Floor Tile](alien_tile_abductor.png)       | Alien Floor Tile       | 4    |
+| Picture                                            | Name                   | Cost |
+| -------------------------------------------------- | ---------------------- | ---- |
+| ![Alien Bed](Aileen_bed.png)                       | Alien Bed              | 2    |
+| ![Alien Locker](closet_abductor_door.png)          | Alien Locker           | 2    |
+| ![Alien Table Frame](structures_alien_frame.png)   | Alien Table Frame      | 1    |
+| ![Alien Airlock Assembly](generic_blanksprite.png) | Alien Airlock Assembly | 4    |
+| ![Alien Floor Tile](alien_tile_abductor.png)       | Alien Floor Tile       | 4    |
 
-## diamond [diamond](stack_objects_sheet-diamond.png)
+## Diamond [Diamond](stack_objects_sheet-diamond.png)
 
-| Picture                                   | Name               | Cost |
-| ----------------------------------------- | ------------------ | ---- |
-| [Diamond Door](mineral_doors_diamond.png) | Diamond Door       | 10   |
-| [Captain Statue](statue_cap.png)          | Captain Statue     | 5    |
-| [AI Hologram Statue](statue_ai1.png)      | AI Hologram Statue | 5    |
-| [AI Core Statue](statue_ai2.png)          | AI Core Statue     | 5    |
+| Picture                                    | Name               | Cost |
+| ------------------------------------------ | ------------------ | ---- |
+| ![Diamond Door](mineral_doors_diamond.png) | Diamond Door       | 10   |
+| ![Captain Statue](statue_cap.png)          | Captain Statue     | 5    |
+| ![AI Hologram Statue](statue_ai1.png)      | AI Hologram Statue | 5    |
+| ![AI Core Statue](statue_ai2.png)          | AI Core Statue     | 5    |
 
-## gold [gold](stack_objects_sheet-gold.png)
+## Gold [Gold](stack_objects_sheet-gold.png)
 
-| Picture                             | Name       | Cost |
-| ----------------------------------- | ---------- | ---- |
-| [Gold Door](mineral_doors_gold.png) | Gold Door  | 10   |
-| [HoS Statue](statue_hos.png)        | HoS Statue | 5    |
-| [HoP Statue](statue_hop.png)        | HoP Statue | 5    |
-| [CE Statue](statue_ce.png)          | CE Statue  | 5    |
-| [RD Statue](statue_rd.png)          | RD Statue  | 5    |
-| [CMO Statue](statue_cmo.png)        | CMO Statue | 5    |
+| Picture                              | Name       | Cost |
+| ------------------------------------ | ---------- | ---- |
+| ![Gold Door](mineral_doors_gold.png) | Gold Door  | 10   |
+| ![HoS Statue](statue_hos.png)        | HoS Statue | 5    |
+| ![HoP Statue](statue_hop.png)        | HoP Statue | 5    |
+| ![CE Statue](statue_ce.png)          | CE Statue  | 5    |
+| ![RD Statue](statue_rd.png)          | RD Statue  | 5    |
+| ![CMO Statue](statue_cmo.png)        | CMO Statue | 5    |
 
-## silver [silver](stack_objects_sheet-silver.png)
+## Silver [Silver](stack_objects_sheet-silver.png)
 
-| Picture                                 | Name               | Cost |
-| --------------------------------------- | ------------------ | ---- |
-| [Silver Door](mineral_doors_silver.png) | Silver Door        | 10   |
-| [Med Officer Statue](statue_md.png)     | Med Officer Statue | 5    |
-| [Janitor Statue](statue_jani.png)       | Janitor Statue     | 5    |
-| [Sec Officer](statue_sec.png)           | Sec Officer        | 5    |
-| [Sec Borg Statue](statue_secborg.png)   | Sec Borg Statue    | 5    |
-| [Med Borg Statue](statue_medborg.png)   | Med Borg Statue    | 5    |
+| Picture                                  | Name               | Cost |
+| ---------------------------------------- | ------------------ | ---- |
+| ![Silver Door](mineral_doors_silver.png) | Silver Door        | 10   |
+| ![Med Officer Statue](statue_md.png)     | Med Officer Statue | 5    |
+| ![Janitor Statue](statue_jani.png)       | Janitor Statue     | 5    |
+| ![Sec Officer](statue_sec.png)           | Sec Officer        | 5    |
+| ![Sec Borg Statue](statue_secborg.png)   | Sec Borg Statue    | 5    |
+| ![Med Borg Statue](statue_medborg.png)   | Med Borg Statue    | 5    |
 
-## solid plasma [solid plasma](stack_objects_sheet-plasma.png)
+## Solid plasma [Solid plasma](stack_objects_sheet-plasma.png)
 
-| Picture                                 | Name             | Cost |
-| --------------------------------------- | ---------------- | ---- |
-| [Plasma Door](mineral_doors_plasma.png) | Plasma Door      | 10   |
-| [Scientist Statue](statue_sci.png)      | Scientist Statue | 5    |
+| Picture                                  | Name             | Cost |
+| ---------------------------------------- | ---------------- | ---- |
+| ![Plasma Door](mineral_doors_plasma.png) | Plasma Door      | 10   |
+| ![Scientist Statue](statue_sci.png)      | Scientist Statue | 5    |
 
-## uranium [uranium](stack_objects_sheet-uranium.png)
+## Uranium [Uranium](stack_objects_sheet-uranium.png)
 
-| Picture                                   | Name            | Cost |
-| ----------------------------------------- | --------------- | ---- |
-| [Uranium Door](mineral_doors_uranium.png) | Uranium Door    | 10   |
-| [Nuke Statue](statue_nuke.png)            | Nuke Statue     | 5    |
-| [Engineer Statue](statue_eng.png)         | Engineer Statue | 5    |
+| Picture                                    | Name            | Cost |
+| ------------------------------------------ | --------------- | ---- |
+| ![Uranium Door](mineral_doors_uranium.png) | Uranium Door    | 10   |
+| ![Nuke Statue](statue_nuke.png)            | Nuke Statue     | 5    |
+| ![Engineer Statue](statue_eng.png)         | Engineer Statue | 5    |
 
-## wooden plank [wooden plank](stack_objects_sheet-wood.png)
+## Wooden plank [Wooden plank](stack_objects_sheet-wood.png)
 
-| Picture                                         | Name               | Cost |
-| ----------------------------------------------- | ------------------ | ---- |
-| [Wooden Chair](chairs_wooden_chair.png)         | Wooden Chair       | 1    |
-| [Wood floor tiles](tiles_tile-wood.png)         | Wood floor tiles   | 1    |
-| [Wood Table Frame](structures_wood_frame.png)   | Wood Table Frame   | 2    |
-| [Wood Door](mineral_doors_wood.png)             | Wood Door          | 10   |
-| [Wooden Bucket](janitor_woodbucket.png)         | Wooden Bucket      | 3    |
-| [Wooden Table Frame](structures_wood_frame.png) | Wooden Table Frame | 2    |
-| [Loom](equipment_loom.png)                      | Loom               | 10   |
+| Picture                                          | Name               | Cost |
+| ------------------------------------------------ | ------------------ | ---- |
+| ![Wooden Chair](chairs_wooden_chair.png)         | Wooden Chair       | 1    |
+| ![Wood floor tiles](tiles_tile-wood.png)         | Wood floor tiles   | 1    |
+| ![Wood Table Frame](structures_wood_frame.png)   | Wood Table Frame   | 2    |
+| ![Wood Door](mineral_doors_wood.png)             | Wood Door          | 10   |
+| ![Wooden Bucket](janitor_woodbucket.png)         | Wooden Bucket      | 3    |
+| ![Wooden Table Frame](structures_wood_frame.png) | Wooden Table Frame | 2    |
+| ![Loom](equipment_loom.png)                      | Loom               | 10   |
 
-## plasma glass [plasma glass](stack_objects_sheet-pglass.png)
+## Plasma glass [Plasma glass](stack_objects_sheet-pglass.png)
 
-| Picture                            | Name          | Cost |
-| ---------------------------------- | ------------- | ---- |
-| [Plasma Window](window_plasma.png) | Plasma Window | 2    |
+| Picture                             | Name          | Cost |
+| ----------------------------------- | ------------- | ---- |
+| ![Plasma Window](window_plasma.png) | Plasma Window | 2    |
 
-## plastitanium glass [plastitanium glass](stack_objects_sheet-plastitaniumglass.png)
+## Plastitanium glass [Plastitanium glass](stack_objects_sheet-plastitaniumglass.png)
 
-| Picture                                        | Name                | Cost |
-| ---------------------------------------------- | ------------------- | ---- |
-| [Plastitanium Window](window_plastitanium.png) | Plastitanium Window | 2    |
+| Picture                                         | Name                | Cost |
+| ----------------------------------------------- | ------------------- | ---- |
+| ![Plastitanium Window](window_plastitanium.png) | Plastitanium Window | 2    |
 
-## reinforced glass [reinforced glass](stack_objects_sheet-rglass.png)
+## Reinforced glass [Reinforced glass](stack_objects_sheet-rglass.png)
 
-| Picture                                    | Name              | Cost |
-| ------------------------------------------ | ----------------- | ---- |
-| [Reinforced Window](window_reinforced.png) | Reinforced Window | 2    |
+| Picture                                     | Name              | Cost |
+| ------------------------------------------- | ----------------- | ---- |
+| ![Reinforced Window](window_reinforced.png) | Reinforced Window | 2    |
 
-## reinforced plasma glass [reinforced plasma glass](stack_objects_sheet-prglass.png)
+## Reinforced plasma glass [Reinforced plasma glass](stack_objects_sheet-prglass.png)
 
-| Picture                                        | Name                     | Cost |
-| ---------------------------------------------- | ------------------------ | ---- |
-| [Reinforced Plasma Window](window_rplasma.png) | Reinforced Plasma Window | 2    |
+| Picture                                         | Name                     | Cost |
+| ----------------------------------------------- | ------------------------ | ---- |
+| ![Reinforced Plasma Window](window_rplasma.png) | Reinforced Plasma Window | 2    |
 
-## runed metal [runed metal](stack_objects_sheet-runed.png)
+## Runed metal [Runed metal](stack_objects_sheet-runed.png)
 
-| Picture                             | Name         | Cost |
-| ----------------------------------- | ------------ | ---- |
-| [Runed Door](cult_fill_closed.png)  | Runed Door   | 1    |
-| [Runed Girder](cult_cultgirder.png) | Runed Girder | 1    |
-| [Pylon](cult_pylon.png)             | Pylon        | 4    |
-| [Forge](cult_forge.png)             | Forge        | 3    |
-| [Archives](cult_tomealtar.png)      | Archives     | 3    |
-| [Altar](cult_talismanaltar.png)     | Altar        | 3    |
+| Picture                              | Name         | Cost |
+| ------------------------------------ | ------------ | ---- |
+| ![Runed Door](cult_fill_closed.png)  | Runed Door   | 1    |
+| ![Runed Girder](cult_cultgirder.png) | Runed Girder | 1    |
+| ![Pylon](cult_pylon.png)             | Pylon        | 4    |
+| ![Forge](cult_forge.png)             | Forge        | 3    |
+| ![Archives](cult_tomealtar.png)      | Archives     | 3    |
+| ![Altar](cult_talismanaltar.png)     | Altar        | 3    |
 
-## titanium glass [titanium glass](stack_objects_sheet-titaniumglass.png)
+## Titanium glass [Titanium glass](stack_objects_sheet-titaniumglass.png)
 
-| Picture                              | Name           | Cost |
-| ------------------------------------ | -------------- | ---- |
-| [Shuttle Window](window_shuttle.png) | Shuttle Window | 2    |
+| Picture                               | Name           | Cost |
+| ------------------------------------- | -------------- | ---- |
+| ![Shuttle Window](window_shuttle.png) | Shuttle Window | 2    |
 
 ### Other machines:
 

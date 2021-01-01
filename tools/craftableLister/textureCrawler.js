@@ -1,11 +1,13 @@
 const fs = require('fs');
 const utils = require('./listerUtils');
-const textures = require('./textures2');
-// const prefabs = require('./prefabs');
+
+const basePath = 'C:/git/unitystation/UnityProject';
+
+let textureDictionary = {};
 
 const crawlTextures = (basePath) => {
+  console.log('Crawling images, please wait...');
   let textureFiles = [];
-  const textureDictionary = {};
 
   return new Promise((resolve) => {
     let foldersLoaded = 0;
@@ -16,7 +18,8 @@ const crawlTextures = (basePath) => {
         return;
       }
 
-      textureFiles.forEach(metaFilePath => {
+      const nrFiles = textureFiles.length;
+      textureFiles.forEach((metaFilePath, idx) => {
         const metaFile = utils.fileToObject(metaFilePath)[0];
         let filePath = metaFilePath.replace('.meta', '').replace('.asset', '');
         // ::CONVENTION WARNING:: sometimes there referenced file ia not a .png file, but a .asset that points to a .meta that points to a .png
@@ -24,8 +27,14 @@ const crawlTextures = (basePath) => {
         // lazy way to not create 2 lists and cross-check both
         if (filePath.indexOf('.png') === -1) filePath += '.png';
         textureDictionary[metaFile.guid] = filePath;
+
+        if (idx % 150 === 0) {
+          const proc = Math.floor(idx / nrFiles * 10000) / 100;
+          process.stdout.write(`Processing textures: ${proc}%\r`);
+        }
       });
 
+      process.stdout.write('Processing textures: Done         \r\n');
       resolve(textureDictionary);
     };
 
@@ -51,12 +60,11 @@ const crawlTextures = (basePath) => {
   });
 };
 
-const basePath = 'C:/git/unitystation/UnityProject';
-
 const crawlPrefabs = (basePath) => {
   let prefabFiles = [];
   const prefabDictionary = {};
 
+  console.log('Crawling prefabs, please wait...');
   return new Promise((resolve) => {
     const texturePath = basePath + '/Assets/Resources/Prefabs'; //  /Items/Food/Snacks/BreadSnacks
     utils.walk(texturePath, (err, res) => {
@@ -66,7 +74,13 @@ const crawlPrefabs = (basePath) => {
         (arg) => arg.indexOf('.prefab.meta') !== -1
       );
 
-      prefabFiles.forEach(file => {
+      const nrFiles = prefabFiles.length;
+      prefabFiles.forEach((file, idx) => {
+        if (idx % 150 === 0) {
+          const proc = Math.floor(idx / nrFiles * 10000) / 100;
+          process.stdout.write(`Processing prefabs: ${proc}%\r`);
+        }
+
         const prefabMetaFile = utils.fileToObject(file)[0];
         const prefabFile = utils.fileToObject(file.split('.meta')[0]);
         let name = prefabFile.rawText
@@ -113,18 +127,37 @@ const crawlPrefabs = (basePath) => {
           prefabDictionary[prefabMetaFile.guid] = {
             name,
             spriteId,
-            spritePng: textures[spriteId]
+            spritePng: textureDictionary[spriteId]
           };
         } else {
-          console.log('broken prefab: ', file);
+          //          console.log('broken prefab: ', file);
         }
       });
+
+      process.stdout.write('Processing prefasb: Done         \r\n');
 
       resolve(prefabDictionary);
     });
   });
 };
 
+const exportTextures = async () => {
+  textureDictionary = await crawlTextures(basePath);
+
+  const finalText = `// generated at ${new Date().toString().slice(0, 10)}
+// contains ${Object.keys(textureDictionary).length} items
+
+const textures = ${JSON.stringify(textureDictionary)}
+
+module.exports = textures;`;
+
+  if (fs.existsSync('textures.js')) fs.unlinkSync('textures.js');
+  fs.writeFile('textures.js', finalText, () => {});
+
+  return ('done');
+};
+
+// export prefab data
 const exportPrefabs = async () => {
   const prefabDictionary = await crawlPrefabs(basePath);
 
@@ -145,24 +178,9 @@ module.exports = prefabs;`;
   fs.writeFile('prefabs.js', finalText, () => {});
 };
 
-exportPrefabs();
+const init = async () => {
+  await exportTextures();
+  exportPrefabs();
+};
 
-// const exportTextures = async () => {
-//   const textureDictionary = await crawlTextures(basePath);
-
-//   // let textures = '';
-//   // for (const key in textureDictionary) {
-//   //   textures += ` '${key}': '${textureDictionary[key]}', \r\n`;
-//   // }
-//   const finalText = `// generated at ${new Date().toString().slice(0, 10)}
-// // contains ${Object.keys(textureDictionary).length} items
-
-// const textures = ${JSON.stringify(textureDictionary)}
-
-// module.exports = textures;`;
-
-//   if (fs.existsSync('textures2.js')) fs.unlinkSync('textures2.js');
-//   fs.writeFile('textures2.js', finalText, () => {});
-// };
-
-// exportTextures();
+init();
