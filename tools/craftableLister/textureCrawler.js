@@ -1,6 +1,8 @@
 const fs = require('fs');
 const utils = require('./listerUtils');
 
+const basePath = 'C:/git/unitystation/UnityProject';
+
 let textureDictionary = {};
 
 const crawlTextures = (basePath) => {
@@ -57,8 +59,6 @@ const crawlTextures = (basePath) => {
     });
   });
 };
-
-const basePath = 'C:/git/unitystation/UnityProject';
 
 const crawlPrefabs = (basePath) => {
   let prefabFiles = [];

@@ -3,6 +3,20 @@
 - You must have [node.js](https://nodejs.org/en/) installed.
 - You must have the [UnityStation](https://github.com/unitystation/unitystation) project cloned.
 
+## Setup
+
+Some listers require a dictionary of all the prefabs and their corresponding sprites. This will take a long time at first, but will speed up all the listing processes to instant.
+
+- textures.js (7Mb file, ~50k lines);
+- prefabs.js (1Mb file, ~4k lines
+
+  You must first generate these 2 files. Follow the instructions below.
+
+1. edit textureCrawler.js and change this variable to point to the "UnityProject"! folder on your computer.
+   > const basePath = 'C:/git/unitystation/UnityProject';
+2. Open a bash console in the craftableLister folder (windows explorer, right click, Git Bash Here )
+3. Run this command "node textureCrawler.js". this will generate the files mentioned above.
+
 ## Food Lister
 
 It will output:
@@ -24,8 +38,10 @@ It will output:
 
 It will output:
 
-- a "drinks.txt" file containing all the drinks that can be crafted
-- a "simpleReagents.txt" file containinng all the simple reagents (juice, simple alcohol from machines)
+- a "drinks" folder, containing
+  - a "drinks.txt" file containing all the drinks that can be crafted
+  - a "simpleReagents.txt" file containinng all the simple reagents (juice, simple alcohol from machines)
+  - a subfolder called "images"
 
 ### How do i get it working?
 
@@ -33,3 +49,18 @@ It will output:
    > var basePath = "C:/git/unitystation/UnityProject";
 2. Open a bash console in the craftableLister folder (windows explorer, right click, Git Bash Here )
 3. Run this command "node drinksRecipeLister.js"
+
+## Construction
+
+It will output:
+
+- a "construction" folder, containing
+  - a "construction.txt" file containing all the items that can be crafted with basic construction material (sheets, rods, wood, etc..)
+  - a subfolder called "images"
+
+### How do i get it working?
+
+1. edit the constructionLister.js and change this variable to point to the "UnityProject"! folder on your computer.
+   > var basePath = "C:/git/unitystation/UnityProject";
+2. Open a bash console in the craftableLister folder (windows explorer, right click, Git Bash Here )
+3. Run this command "node constructionLister.js"
