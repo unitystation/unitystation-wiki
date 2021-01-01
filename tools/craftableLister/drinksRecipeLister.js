@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const utils = require('./listerUtils');
 
-const textures = require('./textures2');
+const textures = require('./textures');
 
 // list of all the reactions
 let reactionFiles = []; // .meta files
