@@ -4,6 +4,9 @@ const utils = require('./listerUtils');
 const basePath = 'C:/git/unitystation/UnityProject';
 
 let textureDictionary = {};
+//
+const textures = require('./textures');
+textureDictionary = textures;
 
 const crawlTextures = (basePath) => {
   console.log('Crawling images, please wait...');
@@ -63,10 +66,11 @@ const crawlTextures = (basePath) => {
 const crawlPrefabs = (basePath) => {
   let prefabFiles = [];
   const prefabDictionary = {};
+  const childPrefabs = {};
 
   console.log('Crawling prefabs, please wait...');
   return new Promise((resolve) => {
-    const texturePath = basePath + '/Assets/Resources/Prefabs'; //  /Items/Food/Snacks/BreadSnacks
+    const texturePath = basePath + '/Assets/Resources/Prefabs'; //  /Items/Electricity
     utils.walk(texturePath, (err, res) => {
       if (err) throw new Error(err);
 
@@ -111,6 +115,8 @@ const crawlPrefabs = (basePath) => {
             ?.replace('\r', '');
         }
 
+        // initialName implement this instead of m_name
+
         let spriteId = prefabFile.rawText
           .split('propertyPath: m_Sprite')[1]
           ?.split('guid: ')[1]
@@ -123,17 +129,53 @@ const crawlPrefabs = (basePath) => {
             ?.split(',')[0];
         }
 
+        if (spriteId === undefined) {
+          spriteId = prefabFile.rawText
+            .split('propertyPath: PresentSpriteSet')[1]
+            ?.split('guid: ')[1]
+            ?.split(',')[0];
+        }
+
+        // cannot find sprite in here, try to see if there's a source prefab!
+        let sourcePrefab;
+        if (spriteId === undefined) {
+          sourcePrefab = prefabFile.rawText
+            .split('m_SourcePrefab')[1]
+            ?.split('guid: ')[1]
+            ?.split(',')[0];
+        }
+
+        //        const name
+
         if (name !== undefined && spriteId !== undefined) {
           prefabDictionary[prefabMetaFile.guid] = {
             name,
-            spriteId,
-            spritePng: textureDictionary[spriteId]
+            //            spriteId,
+            spritePng: textureDictionary[spriteId],
+            file: file.split('.meta')[0]
           };
         } else {
+          if (sourcePrefab !== undefined) {
+            childPrefabs[prefabMetaFile.guid] = {
+              id: prefabMetaFile.guid,
+              name,
+              sourcePrefab
+            };
+          }
           //          console.log('broken prefab: ', file);
         }
       });
 
+      Object.values(childPrefabs).forEach(childPrefab => {
+        const parentPrefab = prefabDictionary[childPrefab.sourcePrefab];
+        if (parentPrefab !== undefined) {
+          prefabDictionary[childPrefab.id] = {
+            name: childPrefab.name,
+            spritePng: parentPrefab.spritePng,
+            file: parentPrefab.file
+          };
+        }
+      });
       process.stdout.write('Processing prefasb: Done         \r\n');
 
       resolve(prefabDictionary);
