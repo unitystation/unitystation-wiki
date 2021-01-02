@@ -314,7 +314,7 @@ Chair
 |        How to deconstruct         |                                                                                                                      |                   |
 |               Tools               | Click on the Wood Chair with a wrench in hand                                                                        |                   |
 
-## Cloth [Cloth](stack_objects_sheet-cloth.png)
+## Cloth ![Cloth](stack_objects_sheet-cloth.png)
 
 | Picture                                     | Name              | Cost |
 | ------------------------------------------- | ----------------- | ---- |
@@ -330,7 +330,7 @@ Chair
 | ![Fingerless Gloves](gloves_fingerless.png) | Fingerless Gloves | 1    |
 | ![White Gloves](gloves_white.png)           | White Gloves      | 3    |
 
-## Durathread [Durathread](stack_objects_sheet-durathread.png)
+## Durathread ![Durathread](stack_objects_sheet-durathread.png)
 
 | Picture                                         | Name                | Cost |
 | ----------------------------------------------- | ------------------- | ---- |
@@ -339,7 +339,7 @@ Chair
 | ![Durathread Beret](hats_beretdurathread.png)   | Durathread Beret    | 2    |
 | ![Durathread Bandana](masks_banddurathread.png) | Durathread Bandana  | 1    |
 
-## Glass [Glass](stack_objects_sheet-glass.png)
+## Glass ![Glass](stack_objects_sheet-glass.png)
 
 | Picture                        | Name             | Cost |
 | ------------------------------ | ---------------- | ---- |
@@ -347,14 +347,14 @@ Chair
 | ![WinDoor](windoor.png)        | WinDoor          | 4    |
 | ![Window](window.png)          | Window           | 2    |
 
-## Metal rods [Metal rods](stack_objects_rods-1.png)
+## Metal rods ![Metal rods](stack_objects_rods-1.png)
 
 | Picture                                    | Name        | Cost |
 | ------------------------------------------ | ----------- | ---- |
 | ![Grill](structures_grille.png)            | Grill       | 2    |
 | ![Table frame](structures_table_frame.png) | Table frame | 2    |
 
-## Metal [Metal](stack_objects_sheet-metal.png)
+## Metal ![Metal](stack_objects_sheet-metal.png)
 
 | Picture                                                         | Name                             | Cost |
 | --------------------------------------------------------------- | -------------------------------- | ---- |
@@ -391,7 +391,7 @@ Chair
 | ![Iron Door](undefined)                                         | Iron Door                        | 20   |
 | ![Button Frame](wallframe_button.png)                           | Button Frame                     | 1    |
 
-## Alien alloy [Alien alloy](alien_sheet-abductor.png)
+## Alien alloy ![Alien alloy](alien_sheet-abductor.png)
 
 | Picture                                            | Name                   | Cost |
 | -------------------------------------------------- | ---------------------- | ---- |
@@ -401,7 +401,7 @@ Chair
 | ![Alien Airlock Assembly](generic_blanksprite.png) | Alien Airlock Assembly | 4    |
 | ![Alien Floor Tile](alien_tile_abductor.png)       | Alien Floor Tile       | 4    |
 
-## Diamond [Diamond](stack_objects_sheet-diamond.png)
+## Diamond ![Diamond](stack_objects_sheet-diamond.png)
 
 | Picture                                    | Name               | Cost |
 | ------------------------------------------ | ------------------ | ---- |
@@ -410,7 +410,7 @@ Chair
 | ![AI Hologram Statue](statue_ai1.png)      | AI Hologram Statue | 5    |
 | ![AI Core Statue](statue_ai2.png)          | AI Core Statue     | 5    |
 
-## Gold [Gold](stack_objects_sheet-gold.png)
+## Gold ![Gold](stack_objects_sheet-gold.png)
 
 | Picture                              | Name       | Cost |
 | ------------------------------------ | ---------- | ---- |
@@ -421,7 +421,7 @@ Chair
 | ![RD Statue](statue_rd.png)          | RD Statue  | 5    |
 | ![CMO Statue](statue_cmo.png)        | CMO Statue | 5    |
 
-## Silver [Silver](stack_objects_sheet-silver.png)
+## Silver ![Silver](stack_objects_sheet-silver.png)
 
 | Picture                                  | Name               | Cost |
 | ---------------------------------------- | ------------------ | ---- |
@@ -432,14 +432,14 @@ Chair
 | ![Sec Borg Statue](statue_secborg.png)   | Sec Borg Statue    | 5    |
 | ![Med Borg Statue](statue_medborg.png)   | Med Borg Statue    | 5    |
 
-## Solid plasma [Solid plasma](stack_objects_sheet-plasma.png)
+## Solid plasma ![Solid plasma](stack_objects_sheet-plasma.png)
 
 | Picture                                  | Name             | Cost |
 | ---------------------------------------- | ---------------- | ---- |
 | ![Plasma Door](mineral_doors_plasma.png) | Plasma Door      | 10   |
 | ![Scientist Statue](statue_sci.png)      | Scientist Statue | 5    |
 
-## Uranium [Uranium](stack_objects_sheet-uranium.png)
+## Uranium ![Uranium](stack_objects_sheet-uranium.png)
 
 | Picture                                    | Name            | Cost |
 | ------------------------------------------ | --------------- | ---- |
@@ -447,7 +447,7 @@ Chair
 | ![Nuke Statue](statue_nuke.png)            | Nuke Statue     | 5    |
 | ![Engineer Statue](statue_eng.png)         | Engineer Statue | 5    |
 
-## Wooden plank [Wooden plank](stack_objects_sheet-wood.png)
+## Wooden plank ![Wooden plank](stack_objects_sheet-wood.png)
 
 | Picture                                          | Name               | Cost |
 | ------------------------------------------------ | ------------------ | ---- |
@@ -459,31 +459,31 @@ Chair
 | ![Wooden Table Frame](structures_wood_frame.png) | Wooden Table Frame | 2    |
 | ![Loom](equipment_loom.png)                      | Loom               | 10   |
 
-## Plasma glass [Plasma glass](stack_objects_sheet-pglass.png)
+## Plasma glass ![Plasma glass](stack_objects_sheet-pglass.png)
 
 | Picture                             | Name          | Cost |
 | ----------------------------------- | ------------- | ---- |
 | ![Plasma Window](window_plasma.png) | Plasma Window | 2    |
 
-## Plastitanium glass [Plastitanium glass](stack_objects_sheet-plastitaniumglass.png)
+## Plastitanium glass ![Plastitanium glass](stack_objects_sheet-plastitaniumglass.png)
 
 | Picture                                         | Name                | Cost |
 | ----------------------------------------------- | ------------------- | ---- |
 | ![Plastitanium Window](window_plastitanium.png) | Plastitanium Window | 2    |
 
-## Reinforced glass [Reinforced glass](stack_objects_sheet-rglass.png)
+## Reinforced glass ![Reinforced glass](stack_objects_sheet-rglass.png)
 
 | Picture                                     | Name              | Cost |
 | ------------------------------------------- | ----------------- | ---- |
 | ![Reinforced Window](window_reinforced.png) | Reinforced Window | 2    |
 
-## Reinforced plasma glass [Reinforced plasma glass](stack_objects_sheet-prglass.png)
+## Reinforced plasma glass ![Reinforced plasma glass](stack_objects_sheet-prglass.png)
 
 | Picture                                         | Name                     | Cost |
 | ----------------------------------------------- | ------------------------ | ---- |
 | ![Reinforced Plasma Window](window_rplasma.png) | Reinforced Plasma Window | 2    |
 
-## Runed metal [Runed metal](stack_objects_sheet-runed.png)
+## Runed metal ![Runed metal](stack_objects_sheet-runed.png)
 
 | Picture                              | Name         | Cost |
 | ------------------------------------ | ------------ | ---- |
@@ -494,7 +494,7 @@ Chair
 | ![Archives](cult_tomealtar.png)      | Archives     | 3    |
 | ![Altar](cult_talismanaltar.png)     | Altar        | 3    |
 
-## Titanium glass [Titanium glass](stack_objects_sheet-titaniumglass.png)
+## Titanium glass ![Titanium glass](stack_objects_sheet-titaniumglass.png)
 
 | Picture                               | Name           | Cost |
 | ------------------------------------- | -------------- | ---- |

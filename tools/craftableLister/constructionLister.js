@@ -114,7 +114,7 @@ const init = () => {
     });
 
     if (materialPng !== undefined) materialPng = materialPng?.split('\\').pop();
-    finalTable += `## ${categoryName} [${categoryName}](${materialPng}) \r\n`;
+    finalTable += `## ${categoryName} ![${categoryName}](${materialPng}) \r\n`;
     finalTable += '| Picture | Name | Cost |\r\n';
     finalTable += '| ---- | ---- | ---- |\r\n';
 
