@@ -4,9 +4,9 @@ const utils = require('./listerUtils');
 const basePath = 'C:/git/unitystation/UnityProject';
 
 let textureDictionary = {};
-//
-const textures = require('./textures');
-textureDictionary = textures;
+// // DEV ONLY!
+// const textures = require('./textures');
+// textureDictionary = textures;
 
 const crawlTextures = (basePath) => {
   console.log('Crawling images, please wait...');
@@ -145,12 +145,41 @@ const crawlPrefabs = (basePath) => {
             ?.split(',')[0];
         }
 
+        let initialDescription = null;
+        if (prefabFile.rawText.indexOf('propertyPath: initialDescription') !== -1) {
+          initialDescription = prefabFile.rawText
+            .split('initialDescription')[1]
+            .split('value: ')[1]
+            .split('objectReference')[0]
+            .replace('\r\n', '')
+            .trim();
+
+          while (initialDescription.indexOf('  ') !== -1) initialDescription = initialDescription.replace('  ', ' ');
+        } else {
+          if (prefabFile.rawText.indexOf('initialDescription: ') !== -1) {
+            initialDescription = prefabFile.rawText
+              .split('initialDescription: ')[1]
+              .split(':')[0]
+              .split('\n');
+
+            initialDescription.pop();
+            initialDescription = initialDescription.join(' ');
+            initialDescription = initialDescription.replace(new RegExp(/\r/g), '');
+            initialDescription = initialDescription.replace(new RegExp(/\n/g), '');
+            initialDescription = initialDescription.replace(new RegExp(/\s\s/g), ' ');
+            //            initialDescription = initialDescription.replace('\n', '');
+            //            while (initialDescription.indexOf('  ') !== -1) initialDescription = initialDescription.replace('  ', ' ');
+            // let a = 1;
+          }
+        }
+
         //        const name
 
         if (name !== undefined && spriteId !== undefined) {
           prefabDictionary[prefabMetaFile.guid] = {
             name,
             //            spriteId,
+            initialDescription,
             spritePng: textureDictionary[spriteId],
             file: file.split('.meta')[0]
           };
@@ -162,7 +191,6 @@ const crawlPrefabs = (basePath) => {
               sourcePrefab
             };
           }
-          //          console.log('broken prefab: ', file);
         }
       });
 
