@@ -249,7 +249,7 @@ module.exports = prefabs;`;
 };
 
 const init = async () => {
-//  await exportTextures();
+  await exportTextures();
   exportPrefabs();
 };
 
