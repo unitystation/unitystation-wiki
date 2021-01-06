@@ -176,7 +176,8 @@ const init = async () => {
 const recipeListToMd = (title, recipes) => {
   let finalText = ""
   finalText += `## ${title} \r\n`;
-  finalText += "| Picture | Name | Ingredients | \r\n";
+  finalText += "| Picture | Name | Ingredients | Description | \r\n";
+  finalText += "| --- | --- | --- | --- | \r\n";
   recipes.forEach(meal => {
     const pngFile = meal?.outputPrefab?.spritePng;
     if (pngFile) {
@@ -188,7 +189,8 @@ const recipeListToMd = (title, recipes) => {
     }
     finalText += `| ![${meal.outputPrefab.name}](${path.basename(pngFile||"")}) |`;
     finalText += ` ${meal.outputPrefab.name} |`;
-    finalText += ` ${meal.ingredients} | \r\n`;
+    finalText += ` ${meal.ingredients} |`;
+    finalText += ` ${meal.outputPrefab.initialDescription || "N/A"} | \r\n`;
   });
   return finalText;
 }
