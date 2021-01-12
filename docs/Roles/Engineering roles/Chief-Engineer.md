@@ -4,7 +4,7 @@ Job type: <font color= "#74652c">Engineer</font>. Access: <font color="#74652c">
 
 "ALRIGHT! what goddamn moron cut the high voltage wire again?"
 
-Relevent guides: [Construction](Construction.md), [Engineer](Engineer.md), and [Atmospherics technician](Atmospherics-Technician.md)
+Relevent guides: [Construction](Construction.md), [Engineer](Engineer.md), [Atmos](Guide-to-Atmospherics.md) and [Atmospherics technician](Atmospherics-Technician.md)
 
 
 ## Your Job
