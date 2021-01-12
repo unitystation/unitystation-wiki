@@ -58,6 +58,7 @@ save you from. it should be noted that tritium cannot burn on its own, and must 
 intended to trigger effects such as vomiting, disgust, and mood debuffs if in large amounts.
 
 In summary of the gases and their availibility roundstart in several containers:
+
 | Picture | Name           | Purpouse                                   | Tanks?       | Canisters? |
 |---------|----------------|--------------------------------------------|--------------|------------|
 |         | Oxygen         | Breathable, Fire oxidizer.                 | Yes          | Yes        |
@@ -127,4 +128,4 @@ powerful, the atmos tech can build a chamber that makes the sun look like canada
 is more than just knowing what each aprt does, and to really understand it it is reccomended that you play atmos tech and experiment and communicate with other experienced atmos techs
 to share ideas.
 
-
+{% include 'html/rolesnavbar.md' %}
