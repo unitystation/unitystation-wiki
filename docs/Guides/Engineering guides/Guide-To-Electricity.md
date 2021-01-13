@@ -11,7 +11,7 @@ APCs (not the armoured vehicles), department/local batterys, transformers, stati
 As in real life, high voltages and large amounts of power are dangerous, and can very easily kill you if not respected. To remain safe while fixing or destroying the power grid, there
 are several things you can do. The most potent and capable defense against electrical shocks is insulated gloves, which are able to block almost all form of electrical shocks, the budget
 variety offer some protection aswell, but nowhere near the gaurenteed protection of the engineering grade ones. Cutting and merging powered wires without gloves will almost always
-result in shocks that deal large amounts of burn damage, scaling with the power involved, which can easily kill you. if you don not have access to gloves, you can try to shut down power
+result in shocks that deal large amounts of burn damage, scaling with the power involved, which can easily kill you. if you do not have access to gloves, you can try to shut down power
 to the wires to safely connect/cut them by interacting with power controllers, such as the APC, department battery, or station power source.
 
 ## Power Consuming Devices
