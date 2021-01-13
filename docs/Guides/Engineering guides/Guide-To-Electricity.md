@@ -15,7 +15,7 @@ result in shocks that deal large amounts of burn damage, scaling with the power 
 to the wires to safely connect/cut them by interacting with power controllers, such as the APC, department battery, or station power source.
 
 ## Power Consuming Devices
-Most devices on the station, from consoles to the bar dispenser all require a constant supply of power to function. If the power supply collapses or the demand for power exceeds generated pwoer,
+Most devices on the station, from consoles to the bar dispenser all require a constant supply of power to function. If the power supply collapses or the demand for power exceeds generated power,
 these devices will stop working, effectively halting the station. All lightbulbs require power, and not powering the lights is a sure fire way to invoke the broken window effect. Cloning will
 also not function without power, meaning dead bodies will pile up and not be revived.
 
