@@ -5,7 +5,7 @@
 
 ## Setup
 
-Some listers require a dictionary of all the prefabs and their corresponding sprites. This will take a long time at first, but will speed up all the listing processes to instant.
+All the require a dictionary of all the prefabs and their corresponding sprites. This will take a long time at first, but will speed up all the listing processes to instant.
 
 - textures.js (7Mb file, ~50k lines);
 - prefabs.js (1Mb file, ~4k lines
@@ -64,3 +64,18 @@ It will output:
    > var basePath = "C:/git/unitystation/UnityProject";
 2. Open a bash console in the craftableLister folder (windows explorer, right click, Git Bash Here )
 3. Run this command "node constructionLister.js"
+
+## Botany lister
+
+It will output:
+
+- a "botany" folder, containing
+  - a "botany.md" file containing all the seeds, images, produce and mutations
+  - a subfolder called "images"
+
+### How do i get it working?
+
+1. edit the botanyLister.js and change this variable to point to the "UnityProject"! folder on your computer.
+   > const BASE_PATH = "C:/git/unitystation/UnityProject";
+2. Open a bash console in the craftableLister folder (windows explorer, right click, Git Bash Here )
+3. Run this command "node botanyLister.js"
