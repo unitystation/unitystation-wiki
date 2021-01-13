@@ -170,10 +170,10 @@ const init = async () => {
       }
     });
 
-    finalMd += `| ${seed.name} |`;
-    finalMd += ` ![${seed.name}](${picture}) |`;
+    finalMd += `| ![${seed.name}](${picture}) |`;
+    finalMd += ` ${seed.name} |`;
     finalMd += ` ${seed.description} |`;
-    finalMd += ` ![](${harvestPicture}) |`;
+    finalMd += ` ![harvest sprite](${harvestPicture}) |`;
     finalMd += ` ${seed.producePrefab?.name || 'N/A'} ![${seed.producePrefab?.name || ''}](${producePng}) |`;
     finalMd += ` ${mutationsMd} |`;
     finalMd += '\r\n';
