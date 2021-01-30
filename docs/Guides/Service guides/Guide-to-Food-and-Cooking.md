@@ -165,12 +165,4 @@ You will gradually lose nutrition over time, though different actions cause diff
 | ![Sugar]()   | Sugar   | 1 sugarcane | N/A         |
 | ![Ketchup]() | Ketchup | 1 tomato    | N/A         |
 
-# How To Videos
 
-### Cutlets
-
-![YOUTUBE](ApV7pyqD4gU)
-
-### Burger
-
-![YOUTUBE](jmj_ldi3Www)
