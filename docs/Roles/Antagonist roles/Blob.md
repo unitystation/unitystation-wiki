@@ -38,98 +38,18 @@ Upon reaching 400 tiles, you will get to critical mass. in this state you will g
 |      | Readapt Strain   | 40   | Allows the blob to change their strain                       |
 |      | Reroll Strains   | 20   | Rerolls list of strains                                      |
 
+## Blob types
 
-
-### Debris Devourer
-
-Eats everything in its path, items, objects, and humanoids. Can reactively throw debris at attacking beings.
-
-Deals 20 brute damage to players and 50 to objects per attack
-
-No extra armour
-
-### Distributed Neurons
-
-More undead shall walk this station. (players killed are intended to become npc blob zombies)
-
-Deals 5 brute and 15 toxin damage to players, and 50 brute to objects
-
-No extra armour
-
-### Electromagnetic Web
-
-Localized electromagnetic pulses are emitted through the web of connected blob, keep electronics away. (EMP effect intended, but nonfunctional, choose another blob)
-
-deals 5 brute and 25 toxin damage to players, and 50 to objects
-
-no armour, 25% more vulnerable to fire.
-
-### Explosive Lattice
-
-Blob has adpated to become a bomb itself, and has become immune to explosions. Be careful of fires
-
-Deals 20 brute damage to players, and 50 to objects
-
-has 100% resistance to explosives, but is 50% more vulnerable to fire.
-
-### Networked Fibers
-
-The overmind has decided to micromanage everything
-
-Can only expand manually (by clicking). can only expand next to core. manual expansion near your core moves the core to that tile. Core regenerates health 2.5 times faster than other chemical types. Nodes and core produce extra resources intend of producing blob tiles  Remember you can alt+click on a blob tiles to remove it, incase you get stuck
-
-deals 20 brute and 15 toxin damage to players, and 50 to objects.
-
-no extra armour.
-
-### Pressurized Slime 
-
-Filled with water, this blob isn't afraid to get wet. (when atacked, sprays water, which can slip people)
-
-deals 15 brute damage, 10 oxygen damage, and 15 stamina damage to players. 50 brute damage to objects
-
-50% resistance to melee weapons. bizzarely, no resistance to fire.
-
-### Reactive Spines
-
-A spike blob, dangerous to attack head on. nodes will fight back when attacked.
-
-deals only 5 damage to a player on attack, and 50 to objects. When a player attacks a blob node, it will automatically attack them.
-
-25% resistance to melee, bullets, lasers, energy weapons, bombs, radiation, fire, acid, magic and biological attacks.
-
-
-
-### Regenerative Materia
-
-Blob core health regenerative abilities are extreme and produce extra resources.
-
-Deals 5 brute and 17 toxin damage to players. 50 brute damage to objects. Damage nerf is offset by larger resource production that allows for more
-manual attacks.
-
-No extra armour, but, again, it regenerates rapidly.
-
-### Replicating Form
-
-Burning causes the blob to spread out over an area, but it can still be over burnt.
-
-Deals 22 brute damage to players, and 50 to objects.
-
-Has 50% resistance to melee attacks, and NO extra resistance to fire. Fire makes it spread, but the blob is not 100% immune.
-
-
-### Shifting Fragments
-
-When damaged blob always swaps positions with a nearby blob.
-
-22 brute damage to players, 50 to objects.
-
-no extra armour.
-
-### Synchronous Mesh
-
-Damage to the blob will be spread out in order for higher chance of survival
-
-17 brute damage to players, and 50 to objects.
-
-50% resistance to bombs, 25% resistance to fire.
+| Name                 | Description                                                                                                                                                                                                                                                                   | Abilities                                                    | Damage                                                                                                                                                             | Armour                                                                                                                       |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Debris Devourer      | Eats everything in its path, items, objects, and humanoids. Can reactively throw debris at attacking beings.                                                                                                                                                                  | Tosses objects (glass shards, metal rods, etc) at attackers  | Deals 20 brute damage to players and 50 to objects per attack                                                                                                      | No extra armour                                                                                                              |
+| Distributed Neurons  | More undead shall walk this station. (players killed are intended to become npc blob zombies)                                                                                                                                                                                 | Killed players become blob zombies (or, are supposed to)     | Deals 5 brute and 15 toxin damage to players, and 50 brute to objects                                                                                              | No extra armour                                                                                                              |
+| Electromagnetic Web  | Localized electromagnetic pulses are emitted through the web of connected blob, keep electronics away. (EMP effect intended, but nonfunctional, choose another blob)                                                                                                          | Nonfunctional EMP effects                                    | deals 5 brute and 25 toxin damage to players, and 50 to objects                                                                                                    | No extra armour, 25% fire vulnerability                                                                                      |
+| Explosive Lattice    | Blob has adpated to become a bomb itself, and has become immune to explosions. Be careful of fires                                                                                                                                                                            | Explosive immunity                                           | Deals 20 brute damage to players, and 50 to objects                                                                                                                | has 100% resistance to explosives, but is 50% more vulnerable to fire.                                                       |
+| Networked Fibers     | Can only expand manually (by clicking). can only expand next to core. manual expansion near your core moves the core to that tile. Core regenerates health 2.5 times faster than other chemical types. Nodes and core produce extra resources instead of producing blob tiles | Could be seen as playing snake.                              | deals 20 brute and 15 toxin damage to players, and 50 to objects.                                                                                                  | No extra armour                                                                                                              |
+| Pressurized Slime    | Filled with water, this blob isn't afraid to get wet. (when atacked, sprays water, which can slip people)                                                                                                                                                                     | Sprays slippery water when attacked.                         | deals 15 brute damage, 10 oxygen damage, and 15 stamina damage to players. 50 brute damage to objects                                                              | 50% resistance to melee weapons. bizzarely, no resistance to fire.                                                           |
+| Reactive Spines      | A spike blob, dangerous to attack head on. nodes will fight back when attacked.                                                                                                                                                                                               | attacks back automatically when attacked.                    | deals only 5 damage to a player on attack, and 50 to objects. When a player attacks a blob node, it will automatically attack them.                                | 25% resistance to melee, bullets, lasers, energy weapons, bombs, radiation, fire, acid, magic and biological attacks.        |
+| Regenerative Materia | Blob core health regenerative abilities are extreme and produce extra resources.                                                                                                                                                                                              | Rapid regen and more resources                               | Deals 5 brute and 17 toxin damage to players. 50 brute damage to objects. Damage nerf is offset by larger resource production that allows for more manual attacks. | No extra armour, but, again, it regenerates rapidly.                                                                         |
+| Replicating form     | Burning causes the blob to spread out over an area, but it can still be over burnt.                                                                                                                                                                                           | burnt blobs spread to nearby tiles.                          | Deals 22 brute damage to players, and 50 to objects.                                                                                                               | Has 50% resistance to melee attacks, and NO extra resistance to fire. Fire makes it spread, but the blob is not 100% immune. |
+| Shifting Fragments   | When damaged blob tiles always swap positions with a nearby blob tile.                                                                                                                                                                                                        | damaged blobs swap places (allowing them time to regenerate) | 22 brute damage to players, 50 to objects.                                                                                                                         | No extra armour                                                                                                              |
+| Synchronous Mesh     | Damage to the blob will be spread out in order for higher chance of survival                                                                                                                                                                                                  | damage is spread out across blob tiles.                      | 17 brute damage to players, and 50 to objects.                                                                                                                     | 50% resistance to bombs, 25% resistance to fire.                                                                             |
