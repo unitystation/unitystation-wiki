@@ -5,9 +5,23 @@ The Blob is a sentient biomass that highjacks a player character's body with the
 
 ## Taco Tuesday  
 
-So you took one extra taco from the kitchen and now feel the sudden urge to walk into maintenance so you can think about your life choices. before you do that, you should try and sabotage any station functions you can get your hands on. You should also maybe build some walls and/or weld a few doors so you can think a little harder.
+So you took one extra taco from the kitchen and now feel the sudden urge to walk into maintenance so you can think about your life choices. If you are the blob, you will recive a warning about your upcoming transformation with various messages urging you to find a dark isolated place and cower. you will almost certainly know when you are just about to turn, and before then you should try your best to reduce the stations ability to fight you. your time as a human is limited, and once it is up your body will burst and turn into a blob core, wether or not you are prepared. Good locations to turn include isolated pockets of maintenence, unattended departments, space, or, if you feel like taking a gamble, regions near critical functions such as power or atmospherics
 
+In order, when you learn you are a blob you should:
 
+- Think of a location where you want to set up your blob core.
+- prepare the location so you can rapidly access it when you are about to turn (by deconstructing walls or hacking doors)
+- absolutely make sure you know how to get there, and how to get there fast, from almost any spot on the station
+- wander around stealthily cutting wires, turning off batteries, sabotoging the reactor, spacing regions, etc.
+- when you are about to turn into a blob sprint to your chosen location, ignore everything else.
+
+When you become a blob for real it is important not to reveal yourself too early, as you are VERY vulnerable. dont intentionally breach walls into open areas or hallways. focus on building up your economy before you are detected, building as many resource nodes as possible. Ideally by the time you are found you should have a well built economy and be able to rapidly set up defenses. If you somehow get undetected until the station announcer says you exist you should begin to setup defenses preemptively.
+
+The midphase of blob is typically marked by when the blob switches from economy buildup to spreading wide and is when most conflict with the crew occurs. Focus on eliminating any attackers, either through raw brute force or by trapping them before attacking them. Emitters will serve as the crews most powerful weapon against you, and can rapidly cut a path towards your core. Reflective nodes can be helpful, but will also be among the first the crew targets. if your core itself is in the path of an emitter, move it. to eliminate an emitter, build towards it parralell to its blasts, it is a machine like any other and can thus be rapidly broken down with directed attacks. Fire and explosives, while they can be devestating, are typically more harmful to the crew than they are to you. something to note is that you can space regions by breaking glass windows. This is helpful, as those in space suits and hardsuits are slower, and there arent many suits on the station to begin with. Blob factories can be useful in rare situations to harass players with floating blob spores, but are often more expensive than they are useful.
+
+When you are confident that any crew retaliation has been adequetly repelled, it is time to switch to late-game blob. just expand, fucking everywhere. place nodes wherever they fit, dont be afraid to fill hallways, rapidly build towards and destroy critical station functions. The crew can do little to stop you, as your resource gains are incredibly fast. If you have more than 250 tiles and the crew is repelled, you can be reasonably confident that you have won. 
+
+Upon reaching 400 tiles, you will get to critical mass. in this state you will gain absurd amounts of resources very quickly, your attacks are devestating, and your nodes create massive swathes of blob tiles instantly. you have, by all accounts, won. Go ahead and masscre the crew that tried and failed to contain you.
 
 ## Main Abilities 
 
@@ -30,111 +44,33 @@ So you took one extra taco from the kitchen and now feel the sudden urge to walk
 
 Eats everything in its path, items, objects, and humanoids. Can reactively throw debris at attacking beings.
 
-| Damage Types  |       |      |
-| ------------- | ----- | ---- |
-| Player Damage |       |      |
-|               | Brute | 20   |
-| Object damage |       |      |
-|               | Brute | 50   |
+Deals 20 brute damage to players and 50 to objects per attack
 
-
-
-| Armor        |        |
-| ------------ | ------ |
-| **Melee**    | **0%** |
-| **Bullet**   | **0%** |
-| **Laser**    | **0%** |
-| **Energy**   | **0%** |
-| **Bomb**     | **0%** |
-| **Rad**      | **0%** |
-| **Fire**     | **0%** |
-| **Acid**     | **0%** |
-| **Magic**    | **0%** |
-| **Bio**      | **0%** |
-| **Internal** | **0%** |
+No extra armour
 
 ### Distributed Neurons
 
-More undead shall walk this station.
+More undead shall walk this station. (players killed are intended to become npc blob zombies)
 
-| Damage Types  |       |      |
-| ------------- | ----- | ---- |
-| Player Damage |       |      |
-|               | Brute | 5    |
-|               | Toxin | 15   |
-| Object damage |       |      |
-|               | Brute | 50   |
+Deals 5 brute and 15 toxin damage to players, and 50 brute to objects
 
-
-
-| Armor        |        |
-| ------------ | ------ |
-| **Melee**    | **0%** |
-| **Bullet**   | **0%** |
-| **Laser**    | **0%** |
-| **Energy**   | **0%** |
-| **Bomb**     | **0%** |
-| **Rad**      | **0%** |
-| **Fire**     | **0%** |
-| **Acid**     | **0%** |
-| **Magic**    | **0%** |
-| **Bio**      | **0%** |
-| **Internal** | **0%** |
+No extra armour
 
 ### Electromagnetic Web
 
-Localized electromagnetic pulses are emitted through the web of connected blob, keep electronics away.
+Localized electromagnetic pulses are emitted through the web of connected blob, keep electronics away. (EMP effect intended, but nonfunctional, choose another blob)
 
-| Damage Types  |       |      |
-| ------------- | ----- | ---- |
-| Player Damage |       |      |
-|               | Brute | 5    |
-|               | Toxin | 25   |
-| Object damage |       |      |
-|               | Brute | 50   |
+deals 5 brute and 25 toxin damage to players, and 50 to objects
 
-
-
-| Armor        |                                   |
-| ------------ | --------------------------------- |
-| **Melee**    | **0%**                            |
-| **Bullet**   | **0%**                            |
-| **Laser**    | **0%**                            |
-| **Energy**   | **0%**                            |
-| **Bomb**     | **0%**                            |
-| **Rad**      | **0%**                            |
-| **Fire**     | <font color="Red">**-25%**</font> |
-| **Acid**     | **0%**                            |
-| **Magic**    | **0%**                            |
-| **Bio**      | **0%**                            |
-| **Internal** | **0%**                            |
+no armour, 25% more vulnerable to fire.
 
 ### Explosive Lattice
 
 Blob has adpated to become a bomb itself, and has become immune to explosions. Be careful of fires
 
-| Damage Types  |       |      |
-| ------------- | ----- | ---- |
-| Player Damage |       |      |
-|               | Brute | 20   |
-| Object damage |       |      |
-|               | Brute | 50   |
+Deals 20 brute damage to players, and 50 to objects
 
-
-
-| Armor        |                                     |
-| ------------ | ----------------------------------- |
-| **Melee**    | **0%**                              |
-| **Bullet**   | **0%**                              |
-| **Laser**    | **0%**                              |
-| **Energy**   | **0%**                              |
-| **Bomb**     | <font color="green">**100%**</font> |
-| **Rad**      | **0%**                              |
-| **Fire**     | <font color="Red">**-50%**</font>   |
-| **Acid**     | **0%**                              |
-| **Magic**    | **0%**                              |
-| **Bio**      | **0%**                              |
-| **Internal** | **0%**                              |
+has 100% resistance to explosives, but is 50% more vulnerable to fire.
 
 ### Networked Fibers
 
@@ -142,197 +78,58 @@ The overmind has decided to micromanage everything
 
 Can only expand manually (by clicking). can only expand next to core. manual expansion near your core moves the core to that tile. Core regenerates health 2.5 times faster than other chemical types. Nodes and core produce extra resources intend of producing blob tiles  Remember you can alt+click on a blob tiles to remove it, incase you get stuck
 
+deals 20 brute and 15 toxin damage to players, and 50 to objects.
 
-
-| Damage Types  |       |      |
-| ------------- | ----- | ---- |
-| Player Damage |       |      |
-|               | Brute | 20   |
-|               | Toxin | 15   |
-| Object damage |       |      |
-|               | Brute | 50   |
-
-
-
-| Armor        |        |
-| ------------ | ------ |
-| **Melee**    | **0%** |
-| **Bullet**   | **0%** |
-| **Laser**    | **0%** |
-| **Energy**   | **0%** |
-| **Bomb**     | **0%** |
-| **Rad**      | **0%** |
-| **Fire**     | **0%** |
-| **Acid**     | **0%** |
-| **Magic**    | **0%** |
-| **Bio**      | **0%** |
-| **Internal** | **0%** |
+no extra armour.
 
 ### Pressurized Slime 
 
-Filled with water, this blob isn't afraid to get wet.
+Filled with water, this blob isn't afraid to get wet. (when atacked, sprays water, which can slip people)
 
+deals 15 brute damage, 10 oxygen damage, and 15 stamina damage to players. 50 brute damage to objects
 
-
-| Damage Types  |         |      |
-| ------------- | ------- | ---- |
-| Player Damage |         |      |
-|               | Brute   | 15   |
-|               | Oxy     | 10   |
-|               | Stamina | 25   |
-| Object damage |         |      |
-|               | Brute   | 50   |
-
-
-
-| Armor        |                                    |
-| ------------ | ---------------------------------- |
-| **Melee**    | <font color="green">**50%**</font> |
-| **Bullet**   | **0%**                             |
-| **Laser**    | **0%**                             |
-| **Energy**   | **0%**                             |
-| **Bomb**     | **0%**                             |
-| **Rad**      | **0%**                             |
-| **Fire**     | **0%**                             |
-| **Acid**     | **0%**                             |
-| **Magic**    | **0%**                             |
-| **Bio**      | **0%**                             |
-| **Internal** | **0%**                             |
+50% resistance to melee weapons. bizzarely, no resistance to fire.
 
 ### Reactive Spines
 
-A spike blob, dangerous to attack head on. will fight back
+A spike blob, dangerous to attack head on. nodes will fight back when attacked.
 
-| Damage Types  |       |      |
-| ------------- | ----- | ---- |
-| Player Damage |       |      |
-|               | Brute | 5    |
-| Object damage |       |      |
-|               | Brute | 50   |
+deals only 5 damage to a player on attack, and 50 to objects. When a player attacks a blob node, it will automatically attack them.
+
+25% resistance to melee, bullets, lasers, energy weapons, bombs, radiation, fire, acid, magic and biological attacks.
 
 
-
-| Armor        |                                    |
-| ------------ | ---------------------------------- |
-| **Melee**    | <font color="green">**25%**</font> |
-| **Bullet**   | <font color="green">**25%**</font> |
-| **Laser**    | <font color="green">**25%**</font> |
-| **Energy**   | <font color="green">**25%**</font> |
-| **Bomb**     | <font color="green">**25%**</font> |
-| **Rad**      | <font color="green">**25%**</font> |
-| **Fire**     | <font color="green">**25%**</font> |
-| **Acid**     | <font color="green">**25%**</font> |
-| **Magic**    | <font color="green">**25%**</font> |
-| **Bio**      | <font color="green">**25%**</font> |
-| **Internal** | **0%**                             |
 
 ### Regenerative Materia
 
-Blob core health regenerative abilities are extreme and produce extra resource.
+Blob core health regenerative abilities are extreme and produce extra resources.
 
-| Damage Types  |       |      |
-| ------------- | ----- | ---- |
-| Player Damage |       |      |
-|               | Brute | 5    |
-|               | Toxin | 17   |
-| Object damage |       |      |
-|               | Brute | 50   |
+Deals 5 brute and 17 toxin damage to players. 50 brute damage to objects. Damage nerf is offset by larger resource production that allows for more
+manual attacks.
 
-
-
-| Armor        |        |
-| ------------ | ------ |
-| **Melee**    | **0%** |
-| **Bullet**   | **0%** |
-| **Laser**    | **0%** |
-| **Energy**   | **0%** |
-| **Bomb**     | **0%** |
-| **Rad**      | **0%** |
-| **Fire**     | **0%** |
-| **Acid**     | **0%** |
-| **Magic**    | **0%** |
-| **Bio**      | **0%** |
-| **Internal** | **0%** |
+No extra armour, but, again, it regenerates rapidly.
 
 ### Replicating Form
 
 Burning causes the blob to spread out over an area, but it can still be over burnt.
 
+Deals 22 brute damage to players, and 50 to objects.
 
+Has 50% resistance to melee attacks, and NO extra resistance to fire. Fire makes it spread, but the blob is not 100% immune.
 
-| Damage Types  |       |      |
-| ------------- | ----- | ---- |
-| Player Damage |       |      |
-|               | Brute | 22   |
-| Object damage |       |      |
-|               | Brute | 50   |
-
-
-
-| Armor        |                                   |
-| ------------ | --------------------------------- |
-| **Melee**    | <font color="Red">**-50%**</font> |
-| **Bullet**   | **0%**                            |
-| **Laser**    | **0%**                            |
-| **Energy**   | **0%**                            |
-| **Bomb**     | **0%**                            |
-| **Rad**      | **0%**                            |
-| **Fire**     | **0%**                            |
-| **Acid**     | **0%**                            |
-| **Magic**    | **0%**                            |
-| **Bio**      | **0%**                            |
-| **Internal** | **0%**                            |
 
 ### Shifting Fragments
 
 When damaged blob always swaps positions with a nearby blob.
 
-| Damage Types  |       |      |
-| ------------- | ----- | ---- |
-| Player Damage |       |      |
-|               | Brute | 22   |
-| Object damage |       |      |
-|               | Brute | 50   |
+22 brute damage to players, 50 to objects.
 
-
-
-| Armor        |        |
-| ------------ | ------ |
-| **Melee**    | **0%** |
-| **Bullet**   | **0%** |
-| **Laser**    | **0%** |
-| **Energy**   | **0%** |
-| **Bomb**     | **0%** |
-| **Rad**      | **0%** |
-| **Fire**     | **0%** |
-| **Acid**     | **0%** |
-| **Magic**    | **0%** |
-| **Bio**      | **0%** |
-| **Internal** | **0%** |
+no extra armour.
 
 ### Synchronous Mesh
 
 Damage to the blob will be spread out in order for higher chance of survival
 
-| Damage Types  |       |      |
-| ------------- | ----- | ---- |
-| Player Damage |       |      |
-|               | Brute | 17   |
-| Object damage |       |      |
-|               | Brute | 50   |
+17 brute damage to players, and 50 to objects.
 
-
-
-| Armor        |                                   |
-| ------------ | --------------------------------- |
-| **Melee**    | **0%**                            |
-| **Bullet**   | **0%**                            |
-| **Laser**    | **0%**                            |
-| **Energy**   | **0%**                            |
-| **Bomb**     | <font color="Red">**-50%**</font> |
-| **Rad**      | **0%**                            |
-| **Fire**     | <font color="Red">**-25%**</font> |
-| **Acid**     | **0%**                            |
-| **Magic**    | **0%**                            |
-| **Bio**      | **0%**                            |
-| **Internal** | **0%**                            |
+50% resistance to bombs, 25% resistance to fire.
