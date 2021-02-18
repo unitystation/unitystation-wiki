@@ -1,0 +1,19 @@
+# The (Revised) Guide to Combat
+
+## Introduction
+Combat in Unitystation is both very complex and unique. While the base upon which it is built on is itself rather intricate, the myriad of interacting mechanics introduced by other systems
+increases its complexity exponentially. This, aswell as the social element, lends itself well to making combat in unitystation more tactically unique.
+Unfortunately (or fortunately?) this makes combat in unitystation very difficult to master. While this guide will by no means cover all the details (wed be here all week), it should
+introduce and teach the core combat system, aswell as provide practical advice for combat and how to work towards a better understanding.
+
+# Core systems
+The very core of the combat system is a combination of parts of the intent and health systems. Intents are important to learn to interact with the combat system, and health is good
+to know to reduce how often you die, and allow you to more effectively choose targets.
+
+## Intents
+There are 4 intents. Help, disarm, grab, and harm
+
+### Help
+Help intent, as implied by the name, is mainly used for non-combat interactions. It is still useful to know. If you on help intent, and not carrying a weapon in your hands, 
+you cannot injure others, and will swap places/pass those you run into rather than stopping (good for chasing someone or being on the run). Using help intent on someone (including yourself) with medecine
+in hand will apply the medecine to a selected body part, healing it (assuming you apply the correct meds).
