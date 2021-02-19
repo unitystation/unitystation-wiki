@@ -11,9 +11,28 @@ The very core of the combat system is a combination of parts of the intent and h
 to know to reduce how often you die, and allow you to more effectively choose targets.
 
 ## Intents
-There are 4 intents. Help, disarm, grab, and harm
+There are 4 intents. Help, grab, disarm and harm
 
-### Help
+### Help (green)
 Help intent, as implied by the name, is mainly used for non-combat interactions. It is still useful to know. If you on help intent, and not carrying a weapon in your hands, 
 you cannot injure others, and will swap places/pass those you run into rather than stopping (good for chasing someone or being on the run). Using help intent on someone (including yourself) with medecine
 in hand will apply the medecine to a selected body part, healing it (assuming you apply the correct meds).
+
+### Grab (yellow)
+Grab intent will grab the person you use it on. By moving, they can break out of your grab. When someone is grabbed, and not resisting, you can pull them, much the same as ctrl + click.
+If someone is handcuffed, they will be unable to break out of your grab, letting you pull them into a prison cell if your merciful, or into a discrete location if your not.
+
+### Disarm (blue)
+Dont let the name fool you, disarm plays a far bigger role than just wrenching a weapon out of someones hands. If used on another player, they have a very good chance to drop their weapon, 
+which you can then pick up, and possibly use (note, some guns are locked by id-based firing pins). If you absolutely must fight someone who is equipped, and are unarmed, DONT use the harm intent.
+use the disarm intent and use their own weapons against them. This also works in reverse, dont get in melee range if you have a gun, as you will likely get disarmed and lit up with
+your own gun. While you cant avoid getting in melee range if your using a melee weapon, you can minimize the risk of being disarmed by spending as little time in melee range as possible (in open combat)
+and instead using Hit-and-Retreat methods, or by surprising/ambushing your foe to (hopefully) chop them up before they react.
+
+Disarm doesnt stop there, though. Each individual disarm has a small chance to knock over the person being disarmed. While knocked down, people are stunned, and cannot shoot or melee back against attacks.
+The time given by a disarm knockdown is NOT enough to handcuff people, dont make the mistake of coming close to an angry man with a gun with only one free hand of your own. When someone is knocked down, if
+you are very quick, you can loot a few items from them. This can be anything on their person, from backpacks, to hidden guns, to their ID. If you plan on doing this to get your hands on a juicy ID or
+traitor objective, be sure you know where they are probably located in the persons inventory. 
+
+### Harm (red)
+
