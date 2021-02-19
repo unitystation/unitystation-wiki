@@ -100,7 +100,38 @@ they can flee. One exception to this is the sniper, which has a large cooldown b
 as fast as full auto weapons, but let you be safer and conserve ammunition.
 
 ## melee weapons
+Melee weapons are inherantly far riskier than ranged ones, but can greatly reward the risk if utilized smartly. Unlike guns, most melee weapons (with few exceptions) follow
+the same simple point and stab interface. How you use a melee weapon can however change depending on just how effective and rare it is.
 
+### Low effectiveness/improvised/punches
+Improvised weapons (chairs, fire extinguishers, etc) are far less effective than other melee weapons, but their accessability means they are often all you have. When using these,
+you can rush down and take more chances to be disarmed than someone using a more potent weapon, as you can simply grab another if you lose yours. This means your best off moving side to side
+facing a target, bashing on them repetedly, or trading disarms (especilly if you are unarmed). These weapons should not be used to try and assassinate someone, as theyll more than likely run off, but they
+are great for self defence.
+
+### High effectiveness
+Purpouse made melee weapons, such as eswords and sabers, are rarer, but a lot more devestating. their main weakness is less their own, and more because they can be disarmed and
+used against you, and you cant easily get another one. Therefore, when you have one of these, you want to minimize how much time they can disarm you. This can be done either by
+chopping them up before they can react in an ambush, or by only taking short periods to attack. Rather than berserk at your foe, you want to stay a tile or two seperate from them, and
+pop into melee range unexpectedly to give them a quick stab before jumping back out. 
+
+## Thrown weapons
+There are three main types of throwing weapons. improvised, dedicated, and grenades. objects can be thrown after using the "throw" button, or after using the (default) hotkey "r".
+
+### Improvised throwing weapons
+Melee weapons (like swords) thrown at attackers and other items, such as floor tiles, fall into this category. The rapidity with which items can be thrown, plus the decent damge per throw,
+means that thrown weapons can be unexpectedly deadly, even if makeshift. Particularly adventagous for improvised weapons is the plentitude of ammunition. Floor tiles make good
+throwing weapons, as do chairs and fire extinguishers, and they are absolutely goddamn everywhere. This means that you can engage in ranged combat, even without
+a dedicated ranged weapon, giving you the advantage over those using melee weapons.
+
+### dedicated throwing weapons
+Few of these exist, and the fact that they can be thrown back makes them a hard sell. They do not do enough to justify their low quanitity. if you have them, use them, but i
+would advise against actively looking for them.
+
+### grenades
+Grenades, on the other hand, absolutely justify their rarity. even ignoring chemistry, grenades can one shot people, force them to run, and, atop all this, can be "cooked"
+To use a grenade, you must first activate it by clicking it in hand. at which point you will throw it at the next location you click (pressing R or the throw button will make you keep holding it, so dont touch them.)
+When the grenade timer finishes, it will explode, greatly damaging players and objects in the blast.
 
 
 
