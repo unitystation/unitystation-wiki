@@ -9,9 +9,9 @@ Unitystation, like it's predecessor Space Station 13, has an incredibly steep le
 
 1) To not die you need to know the controls - W A S D for walking and mouse for interacting. You have two hands to pickup things with, you can swap between them with the X key. Using actual hands to move stuff arround can be confusing at first, but with some practice it gets done. See [intents](Intents.md) to find out how to interact with things and beings.
     
-    1a) Other controls: Q to drop the thing you are currently holding on the ground, Z to "activate" the item you are holding (it can also be done by clicking the item), R to throw the item you are holding far away, Ctrl + Click to drag something (a body or locker usually), and Shift + Click to see a description on something or someone.
+1a) Other controls: Q to drop the thing you are currently holding on the ground, Z to "activate" the item you are holding (it can also be done by clicking the item), R to throw the item you are holding far away, Ctrl + Click to drag something (a body or locker usually), and Shift + Click to see a description on something or someone.
     
-    1b) Talk controls: T to talk normally, Y to radio chat
+1b) Talk controls: T to talk normally, Y to radio chat
 
 
 2) Eat. Food can be found at the cafeteria, if food cannot be found then find a knife, hunt some prey (animals and humans work, but unless you want to get arrested use animals) and butcher it, the meat can then be used for a variety of [foods](Cooking.md).
@@ -38,10 +38,10 @@ Unitystation, like it's predecessor Space Station 13, has an incredibly steep le
 9) If there is a Xenomorph invasion, [Syndies](Nuclear-Emergency.md), or too much chaos on board:
 
 
-    9a) If you are armed and robust, you can go at em (not recomended for newbies, but who cares), however, be careful and try to never go on your own.
+9a) If you are armed and robust, you can go at em (not recomended for newbies, but who cares), however, be careful and try to never go on your own.
 
 
-    9b) If you are not armed or not robust then run away, cower behind sec and hide in a locker, or get to the escape shuttle or some other safe place. You can also call atention to the thing that you saw through the radio (open the chat and click the radio icon)
+9b) If you are not armed or not robust then run away, cower behind sec and hide in a locker, or get to the escape shuttle or some other safe place. You can also call atention to the thing that you saw through the radio (open the chat and click the radio icon)
 
 
 10) Learn to [build](Construction.md) in case you need to, and more importantly to destroy (same guide) if you are trapped.
