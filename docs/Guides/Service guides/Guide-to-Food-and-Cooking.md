@@ -14,6 +14,10 @@ You will gradually lose nutrition over time, though different actions cause diff
 
 ## Food
 
+## Bowl
+
+Using a Bowl you can create some simpel dough. It needs 10 units of Water and 15 units of flour combined in a bowl. Left-click an item to put it into your hand and then left-click on the bowl to pour your ingredients. You can change the amounts of units per use by left-clicking on an item in your hand. If you want to go further you can then turn the dough into a flat dough by having the dough in one of your hands and a rollingpin in the other and and then clicking with the rollingpin in hand on the dough in the other. Do the same with a Knife and you get 3 dough slices witch in return can be turned into buns through the Microwave.
+
 ## MicroWave
 
 | Picture                                                 | Name                 | Ingredients                | Description                                                                           |
@@ -129,6 +133,8 @@ You will gradually lose nutrition over time, though different actions cause diff
 | ![pancake](food_pancakes_1.png)                | pancake    | 1 pastry base | A fluffy pancake. The softer, superior relative of the waffle. |
 
 ## Combined
+
+If you want to combine items have on on each in your hands and then left-click on one of them.
 
 | Picture                                             | Name                 | Ingredients                           | Description                                                           |
 | --------------------------------------------------- | -------------------- | ------------------------------------- | --------------------------------------------------------------------- |
