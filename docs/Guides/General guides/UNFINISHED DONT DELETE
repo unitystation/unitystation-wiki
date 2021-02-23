@@ -109,7 +109,7 @@ you can rush down and take more chances to be disarmed than someone using a more
 facing a target, bashing on them repetedly, or trading disarms (especilly if you are unarmed). These weapons should not be used to try and assassinate someone, as theyll more than likely run off, but they
 are great for self defence.
 
-### High effectiveness
+### High effectiveness melee weapons
 Purpouse made melee weapons, such as eswords and sabers, are rarer, but a lot more devestating. their main weakness is less their own, and more because they can be disarmed and
 used against you, and you cant easily get another one. Therefore, when you have one of these, you want to minimize how much time they can disarm you. This can be done either by
 chopping them up before they can react in an ambush, or by only taking short periods to attack. Rather than berserk at your foe, you want to stay a tile or two seperate from them, and
@@ -128,7 +128,7 @@ a dedicated ranged weapon, giving you the advantage over those using melee weapo
 Few of these exist, and the fact that they can be thrown back makes them a hard sell. They do not do enough to justify their low quanitity. if you have them, use them, but i
 would advise against actively looking for them.
 
-### grenades
+### Grenades
 Grenades, on the other hand, absolutely justify their rarity. even ignoring chemistry, grenades can one shot people, force them to run, and, atop all this, can be "cooked"
 To use a grenade, you must first activate it by clicking it in hand. at which point you will throw it at the next location you click (pressing R or the throw button will make you keep holding it, so dont touch them.)
 When the grenade timer finishes, it will explode, greatly damaging players and objects in the blast.
@@ -140,11 +140,36 @@ When the grenade timer finishes, it will explode, greatly damaging players and o
 -Fire extinguishers: cover a large area in slippery water
 -Flashs: blindness and stun
 -handcuffs: see handcuffs under "various maladies"
--magboots: prevent slipping
+-magboots: prevent slipping, but slow you down.
 -banna peels/clown pda/similar items: slip when stepped on
 -crowbar: not a very good weapon, source for floor tiles
 -floor tiles: effective and super cheap throwing weapons.
 -Lit welders, hatchets, toolboxes: effective and easy to acquire melee weapons
+
+# Armour
+Unlike weaponry, armour is rather simple, cutting damage by a certain percentage from certain sources.
+
+## Vests, helmets, coats
+Within unitystation, there are three main types of armour generally available to crew members. Bulletproof, standard, and riot gear. These come with matching helmets, and each
+are good at dealing with specific types of damage. Bulletproof gear will dampen the damage dealt by bullets, but is bad against lasers, and garbage against melee weaponry. The opposite
+is true of the riot armour, which excells against melee, but suffers against bullets. Standard vest offer an intermediary between the two. Other, rarer, items can offer similar protection.
+for instance, the captains vest, HoS' coat, wardens vest, and the many aesthetic variants of the other vests all offer protection.
+
+## Hardsuits
+Dont be fooled by their looks, most hardsuits are a FAR worse choice than other armour when it comes to combat. Ignoring that (on the station) only the sec and captain suits have armour values anywhere comperable to a vest,
+hardsuits slow you down greatly, meaning you are less able to escape or chase down others and more predictable. Their main usage is simply to let you go into space or breached regions to catch anyone in them.
+The one exception is the hardsuits used by nuclear operatives, which do not slow down the wearer and have great armour values.
+
+# Acquiring gear
+bla
+bla
+bla
+bla
+bla
+bla
+
+#fighting
+Now that the fundamentals and core ideas have been covered, fighting can be discussed
 
 
 
