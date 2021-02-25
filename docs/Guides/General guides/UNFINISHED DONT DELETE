@@ -7,11 +7,11 @@ Unfortunately (or fortunately?) this makes combat in unitystation very difficult
 introduce and teach the core combat system, aswell as provide practical advice for combat and how to work towards a better understanding.
 
 # Core systems
-The very core of the combat system is a combination of parts of the intent and health systems. Intents are important to learn to interact with the combat system, and health is good
+The very core of the combat system is a combination of parts of the [intent](Intents.md) and health systems. [Intents](Intents.md) are important to learn to interact with the combat system, and health is good
 to know to reduce how often you die, and allow you to more effectively choose targets.
 
 ## Intents
-There are 4 intents. Help, grab, disarm and harm
+There are 4 [intents](Intents.md). Help, grab, disarm and harm
 
 ### Help (green)
 Help intent, as implied by the name, is mainly used for non-combat interactions. It is still useful to know. If you on help intent, and not carrying a weapon in your hands, 
@@ -41,7 +41,7 @@ to apply medicine, help others up, etc. clicking someone while in harm intent wi
 has a proper weapon.
 
 ## The health system
-In unitystation, health is much more complex than average. health can be decreased directly by 4 types of damage, two of which are applied to individual limbs. The total health is the base health, minus damage dealt to limbs,
+In unitystation, health is much more complex than in most games. health can be decreased directly by 4 types of damage, two of which are applied to individual limbs. The total health is the base health, minus damage dealt to limbs,
 and minus damage dealt by other causes. This means that enough damage to a single limb can kill, even if it is the only limb damaged. 
 
 ### Damage types
@@ -161,14 +161,18 @@ hardsuits slow you down greatly, meaning you are less able to escape or chase do
 The one exception is the hardsuits used by nuclear operatives, which do not slow down the wearer and have great armour values.
 
 # Acquiring gear
-bla
-bla
-bla
-bla
-bla
-bla
+All the gear in the world cant help you if you dont actually possess it. To this end there are many things you can do to acquire it. Following are some ideas.
+- Buy/Bribe for it (it is a social game, after all)
+- Utilize a favor or friend
+- Acquire it through legitimate means (taking a tazer as [sec](Security Officer.md), for instance)
+- stealing it with or without a disguise
+- killing or mugging the person who has it
+- other strategies that can be found in the [guide to access](Access.md)
 
 # Fighting
+Combat in unitystation is fundamentally based in knowledge, gear, and planning. Raw reflexive skill plays a part, but the victor in a fight is most often the one who strikes first and stacks
+the most advantages while reducing those of the opponent, meaning it is almost always better to wait and prepare if you can, rather than rushing in. 
+
 ## Planning
 ## Movement
 ## Teamwork/Teams
