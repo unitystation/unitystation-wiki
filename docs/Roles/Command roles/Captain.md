@@ -11,7 +11,7 @@ It is your duty to ensure the stability and productivity of the station as well 
 ### So, how do you stay alive?
 
 
-With so many people out for your life, you'd be glad to know that your office comes with your own special gun, called the Imperator, as well as a security belt and taser. You also start with the best general purpose armor on the station (though it only protects your chest) and a wickedly durable hardsuit in your office (which protects your whole body while wearing it with the helmet, but it slows you down a bunch). All of these things are good for shooting someone with and running away. That's right, running away. Unless you are very, very, robust, your best option when [guys in red hardsuits](Nuclear-Emergency.md) or some [greyshirt](Assistant.md) with a sketchkin attacks you is to run the hell away. That, or hiding in the armory behind walls of [meatshields](Security.md).
+With so many people out for your life, you'd be glad to know that your office comes with your own special gun, called the Imperator, as well as a security belt and taser. You also start with the best general purpose armor on the station (though it only protects your chest) and a wickedly durable hardsuit in your office (which protects your whole body while wearing it with the helmet, but it slows you down a bunch). All of these things are good for shooting someone with and running away. That's right, running away. Unless you are very, very, robust, your best option when [guys in red hardsuits](Nuclear-Emergency.md) or some [greyshirt](Assistant.md) with a sketchkin attacks you is to run the hell away. That, or hiding in the armory behind walls of [meatshields](Security Officer.md).
 
 
 ### Delegator Prime
@@ -34,7 +34,7 @@ Delegating and staying hidden can, however, trip you over more than it may help 
 
 The first thing you should do is get the fukken nuke disk and hide it on your person. Also take your spare ID. And probably your disk pinpointer, too. Guard the disk with you life. Do not show it to anyone. Do not trust it to anybody except maybe the [Head of Security](Head-of-Security.md) or [Head of Personnel](HoP.md).
 
-If there is the barest hint of [Syndicate activity](Nuclear-Emergency.md) on the station, drop whatever you are doing and book it to [Security](Security.md). The Syndies have their own disk pinpointers, and they can track the disk wherever it is. So if they are attacking the station, you need to squad up with [the boys](Security.md) ASAP.
+If there is the barest hint of [Syndicate activity](Nuclear-Emergency.md) on the station, drop whatever you are doing and book it to [Security](Roles.md#security). The Syndies have their own disk pinpointers, and they can track the disk wherever it is. So if they are attacking the station, you need to squad up with [the boys](Roles.md#security) ASAP.
 
 
 ### Abandoning Ship

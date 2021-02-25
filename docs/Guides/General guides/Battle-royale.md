@@ -3,7 +3,7 @@ Battle royale is an absolute emergency status where the station failed to keep a
 
 ##  <u>Preventing a battle royale</u> 
 
-Battle royale is often prevented by the combined forces of the [janitor](Janitor.md)(s) and [security](Security.md) with the first one keeping the station clean of blood and chaos related things and the second keeping it clean of the men who make them in the first place.
+Battle royale is often prevented by the combined forces of the [janitor](Janitor.md)(s) and [security](Roles.md#security) with the first one keeping the station clean of blood and chaos related things and the second keeping it clean of the men who make them in the first place.
 
 ##  <u>What to do</u>'
 

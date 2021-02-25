@@ -18,7 +18,7 @@ ERT commanders are the most barebones squad member, equipped with nothing but th
 ### Diet Deathsquad, ERT Security
 
 
-The ERT security officer acts as the spearpoint of any ERT team. They are armed with a tactical energy carbine, baton, taser, and two pairs of handcuffs, and sport a red and black hardsuit. They are typically sent to to apprehend [security](Security.md) or [heads](HoP.md) [of](Chief-Engineer.md) [staff](Captain.md) when the personnel onboard the station are unable or unwilling to do so. This typically is not a peacful affair, and security ERT tend to kill more often then they apprehend, which is why they are often confused as being a [deathsquad](Death-Squad.md).
+The ERT security officer acts as the spearpoint of any ERT team. They are armed with a tactical energy carbine, baton, taser, and two pairs of handcuffs, and sport a red and black hardsuit. They are typically sent to to apprehend [security](Roles.md#security) or [heads](HoP.md) [of](Chief-Engineer.md) [staff](Captain.md) when the personnel onboard the station are unable or unwilling to do so. This typically is not a peacful affair, and security ERT tend to kill more often then they apprehend, which is why they are often confused as being a [deathsquad](Death-Squad.md).
 ### Glorified medkits, ERT Doctors
 
 

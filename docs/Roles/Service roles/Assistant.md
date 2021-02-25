@@ -13,7 +13,7 @@ According to [Nanotrasen](Groups.md), the people in suits who hired you, your du
 
 please note, these things may get you in trouble either [IC or OOC](RP-words-and-abbreviations.md) if you're not an [antagonist](Antagonist.md)
 
-If all that sounds boring to you, I've got some news; one benefit of picking assistant is that, unless the [HoP](HoP.md) has given you a job, you have exactly 0 duties on the station. You know what that means? Mischief, baby! Grab a welder and weld shut doors, and sit back in pride as the members of the department you trapped shout over comms about the fact that they're stuck; spend half an hour breaking into security's Armory only to realize that you need a higher access level to open any of the crates or lockers; hack into engineering and mess with the plasma generator; the choice is yours! Just.. keep in mind that if [security](Security.md) catch you, you might be going in for a long time, so be careful.
+If all that sounds boring to you, I've got some news; one benefit of picking assistant is that, unless the [HoP](HoP.md) has given you a job, you have exactly 0 duties on the station. You know what that means? Mischief, baby! Grab a welder and weld shut doors, and sit back in pride as the members of the department you trapped shout over comms about the fact that they're stuck; spend half an hour breaking into security's Armory only to realize that you need a higher access level to open any of the crates or lockers; hack into engineering and mess with the plasma generator; the choice is yours! Just.. keep in mind that if [security](Roles.md#security) catch you, you might be going in for a long time, so be careful.
 
 ## A good reason not to trust that assistant
 

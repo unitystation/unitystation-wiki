@@ -44,6 +44,6 @@ When people come by for stuff, have them fill out the forms. Look at the paper o
 
 Once some orders have been made, it will usually be your job to go deliver the crates to their requestors. A key mechanic to running a financially successful cargo department is engaging in the Centcom Crate Recycling Program; empty crates can be loaded back onto the cargo shuttle to be exchanged for a portion of their purchase price. So, remember to pick up crates once their requestors have emptied them out. If you forget what crates have gone where, that's what the forms are for.
 
-Sometimes people may ask you to order something sketchy; at that point you either do it no questions asked, or tell them to go away. If you do give them what they want, don't be surprised if the [HoP](HoP.md) or [Security](Security.md) bust down the door and arrest the entire department.
+Sometimes people may ask you to order something sketchy; at that point you either do it no questions asked, or tell them to go away. If you do give them what they want, don't be surprised if the [HoP](HoP.md) or [Security](Roles.md#security) bust down the door and arrest the entire department.
 
 {% include 'html/rolesnavbar.md' %}

@@ -61,6 +61,6 @@ The stations [Atmos Techs](Atmospherics-Technician.md) work tirelessly from here
 ### R&D
 Where all the [scientists](Scientist.md) gather and make half-life references between getting killed in various science advancing ways.[[File:R&D.PNG|none|thumb|308x308px]]
 ### Security
-Where the [true dictatorial overlords](Security.md) of the station send their victims.![Sec](Sec.png)
+Where the [true dictatorial overlords](Roles.md#security) of the station send their victims.![Sec](Sec.png)
 ### Church
 [Sacerdos](Chaplain.md) in templum laborat et [vocat cum deus](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)![Chruch](Chruch.png){% include 'html/rolesnavbar.md' %}

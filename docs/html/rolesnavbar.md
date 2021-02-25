@@ -1,7 +1,7 @@
 | Department                          | Roles                                                        |
 | ----------------------------------- | ------------------------------------------------------------ |
 | [Command](Roles.md#command)         | [Captain](Captain.md), [Head of Personnel](HoP.md) |
-| [Security](Roles.md#security)       | [Head of Security](Head-of-Security.md), [Warden](Warden.md), [Security Officer](Security.md), [Detective](Detective.md) |
+| [Security](Roles.md#security)       | [Head of Security](Head-of-Security.md), [Warden](Warden.md), [Security Officer](Security Officer.md), [Detective](Detective.md) |
 | [Engineering](Roles.md#engineering) | [Chief Engineer](Chief-Engineer.md), [Engineer](Engineer.md), [Atmospherics Technician](Atmospherics-Technician.md) |
 | [Science](Roles.md#science)         | [Research Director](Research-Director.md), [Scientist](Scientist.md), [Geneticist](Geneticist.md), [Roboticist](Roboticist.md) |
 | [Medical](Roles.md#medical)         | [Chief Medical Officer](Chief-Medical-Officer.md), [Medical Doctor](Medical-Doctor.md), [Chemist](Chemist.md), [Virologist](Virologist.md) |

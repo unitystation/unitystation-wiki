@@ -4,7 +4,7 @@
 
 ## Overview
 
-Medics are arguably the most vital role to a thriving station, except for [Security](Security.md) and [Command](Captain.md). Their job is to heal any injured people, clone dead crew members, and provide the kitchen with dead bodies when other food sources run out.
+Medics are arguably the most vital role to a thriving station, except for [Security](Roles.md#security) and [Command](Captain.md). Their job is to heal any injured people, clone dead crew members, and provide the kitchen with dead bodies when other food sources run out.
 
 
 While it's not a required part of the role, it should be noted that non-[antagonist](Antagonist.md) Medical Officers are generally expected to do no harm unless your own life or the life of an innocent is at stake; Your purpose is to preserve human life above all else. This doesn't mean you can't make people harm themselves or make other people do the harm for you, but it means that your most efficient tool to fight is running away. Screaming is a close second.
@@ -53,13 +53,13 @@ Not sure what to do? Here's a handy set of operations that you can follow:
 
 1) Heal critically injured crew members that are around medbay. They are the top priority. Dead people waiting to be cloned can wait a little longer. There is no heavy risk in doing this activity since people often have other priorities over killing you when they haven't died yet.
 
-2) Clone dead people that were brought to you by another crew member. NEVER go find bodies on your own, as you might accidentally end up reviving a filthy [antagonist](Antagonist.md) that puts you into a box and throws you out an airlock. It also might not be a bad idea to ask [Security](Security.md) if any dead to-be-clones that you get have any outstanding criminal charges.
+2) Clone dead people that were brought to you by another crew member. NEVER go find bodies on your own, as you might accidentally end up reviving a filthy [antagonist](Antagonist.md) that puts you into a box and throws you out an airlock. It also might not be a bad idea to ask [Security](Roles.md#security) if any dead to-be-clones that you get have any outstanding criminal charges.
 
 3) Do in-the-field medical attention. Sometimes you need to go to the action to save your plasma burned crew mates, it's recommended to bring additional medical supplies so you can dole them out to other responders if the situation's bad enough.
 
 4) Heal random dudes. When someone arrives at medbay and says he's injured, you should try to help them, but not without doing some extremely unnecessary paperwork, you know, to keep the [Captain](Captain.md) happy. You might as well do check-ups in the halls on the way to lunch, too.
 
-5) Check on [the](Assistant.md) [prisoners](Clown.md) in the brig and the [security officers](Security.md) themselves. [Security](Security.md) tends to be a hotspot for injuries, and its also an opportunity to flex on [shitcurity](Shitsec.md) for human rights abuse, maybe even inspiring them to [change their ways](So-close-to-impossible-that-it-might-as-well-not-even-exist.md). [Lawyers](Lawyer.md) will love you for this.
+5) Check on [the](Assistant.md) [prisoners](Clown.md) in the brig and the [security officers](Security Officer.md) themselves. [Security](Roles.md#security) tends to be a hotspot for injuries, and its also an opportunity to flex on [shitcurity](Shitsec.md) for human rights abuse, maybe even inspiring them to [change their ways](So-close-to-impossible-that-it-might-as-well-not-even-exist.md). [Lawyers](Lawyer.md) will love you for this.
 
 6) Open up the cloning bay for everyone to come get pre-emptively scanned just in case. Brings a whole new meaning to life insurance.
 

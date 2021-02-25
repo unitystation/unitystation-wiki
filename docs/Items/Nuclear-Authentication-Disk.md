@@ -5,7 +5,7 @@ frameless|200px|thumb|alt text|link=Special:FilePath/File.png]]!!
 
 This disk contains the the encrypted data needed to to activate the station's onboard nuke as well as the the nuke-on-wheels that the [Nuclear Operatives](Nuclear-Emergency.md) get.
 
-If you are the [Captain](Captain.md) or a member of [Security](Security.md), for the love of all that is good on the station, protect this disk with your life. Do not let it fall into the wrong hands, [which](Chief-Engineer.md) [is](Janitor.md) [basically](Assistant.md) [anybody](Mime.md) [else](Clown.md).
+If you are the [Captain](Captain.md) or a member of [Security](Roles.md#security), for the love of all that is good on the station, protect this disk with your life. Do not let it fall into the wrong hands, [which](Chief-Engineer.md) [is](Janitor.md) [basically](Assistant.md) [anybody](Mime.md) [else](Clown.md).
 
 
 ### WHERE THE FUK IS IT? [[File:Pinpointer-black.gif|frameless|200px|thumb|alt text|link=Special:FilePath/File.png]]
