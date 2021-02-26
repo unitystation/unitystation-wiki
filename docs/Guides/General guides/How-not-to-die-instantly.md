@@ -2,15 +2,15 @@
 
 ## Back to Basics
 
-Unitystation, like it's predecessor Space Station 13, has an incredibly steep learning curve. Death early on will force you into a ghost state where you watch over the round until someone clones you (there is a way to keep playing after death currently under implementation). But unlike Space Station 13, you can't respawn in anyway. If you are new to Unitystation here is a small list for you so you can try to not die instantly. 
+Unitystation, like it's predecessor Space Station 13, has an incredibly steep learning curve. Death early on will force you into a ghost state where you watch over the round until someone clones you (there is a way to keep playing after death currently under implementation). But unlike Space Station 13, you can't respawn in anyway. If you are new to Unitystation here is a small list for you so you can try to not die instantly.
 
 
 ### How not to die instantly
 
 1) To not die you need to know the controls - W A S D for walking and mouse for interacting. You have two hands to pickup things with, you can swap between them with the X key. Using actual hands to move stuff arround can be confusing at first, but with some practice it gets done. See [intents](Intents.md) to find out how to interact with things and beings.
-    
+
 1a) Other controls: Q to drop the thing you are currently holding on the ground, Z to "activate" the item you are holding (it can also be done by clicking the item), R to throw the item you are holding far away, Ctrl + Click to drag something (a body or locker usually), and Shift + Click to see a description on something or someone.
-    
+
 1b) Talk controls: T to talk normally, Y to radio chat
 
 
@@ -35,7 +35,7 @@ Unitystation, like it's predecessor Space Station 13, has an incredibly steep le
 8) If you get spaced (the act of being thrown out into space by pressure) shoot something or throw anything and everything you can in the direction you're flying, that will hopefully, make you fly the other way. Unless you have a spacesuit, you're still going to die, but you're more likely to be found by your crew mates. Also an extinguisher works for this, remember the wall-e movie?
 
 
-9) If there is a Xenomorph invasion, [Syndies](Nuclear-Emergency.md), or too much chaos on board:
+9) If there is a Xenomorph invasion, [Syndies](Nuclear Operative.md), or too much chaos on board:
 
 
 9a) If you are armed and robust, you can go at em (not recomended for newbies, but who cares), however, be careful and try to never go on your own.

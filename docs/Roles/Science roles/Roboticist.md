@@ -7,7 +7,7 @@
 ## Overview
 
 
-As a Roboticist, your job is simply to create robots. From simple cleaning bots to (eventually) giant combat mech suits, your department is usually vital in either fighting off the [nuke ops](Nuclear-Emergency.md), or keeping the floors clean.
+As a Roboticist, your job is simply to create robots. From simple cleaning bots to (eventually) giant combat mech suits, your department is usually vital in either fighting off the [nuke ops](Nuclear Operative.md), or keeping the floors clean.
 
 
 

@@ -10,7 +10,7 @@ The [nuke disk](Nuclear-Authentication-Disk.md) is an item that spawns in the ca
 
 With countless nuke disk pinpointers and a variety of antag roles specialized on taking this disk away, this is THE MOST risky item to have on your persona. People interested in this item would be:
 
-  1) [Nuke Ops](Nuclear%20Operative.md). Not the most dangerous but the most consistent, and a force to be reckoned with. Their objective is to use this item to blow up the station. They are well armed and have a disk pinpointer.
+  1) [Nuke Ops](Nuclear Operative.md). Not the most dangerous but the most consistent, and a force to be reckoned with. Their objective is to use this item to blow up the station. They are well armed and have a disk pinpointer.
   2) [Wizards](Wizard.md). Very dangerous and consistent, very well armed with their spells and magic weapons they present a big threat to the station. They most of the time dont have a disk pinpointer, but they have teleportation so beware.
   3) [Traitors](Traitor.md). By far the least dangerous and somewhat inconsistent. They may be assigned to steal the disk and leave the station, wich leaves them vulnerable to be killed while trying to leave.
   4) [Death Squad](Death-Squad.md). By far the most dangerous, but very inconsistent, as they do only appear when the wrath of the admin is too bad. They are BY FAR the most well equiped people you will find, and ARE NOT to be taken slightly. Spacing the nuke disk in order to delay the death squad is actually a valid strategy at that point, and the best option is setting the escape shuttle to arrive in the least time possible and getting out ASAP. They have a disk pinpointer.

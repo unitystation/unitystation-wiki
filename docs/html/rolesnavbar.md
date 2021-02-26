@@ -8,5 +8,5 @@
 | [Cargo](Roles.md#cargo)             | [Quartermaster](Quartermaster.md), [Cargo Technician](Cargo-Technician.md), [Shaft Miner](Shaft-Miner.md) |
 | [Service](Roles.md#service)         | [Bartender](Bartender.md), [Cook](Cook.md), [Janitor](Janitor.md), [Clown](Clown.md), [Mime](Mime.md), [Curator](Curator.md), [Lawyer](Lawyer.md), [Chaplain](Chaplain.md), [Assistant](Assistant.md) |
 | [Synthetic](Roles.md#synthetic)     | Currently empty |
-| [Antagonist](Roles.md#antagonist)   | [Revolutionary](Cargonia.md), [Nuclear operative](Nuclear-Emergency.md), [Traitor](Traitor.md), [Blob](Blob.md),[Wizard](Wizard.md),[Fugitive](Fugitive.md) |
+| [Antagonist](Roles.md#antagonist)   | [Revolutionary](Cargonia.md), [Nuclear operative](Nuclear Operative.md), [Traitor](Traitor.md), [Blob](Blob.md),[Wizard](Wizard.md),[Fugitive](Fugitive.md) |
 | [Other](Roles.md#other)             | [Cent officer](Central-Command-Officer.md), [Deathsquad](Death-Squad.md), [ERT](Emergency-Response-Team.md) |
