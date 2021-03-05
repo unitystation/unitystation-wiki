@@ -7,7 +7,7 @@ A Megacorporation, the largest in the galaxy, that controls the station that Uni
 
 ## The Syndicate
 
-The Syndicate isn't so much one corporation, as it is a sort of union of multiple companies, mercenary organizations, and raider groups. They are often regarded as the number one enemy of Nanotrasen, and have many times been responsible for the [destruction](Traitor.md) [of](Nuclear-Emergency.md) Nanotrasen's space stations.
+The Syndicate isn't so much one corporation, as it is a sort of union of multiple companies, mercenary organizations, and raider groups. They are often regarded as the number one enemy of Nanotrasen, and have many times been responsible for the [destruction](Traitor.md) [of](Nuclear Operative.md) Nanotrasen's space stations.
 
 
 [more to be added in a few centuries](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)

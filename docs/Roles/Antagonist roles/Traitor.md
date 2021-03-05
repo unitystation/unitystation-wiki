@@ -1,10 +1,10 @@
 # Traitor
-**Role type:** <font color= "Red">[Antagonist](Antagonist.md)</font>. **Access:** Whatever your selected [Role](Roles.md) has. **Difficulty:**<font color="Yellow"> Medium</font>-<font color="Red">hard</font>.
+**Role type:** <font color= "Red">[Antagonist](Roles.md#antagonist)</font>. **Access:** Whatever your selected [Role](Roles.md) has. **Difficulty:**<font color="Yellow"> Medium</font>-<font color="Red">hard</font>.
 
 
 ## Overview
 
-Traitor is one of the three types of Antagonist roles that can spawn, with the other two currently in the game being [Nuke Ops](Nuclear-Emergency.md) and [Cargonia](Cargonia.md).
+Traitor is one of the three types of Antagonist roles that can spawn, with the other two currently in the game being [Nuke Ops](Nuclear Operative.md) and [Cargonia](Cargonia.md).
 
 
 ### MISSION SPECIFICATION DECRYPTED. WELCOME, SYNDICATE AGENT.

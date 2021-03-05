@@ -20,7 +20,7 @@ Means IC in OOC. A common example is telling people to clone you and revealing w
 
 <big>'Antag'</big>
 
-Means [Antagonist](Antagonist.md). Used when you're too lazy to just say antagonist.
+Means [Antagonist](Roles.md#antagonist). Used when you're too lazy to just say antagonist.
 
 <big>'Gray/Greytide'</big>
 
@@ -32,7 +32,7 @@ Filling the station with plasma and then lighting it on fire.
 
 <big>'Shuttlebombing**</big> **[against the rules, unless you're an Antagonist]'
 
-Suicide bombing a shuttle or other space craft into the station. Most common example is either [Mining](Shaft-Miner.md) taking their shuttle and ramming it into the station, or [Nuke Ops](Nuclear-Emergency.md) adapting some new strategies.
+Suicide bombing a shuttle or other space craft into the station. Most common example is either [Mining](Shaft-Miner.md) taking their shuttle and ramming it into the station, or [Nuke Ops](Nuclear Operative.md) adapting some new strategies.
 
 
 

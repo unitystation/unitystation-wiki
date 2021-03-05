@@ -5,7 +5,7 @@
 ## Overview
 
 
-Being a Janitor is a thankless job, but an important one. Not only is it simple, it's one of the two main jobs keeping the station from turning into a shit show, the other being [Security](Security.md). The more the station looks like an animal pen, the more the crew members [will act like it is one](Battle-royale.md).
+Being a Janitor is a thankless job, but an important one. Not only is it simple, it's one of the two main jobs keeping the station from turning into a shit show, the other being [Security](Roles.md#security). The more the station looks like an animal pen, the more the crew members [will act like it is one](Battle-royale.md).
 
 
 
