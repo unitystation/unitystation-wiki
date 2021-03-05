@@ -39,6 +39,6 @@ The most varied of the categories is the ways you can get in without permission.
 
 - a dirty break-in. Destroy a window using a weapon of some sort, or, if your VERY well armed, destroy the door or wall. Windows are much more weak to gunshots than melee weapons, so much so that if your trying to use a melee weapon your usually better off just stealing a gun and coming back.
 
-- Explosions (or fire). If you can get an explosive, you can try blowing apart the wall or window. you can also try to use a plasmafire to do the same. This is greatly frowned upon if you aren't an [antagonist](Antagonist.md), but is by far the most stylish way of doing it.
+- Explosions (or fire). If you can get an explosive, you can try blowing apart the wall or window. you can also try to use a plasmafire to do the same. This is greatly frowned upon if you aren't an [antagonist](Roles.md#antagonist), but is by far the most stylish way of doing it.
 
   {% include 'html/rolesnavbar.md' %}

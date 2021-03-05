@@ -5,7 +5,7 @@ Got beat up by [shitsec](Shitsec.md)? Want to beat up [shitsec](Shitsec.md)? Can
 Well first you'll need to learn to be robust! This may take a while.
 
 ## The Actual Introduction
-One thing you need to know about combat in ss13, is that it is often not the best option. In many scenarios you may be better off explaining your actions or surrendering peacefully. If you arent an [antagonist](Antagonist.md), getting into way more fights than needed can place you in the crosshairs of an [admin](Admin.md), with consequences that can last between rounds.
+One thing you need to know about combat in ss13, is that it is often not the best option. In many scenarios you may be better off explaining your actions or surrendering peacefully. If you arent an [antagonist](Roles.md#antagonist), getting into way more fights than needed can place you in the crosshairs of an [admin](Admin.md), with consequences that can last between rounds.
 
 If you are entirely new to the game, combat is not the first thing you should learn, rather, you should prioritize learning [very basic skills](How-not-to-die-instantly.md) and the non-combat parts of roles.
 
@@ -72,7 +72,7 @@ Fighting groups can take two routes, depending on the form of the group. a rarer
 Well, you killed someone, or a lot of people. Turns out, killing people can have repercussions. This section will be about making sure you dont end up like your victims in the aftermath. There are typically three routes you can go down, with varying degrees of legality and possibility for revenge.
 
 ## Taking responsibility
-You see that fella you killed? time to unkill him. This is the best way to avoid the wrath of [sec](Roles.md#security), the guy you killed and any admins, though it isnt a good option for when you [need them dead](Antagonist.md) for your employers and may be impossible to do depending on how wanted you are already. The best case scenario is dragging them to cloning yourself, second best is leaving them outside medbay, and third best is just dragging them out into the hall and leaving them there for someone else to clone. 
+You see that fella you killed? time to unkill him. This is the best way to avoid the wrath of [sec](Roles.md#security), the guy you killed and any admins, though it isnt a good option for when you [need them dead](Roles.md#antagonist) for your employers and may be impossible to do depending on how wanted you are already. The best case scenario is dragging them to cloning yourself, second best is leaving them outside medbay, and third best is just dragging them out into the hall and leaving them there for someone else to clone. 
 
 ## The null outcome
 Simply dont touch the body after your done. This can be taken as a sign of mercy, incompetence, or mocking, depending on the whims of the person you killed. It wont let you avoid the wrath of [sec](Roles.md#security), and can leave the guy you killed mad, but it can be enough to make admins brush it aside, so long as you had reason to kill them in the first place. Definitely not the best option, but sometimes necessary, especially if your on the run already.
@@ -84,6 +84,6 @@ The least legal option, by far, the one most likely to leave both the guy you ki
 
 
 ## Getting Better
-Even if you read this page a thousand times, without practice your still going to get your ass beat. the best way to learn to fight in game is to simply fight. stage ragecage matches, play [sec](Roles.md#security), be an [antag](Antagonist.md), just don't get mad when your tossed in a cell to rot or turned into swiss cheese by gunfire.
+Even if you read this page a thousand times, without practice your still going to get your ass beat. the best way to learn to fight in game is to simply fight. stage ragecage matches, play [sec](Roles.md#security), be an [antag](Roles.md#antagonist), just don't get mad when your tossed in a cell to rot or turned into swiss cheese by gunfire.
 
 {% include 'html/rolesnavbar.md' %}
