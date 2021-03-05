@@ -1,4 +1,4 @@
-| Department                          | Roles                                                        |
+| Department                          | [Roles](Roles.md)                                                        |
 | ----------------------------------- | ------------------------------------------------------------ |
 | [Command](Roles.md#command)         | [Captain](Captain.md), [Head of Personnel](HoP.md) |
 | [Security](Roles.md#security)       | [Head of Security](Head-of-Security.md), [Warden](Warden.md), [Security Officer](Security Officer.md), [Detective](Detective.md) |
