@@ -248,14 +248,65 @@ more akin to a rifle, you should keep as much distance between you and your oppo
 for surprise attacks. Never fight someone who is much better equipped if you intend to live.
 
 ### Chasing
+People dont like becoming corpses, and for this reason many of them will choose to flee instead of fighting you. In these situations, it is helpful to know how to disable your opponent.
+
+When you are chasing someone you are entirely on the back foot. They can slip or mislead you while you have no recourse save firearms. There are however a few things you can do to raise your odds
+of success.
+
+Knowing when to slow down or dodge to avoid slips is critical to hunting someone down, as a single slip can mean game over. If you are equipped with magboots, you can disregard this,
+though you will be slower overall. 
+
+If someone escapes out of sight, follow their trail of open doors. If the trail stops be sure to stop and look around for lockers where they could have hidden and search them.
+
+High ROF weapons such as smgs are great when taking down someone on the run, as you can simply out-spray their ability to dodge bullets. Disabler bolts are similarly good, as they can
+bring someone close enough to be shot with a tazer round.
+
 ### being chased
+Oftentimes you will be caught on the backfoot and forced to flee, or perhaps do so intentionally to bait an opponent into a trap, in both situations it is helpful to know a few tricks to gain the advantage.
 
-## Teamwork/Teams
-## Other ideas
+If you are looking to lose or disable your opponent quickly, slipping them is a good way to do so. Drop a bannana peel when they are directly behind, or use an extinguisher, and watch as they collapse on the floor,
+either letting you run off until you are hoplessly far away to be caught or allowing you to turn them into swiss cheese with your own weapons (or theirs! Remember, you can loot them).
 
-# Aftermath
+But this is not always possible, or feasable. the person chasing you may simply be equipped with magboots or be skilled enough to avoid your techniques. In these situations, you should try and run on the inner side of the hall
+towards and doors you plan to enter. Corners are useful for breaking up lines of sight, while intersections will make your pursuer choose between routes. If you are far enough ahead, be sure to open doors to fool your pursuers
+into going down incorrect paths.
 
+Should this fail, you can choose to hide, typically in a locker, or escape into an area your pursuer cannot access or doesnt want to enter (such as space). 
 
+## Groups
+Fighting as a cohesive group is very difficult in unitystation, but is also very rewarding, and practically necessary for antagonists such as nuke ops. If your opponent is a group, cohesive or not, there are ways to fight them, though they may be risky.
+
+### Fighting as a tight group
+Fighting in a cohesive group gives the group a MASSIVE advantage over any Rambo, with very few disadvantages. People in the group are less likely to end up dead, as any injuries can be dealt with while others lay down covering fire. The added firepower is also a great bonus, a man with a taser and e-sword may be an extremely deadly threat, but not to 3 guys with their own weapons. If you wish to fight in a cohesive group, good luck, they are very difficult to form from ordinary crew. If you are a security officer or nuke op however, you can be shoved into one by your superiors or start in a group. One thing typically needed for a cohesive group is an involved leader. In secs case, this is typically the HoS, due to his rank. in nuke op squads or militias however, it may be difficult to find a leader, and the group will start to rapidly lose cohesiveness without one. I have personally seen many nuke ops lose simply because their team split apart and drifted from a lack of leadership.
+
+### Fighting as a spread out group
+Fighting while spread out is the typical course for non-emergency period security as well as rebels. In this non-cohesive form, the group your in is more prone to take losses, but [assuming everyone is competent](So-close-to-impossible-that-it-might-as-well-not-even-exist.md), is also capable of inflicting far more damage and covering more ground. The fact that each individual in a spread out group needs combat competence is the reason security so often falls to the all consuming entropic force that is the grey tide, because if one link in security doesn't work, thats an unstopped crime, which leads other to more crime, which piles up and piles up until the station is slagged. Spread out groups can form sporadically and with varying degrees of focus. Assistants, as an example can vary widely from the usual random shenanigans, to the razor focused [tunguska revolt](Tunguska.md).
+
+### Fighting groups
+Fighting groups can take two routes, depending on the form of the group. a rarer third route is available if you have a group yourself, however.
+
+Fighting a clumped up together group as a lone person is HARD, simply due to the fact that there are more people. One of the best things you can do to give yourself an advantage is to simply spread the group out. a grenade or other explosive will force a group to split up somewhat, allowing you to pick off a member or two. If they are in a tight space with limited exits, a grenade can spell death for the entire group, making them incredibly powerful. In tight groups, people may split off momentarily to deal with injured or other small tasks. if you've only got single target weapons, this is a great time to strike. If the person you find is a doctor of the team tending to an injured person, shoot the injured person. this will often lend you a free kill, and make the doctor either have to leave them dead or drag them to cloning, the latter giving you the opportunity to take them down as well. Fighting melee against tight groups is typically suicide, and not recommended.
+
+Fighting spread out groups is far, far easier than fighting a tight group. if youre fighting a spread out group, treat every person you fight as someone peeled off from a tight group, and use the same tactics discussed above for dealing with them. in this case, a quick melee attack can be viable, unlike with tight groups. 
+
+Fighting groups with your own groups can go a few ways. Spread out vs Spread out is a toss up, and typically decided by a few robust players. Tight vs Tight typically turns into a bloodbath where nobody wins. Tight vs spread out will nearly always result in the tight group winning.
+
+## Aftermath
+Well, you killed someone, or a lot of people. Turns out, killing people can have repercussions.  There are typically three routes you can go down, with varying degrees of legality and possibility for revenge.
+
+### Taking responsibility
+You see that fella you killed? time to unkill him. This is the best way to avoid the wrath of [sec](Security.md), the guy you killed and any admins, though it isnt a good option for when you [need them dead](Antagonist.md) for your employers and may be impossible to do depending on how wanted you are already. The best case scenario is dragging them to cloning yourself, second best is leaving them outside medbay, and third best is just dragging them out into the hall and leaving them there for someone else to clone. 
+
+### The null outcome
+Simply dont touch the body after your done. This can be taken as a sign of mercy, incompetence, or mocking, depending on the whims of the person you killed. It wont let you avoid the wrath of [sec](Security.md), and can leave the guy you killed mad, but it can be enough to make admins brush it aside, so long as you had reason to kill them in the first place. Definitely not the best option, but sometimes necessary, especially if your on the run already.
+
+### FINISH HIM
+The least legal option, by far, the one most likely to leave both the guy you killed and any watching admins mad, but one that can leave the least consequences if pulled off correctly. This option, for obvious reasons, is not a good choice for most interactions for non antags (other than say, gibbing a nuke op), but is excellent for anyone looking to cover their tracks and make sure the person they killed doesn't come back to bite them later down the line. Simply take a knife and cut them up, or toss their body into the void of space. Shoving them in an obscure locker may work, but runs the risk of them being found later.
+
+## Getting Better
+Even if you read this page a thousand times, without practice your still going to get your ass beat. the best way to learn to fight in game is to simply fight. stage ragecage matches, play [sec](Security.md), be an [antag](Antagonist.md), just don't get mad when your tossed in a cell to rot or turned into swiss cheese by gunfire.
+
+{% include 'html/rolesnavbar.md' %}
 
 
 
