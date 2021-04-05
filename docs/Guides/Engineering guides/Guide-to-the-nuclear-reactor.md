@@ -33,7 +33,7 @@ Before starting the reactor, you need to gather what you'll need to do so. these
 This is simply the method that I personally use when I'm just looking to generate power. Id recommend experimenting on private servers if you want to try different setups, as admins frown upon unscheduled reactor decommissioning.
 
 1. Start the plasma generator so crew doesn't complain and your lights/consoles are powered.
-2. Gather 4 (or 5) control rods, one fuel rod, and one starter rod.
+2. Gather 1 (or 2) control rods, one fuel rod, and one starter rod.
 3. Head out the airlock and plug in the control rods. then the fuel rod, then the starter.
 4. run back inside to man the reactor console
 5. Raise control rods until the k% value is ~ 6 or 7
