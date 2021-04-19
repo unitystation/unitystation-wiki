@@ -1,0 +1,29 @@
+#Guide to the singularity and tesla engines
+Note: while both the singularity and the tesla are simpler than the [nuclear reactor](Guide-to-the-nuclear-reactor.md), the cost for failure is much higher. Because of this you should be familiar with [engineering](Engineer.md)
+BEFORE touching it, unless, of course, you intend to make the engine fail from the getgo.
+
+## overview
+The singularity and the tesla are very similar to eachother, to the extent that a single guide can comfortably cover both. While they differ in some aspects, such as power generation,
+they can generally be treated the same way. This guide will cover the specifics of both, how to start them, and how to run them.
+
+## Background
+It is important to know just how the singularity and tesla reactors work before setting them up.
+
+### The particle accelerator
+The particle accelerator, henceforth and commonly reffered to as the "pa" is a multi-part machine that draws a large amount of power in order to create streams of high energy (damaging)
+particles. a particle accelerator forms a T shape, with the upper part of the "T" made from the 3 emitter sections. A console is attached to one side of the particle accelerator, from where
+it is controlled
+
+In the console, the particle accelerator can be turned on or off, and its power level can be changed. Higher power levels will result in greater growth of the
+singularity and tesla, but may be dangerous.
+
+### The shield generators (and emitters)
+The shield generators serve to keep the very dangerous objects inside them contained. To do this, they must first be wrenched down. The shield emitters DO NOT recive power from wires,
+and must instead be powered by being shot at by an emitter. Emitters periodically shoot a green beam in a straight line, which deals high damage if it hits a player. Once a shield generator
+is charged, it can be turned on by hand, at which point it will spread its shields and (to an extent) its power among the other shields.
+
+Keep in mind, that having too many shields and not enough emitters may mean that the shields drain power faster than the emitters can supply, and will lead to the shields eventually failing.
+
+### singularity and singularity specific machines
+
+### tesla and tesla specific machines
