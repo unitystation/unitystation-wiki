@@ -12,18 +12,49 @@ It is important to know just how the singularity and tesla reactors work before 
 ### The particle accelerator
 The particle accelerator, henceforth and commonly reffered to as the "pa" is a multi-part machine that draws a large amount of power in order to create streams of high energy (damaging)
 particles. a particle accelerator forms a T shape, with the upper part of the "T" made from the 3 emitter sections. A console is attached to one side of the particle accelerator, from where
-it is controlled
+it is controlled.
 
 In the console, the particle accelerator can be turned on or off, and its power level can be changed. Higher power levels will result in greater growth of the
-singularity and tesla, but may be dangerous.
+singularity and tesla, possibly to a dangerous extent. Each power level will take an increasing amount of power being fed into the PA to be sustained or activated.
+
+The particles emitted by the PKA are able to pass through shields, and upon repetedly hitting the singularity and tesla generators will cause them to form a singularity or tesla ball.
+They will also "feed" both the singularity and tesla once they are generated.
 
 ### The shield generators (and emitters)
 The shield generators serve to keep the very dangerous objects inside them contained. To do this, they must first be wrenched down. The shield emitters DO NOT recive power from wires,
 and must instead be powered by being shot at by an emitter. Emitters periodically shoot a green beam in a straight line, which deals high damage if it hits a player. Once a shield generator
-is charged, it can be turned on by hand, at which point it will spread its shields and (to an extent) its power among the other shields.
+is charged, it can be turned on by hand, at which point it will spread its shields and (to an extent) its power among the other shield emitters. The general shield generator setup, which works for
+both the singularity and tesla is a 5x5 square, with the generators in the corners, a space of three empty tiles between them.
 
 Keep in mind, that having too many shields and not enough emitters may mean that the shields drain power faster than the emitters can supply, and will lead to the shields eventually failing.
 
 ### singularity and singularity specific machines
+The singularity will destroy objects and players/mobs that fall into it, and will suck loose items, people, and creatures towards it. Touching the singularity is a gaurenteed death sentence,
+and a loose singularity is often enough reason to call the shuttle. The singularity will wander around, even when contained, but cannot destroy or pass shield generators unless sufficiently large.
+
+The singularity can grow by absorbing mass (ie: you and the rest of the station), which can be provided with some safety using the particle accelerator. The singularity will slowly decline in mass,
+converting it into radiation, but the rate of mass conversion is low enough that a loose singularity will generally not "starve". 
+
+Radiation collectors serve as how you get the power out of the singularity. They will convert the radiation the singularity produces into power, which can be used in turn to power the station.
+You will want to place these as close as you can to the shield field, but not between the shield generators or within the bound of the singularitys containment zone. Then, wire them back into the station.
+
+To create the singularity itself, you will need a singularity generator. The singularity generator should be placed in the center of the shield square, where it can be hit by a PA.
+It does not need to be wired to anything. When shot with the PA repetedly (prefferably after the shield generators are on), it will create a stage one singularity, which takes up a single tile.
+Due to the nature of the singularity, the generator is destroyed in the process.
+
+The singularity can then grow more and more as it is fed. A stage two singularity will generate more power, and take up 4 tiles, but require more mass to sustain itself (this trend of later stages converting mass faster continues)
+It can provide power to most stations without much difficulty.
+
+The largest stations may require a stage 3 singularity. While containable in the same way as the earlier stages, it takes up 9 tiles. It requires a large amount of incoming mass to sustain itself, but be careful
+to not over-feed it, as it becomes far more difficult to contain later stages.
+
+Stage 4 and 5 singularities will tear apart walls and ordinary machinery, even through shield generators. While a stage 4 singularity can be THEORETICALLY contained (does not rip out shield generators), a stage 5 singularity
+will flat out consume anything containing it, and is gaurenteed to get loose. Generally, you will only see a stage 4 and 5 singularity when a singularity has already broken loose and ate enough
+of the station to grow to such a size.
+
+There is a fifth type of singularity, which can only occur if a sufficiently large singularity eats a supermatter crystal. it takes up an enormous area, has a massive pull, and you are
+generally fucked if one happens to exist. Dont bother trying to contain it, it will set you on fire and turn you into an atom-thin noodle. 
+
+
 
 ### tesla and tesla specific machines
