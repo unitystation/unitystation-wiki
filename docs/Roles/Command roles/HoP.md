@@ -19,7 +19,7 @@ Sometimes a HoS, or a department head come later than you.
 **You will have to give him  all the objects that belong to it.**
 
 
-#### list of potential suspets in case of death of the captain
+#### list of potential Suspects in case of death of the captain
 [Trator](Traitor.md) [Nukie](Nuclear%20Operative.md) [Cargonia](Cargonia.md)
 
 unless the persone who killed them isn't smart, this is not a simple task, there are many who may want you dead for one reason or another.
