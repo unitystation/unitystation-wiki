@@ -8,7 +8,21 @@ The Head of Personnel, also commonly referred to as the HoP, is one of the comma
 ### Lawful HoP
 
 
-The job of the HoP is relatively simple: sit in your office, change people's job or access levels if they ask for it for good reasons, and resist the urge to give yourself or [other](Clown.md) [people](Assistant.md) all-access cards. On top of that, you're also the one making sure the Service roles are keeping the station running, and that [Cargo](Cargo-Technician.md) isn't ordering in guns to help [Cargonia](Cargonia.md) become an independent station-state. However, your job can get slightly hectic; if the [Captain](Captain.md) is dead, or no one is playing as Captain, it's your job to take over their position until they are potentially cloned. Unless the person [who](Traitor.md) [killed](Nuclear-Emergency.md) [them](Cargonia.md) isn't smart, this is not a simple task, there are many who may want you dead for one reason or another.
+The job of the HoP is relatively simple: sit in your office, change people's job or access levels if they ask for it for good reasons, and resist the urge to give yourself or [other](Clown.md) [people](Assistant.md) all-access cards. On top of that, you're also the one making sure the Service roles are keeping the station running, and that [Cargo](Cargo-Technician.md) isn't ordering in guns to help [Cargonia](Cargonia.md) become an independent station-state. However, your job can get slightly hectic; 
+
+
+### Officer by interim 
+In the absence of the [Captain](Captain.md),( missing, dead, asleep, absent ) you must, by interim, ensure the functions of it, until the role can be occupied or that you designate someone for that.  it's your job to take over their position until they are potentially cloned.
+The same goes for the positions of Head of Department such as the HOS
+You will need to **do your best** to ensure this function. for the good of the station.
+Sometimes a HoS, or a department head come later than you.
+**You will have to give him  all the objects that belong to it.**
+
+
+#### list of potential Suspects in case of death of the captain
+[Trator](Traitor.md) [Nukie](Nuclear%20Operative.md) [Cargonia](Cargonia.md)
+
+unless the persone who killed them isn't smart, this is not a simple task, there are many who may want you dead for one reason or another.
 
 
 ### Crew Relations 
