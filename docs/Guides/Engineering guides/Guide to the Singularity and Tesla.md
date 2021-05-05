@@ -109,7 +109,7 @@ will not block the particles.
 other electrical converters
 
 4.5 B: If you are making a tesla: Place one tesla coil at each side of the construct except for the one facing the PA. At the same time, place one or two grounding rods on each side. Wire the tesla coils to a transformer or other
-electrical devices.
+electrical devices and be sure that they are wrenched in place.
 
 5: turn on the emitters. If they were set up correctly this should be as simple as clicking on them. otherwise, check that they are secured and powered.
 
