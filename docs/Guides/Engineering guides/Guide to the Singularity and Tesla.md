@@ -17,7 +17,7 @@ it is controlled.
 In the console, the particle accelerator can be turned on or off, and its power level can be changed. Higher power levels will result in greater growth of the
 singularity and tesla, possibly to a dangerous extent. Each power level will take an increasing amount of power being fed into the PA to be sustained or activated.
 
-The particles emitted by the PA are able to pass through shields, and upon repetedly hitting the singularity and tesla generators will cause them to form a singularity or tesla ball.
+The particles emitted by the PA are able to pass through shields (but not the shield emitters!), and upon repetedly hitting the singularity and tesla generators will cause them to form a singularity or tesla ball.
 They will also "feed" both the singularity and tesla once they are generated.
 
 ### The shield generators (and emitters)
@@ -61,3 +61,63 @@ generally fucked if one happens to exist. Dont bother trying to contain it, it w
 
 
 ### tesla and tesla specific machines
+
+In comparison to the singularity, the Tesla has both numerous upsides and downsides. Like the singularity, the core of the tesla will wander aimlessly. It will emit periodic electric arc blasts.
+The strengh (and power generation) of these blasts is proportionate to the number of orbs orbiting the tesla itself. Upon reaching a machine or player, the arcs will do enormous damage or explode the machine (oftentimes with
+enough power to cause breaches). The damage from being hit by an arc is oftentimes enough to instantly kill a player, and insulated gloves will not save you. These arcs make the tesla far more dangerous
+when it is loose than a singularity.
+
+Unlike the singularity however once the tesla has been set up it does not require babysitting and is easy to contain. The tesla cannot break the machinery around itself from within
+if the machinery is set up correctly, even if the tesla is at its maximum size.
+
+The teslas arcs will prioratize hitting grounding rods and tesla coils over everything else. Grounding rods serve to stop the arcs from damaging the coils or shield generators, and the coils
+convert the arcs into power. A tesla coil or a shield generator hit by an arc without any grounding WILL be damaged, which can cause the containment to fail if set up incorrectly.
+
+The tesla and the singularity are generated through near identical means, though the tesla instead uses the "tesla generator". Hit the tesla generator and the tesla it creates with
+PA blasts to create the tesla core and grow orbs around it. Unlike the singularity however, the tesla does not break loose when it is too large, so feel free to hit the PA to the maximum and leave it on.
+
+## Setting up the generators
+
+0: In both cases you will want to find a 5x5 (or larger) empty region, along with space for the emitters, wiring, and the PA. Gather the appropriate material, which is the PA parts, wires, machines specific to the generator you
+want to create, shield generators, and emitters. The region should also have good access to the stations power grid.
+
+1: Place the shield generators in the corners of the 5x5 (or larger) square. there should be a space of 3 tiles between them if you are using a 5x5 region. Wrench the generators down. The generators do not have to be wired to anything.
+
+2: Place emitters facing the generators. Typically, a one tile gap is left, but this is optional. The emitters should be wired to the stations power grid or otherwise supplied with power.
+   As emitters are dangerous and consume large amounts of power, dont turn these on yet. Remember to wrench them down one they are facing the proper direction and then weld them to the ground.
+   
+3: Move your chosen type of generator (singularity or tesla) into the very center of the construct. It should be equidistant to all of the shield generators where it can be easily
+   hit by the PA. Wrench or weld it down if possible.
+
+4: Build the PA. The similar looking rectangular regions with what look like red coils ontop of them should form the top of a T shape (if you aim your PA up). They are labelled as to which
+side they should be placed on. These, and all other parts, should be wrenched down when they are placed.
+
+Directly behind them, set up the part that looks like an exposed coil or magnet tube. The red part of it should face the regions you just placed.
+
+Behind this, set up the console interfacing part. It is rather clearly asymmetrical. If the PA is facing up, the flat region should face the right.
+In the adjacent region to the flat part, you should place the console itself
+
+And, to cap it all off, use the part which looks bullet like.
+
+Wire the console or any part of the PA to a power source. The PA demands very large amounts of power, so a plasma generator, the station grid, or existing reactor is reccomended. Test fire the PA (FOR ONE BLAST!)
+at the construct to see if it works.
+
+There should be nothing in the path of the PA. Floors and glass are fine, as are tables, but grilles, emitters, shield generators, and walls will block the particles. Notably, the energy barrier put up by shield generators
+will not block the particles.
+
+4.5 A: If you are making a singularity: place radiation collectors along the outside of where the shield field will be generated. wrench them down. they should not block the PA particle's paths. Deploy them by clicking them. Wire them to a transformer and
+other electrical converters
+
+4.5 B: If you are making a tesla: Place one tesla coil at each side of the construct except for the one facing the PA. At the same time, place one or two grounding rods on each side. Wire the tesla coils to a transformer or other
+electrical devices.
+
+5: turn on the emitters. If they were set up correctly this should be as simple as clicking on them. otherwise, check that they are secured and powered.
+
+6: Wait for the emitters to power the shield generators. This is represented by a bar on the shield generator that will slowly fill up with a light blue color as the generator gets more power
+
+7: When the generators are full, turn them on. This will create the shield field.
+
+8: Return to the PA and turn it on. This will create a contained singularity or tesla which will begin creating power. Be sure to keep it fed, but not too large. If your tesla coils
+or radiation collectors were properly wired to the station (see [guide to electricity](Guide-To-Electricity.md)), you will be providing power.
+
+
