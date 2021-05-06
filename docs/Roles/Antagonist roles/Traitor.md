@@ -19,7 +19,7 @@ Traitors get 3 objectives, shown at the round start in the chat: Steal a random 
 
 ## Getting weapons and other stuff from your magic PDA
 
-At the start of your round as traitor, you will be given a password that you must put on the ringtone changer in your PDA, that password is usually composed of three NATO alphabet letters separated by dashes, another dash and three numbers. When you open your PDA, you go to options and below where it says ringtone changer you enter the password. Then, you will get to a screen that has weapons. Be sure to have your off hand empty and the items you select will be teleported there. However, the items cost credits, and you have only 20 of those to start. All items have been tested to work at some point, although may be broken at your current patch.
+At the start of your round as traitor, you will be given a password that you must put on the ringtone changer in your PDA, that password is usually composed of three NATO alphabet letters separated by dashes, another dash and three numbers. When you open your PDA, you go to options and below where it says ringtone changer you enter the password. Then, you will get to a screen that has weapons. Be sure to have your off hand empty and the items you select will be teleported there. However, the items cost credits, and you have only 20 of those to start.
 
 
 
