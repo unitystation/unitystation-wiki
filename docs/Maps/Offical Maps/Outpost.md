@@ -1,7 +1,5 @@
 # Outpost
-!!Map Location|image1##  Outpost.png|title1=OutpostStation|type=nanotrasen|date_added2/9/2020!!
-
-Outpost Station is the oldest, and most changed station in the game.  
+ Outpost Station is the oldest, and most changed station in the game.  
 
 
 !!Headder|Header## |titleMining!!
@@ -63,4 +61,8 @@ Where all the [scientists](Scientist.md) gather and make half-life references be
 ### Security
 Where the [true dictatorial overlords](Security.md) of the station send their victims.![Sec](Sec.png)
 ### Church
-[Sacerdos](Chaplain.md) in templum laborat et [vocat cum deus](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)![Chruch](Chruch.png){% include 'html/rolesnavbar.md' %}
+[Sacerdos](Chaplain.md) in templum laborat et [vocat cum deus](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)![Chruch](Chruch.png)
+
+
+
+{% include 'html/rolesnavbar.md' %}
