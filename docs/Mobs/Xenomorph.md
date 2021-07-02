@@ -1,18 +1,21 @@
 # Xenomorph
-Xenomorphs are a threat that can be encountered on [asteroids](Asteroid.md), in [Caverna](Caverna.md), and, rarely, at the [|station.](Official-Maps.md) They are dangerous in numbers and should be avoided unless you have an effective range weapon. They are prized for their meat in making [xenos borgers](Cooking.md). They have low resistances to most damage types and do not need air to live, yet will still suffocate once hardcritted. They can survive in the vacuum of space. Xenomorphs' current implementation is unfinished.    
-
+Xenomorphs are a threat that can be encountered on [asteroids](Asteroid.md), in [Caverna](Caverna.md), and, rarely, at the [|mainstation.](Official-Maps.md) They are dangerous in numbers and should be avoided unless you have an effective range weapon. They are prized for their meat in making [xenos borgers](Cooking.md). They have low resistances to most damage types and can survive in the vacuum of space, yet will still suffocate once hardcritted. Fire is a special exception, as most xenomorph varieties take bonus damage from fire. Xenomorphs' current implementation is unfinished.    
 
 ### "They're coming outta the Goddamn walls!"
 
-![Facehugger](Facehugger.png) Xenomorphs have a complex maturation cycle, starting off as a facehugger, which latches onto a human or monkey to impregnate them with a chestburster, which evolves into an adult xenomorph. Facehuggers are extremely dangerous to fight in confined spaces or without ranged weapons. A facehugger will automatically render a person unconscious once it latches onto their face, which means if you don't have friends looking for you, you're dead. Masks and helmets provide only a second or two of protection as the facehugger rips them off.
+![Facehugger](Facehugger.png) Xenomorphs have a complex maturation cycle, starting off as a facehugger, which latches onto a human or monkey to impregnate them with a chestburster, which evolves into an adult xenomorph. Facehuggers are extremely dangerous to fight in confined spaces or without ranged weapons. A facehugger will automatically render a person unconscious for a few seconds once it latches onto their face, which means if you don't have friends looking for you, you're dead. Masks provide only a second or two of protection as the facehugger can rip them off. Helmets provide a greater amount of protection, as facehuggers cannot rip them off, but they do have a small chance to destroy the helmet completely with each latch attempt.
 
 ![Larva](Larva.png)
-Once a facehugger latches onto a victim's face, they will begin planting a larva, or chestburster. After a couple of minutes, the larva will burst from their chest, killing them. The larva is small, vulnerable, and very fast. It will attempt to hide in dark spaces long enough to evolve into a xenomorph drone.
+Once a facehugger latches onto a victim's face, they will begin planting a larva, aka a chestburster. he incubation time for a larva is 5 minutes. Afterwards the larva will burst from the host's chest, killing them. The larva is small, vulnerable, and very fast. It will attempt to hide in dark spaces long enough to evolve into a xenomorph drone, though they're currently a bit stupid.
 
 ![Alien drone](Alien_drone.png)
-Adult xenomorphs currently come in two forms. The first is the generic xenomorph drone. Drones have 150 hp and deal 15 brute damage per melee attack. 
+Adult xenomorphs currently come in a few forms. The first is the xenomorph drone. Drones have 150 hp and deal 15 brute damage per melee attack. 1 drone can be promoted to a queen if there are no queens present.
+
+There are also xenomorph hunters and sentinels, which are currently mostly the same as drones, but cannot be promoted to a queen.
 
 ![Alien queen](Alien_queen.png)
-Once a xenomorph drone lives long enough, they will evolve into a queen, a fully mature xenomorph. Despite their large size and elite nature, currently, queens are much more vulnerable than drones, having only 100 hp and moving significantly slower. However, their melee attack is faster and deals 30 brute damage, so they should still be prioritized when fighting a hive.
+Once a xenomorph drone lives long enough, they will evolve into a queen, a fully mature xenomorph. Currently, there will be 1 queen in a given xeno infestation. Queens have 300 hp and move significantly slower. Their melee attack is faster and deals 30 brute damage, so they should be prioritized when fighting a hive.
 
 Queens have the unique ability to lay facehugger eggs. These eggs take a period of time to grow before they are ready to hatch, but once they are ready, the eggs will hatch when it senses a potential host is nearby, in which it will open, sprouting a new xenomorph facehugger. Eggs can be easily destroyed in their developing stage with a single melee attack, but become a bit tougher once fully grown.
+
+
