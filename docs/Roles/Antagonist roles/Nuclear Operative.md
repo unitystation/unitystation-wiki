@@ -10,10 +10,12 @@ Ten Hut! You have been hand picked by the [Syndicate](Groups.md) to join an elit
 
 
 As a nuke operative you will spawn aboard or near a Syndicate shuttle. This shuttle contains most of your equipment and will serve as your transport over to the station. Protect it with your life! It contains the nuke, the very thing you need to complete your mission, which cant be moved until you have almost won, as well as more guns than the crew has likely ever seen! Said guns are located in red lockers throughout the shuttle itself, alongside with your signature red hard-suit, helmet, and boots. along with these the shuttle contains plasma canisters, grenades, and oxygen gear vital for keeping you alive in the vacuum of space. Many a new nukie has died in the cold airless void because they forgot to put on a mask.
+
 ### Your gear and you
 
 
 The typical nukie gear consists of your uniform, night vision goggles, hardsuit helm, a syndicate mask, your signature red hardsuit, a pair of red magboots or a pair of black jackboots, your headset, gloves, an oxygen tank, a c20r smg, telecommunication uplink, and your trusty stetchkin pistol. Your night vision does exactly what youd expect, letting you see in dark areas. The hardsuit helm and torso pieces make you immune to the cold and pressure, while offering very decent protection against weapons and explosives. You are not invincible in these however, and getting shot will still hurt. The headset doesn't let you hear the crew, but it does give you access to your own syndicate channel. The c20r will be your main offensive weapon, it is fully automatic and comparable to security's own p90, be sure to bring extra ammo for it, as it burns through magazines rapidly. the stetchkin is a small but scrappy fallback pistol. Use it if you've run out of other ammo or wish to conserve it. It is better than the security pistol but that isn't saying much. One of the best uses for the pistol, however, is getting someone out of the way, as one or two shots will usually send any unarmed crew member running. All this gear can be used along with more specialized tools, such as grenades for flushing out crew or a machine-gun for true rip-and-tear action. Be creative with your gear and strategize before hand, its how you'll win! speaking of which:
+
 ### How to do your job
 
 You need to get the [Nuclear Authentication Disk](Nuclear-Authentication-Disk.md). The pinpointer in your pack will show a large arrow pointing directly to it. plan with your fellow operatives as to how you'll approach it, will you infiltrate stealthily as miners, sneak up and blow open a wall to surprise security, or ram the shuttle directly into the station? <s>Once</s> If you get the disk, you will need to bring it back to nuke and insert it in. Enter the code you got at roundstart, unlock it, drag it over to the station, start the timer, and run like hell!
@@ -26,13 +28,33 @@ First what you need to do is open your PDA, go to settings, click in the textbox
 
 | <font color="red">Conspicuous Weapons</font>       | <font color="blue">Price</font> |
 | -------------------------------------------------- | :-----------------------------: |
-| Cutthroat 9 Pistol                                 |  <font color="blue">7TC</font>  |
+| makarov 9mm Pistol                                 |  <font color="blue">7TC</font>  |
 | Energy Sword                                       |  <font color="blue">8TC</font>  |
-| Lucifer .357 Magnum Revolver 8                     |  <font color="blue">9TC</font>  |
+| Lucifer .357 Magnum Revolver 8                     |  <font color="blue">12TC</font>  |
 | Reverse Revolver                                   |  <font color="blue">8TC</font>  |
+| Stalker SMG                                |  <font color="blue">10TC</font>  |
+| Bulldozer shotgun                                       |  <font color="blue">8TC</font>  |
+| M90-gl carbine                     |  <font color="blue">18TC</font>  |
+| Buzzsaw LMG                                   |  <font color="blue">18TC</font>  |
+| Migraine .50 cal sniper rifle                                 |  <font color="blue">16TC</font>  |
+| Toy LMG                                       |  <font color="blue">10TC</font>  |
+| Toy SMG                     |  <font color="blue">5TC</font>  |
+| Surplus Rifle                                  |  <font color="blue">2TC</font>  |
+| Stechkin APS machine pistol                                 |  <font color="blue">10TC</font>  |
 | **<font color="red">AMMUNITION</font>**            |                                 |
 | 9mm Pistol Magazine                                |  <font color="blue">1TC</font>  |
+| 9mm Pistol Magazine AP                               |  <font color="blue">2TC</font>  |
 | .357 Speedloader                                   |  <font color="blue">4TC</font>  |
+| 12g buckshot drum                                |  <font color="blue">2TC</font>  |
+| 12g slug drum                                |  <font color="blue">3TC</font>  |
+| .45 Magazine                                |  <font color="blue">3TC</font>  |
+| .45 Magazine AP                                |  <font color="blue">5TC</font>  |
+| 7.12 Box Magazine                                |  <font color="blue">6TC</font>  |
+| .50 Sniper Magazine                               |  <font color="blue">4TC</font>  |
+| 5.56 Magazine                                |  <font color="blue">4TC</font>  |
+| 5.56 Magazine Phasic                                |  <font color="blue">8TC</font>  |
+| 9mm stechkin Pistol Magazine                                |  <font color="blue">2TC</font>  |
+| Riot Dart Box                               |  <font color="blue">2TC</font>  |
 | <font color="red">**EXPLOSIVES**</font>            |                                 |
 | Syndicate Minibomb                                 |  <font color="blue">6TC</font>  |
 | <font color="red">**STEALTHY WEAPONS**</font>      |                                 |
@@ -42,18 +64,26 @@ First what you need to do is open your PDA, go to settings, click in the textbox
 | <font color="red">**SUITS**</font>                 |                                 |
 | Syndicate Spacesuit                                |  <font color="blue">4TC</font>  |
 | Syndicate Hardsuit                                 |  <font color="blue">8TC</font>  |
+| Elite Syndicate Hardsuit                                 |  <font color="blue">8TC</font>  |
 | <font color="red">**MSIC. GADGETS**</font>         |                                 |
 | Blood-Red Magboots                                 |  <font color="blue">2TC</font>  |
 | Chest Rig                                          |  <font color="blue">1TC</font>  |
 | Cryptographic Sequencer                            |  <font color="blue">6TC</font>  |
 | Full Syndicate Toolbox                             |  <font color="blue">1TC</font>  |
-| Syndicate Soap                                     |                                 |
+| Syndicate Soap                                     |  <font color="blue">1TC</font>  |
+| Jaws Of Life                                     |  <font color="blue">4TC</font>  |
+| Syndicate Reinforcement                                 |  <font color="blue">25TC</font>  |
+| Syndicate Soap                                     |  <font color="blue">1TC</font>  |
 | <font color="red">**(POINTLESS) BADASSERY**</font> |                                 |
 | Syndicate Balloon                                  | <font color="blue">20TC</font>  |
 | Syndicate Briefcase Full of Cash                   |  <font color="blue">1TC</font>  |
 | Syndicate Smokes (cigarette)                       |  <font color="blue">2TC</font>  |
 | <font color="red">**Bundles**</font>               |                                 |
-| N/A                                                |                                 |
+| TC withdrawal (choose 1, 5, 10, or 20)                   |  <font color="blue">varies</font>  |
+| Bioterror Bundle                   |  <font color="blue">30TC</font>  |
+| Bulldozer Bundle                  |  <font color="blue">13TC</font>  |
+| Stalker Bundle                   |  <font color="blue">14TC</font>  |
+| Sniper Bundle                   |  <font color="blue">20TC</font>  |
 
 
 
