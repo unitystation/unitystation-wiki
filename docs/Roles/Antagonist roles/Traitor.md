@@ -25,18 +25,20 @@ At the start of your round as traitor, you will be given a password that you mus
 
 | <font color="red">Conspicuous Weapons</font>       | <font color="blue">Price</font> |
 | -------------------------------------------------- | :-----------------------------: |
-| Cutthroat 9 Pistol                                 |  <font color="blue">7TC</font>  |
+| Makarov 9mm Pistol                                 |  <font color="blue">7TC</font>  |
 | Energy Sword                                       |  <font color="blue">8TC</font>  |
 | Lucifer .357 Magnum Revolver 8                     |  <font color="blue">9TC</font>  |
 | Reverse Revolver                                   |  <font color="blue">8TC</font>  |
 | **<font color="red">AMMUNITION</font>**            |                                 |
 | 9mm Pistol Magazine                                |  <font color="blue">1TC</font>  |
+| 9mm Pistol Magazine AP                                |  <font color="blue">2TC</font>  |
 | .357 Speedloader                                   |  <font color="blue">4TC</font>  |
 | <font color="red">**EXPLOSIVES**</font>            |                                 |
 | Syndicate Minibomb                                 |  <font color="blue">6TC</font>  |
 | <font color="red">**STEALTHY WEAPONS**</font>      |                                 |
 | Energy Dagger                                      |  <font color="blue">2TC</font>  |
 | Miniature Energy Crossbow                          | <font color="blue">10TC</font>  |
+| Supressor                          | <font color="blue">3TC</font>  |
 | Syndicate Holster                                  |  <font color="blue">1TC</font>  |
 | <font color="red">**SUITS**</font>                 |                                 |
 | Syndicate Spacesuit                                |  <font color="blue">4TC</font>  |
