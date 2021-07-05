@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta name="author" content="Waffielz">
+    <link rel="canonical" href="https://unitystation.github.io/unitystation-wiki/Guides/Engineering%20guides/Guide-to-Atmospherics/">
+    <link rel="shortcut icon" href="../../../img/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <title>Guide to Atmospherics - UnityStation</title>
+    <link href="../../../css/bootstrap-3.3.7.min.css" rel="stylesheet">
+    <link href="../../../css/font-awesome-4.7.0.css" rel="stylesheet">
+    <link href="../../../css/base.css" rel="stylesheet">
+    <link rel="stylesheet" href="../../../css/highlight.css">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="../../../js/jquery-3.2.1.min.js"></script>
+    <script src="../../../js/bootstrap-3.3.7.min.js"></script>
+    <script src="../../../js/highlight.pack.js"></script>
+    
+    <base target="_top">
+    <script>
+      var base_url = '../../..';
+      var is_top_frame = false;
+        
+        var pageToc = [
+          {title: "Guide to Atmospherics", url: "#_top", children: [
+              {title: "Overview", url: "#overview" },
+              {title: "Tanks", url: "#tanks" },
+              {title: "Canisters", url: "#canisters" },
+              {title: "Gases", url: "#gases" },
+              {title: "Pipes, Manifolds, heat exchangers, etc", url: "#pipes-manifolds-heat-exchangers-etc" },
+              {title: "properties/Math/Equations", url: "#propertiesmathequations" },
+              {title: "advanced atmospherics", url: "#advanced-atmospherics" },
+          ]},
+        ];
+
+    </script>
+    <script src="../../../js/base.js"></script> 
+</head>
+
+<body>
+<script>
+if (is_top_frame) { $('body').addClass('wm-top-page'); }
+</script>
+
+
+
+<div class="container-fluid wm-page-content">
+  <a name="_top"></a>
+    
+
+    
+    
+      
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="../Guide-to-the-nuclear-reactor/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="../Guide-to-the-nuclear-reactor/" class="btn btn-xs btn-link">
+        Guide to the nuclear reactor
+      </a>
+    </div>
+    
+    <div class="wm-article-nav">
+      <a href="../Guide-To-Electricity/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../Guide-To-Electricity/" class="btn btn-xs btn-link">
+        Guide To Electricity
+      </a>
+    </div>
+    
+  </div>
+
+    
+
+    <h1 id="guide-to-atmospherics">Guide to Atmospherics<a class="headerlink" href="#guide-to-atmospherics" title="Permanent link">&para;</a></h1>
+<p>Note: This is NOT a guide to the Atmospherics Technician job, though it IS incredibly useful for them to know.</p>
+<h2 id="overview">Overview<a class="headerlink" href="#overview" title="Permanent link">&para;</a></h2>
+<p>Every tile in US13, even those covered by walls and doors or in space, simulates its atmosphere to a large degree of complexity. Each tile can change in pressure, temperature, gas mixture,
+flammability, etc. very few of these conditions are habitable, and it is the job of Atmos Techs to maintain them. Before one changes the station's atmosphere, however, it is best to understand it, whether to do one's job safely or make ones sabotage more effective.</p>
+<h2 id="tanks">Tanks<a class="headerlink" href="#tanks" title="Permanent link">&para;</a></h2>
+<p>Gas tanks, commonly confused with gas canisters, are small and portable methods of storing and distributing gasses. All jobs start with an oxygen tank and mask in the box within their backpack
+which is useful if the atmosphere happens to have none. There exist rarer larger capacity variants, coloured yellow, and large tanks that cannot fit in the backpack but contain far
+more oxygen than the small emergency canisters and are good for spacewalks and extended operations such as mining.</p>
+<p>These tanks do not and cannot contain an infinite amount of gas. if you are relying on them for a spacewalk, they will eventually run out, so it is recommended you bring a backup
+on very extended walks. The tanks can be filled with gasses from canisters after being inserted into them, though it is recommended to empty the tanks first. </p>
+<h2 id="canisters">Canisters<a class="headerlink" href="#canisters" title="Permanent link">&para;</a></h2>
+<p>Canisters are far larger containers of gas. They cannot be carried and hand and must be pulled one at a time, and require tools to interface and interact with various atmos systems.
+Unlike oxygen tanks, canisters come containing various gases at round start, with only a select few not available. they are MUCH better suited for the demands of station-wide atmos
+management due to their larger capacity, and can be turned into devastating weapons with a little effort.</p>
+<p>Canisters can be hooked onto special tiles by clicking on them with a wrench in hand. when this is done, the canister and pipe will begin to equalize pressure and gasses.
+This means that when a canister is hooked up to an empty pipe system, it will fill the pipes with its gas. if a canister (typically empty) is hooked to a pressurized pipe, it will
+be filled instead. A special case is shuttles, when a plasma tank is hooked up aboard a shuttle, the gas will be used as fuel for its engines, reducing the amount of gas as the
+shuttle is piloted.</p>
+<p>The above operations don't require accessing the canisters menu, but it is still worth knowing how to read it. it contains a valve, button to toggle gas release, button to fill (read, equalize)
+a tank that is inserted, and various readings of values such as set release pressure, internal pressure, etc. The valve controls the release pressure, or the pressure gas is released from the canister
+when the release is toggled (and the canister is not hooked to a tile). All the gas inside a canister can be violently released if the canister is broken, be it by firearms or melee</p>
+<p>The main use of canisters (aside from acting as buffer/storage for atmos) is to flood fill rooms with the gasses contained inside. this can be done benevolently to fill an oxygenless area
+or one previously spaced, or malevolently to fill it with hot plasma.</p>
+<h2 id="gases">Gases<a class="headerlink" href="#gases" title="Permanent link">&para;</a></h2>
+<p>Rather than a plain and boring single "atmosphere" gas commonly present in other games with atmosphere simulations, there are a large variety of gases that can make up the atmosphere in an area or pipe</p>
+<p>Starting with by far the most important, oxygen, the reason why it's needed should be abundantly clear. without oxygen players will rapidly take damage and die,
+thankfully everyone has an oxygen tank on them at roundstart, and many can be found around the station, but a sudden disappearance of oxygen is still very capable of killing
+numerous people. Something learned from the Apollo 1 crew is that, yes, there is such a thing as too much oxygen. If the atmosphere in an area is almost all oxygen, any flammable gas (plasma)
+can be ignited very easily and will get extremely hot very quickly. Though this is dangerous, controlled burns in special chambers are a great way for atmospherics to create some more exotic gases, as
+with the right combinations tritium and pluoxium can be created.</p>
+<p>The second gas that you will probably have to worry about is plasma. This (oddly named) substance isn't actually plasma, but instead a McGuffin flammable gas. If it is in the air, the air can catch fire,
+so don't let it find a spark. Plasma burns can reach very high temperatures with large amounts of oxygen, but this will rapidly consume the plasma. Low oxygen burns on the other hand are much
+colder but will last for very long periods of time. all plasma fires can light you on fire, which will deal large amounts of burn damage, increasing depending on how "on fire" you are. This can
+be countered through the use of specialized suits and hardsuits. Plasma fires are best fought back by venting an area or nitrogen flooding it, but fire extinguishers are an easy and portable way
+of putting out smaller fires.</p>
+<p>Nitrogen and Carbon dioxide are almost functionally identical. Both can be used to fill up space so an area is not completely made of one gas. Carbon dioxide is less common, but generated by fires and breathing,
+while Nitrogen makes up the majority of the air at roundstart and can be found in several canisters. Carbon dioxide is generally filtered out of the atmosphere, though this can
+actually backfire when controlling fires, as carbon dioxide is great at snuffing them out and when piped out of a fire is at a high pressure and can "clog" the waste pipes by crowding out other gasses.</p>
+<p>There are also rarer and more specialized gasses. N2O, aka laughing gas, can typically be found in tanks within medbays surgical rooms and within atmos. it is intended as a way of knocking players out but is currently
+nonfunctional. BZ is a potent hallucinogenic agent that can be found within xenobio in science on some maps, it is similarly nonfunctional. Pluoxium can be seen as "safe oxygen", it can replace oxygen
+in the atmosphere and be breathable, in fact being more effective than oxygen, and tends to be inert and non-reactive, making it an excellent way of controlling fires. Tritium is the exact opposite,
+created in high-temperature plasma fires in small amounts, large amounts of pure tritium act as a VERY potent fire "accelerant" or catalyst, allowing them to reach some absurd temperatures that even hardsuits won't
+save you from. it should be noted that tritium cannot burn on its own, and must be mixed with plasma and oxygen. Miasma is the rarest gas and does nothing as of now, it is created by dead bodies in small amounts, and is intended to trigger effects such as vomiting, disgust, and mood debuffs if in large amounts.</p>
+<p>In summary of the gases and their availability roundstart in several containers:</p>
+<table class="table">
+<thead>
+<tr>
+<th scope="col">Picture</th>
+<th scope="col">Name</th>
+<th scope="col">Purpose</th>
+<th scope="col">Tanks?</th>
+<th scope="col">Canisters?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>Oxygen</td>
+<td>Breathable, Fire oxidizer.</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td></td>
+<td>Plasma</td>
+<td>Flammable, Fuel, Making other gases</td>
+<td>No (planned)</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td></td>
+<td>Nitrogen</td>
+<td>Space-filling, Inert.</td>
+<td>No</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td></td>
+<td>Carbon Dioxide</td>
+<td>Space-filling, Inert.</td>
+<td>No</td>
+<td>sometimes</td>
+</tr>
+<tr>
+<td></td>
+<td>N2O</td>
+<td>Non-functional Knockout</td>
+<td>Yes (rare)</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td></td>
+<td>BZ</td>
+<td>Non-functional Hallucinations/brain damage</td>
+<td>No</td>
+<td>sometimes</td>
+</tr>
+<tr>
+<td></td>
+<td>Pluoxium</td>
+<td>Oxygen replacement, inert</td>
+<td>No</td>
+<td>No</td>
+</tr>
+<tr>
+<td></td>
+<td>Tritium</td>
+<td>Fire "accelerant"</td>
+<td>No</td>
+<td>No</td>
+</tr>
+<tr>
+<td></td>
+<td>Miasma</td>
+<td>Non-functional disgust/vomit/bad smell</td>
+<td>No</td>
+<td>No</td>
+</tr>
+<tr>
+<td></td>
+<td>"Air"</td>
+<td>Pre-mixed nitrogen and oxygen</td>
+<td>Maybe?</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td></td>
+<td>"Empty"</td>
+<td>Empty canister, for filling.</td>
+<td>No</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<h2 id="pipes-manifolds-heat-exchangers-etc">Pipes, Manifolds, heat exchangers, etc<a class="headerlink" href="#pipes-manifolds-heat-exchangers-etc" title="Permanent link">&para;</a></h2>
+<p>While in-air atmospherics is already rather complicated, it goes into the realm of complete absurdity once one factors in piping. many pipes with many different gases and many different
+purposes criss-cross the entire station in an enormous web, all converging onto the atmospherics sub-department itself.</p>
+<p>Outside of atmospherics itself, most of the more complex types of pipes and pipe-interfacers won't be found, and most crew will only have to worry about a few types.</p>
+<p>Air pipes, connecting to vents, that distribute air (or whatever atmos has substituted) throughout the station, waste pipes (connected to scrubbers) that carry away plasma and carbon dioxide when on, 
+and junctions, regions where several pipes converge or split off.</p>
+<p>Within atmospherics, however, it is an entirely different beast. Many types of filters and distributors and heaters and coolers litter the area, and the pipes form an incredibly complex spider web.
+This guide will not be explaining the various regions of the atmospherics sub-department, however, only the individual functions of each type of pipe and pipe-interfacer.</p>
+<table class="table">
+<thead>
+<tr>
+<th scope="col">Picture</th>
+<th scope="col">Name</th>
+<th scope="col">Purpose</th>
+<th scope="col">Interface</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>Valve</td>
+<td>Blocks Equalization until open</td>
+<td>Click to open/close.</td>
+</tr>
+<tr>
+<td></td>
+<td>Pressure Pump</td>
+<td>Pumps a certain pressure of gas over the boundary.</td>
+<td>Click to open a menu, change pressure using the nearby button, open/close using another button.</td>
+</tr>
+<tr>
+<td></td>
+<td>Volume Pump</td>
+<td>Pumps a certain volume of gas over the boundary</td>
+<td>Same as above, but for volume.</td>
+</tr>
+<tr>
+<td></td>
+<td>Unary Vent</td>
+<td>Can be seen as a pressure pump for pumping into the open air</td>
+<td>None at the moment, basically identical to the passive vent.</td>
+</tr>
+<tr>
+<td></td>
+<td>Passive Vent</td>
+<td>Equalizes gas between what's in the pipe and what's in the air.</td>
+<td>None. Set and forget, or hook up to valves/pumps.</td>
+</tr>
+<tr>
+<td></td>
+<td>Injector</td>
+<td>can be seen as a volume pump for pumping into the open air.</td>
+<td>probably has a menu when clicked on.</td>
+</tr>
+<tr>
+<td></td>
+<td>Scrubber</td>
+<td>The inverse of the vents, sucks set gases.</td>
+<td>None at the moment, always set to suck plasma and co2</td>
+</tr>
+<tr>
+<td></td>
+<td>Heat exchanger</td>
+<td>When placed facing another exchanger, equalizes temperature but not pressure or contents between two pipes</td>
+<td>None, set and forget, or hook up to valves/pumps.</td>
+</tr>
+<tr>
+<td></td>
+<td>Filter</td>
+<td>Takes an input gas mix and seperates gases from it, redirecting them to another connected pipe.</td>
+<td>Menu when clicked on, set gases by pressing buttons, output pressure can be controlled.</td>
+</tr>
+<tr>
+<td></td>
+<td>Mixer</td>
+<td>Opposite of the filter, takes two gas mixes and mixes them based on percentages set in the menu</td>
+<td>Menu when clicked on, allowing you to change the split and output pressure.</td>
+</tr>
+<tr>
+<td></td>
+<td>Heat exchange pipes</td>
+<td>Equalize temperature, but not pressure or contents, with the air on the tile above them.</td>
+<td>None, connect to heat exchange junction to allow connection of valves/pumps.</td>
+</tr>
+<tr>
+<td></td>
+<td>Heat exchange junction</td>
+<td>Does not equalize temperature like heat exchange pipes. Allows for normal pipes to connect to heat exchange pipes and vice versa.</td>
+<td>None, connect to pumps/valves for control if needed.</td>
+</tr>
+<tr>
+<td></td>
+<td>Manifold</td>
+<td>Changes the layer of the pipes. can be seen as a "z level" pipes on a level will only connect to pipes on the same level.</td>
+<td>None, connect to pumps/valves for the control you'll probably need.</td>
+</tr>
+<tr>
+<td></td>
+<td>Pipe</td>
+<td>Ordinary pipe, equalizes contents, pressure, and temperature with adjacent pipes.</td>
+<td>None, use valves/pumps</td>
+</tr>
+<tr>
+<td></td>
+<td>Pipe Junction</td>
+<td>Region where several pipes meet, equalizing each with each other and itself.</td>
+<td>none, use valves/pumps.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="propertiesmathequations">properties/Math/Equations<a class="headerlink" href="#propertiesmathequations" title="Permanent link">&para;</a></h2>
+<p>Of course, each tile has its own pressure, contents, volume, molarity (molecule amount), and other properties to allow for the simulation of gasses. these are inter-related 
+in-game through the equation PV=NRT, wherein P is pressure, V is volume, N is molarity, R is a constant, and T is temperature. Each of these can cause varying things to occur 
+at different values</p>
+<p>Low and high pressure will both cause brute damage. This is to say that getting hit by a shockwave of pressure and walking in space without a spacesuit will both be bad for
+your health</p>
+<p>low volumes bottleneck gases, while high volumes, such as in open air or canisters, allow for large amounts of gas to be stored without issue.</p>
+<p>Low molarity does nothing, it simply means there is a small amount of gas. High molarity means there is a large amount of gas. if there is enough volume, this is not an issue, but low volumes
+will cause a large increase in pressure. especially dangerous are gases at a high molarity and very low temperature, as a large amount can be fit into a canister or tank, and when released
+and equalized with the air will massively increase in pressure.</p>
+<p>Both high and low temperatures will deal burn damage. This does not mean you have to be on fire, a very hot oven-like room will cook you just as well. The cold of space will also deal damage to
+those poorly insulated.</p>
+<h2 id="advanced-atmospherics">advanced atmospherics<a class="headerlink" href="#advanced-atmospherics" title="Permanent link">&para;</a></h2>
+<p>Atmos is both the hardest to learn and hardest to master region of SS13, and most don't bother past the basics. For the skilled atmostech, there are however great rewards, even beyond
+circle-jerking to how hot you got plasma to get. A master atmos tech can stop fires before they even begin and give helpful buffs to the entire station, and if a traitor, turn into
+the most potent hellfire one has ever seen. what makes atmos especially powerful is its self-reliance. while jobs like roboticist and chemist rely on others, like mining and botany, to get
+powerful, the atmos tech can build a chamber that makes the sun look like Canada in comparison with only his own know-how and tools, no other department required. Learning atmos
+is more than just knowing what each part does, and to really understand it it is recommended that you play atmos tech and experiment and communicate with other experienced atmos techs
+to share ideas.</p>
+<table class="table">
+<thead>
+<tr>
+<th scope="col">Department</th>
+<th scope="col">Roles</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Command</td>
+<td><a href="../../../Roles/Command%20roles/Captain/">Captain</a>, <a href="../../../Roles/Command%20roles/HoP/">Head of Personnel</a></td>
+</tr>
+<tr>
+<td>Security</td>
+<td><a href="../../../Roles/Security%20roles/Head-of-Security/">Head of Security</a>, <a href="../../../Roles/Security%20roles/Warden/">Warden</a>, <a href="Security.md">Security Officer</a>, <a href="../../../Roles/Security%20roles/Detective/">Detective</a></td>
+</tr>
+<tr>
+<td>Engineering</td>
+<td><a href="../../../Roles/Engineering%20roles/Chief-Engineer/">Chief Engineer</a>, <a href="../../../Roles/Engineering%20roles/Engineer/">Engineer</a>, <a href="../../../Roles/Engineering%20roles/Atmospherics-Technician/">Atmospherics Technician</a></td>
+</tr>
+<tr>
+<td>Science</td>
+<td><a href="../../../Roles/Science%20roles/Research-Director/">Research Director</a>, <a href="../../../Roles/Science%20roles/Scientist/">Scientist</a>, <a href="../../../Roles/Science%20roles/Geneticist/">Geneticist</a>, <a href="../../../Roles/Science%20roles/Roboticist/">Roboticist</a></td>
+</tr>
+<tr>
+<td>Medical</td>
+<td><a href="../../../Roles/Medical%20roles/Chief-Medical-Officer/">Chief Medical Officer</a>, <a href="../../../Roles/Medical%20roles/Medical-Doctor/">Medical Doctor</a>, <a href="../../../Roles/Medical%20roles/Chemist/">Chemist</a>, <a href="../../../Roles/Medical%20roles/Virologist/">Virologist</a></td>
+</tr>
+<tr>
+<td>Cargo</td>
+<td><a href="../../../Roles/Cargo%20roles/Quartermaster/">Quartermaster</a>, <a href="../../../Roles/Cargo%20roles/Cargo-Technician/">Cargo Technician</a>, <a href="../../../Roles/Cargo%20roles/Shaft-Miner/">Shaft Miner</a></td>
+</tr>
+<tr>
+<td>Service</td>
+<td><a href="../../../Roles/Service%20roles/Bartender/">Bartender</a>, <a href="../../../Roles/Service%20roles/Cook/">Cook</a>, <a href="../../../Roles/Service%20roles/Janitor/">Janitor</a>, <a href="../../../Roles/Service%20roles/Clown/">Clown</a>, <a href="../../../Roles/Service%20roles/Mime/">Mime</a>, <a href="../../../Roles/Service%20roles/Curator/">Curator</a>, <a href="../../../Roles/Service%20roles/Lawyer/">Lawyer</a>, <a href="../../../Roles/Service%20roles/Chaplain/">Chaplain</a>, <a href="../../../Roles/Service%20roles/Assistant/">Assistant</a></td>
+</tr>
+<tr>
+<td>Synthetic</td>
+<td>Currently empty</td>
+</tr>
+<tr>
+<td>Antagonist</td>
+<td><a href="Cargonia.md">Revolutionary</a>, <a href="Nuclear-Emergency.md">Nuclear operative</a>, <a href="../../../Roles/Antagonist%20roles/Traitor/">Traitor</a>, <a href="../../../Roles/Antagonist%20roles/Blob/">Blob</a>,<a href="../../../Roles/Antagonist%20roles/Wizard/">Wizard</a>,<a href="../../../Roles/Antagonist%20roles/Fugitive/">Fugitive</a></td>
+</tr>
+<tr>
+<td>Other</td>
+<td><a href="../../../Roles/Centcom%20roles/Central-Command-Officer/">Cent officer</a>, <a href="../../../Roles/Centcom%20roles/Death-Squad/">Deathsquad</a>, <a href="../../../Roles/Centcom%20roles/Emergency-Response-Team/">ERT</a></td>
+</tr>
+</tbody>
+</table>
+
+  <br>
+    
+
+    
+    
+      
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="../Guide-to-the-nuclear-reactor/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="../Guide-to-the-nuclear-reactor/" class="btn btn-xs btn-link">
+        Guide to the nuclear reactor
+      </a>
+    </div>
+    
+    <div class="wm-article-nav">
+      <a href="../Guide-To-Electricity/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../Guide-To-Electricity/" class="btn btn-xs btn-link">
+        Guide To Electricity
+      </a>
+    </div>
+    
+  </div>
+
+    <br>
+</div>
+
+<footer class="container-fluid wm-page-content">
+      <p>
+        <a href="https://github.com/unitystation/unitystation-wiki/edit/master/docs/Guides/Engineering guides/Guide-to-Atmospherics.md">Edit on unitystation/unitystation-wiki</a>
+      </p>
+  <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a> using <a href="https://github.com/gristlabs/mkdocs-windmill">Windmill</a> theme by Grist Labs.</p>
+</footer>
+
+</body>
+</html>

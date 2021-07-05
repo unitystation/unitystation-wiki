@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta name="author" content="Waffielz">
+    <link rel="canonical" href="https://unitystation.github.io/unitystation-wiki/Guides/Engineering%20guides/Hacking-Guide/">
+    <link rel="shortcut icon" href="../../../img/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <title>Hacking Guide - UnityStation</title>
+    <link href="../../../css/bootstrap-3.3.7.min.css" rel="stylesheet">
+    <link href="../../../css/font-awesome-4.7.0.css" rel="stylesheet">
+    <link href="../../../css/base.css" rel="stylesheet">
+    <link rel="stylesheet" href="../../../css/highlight.css">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="../../../js/jquery-3.2.1.min.js"></script>
+    <script src="../../../js/bootstrap-3.3.7.min.js"></script>
+    <script src="../../../js/highlight.pack.js"></script>
+    
+    <base target="_top">
+    <script>
+      var base_url = '../../..';
+      var is_top_frame = false;
+        
+        var pageToc = [
+          {title: "Hacking Guide", url: "#_top", children: [
+              {title: "Spoiler-free Hacking Tips [as of build 4105]", url: "#spoiler-free-hacking-tips-as-of-build-4105" },
+              {title: "Spoilers:", url: "#spoilers" },
+          ]},
+        ];
+
+    </script>
+    <script src="../../../js/base.js"></script> 
+</head>
+
+<body>
+<script>
+if (is_top_frame) { $('body').addClass('wm-top-page'); }
+</script>
+
+
+
+<div class="container-fluid wm-page-content">
+  <a name="_top"></a>
+    
+
+    
+    
+      
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="../../Security%20guides/Security-Officer-Guide/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="../../Security%20guides/Security-Officer-Guide/" class="btn btn-xs btn-link">
+        Security Officer
+      </a>
+    </div>
+    
+    <div class="wm-article-nav">
+      <a href="../Guide-to-the-nuclear-reactor/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../Guide-to-the-nuclear-reactor/" class="btn btn-xs btn-link">
+        Guide to the nuclear reactor
+      </a>
+    </div>
+    
+  </div>
+
+    
+
+    <h1 id="hacking-guide">Hacking Guide<a class="headerlink" href="#hacking-guide" title="Permanent link">&para;</a></h1>
+<h2 id="spoiler-free-hacking-tips-as-of-build-4105">Spoiler-free Hacking Tips [as of build 4105]<a class="headerlink" href="#spoiler-free-hacking-tips-as-of-build-4105" title="Permanent link">&para;</a></h2>
+<p>*Use a screwdriver on a door (on any <a href="Intent.md">intent</a>) to open the panel. Clicking on the door with empty hands will then access the panel. The panel can be closed again by using a screwdriver on the door a second time, making it less evident that the door has been tampered with.</p>
+<p>*Door wiring poses a risk of electric shock, so insulated gloves are a good idea!</p>
+<p>*The panel contains two rows of sockets with several wires running between them. Clicking on a wire with cutters selected will cut and remove it. With an empty hand selected, clicking an empty socket in the bottom row followed by one in the top row will connect the two sockets with a wire. </p>
+<p>*Try cutting a wire, trying the door out, then replacing the wire as you found it. Take note of any differences between the effects of cutting different individual wires. Experiment further by isolating and working with wires associated with a single type of behavior.</p>
+<p>*Try moving around a wire's connection point on one end only--either the top or bottom row.</p>
+<p>*Once you have a success, try replicating it with another door.</p>
+<p>*Take it one step at a time--If you break a door irrecoverably, move on to a different one and try being more slow and methodical in your experimentation.</p>
+<p>*Have a good excuse ready for when the <a href="../../../Roles/Security%20roles/Head-of-Security/">Head of Security</a> (inevitably) wanders by while you're up to your yellow-gloved wrists in buzzing, sparking wires.</p>
+<h2 id="spoilers">Spoilers:<a class="headerlink" href="#spoilers" title="Permanent link">&para;</a></h2>
+<p>'The quick and (probably) sure-fire way:'</p>
+<p>*Test each wire by cutting it out and trying the door. Eliminate any that can be removed without breaking the door (cause it to become unresponsive).</p>
+<p>*Pick any one of the remaining wires (the ones whose removal break the door). Rewire it using the same bottom socket and a different top socket. One of the combinations should unlock the door.</p>
+<p>*For future doors, just cut away what you need to in order to repeat this single re-plug.</p>
+<p>Figuring out the door wiring can take a minute or two initially, but it's well worth the time investment, as a working pattern can be repeated with additional doors in seconds.</p>
+<table class="table">
+<thead>
+<tr>
+<th scope="col">Department</th>
+<th scope="col">Roles</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Command</td>
+<td><a href="../../../Roles/Command%20roles/Captain/">Captain</a>, <a href="../../../Roles/Command%20roles/HoP/">Head of Personnel</a></td>
+</tr>
+<tr>
+<td>Security</td>
+<td><a href="../../../Roles/Security%20roles/Head-of-Security/">Head of Security</a>, <a href="../../../Roles/Security%20roles/Warden/">Warden</a>, <a href="Security.md">Security Officer</a>, <a href="../../../Roles/Security%20roles/Detective/">Detective</a></td>
+</tr>
+<tr>
+<td>Engineering</td>
+<td><a href="../../../Roles/Engineering%20roles/Chief-Engineer/">Chief Engineer</a>, <a href="../../../Roles/Engineering%20roles/Engineer/">Engineer</a>, <a href="../../../Roles/Engineering%20roles/Atmospherics-Technician/">Atmospherics Technician</a></td>
+</tr>
+<tr>
+<td>Science</td>
+<td><a href="../../../Roles/Science%20roles/Research-Director/">Research Director</a>, <a href="../../../Roles/Science%20roles/Scientist/">Scientist</a>, <a href="../../../Roles/Science%20roles/Geneticist/">Geneticist</a>, <a href="../../../Roles/Science%20roles/Roboticist/">Roboticist</a></td>
+</tr>
+<tr>
+<td>Medical</td>
+<td><a href="../../../Roles/Medical%20roles/Chief-Medical-Officer/">Chief Medical Officer</a>, <a href="../../../Roles/Medical%20roles/Medical-Doctor/">Medical Doctor</a>, <a href="../../../Roles/Medical%20roles/Chemist/">Chemist</a>, <a href="../../../Roles/Medical%20roles/Virologist/">Virologist</a></td>
+</tr>
+<tr>
+<td>Cargo</td>
+<td><a href="../../../Roles/Cargo%20roles/Quartermaster/">Quartermaster</a>, <a href="../../../Roles/Cargo%20roles/Cargo-Technician/">Cargo Technician</a>, <a href="../../../Roles/Cargo%20roles/Shaft-Miner/">Shaft Miner</a></td>
+</tr>
+<tr>
+<td>Service</td>
+<td><a href="../../../Roles/Service%20roles/Bartender/">Bartender</a>, <a href="../../../Roles/Service%20roles/Cook/">Cook</a>, <a href="../../../Roles/Service%20roles/Janitor/">Janitor</a>, <a href="../../../Roles/Service%20roles/Clown/">Clown</a>, <a href="../../../Roles/Service%20roles/Mime/">Mime</a>, <a href="../../../Roles/Service%20roles/Curator/">Curator</a>, <a href="../../../Roles/Service%20roles/Lawyer/">Lawyer</a>, <a href="../../../Roles/Service%20roles/Chaplain/">Chaplain</a>, <a href="../../../Roles/Service%20roles/Assistant/">Assistant</a></td>
+</tr>
+<tr>
+<td>Synthetic</td>
+<td>Currently empty</td>
+</tr>
+<tr>
+<td>Antagonist</td>
+<td><a href="Cargonia.md">Revolutionary</a>, <a href="Nuclear-Emergency.md">Nuclear operative</a>, <a href="../../../Roles/Antagonist%20roles/Traitor/">Traitor</a>, <a href="../../../Roles/Antagonist%20roles/Blob/">Blob</a>,<a href="../../../Roles/Antagonist%20roles/Wizard/">Wizard</a>,<a href="../../../Roles/Antagonist%20roles/Fugitive/">Fugitive</a></td>
+</tr>
+<tr>
+<td>Other</td>
+<td><a href="../../../Roles/Centcom%20roles/Central-Command-Officer/">Cent officer</a>, <a href="../../../Roles/Centcom%20roles/Death-Squad/">Deathsquad</a>, <a href="../../../Roles/Centcom%20roles/Emergency-Response-Team/">ERT</a></td>
+</tr>
+</tbody>
+</table>
+
+  <br>
+    
+
+    
+    
+      
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="../../Security%20guides/Security-Officer-Guide/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="../../Security%20guides/Security-Officer-Guide/" class="btn btn-xs btn-link">
+        Security Officer
+      </a>
+    </div>
+    
+    <div class="wm-article-nav">
+      <a href="../Guide-to-the-nuclear-reactor/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../Guide-to-the-nuclear-reactor/" class="btn btn-xs btn-link">
+        Guide to the nuclear reactor
+      </a>
+    </div>
+    
+  </div>
+
+    <br>
+</div>
+
+<footer class="container-fluid wm-page-content">
+      <p>
+        <a href="https://github.com/unitystation/unitystation-wiki/edit/master/docs/Guides/Engineering guides/Hacking-Guide.md">Edit on unitystation/unitystation-wiki</a>
+      </p>
+  <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a> using <a href="https://github.com/gristlabs/mkdocs-windmill">Windmill</a> theme by Grist Labs.</p>
+</footer>
+
+</body>
+</html>

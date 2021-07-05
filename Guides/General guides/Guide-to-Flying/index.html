@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta name="author" content="Waffielz">
+    <link rel="canonical" href="https://unitystation.github.io/unitystation-wiki/Guides/General%20guides/Guide-to-Flying/">
+    <link rel="shortcut icon" href="../../../img/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <title>Guide to Flying - UnityStation</title>
+    <link href="../../../css/bootstrap-3.3.7.min.css" rel="stylesheet">
+    <link href="../../../css/font-awesome-4.7.0.css" rel="stylesheet">
+    <link href="../../../css/base.css" rel="stylesheet">
+    <link rel="stylesheet" href="../../../css/highlight.css">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="../../../js/jquery-3.2.1.min.js"></script>
+    <script src="../../../js/bootstrap-3.3.7.min.js"></script>
+    <script src="../../../js/highlight.pack.js"></script>
+    
+    <base target="_top">
+    <script>
+      var base_url = '../../..';
+      var is_top_frame = false;
+        
+        var pageToc = [
+          {title: "Guide to Flying", url: "#_top", children: [
+          ]},
+          {title: "Overview", url: "#overview", children: [
+              {title: "what is a shuttle?", url: "#what-is-a-shuttle" },
+              {title: "How they work", url: "#how-they-work" },
+              {title: "Ace pilot", url: "#ace-pilot" },
+          ]},
+          {title: "Types of shuttles", url: "#types-of-shuttles", children: [
+              {title: "Small shuttles", url: "#small-shuttles" },
+              {title: "Large shuttles", url: "#large-shuttles" },
+              {title: "Special shuttles", url: "#special-shuttles" },
+              {title: "Danger Zone", url: "#danger-zone" },
+          ]},
+        ];
+
+    </script>
+    <script src="../../../js/base.js"></script> 
+</head>
+
+<body>
+<script>
+if (is_top_frame) { $('body').addClass('wm-top-page'); }
+</script>
+
+
+
+<div class="container-fluid wm-page-content">
+  <a name="_top"></a>
+    
+
+    
+    
+      
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="../How-not-to-die-instantly/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="../How-not-to-die-instantly/" class="btn btn-xs btn-link">
+        How not to die instantly
+      </a>
+    </div>
+    
+    <div class="wm-article-nav">
+      <a href="../Combat%20Guide/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../Combat%20Guide/" class="btn btn-xs btn-link">
+        The (Revised) Guide to Combat
+      </a>
+    </div>
+    
+  </div>
+
+    
+
+    <h1 id="guide-to-flying">Guide to Flying<a class="headerlink" href="#guide-to-flying" title="Permanent link">&para;</a></h1>
+<h1 id="overview">Overview<a class="headerlink" href="#overview" title="Permanent link">&para;</a></h1>
+<p>This guide will cover what shuttles are, shuttle operation, how to fly shuttles, the quirks of each "type" of shuttle, and the dangers shuttles can pose.</p>
+<h2 id="what-is-a-shuttle">what is a shuttle?<a class="headerlink" href="#what-is-a-shuttle" title="Permanent link">&para;</a></h2>
+<p>Unlike Byond SS13, where shuttles must teleport between destinations or perform Z-Level trickery to fake flight, shuttles in unitystation are fully flyable and much more
+responsive. In effect, the shuttles act like moving rooms (or sets of rooms), that can be boarded and (outside special exceptions) manually piloted. objects within
+the shuttle are fully interactable, and can be used midflight, and people can travel across the shuttle while it is moving. The downside to this 
+full flyability and interactivity is that large shuttles, with many moving tiles, can create large amounts of lag.</p>
+<h2 id="how-they-work">How they work<a class="headerlink" href="#how-they-work" title="Permanent link">&para;</a></h2>
+<p>The most important part of a shuttle is its piloting console, a shuttle can fly if its walls are torn apart and it has a single engine left, but without the console it will become
+dead in the water, or worse, continue moving infinitely. If the console is emagged, it will display the locations of people (and the disk) on the console map and disable shuttle
+safeties. Most shuttles are equipped with collision sensors, if a sensor detects a blocked tile directly infront of it, it will 
+instantly stop the shuttle and prevent the collision, these are turned off if the shuttle console is emagged, which will allow for shuttle ramming. some shuttles are equipped with
+RCS systems, responsible for translating the shuttle left and right when in action, these are optional and not required to fly, but are helpful for docking. shuttles require fuel
+to function, in particular, plasma, canisters of which must be wrenched in place over fuel connectors to supply the shuttle engines. The only things actually needed for a shuttles
+successful operation is a console, an engine, and fuel. Yes, walls are optional.</p>
+<h2 id="ace-pilot">Ace pilot<a class="headerlink" href="#ace-pilot" title="Permanent link">&para;</a></h2>
+<p>If the shuttle is capeable of flying, it can be flown from the shuttle console. When interacted with it will show a popup screen displaying a map, turn controls, an RCS button, a
+button to start/stop the shuttle, and a thrust slider. The map normally displays the locations of other shuttles, asteroids, and the station origin. If the console is emagged
+it will additionally show the locations of players and the nuke disk. Do note the map only displays the origin/center of the station, and NOT its outer bounds, if you see it ANYWHERE
+on the map it is best to slow down unless you are fully intent on commiting space jihad. The turn controls rotate the shuttle 90 degrees left or right when used, and the thrust slider
+changes how fast the shuttle moves forward, do note that shuttles cannot move backwards using ordinary engine setups. When the RCS button is used, it will toggle RCS, which will make the
+turn buttons translate the shuttle left or right instead of turning it, good for docking.</p>
+<h1 id="types-of-shuttles">Types of shuttles<a class="headerlink" href="#types-of-shuttles" title="Permanent link">&para;</a></h1>
+<p>there are a few "types" of shuttle in unitystation, which while not differing in control can vary in size, danger, and operation.</p>
+<h2 id="small-shuttles">Small shuttles<a class="headerlink" href="#small-shuttles" title="Permanent link">&para;</a></h2>
+<p>These are shuttles like the personal shuttles, often found attached to various departments or in a bay. they are the most common, and cannot fit many occupants, but their small
+size means that they are able to fit in more places just near the station than other larger shuttles. The fact that the shuttles are self powering, and these small shuttles are
+rarely missed, makes them a perfect getaway, secret lair, or electronic warfare center if you have a spacesuit and materials. A lesser known small shuttle is the centcom shuttle,
+tucked away in the top right of the centcom station. the fact that centcom is normally only visited seconds before the round ends and is very far away makes it practically unused
+and useless, in theory it could be used for centcom boarding parties.</p>
+<h2 id="large-shuttles">Large shuttles<a class="headerlink" href="#large-shuttles" title="Permanent link">&para;</a></h2>
+<p>Large shuttles are less common, and many large shuttles only appear in certain gamemodes or maps. They are just as fast as small shuttles (owing to more engines), but cannot fit
+in as many places and typically require extensive docks to hold them. on some maps, mining will have access to a large mining shuttle capeable of holding and supporting
+the entire mining team, equipped with a small medbay and storage. Nuke ops have the syndicate shuttle, a bulky and well armoured shuttle with a large and well stocked medbay
+and armoury, aswell as a far larger than normal bridge and actual airlocks instead of single doors which allow for air conservation even when not docked, for stealthy
+station boarding. A lesser known large shuttle is the wizards shuttle, which is very large and contains all manner of strange rooms. the front of the ship contains a piloting console
+which is seldom used, as wizards dont have to fly and can just teleport to the station.</p>
+<h2 id="special-shuttles">Special shuttles<a class="headerlink" href="#special-shuttles" title="Permanent link">&para;</a></h2>
+<p>There also exist special shuttles, shuttles that dont obey normal shuttle operation, these are the cargo shuttle, arrivals shuttle, and escape shuttle. The cargo shuttle
+does not start with a shuttle console, and is instead piloted automatically when it recives orders to come to or leave cargo. interestingly, it does not actually go anywhere,
+instead spending some time far away from the station before magically returning with requested goods onboard. If it is equipped with a console, be VERY careful, as the shuttle is
+faster than normal and has no collision sensors, making it a perfect way to accidentally (or purpousefully) carve a hole into the station and die in a crash. It is practically
+invincible, and if piloted into asteroids or the station will have no problem carving directly through them. The arrivals shuttle is interesting, because despite having a shuttle matrix,
+it cannot actually be flown, only turned. it is also where late-join players will appear. The escape shuttle is by FAR the fastest shuttle, and similarly to the cargo shuttle is
+piloted automaticallt to and from the station during evacuation. It is goddamn immortal, and though it can take damage it will not stop, cleanly carving through asteroids in its path.
+If it is equipped with a console, by manually building one, its incredible speed and armour make it a perfect projectile, and the shuttle can cleanly tear through the entire station,
+and then sail through the other side.</p>
+<h2 id="danger-zone">Danger Zone<a class="headerlink" href="#danger-zone" title="Permanent link">&para;</a></h2>
+<p>Shuttles pose a few dangers, namely, when crashed they will destroy tiles, kill those directly impacted, and kill those onboard if the collision was fast enough. The onboard plasma
+canister can start fires if tampered with (rarely), and it being always adjacent to space means that any hull breach or nick can quickly kill unsuited crew. if a shuttle runs out of fuel, it
+becomes stuck, and if the console is destroyed while it is flying it will continue to fly in the direction it was going until fuel runs out or the console is rebuilt.</p>
+
+  <br>
+    
+
+    
+    
+      
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="../How-not-to-die-instantly/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="../How-not-to-die-instantly/" class="btn btn-xs btn-link">
+        How not to die instantly
+      </a>
+    </div>
+    
+    <div class="wm-article-nav">
+      <a href="../Combat%20Guide/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../Combat%20Guide/" class="btn btn-xs btn-link">
+        The (Revised) Guide to Combat
+      </a>
+    </div>
+    
+  </div>
+
+    <br>
+</div>
+
+<footer class="container-fluid wm-page-content">
+      <p>
+        <a href="https://github.com/unitystation/unitystation-wiki/edit/master/docs/Guides/General guides/Guide-to-Flying.md">Edit on unitystation/unitystation-wiki</a>
+      </p>
+  <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a> using <a href="https://github.com/gristlabs/mkdocs-windmill">Windmill</a> theme by Grist Labs.</p>
+</footer>
+
+</body>
+</html>
