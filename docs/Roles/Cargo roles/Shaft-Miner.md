@@ -21,7 +21,9 @@ As a Shaft Miner, the station crew expects you to head out into space, mine ores
 
 To assist in your efforts, you get given a multitude of tools: A Mining Hardsuit to protect you from the cold, airless vacuum of space as well as to give you very slight protection against damage; a mining satchel to store ores in; a lantern, since space is dark; and a pickaxe and shovel to mine ores and dig sand out of the asteroid ground. Since you're part of the Cargo department, you're under the supervision of the [Quartermaster](Quartermaster.md), so ask them for help if you're ever confused on what to do. Also, if Cargo is flushed with [Cargo Technicians](Cargo-Technician.md) who know what they are doing, the Quartermaster has their own set of mining gear in their office, and may join you on your adventures in deep space.
 
-In the lockers in the mining locker room, there are a limited number of [Proto Kinetic Accelerators](PKA.md), otherwise known as the Shaft Miner's best friend. It is a short range, high-damage, unlimited-use gun that can be used for propulsion in deep space, breaking asteroid rocks, and killing things.
+You also have a Proto-Kinetic Accelerator, otherwise known as the Shaft Miner's best friend. It is a short range, high-damage, unlimited-use gun that can be used for propulsion in deep space, breaking asteroid rocks, and killing things. Its weaknesses include a slow rate of fire and a short range of 3 tiles.
+
+Mining typically begins with five in the locker room and a sixth in the [|QM's](Quartermaster.md) office locker. Two more come in the mining equipment crate purchaseable by the cargo console.
 
 You should also make use of the ore box. Ore boxes are handy, as they reduce the amount of fiddling with equipment. Ore boxes can be dragged behind you as you move to pick up any ore you pull the box over.
 
@@ -54,7 +56,7 @@ Ore is processed at the **Ore Redemption Machine.** You can load ore into it by 
 | Pickaxe        | a standard pickaxe for mining. | 100 points                |
 | Silver-Plated Pickaxe            | an improved pickaxe that mines considerably faster. deals slightly more damage.                  | 1000 points                 |
 | Diamond-Tipped pickaxe       | a pickaxe that mines much faster than the standard and also deals more damage. | 2000 points                |
-| [Proto Kinetic Accelerators](PKA.md)     | infinite use mining gun you know and love.                                | 750 points              |
+| Proto-Kinetic Accelerator     | infinite use mining gun you know and love.                                | 750 points              |
 | Shovel         | Use it to dig up sand for glass.                                | 100 points               |
 | Explorer's Webbing      | Some tactical webbing that goes takes the belt slot. Handy for storing and retrieving equipment needed quickly. | 400 points               |
 | Mining Conscription Kit     | Comes with most equipment needed to get a person kitted for mining in Lavaland.         | 1000 points                |
