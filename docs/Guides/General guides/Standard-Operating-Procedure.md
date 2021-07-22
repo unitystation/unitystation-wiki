@@ -14,6 +14,7 @@ Elevated alert level. There are reports or other proof available to indicate tha
 
 - Security may have weapons visible.
 - Crew members may be searched by security with probable cause.
+- the AI may bolt down high-risk areas.
 - Energy guns, laser guns and riot gear are allowed to be given out to security personnel if the HoS or Warden agree.
 
 ## <font color= "red">Code Red - Immediate Threat</font>.
@@ -22,12 +23,13 @@ Maximum alert level. There is an immediate threat to the station or severe damag
 
 - Security can raid departments and arrest any crew member deemed a threat to the station.
 - All station personnel that are not members of Command or Security must remain in their departments.
+- the AI may bolt down any threatened sectors as it sees fit.
 
 ## <font color= "#purple">Code Delta - Imminent Destruction</font>.
 
 The station's self destruct mechanism has been engaged due to overwhelming threat to the station. Martial Law is in effect.
 
-- All orders from Heads of Staff and Security must be followed, any disobedience is punishable.
+- All orders from Heads of Staff and Security must be followed, any disobedience is punishable by death.
 - All crew members are to evacuate immediately, if possible.
 
 
