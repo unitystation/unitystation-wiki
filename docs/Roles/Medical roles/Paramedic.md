@@ -17,3 +17,5 @@ When playing paramedic, there is little if any reason to stick around Medbay. Yo
 In emergency situations, you have, unsurprisingly, among the most important roles of the whole crew. [Security Officers](Security Officer.md) can't fight xenos if they are bleeding out on the floor, and people cant run to evac if their legs have been blown apart. This is where you come in. Unlike the doctors, who will prioritize the dead for cloning the majority of the time, you should instead keep your attention to the injured outside medical and leave the dead for others to haul around. 
 
 Fixing people up at the front line of either a disaster or battle and sending them back off to fight it is typically far more efficient than hauling dead bodies back to Medbay and returning. While you may think that the Paramedic would make a good rescuer when it comes to explosives and breaches, they aren't, and are instead just as likely to keel over responding to them as anyone else. let the engineers and atmos techs with their fancy hardsuits drag the corpses out for you instead and focus on healing those who barely made it out.
+
+{% include 'html/rolesnavbar.md' %}
