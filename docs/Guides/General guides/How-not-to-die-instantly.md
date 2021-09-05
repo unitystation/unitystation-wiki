@@ -20,10 +20,10 @@ Unitystation, like it's predecessor Space Station 13, has an incredibly steep le
 3) If the door you try to open flashed yellow you probably should not go through it, because it's depressurized on the other side.
 
 
-4) If you do need to walk through that door then get a heavy duty suit and preferably mag boots, and an oxygen supply, that requires a mask and a oxygen tank in your hot bar, to enable the supply click the icon on the right.
+4) If you do need to walk through that door then get a heavy duty suit and preferably mag boots, and an oxygen supply, that requires a mask and an oxygen tank in your hot bar, to enable the supply click the icon on the right.
 
 
-5) Do the "tutorial". The "tutorial" step of every round is opening your backpack, getting out the box in your backpack, putting on the oxigen mask from the box to your face slot, getting the oxigen bottle out, putting it on your pocket and enabling the oxigen supply.
+5) Do the "tutorial". The "tutorial" step of every round is opening your backpack, getting out the box in your backpack, putting on the oxygen mask from the box to your face slot, getting the oxygen bottle out, putting it on your pocket and enabling the oxygen supply.
 
 
 6) Learn to do your role, to do so look on the bottom of the [main page](Main-page.md), it contains a guide on (almost) every role in the game.
