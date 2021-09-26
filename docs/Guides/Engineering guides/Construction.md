@@ -1,10 +1,8 @@
 # Construction
 
-Construction and deconstruction are essential tools for Engineers and Traitors alike,
+Construction and deconstruction are essential tools for Engineers and Traitors alike, it is, however, decently intuitive. For most of the buildings, the only thing you must do is activate the required materials in your hand (via pressing z or just clicking them).
 
-The main feature of space station 13 is for any item in the game to be either ordered from the quartermaster, or built with materials.
-
-As this game is a work-in-progress, we're not quite there yet, here are some things you can build and deconstruct, though.
+The main feature of space station 13 is for any item in the game to be either ordered from the quartermaster, or built with materials. As this game is a work-in-progress, we're not quite there yet, here are some things you can build and deconstruct, though.
 
 ## Cloth ![Cloth](stack_objects_sheet-cloth.png)
 
@@ -194,6 +192,11 @@ As this game is a work-in-progress, we're not quite there yet, here are some thi
 
 ## Machines
 
+On how to build most machines:
+![YOUTUBE](L18aKBAsBOA)
+
+On specifically how to build all machines:
+
 | Machine                                                                                            | Parts                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | autolathe <br/> ![autolathe](stationobjs_autolathe.png)                                            | 1 machine base <br/> 1 Autolathe (Machine Board) ![Autolathe (Machine Board)](module_engineering.png) <br/> 1 micro-manipulator ![micro-manipulator](stock_parts_micro_mani.png) <br/>3 matter bin ![matter bin](stock_parts_matter_bin.png) <br/>1 glass ![glass](stack_objects_sheet-glass.png) <br/>                                                                                                                                                                                                       |
@@ -231,9 +234,5 @@ As this game is a work-in-progress, we're not quite there yet, here are some thi
 | Syndicate Donksoft Toy Vendor <br/> ![Syndicate Donksoft Toy Vendor](vending_syndi.png)            | 1 machine base <br/> 1 Syndicate Donksoft Toy Vendor (Machine Board) ![Syndicate Donksoft Toy Vendor (Machine Board)](module_id_mod.png) <br/> 1 glass ![glass](stack_objects_sheet-glass.png) <br/>1 Donksoft Toy Vendor restocking unit ![Donksoft Toy Vendor restocking unit](vending_restock_refill_donksoft.png) <br/>                                                                                                                                                                                   |
 | Toximate 3000 <br/> ![Toximate 3000](vending_generic.png)                                          | 1 machine base <br/> 1 Custom Vendor (Machine Board) ![Custom Vendor (Machine Board)](module_id_mod.png) <br/> 1 glass ![glass](stack_objects_sheet-glass.png) <br/>1 Toximate 3000 restocking unit ![Toximate 3000 restocking unit](vending_restock_refill_smoke.png) <br/>                                                                                                                                                                                                                                  |
 | Vendomat <br/> ![Vendomat](vending_generic.png)                                                    | 1 machine base <br/> 1 Custom Vendor (Machine Board) ![Custom Vendor (Machine Board)](module_id_mod.png) <br/> 1 glass ![glass](stack_objects_sheet-glass.png) <br/>1 Vendomat restocking unit. ![Vendomat restocking unit.](vending_restock_refill_engi.png) <br/>                                                                                                                                                                                                                                           |
-
-### Other machines:
-
-![YOUTUBE](L18aKBAsBOA)
 
 {% include 'html/rolesnavbar.md' %}
