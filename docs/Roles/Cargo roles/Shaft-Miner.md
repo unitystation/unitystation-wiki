@@ -21,15 +21,17 @@ As a Shaft Miner, the station crew expects you to head out into space, mine ores
 
 To assist in your efforts, you get given a multitude of tools: A Mining Hardsuit to protect you from the cold, airless vacuum of space as well as to give you very slight protection against damage; a mining satchel to store ores in; a lantern, since space is dark; and a pickaxe and shovel to mine ores and dig sand out of the asteroid ground. Since you're part of the Cargo department, you're under the supervision of the [Quartermaster](Quartermaster.md), so ask them for help if you're ever confused on what to do. Also, if Cargo is flushed with [Cargo Technicians](Cargo-Technician.md) who know what they are doing, the Quartermaster has their own set of mining gear in their office, and may join you on your adventures in deep space.
 
-You also have a Proto-Kinetic Accelerator, otherwise known as the Shaft Miner's best friend. It is a short range, high-damage, unlimited-use gun that can be used for propulsion in deep space, breaking asteroid rocks, and killing things. Its weaknesses include a slow rate of fire and a short range of 3 tiles.
+## General tips and tricks.
 
-Mining typically begins with five in the locker room and a sixth in the [|QM's](Quartermaster.md) office locker. Two more come in the mining equipment crate purchaseable by the cargo console.
+You also have a Proto-Kinetic Accelerator, otherwise known as the Shaft Miner's best friend. It is a short range, high-damage, unlimited-use gun that can be used for propulsion in deep space, breaking asteroid rocks, and killing things. Its weaknesses include a slow rate of fire and a short range of 3 tiles. Mining typically begins with five in the locker room and a sixth in the [|QM's](Quartermaster.md) office locker. Two more come in the mining equipment crate purchaseable by the cargo console.
+
+When mining with the pickaxe, keep in mind you can mine multiple chunks of rock at the same time as long as they are adjacent to you. This drastically speeds up mining operations. However, that is currently imposible as you need to use your gun for mining. It is recommended that when possible you buy the plasma cutter, as it is much more effective than the Proto-Kinetic Accelerator.
 
 You should also make use of the ore box. Ore boxes are handy, as they reduce the amount of fiddling with equipment. Ore boxes can be dragged behind you as you move to pick up any ore you pull the box over.
 
 In addition to the Common channel, the Shaft Miner's [headset](Headset.md) comes with access to the Supplies channel to communicate with the rest of [Cargo](Cargo-Technician.md), and the Science channel to organize what minerals and ores are needed to conduct R&D (when implemented).
 
-When mining with the pick axe, keep in mind you can mine multiple chunks of rock at the same time as long as they are adjacent to you. This drastically speeds up mining operations.
+## Selling prices.
 
 | Name              | Uses                                                         | Processed Ore Sell Value |  Labor Points Reward |
 | ----------------- | ------------------------------------------------------------ | -------------------- | -------------------- |
@@ -66,8 +68,12 @@ Ore is processed at the **Ore Redemption Machine.** You can load ore into it by 
 
 In the meantime, prepare the Expeditionary Shuttle for launch. In order to fuel the shuttle, you must take the wrench stashed in the engine room and wrench down the plasma canister onto the fuel connector. If your shuttle does not come with a plasma canister, you will have to acquire one from science or atmospherics.
 
-## Go to hell
+## Go to hell.
 
 So, fighting "the perfect organism" covered in spikes and larger than you repeatedley while mining asteroids hurtling through the void isnt enough of a challenge? Well good news, because (so long as the admins enable it) you can go and mine on a world perpetually fogged by ash and covered in lava. This is where the "very hard" rating comes in. If you arent skilled or well prepared, you will die horribly and nobody will find your roasted corpse. If your going to lavaland, its best you go with buds, pack an actual gun, and have practiced kiting with xenos and other beasts. **Note, lavaland is not complete, and does not pose much of a challenge currently.**
+
+## Build a casino.
+
+This is technically optional, but if you plan to not finish the mission instantly, one of the best ways to use the absurd amounts of resources produced by mining is to build a casino. The materials are there to build tables, chairs, dices, weird roulette systems, [clown](Clown.md) hitting contests and more by using the [building](Construction.md) guide. The only limits are your imagination, the amount of money (in the form of items) that your fellow crewmen are able to bet, and the similarity of your operation with certain forms of [Cargonia](Cargonia.md).
 
 {% include 'html/rolesnavbar.md' %}
