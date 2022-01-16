@@ -1,3 +1,4 @@
+
 # Nuclear Operative
 
 ## Overview
@@ -41,31 +42,53 @@ First what you need to do is open your PDA, go to settings, click in the textbox
 | Toy SMG                     |  <font color="blue">5TC</font>  |
 | Surplus Rifle                                  |  <font color="blue">2TC</font>  |
 | Stechkin APS machine pistol                                 |  <font color="blue">10TC</font>  |
+| 84mm Rocket Launcher                                  |  <font color="blue">8TC</font>  |
+| Biohazardous Chemical Sprayer                                  |  <font color="blue">20TC</font>  |r
 | **<font color="red">AMMUNITION</font>**            |                                 |
 | 9mm Pistol Magazine                                |  <font color="blue">1TC</font>  |
 | 9mm Pistol Magazine AP                               |  <font color="blue">2TC</font>  |
+| 9mm Pistol Magazine Incendiary                             |  <font color="blue">2TC</font>  |
+| 9mm Pistol Magazine HP                               |  <font color="blue">2TC</font>  |
 | .357 Speedloader                                   |  <font color="blue">4TC</font>  |
 | 12g buckshot drum                                |  <font color="blue">2TC</font>  |
+| 12g Dragons Breath drum                                |  <font color="blue">2TC</font>  |
 | 12g slug drum                                |  <font color="blue">3TC</font>  |
 | .45 Magazine                                |  <font color="blue">3TC</font>  |
+| .45 Magazine Incendiary                                |  <font color="blue">4TC</font>  |
 | .45 Magazine AP                                |  <font color="blue">5TC</font>  |
 | 7.12 Box Magazine                                |  <font color="blue">6TC</font>  |
+| 7.12 AP Box Magazine                                |  <font color="blue">9TC</font>  |
+| 7.12 Incendiary Box Magazine                                |  <font color="blue">6TC</font>  |
+| 7.12 HP Box Magazine                                |  <font color="blue">6TC</font>  |
+| 7.12 MatchBox Magazine                                |  <font color="blue">9TC</font>  |
 | .50 Sniper Magazine                               |  <font color="blue">4TC</font>  |
+| .50 Penetrator Sniper Magazine                               |  <font color="blue">5TC</font>  |
+| .50 Soporific Sniper Magazine                               |  <font color="blue">6TC</font>  |
 | 5.56 Magazine                                |  <font color="blue">4TC</font>  |
 | 5.56 Magazine Phasic                                |  <font color="blue">8TC</font>  |
+| 40mm Grenade Rounds Box                                |  <font color="blue">6TC</font>  |
+| 84mm HE Rocket                                |  <font color="blue">4TC</font>  |
+| 84mm HEDP Rocket                                |  <font color="blue">6TC</font>  |
 | 9mm stechkin Pistol Magazine                                |  <font color="blue">2TC</font>  |
 | Riot Dart Box                               |  <font color="blue">2TC</font>  |
 | <font color="red">**EXPLOSIVES**</font>            |                                 |
 | Syndicate Minibomb                                 |  <font color="blue">6TC</font>  |
+|  C4                             | <font color="blue">1</font> |
+|  X4                             | <font color="blue">4</font> |
+|  Pizza Bomb                     | <font color="blue">10</font> |
+| Grenadier's Belt | <font color="blue">24</font> |
+| EMP grenade box | <font color="blue">10</font> | 
 | <font color="red">**STEALTHY WEAPONS**</font>      |                                 |
 | Energy Dagger                                      |  <font color="blue">2TC</font>  |
 | Miniature Energy Crossbow                          | <font color="blue">10TC</font>  |
 | Syndicate Holster                                  |  <font color="blue">1TC</font>  |
+|  Suppressor                     | <font color="blue">3TC</font>  |
 | <font color="red">**SUITS**</font>                 |                                 |
 | Syndicate Spacesuit                                |  <font color="blue">4TC</font>  |
 | Syndicate Hardsuit                                 |  <font color="blue">8TC</font>  |
 | Elite Syndicate Hardsuit                                 |  <font color="blue">8TC</font>  |
-| <font color="red">**MSIC. GADGETS**</font>         |                                 |
+| Shielded Hardsuit                                 |  <font color="blue">30TC</font>  |
+| <font color="red">**MISC. GADGETS**</font>         |                                 |
 | Blood-Red Magboots                                 |  <font color="blue">2TC</font>  |
 | Chest Rig                                          |  <font color="blue">1TC</font>  |
 | Cryptographic Sequencer                            |  <font color="blue">6TC</font>  |
@@ -74,6 +97,7 @@ First what you need to do is open your PDA, go to settings, click in the textbox
 | Jaws Of Life                                     |  <font color="blue">4TC</font>  |
 | Syndicate Reinforcement                                 |  <font color="blue">25TC</font>  |
 | Syndicate Soap                                     |  <font color="blue">1TC</font>  |
+|  Surgical Equipment Bundle      | <font color="blue">3TC</font> |
 | <font color="red">**(POINTLESS) BADASSERY**</font> |                                 |
 | Syndicate Balloon                                  | <font color="blue">20TC</font>  |
 | Syndicate Briefcase Full of Cash                   |  <font color="blue">1TC</font>  |
@@ -82,13 +106,17 @@ First what you need to do is open your PDA, go to settings, click in the textbox
 | TC withdrawal (choose 1, 5, 10, or 20)                   |  <font color="blue">varies</font>  |
 | Bioterror Bundle                   |  <font color="blue">30TC</font>  |
 | Bulldozer Bundle                  |  <font color="blue">13TC</font>  |
-| Stalker Bundle                   |  <font color="blue">14TC</font>  |
+| Stalker Bundle                   |  <font color="blue">14TC</font>  | 
 | Sniper Bundle                   |  <font color="blue">20TC</font>  |
-
+| Spetznas Pyro Bundle                   |  <font color="blue">30TC</font>  |
 
 
 ### How to improve
 
 Nuke ops are generally very confrontational. Unlike most traitors you cant use the argument that you mean no harm, as you absolutely do. As such you will spend most of your time running around and shooting things. To get better at this, you can play <s>a catgirl clown</s> [security](Security.md). If your doing this, try being on patrol and responding to shootouts as often as possible. Maybe, just maybe, you could [[So close to impossible that it might as well not even exist|figure out a peaceful approach?]]
+
+### WAR!!!!
+Nuclear operatives are able to declare war on the station, alerting the crew. After doing this, they will slowly gain telecrystals over 20 minutes, to a maximum of 280 TC. 
+
 
 {% include 'html/rolesnavbar.md' %}
