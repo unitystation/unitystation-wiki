@@ -19,6 +19,7 @@ This is a comprehensive list of all items that traitors and Syndicate Operatives
 |  C4  | 1 | Bomb that can put holes in walls. |
 |  X4  | 4 | C4 but more explosive | 
 |  Pizza Bomb | 10 | A bomb concealed in a pizza box | 
+|  EMP grenade box | 10 | Juicy grenades that break electronic equipment. |  
 |  **Stealthy Weapons** |  | Easily concealed and hard to trace weapons. |
 |  Energy Dagger | 2 | A smaller and weaker esword disguised as a pen, can be placed anywhere you can fit a pen. |
 |  Miniature Energy Crossbow | 10 | An (expensive) self charging and easily hideable pocket crossbow that stuns and poisions those it hits. basically a self charging concealable tazer. |
