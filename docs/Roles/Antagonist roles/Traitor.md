@@ -7,102 +7,67 @@
 Traitor is one of the three types of Antagonist roles that can spawn, with the other two currently in the game being [Nuke Ops](Nuclear-Emergency.md) and [Cargonia](Cargonia.md).
 
 
-### MISSION SPECIFICATION DECRYPTED. WELCOME, SYNDICATE AGENT.
+### MISSION SPECIFICATIONS DECRYPTED. WELCOME TO THE SYNDICATE.
 
-As a Traitor, you spawn as the role you selected, with no visual distinction from everyone else. However, you are massively different from any other crew member: You're part of the [Syndicate](Groups.md). Maybe you're a hardcore follower of the Syndicate ways; maybe you're just some poor sap who was in the wrong place at the wrong time. Either way, you have one job: [|Complete your objectives without giving away your true identity.](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)
+As a Traitor, you spawn as the station role you selected, with no visual distinction from everyone else. However, you are massively different from any other crew member: You're part of the [Syndicate](Groups.md). Maybe you're a hardcore follower of the Syndicate ways; maybe you've just got a score to settle; or maybe you're just some poor sap who was in the wrong place at the wrong time and now you've been blackmailed into service. Whatever your motivation is, you have one job: [Complete your assigned objectives.](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)
 
-Traitors get 3 objectives, shown at the round start in the chat: Steal a random high-tier item, assassinate a random crew member (often a department head), and survive untill the end of the round. An example of what your objectives could be:
+Traitors get 3 objectives, shown at the round start in the chat: Steal a random high-tier item, assassinate a random crew member (often a department head), and survive until the end of the round. An example of what your objectives could be:
 
 - Steal the Chain of Command (found in the captain's quarters)
 - Assassinate Mr. Engineering man sir, [Chief Engineer](Chief-Engineer.md)
 - Escape on the [Emergency Shuttle](Emergency-Shuttle.md) alive
 
-## Getting weapons and other stuff from your magic PDA
+Remember, if you ever need a reminder of what they are (or need to remember your uplink code) hit the objective reminder button at the top of the screen. It looks like a pair of bloody shoes.
 
-At the start of your round as traitor, you will be given a password that you must put on the ringtone changer in your PDA, that password is usually composed of three NATO alphabet letters separated by dashes, another dash and three numbers. When you open your PDA, you go to options and below where it says ringtone changer you enter the password. Then, you will get to a screen that has weapons. Be sure to have your off hand empty and the items you select will be teleported there. However, the items cost credits, and you have only 20 of those to start.
+## Buying weapons and equipment from the Telecrystal Uplink
+
+One of the most important items to you as a traitor is your PDA. In order to assist in your mission, the syndicate have incorporated an uplink that allows you to purchase a limited selection from a large list of weapons and tools.
+
+At the start of your round as traitor, you will be given a *case-sensitive* password composed of a NATO alphabet letter and three numbers that you put on the ringtone changer under the options menu in your PDA. You will get to a screen that has weapons. Be sure to have your off hand empty or the items you purchase will drop onto the floor. However, the items cost a special finite resource called telecrystals (TC), and you have only 20 to spend, so make your purchases carefully. 
+
+Acquiring more TC is functionally improbable, as it requires you to kill another traitor who has their own uplink *still unlocked* and *they haven't spent it all.*
+
+###### To see what's available to buy and some general footnotes about the items, go [here.](Syndicate Items.md)
 
 
 
-| <font color="red">Conspicuous Weapons</font>       | <font color="blue">Price</font> |
-| -------------------------------------------------- | :-----------------------------: |
-| Makarov 9mm Pistol                                 |  <font color="blue">7TC</font>  |
-| Energy Sword                                       |  <font color="blue">8TC</font>  |
-| Lucifer .357 Magnum Revolver 8                     |  <font color="blue">9TC</font>  |
-| Reverse Revolver                                   |  <font color="blue">8TC</font>  |
-| **<font color="red">AMMUNITION</font>**            |                                 |
-| 9mm Pistol Magazine                                |  <font color="blue">1TC</font>  |
-| 9mm Pistol Magazine AP                                |  <font color="blue">2TC</font>  |
-| .357 Speedloader                                   |  <font color="blue">4TC</font>  |
-| <font color="red">**EXPLOSIVES**</font>            |                                 |
-| Syndicate Minibomb                                 |  <font color="blue">6TC</font>  |
-| <font color="red">**STEALTHY WEAPONS**</font>      |                                 |
-| Energy Dagger                                      |  <font color="blue">2TC</font>  |
-| Miniature Energy Crossbow                          | <font color="blue">10TC</font>  |
-| Supressor                          | <font color="blue">3TC</font>  |
-| Syndicate Holster                                  |  <font color="blue">1TC</font>  |
-| <font color="red">**SUITS**</font>                 |                                 |
-| Syndicate Spacesuit                                |  <font color="blue">4TC</font>  |
-| Syndicate Hardsuit                                 |  <font color="blue">8TC</font>  |
-| <font color="red">**MSIC. GADGETS**</font>         |                                 |
-| Blood-Red Magboots                                 |  <font color="blue">2TC</font>  |
-| Chest Rig                                          |  <font color="blue">1TC</font>  |
-| Cryptographic Sequencer                            |  <font color="blue">6TC</font>  |
-| Full Syndicate Toolbox                             |  <font color="blue">1TC</font>  |
-| Syndicate Soap                                     |                                 |
-| <font color="red">**(POINTLESS) BADASSERY**</font> |                                 |
-| Syndicate Balloon                                  | <font color="blue">20TC</font>  |
-| Syndicate Briefcase Full of Cash                   |  <font color="blue">1TC</font>  |
-| Syndicate Smokes (cigarette)                       |  <font color="blue">2TC</font>  |
-| <font color="red">**Bundles**</font>               |                                 |
-| N/A                                                |                                 |
+## [Theft](High-Risk-Items.md) objectives
 
-## The treachery tricks
+Often one or both of your objectives requires you to steal something. How hard this is depends on the item and whether the job that starts with it is filled by another player. 
 
-As a traitor, you must kill a person and get an item. In small rounds (little players, not all the roles covered), that means entering a high security area and sooting down a locker and killing someone. In big rounds it means killing a higher up and praying they have their item on them, and then killing some random dude. As the higher ups are usually at least half competent at the game, this is a hard task, not even taking into account security. However, there are some things you can do:
+Theft objectives will often require you to break into secure areas or to steal the items directly off of other players. Sometimes it will be shockingly easy, easier than taking candy from a baby. Other times it will be [so impossible](So-close-to-impossible-that-it-might-as-well-not-even-exist.md) that you should probably take the L and try to have fun getting up to shenanigans with your exclusive traitor items. It all depends on what state the station is in and how many players are alive. Still, woe betide anyone who gets the objective `steal the Justitia.`
 
-### Get a gun
+###### to see a complete list of steal objects you can expect to get, take a look at the [High Risk Items](High-Risk-Items.md) page.
 
-The basic p90 pistol and as much ammo as you can is the blind pick, however you can also go with the more expensive gun and its ammo (im not sure if it works tho). If you manage to get the Justitia or the Imperitor, don't use them, they don't work for you because of a thing of access that I have no idea of how it works, but you will probably need their keycards or something. Also try to get as much ammo as you can, because it is really hard to get some on most stations.
-If you run out of bullets DO NOT BUY ANOTHER GUN, the ammo boxes are way cheaper and have more rounds.
+## Murder objectives
 
-### Don't spend all of your money
+Another common objective is to murder a particular crewmember on the station. Sometimes this can be challenging, but engineering someone's death can often be as simple as asking them to come to your office to look at this 'problem' and then shooting them in the back of the head with a silenced makarov. The harder part is usually getting away with it, especially if you commit the murder early in the round. 
 
-Its UnityStation, you never know what is going to happen. You may have lost your gun or you just ran out of ammo. Usually saving money for later wont kill you, but not having any might.
+Honestly, one of the best pieces of advice to take to heart with murder objectives it to take your time, play it safe, build up a relationship with the target and other gullible crewmembers, and waiting for a perfect time to strike. Heck, given how a typical round of UnityStation goes, it's likely that after a long enough amount of time, they will have died to some other threat on the station, taking care of your objective for you. When that happens, just ensure that they *stay dead.* If their body ends up being brought to medical, they will likely get revived or cloned, which will set you back to square one.
 
-### Get access
+## General Tips: 
 
-Your first task is to either get as much access as you can through the HoP, getting or stealing a card with all access or in the worst case getting a wire cutter, some wires and a screwdriver and start hacking open some doors. You need to go to all the places you can to get your items, and the captain's bedroom may be the place you need to be.
+#### Consider saving some TC for a rainy day.
 
-### Make others grief
+Its UnityStation, you never know what is going to happen. You may have lost your gun or you just ran out of ammo. Maybe you're trapped in a rapidly deteriorating station and all you need is a toolbox to hack yourself out of a depowered room. Not spending all of your TC at once will lend you some valuable flexibility in the late game. 
 
-As a traitor, your best trait is not that you can grief, but that you can make others grief. Recruit some people and be amazed of how many of them are willing to join the syndicate. People like to grief, and you are giving them the ultimate excuse to grief others, treachery. This works even in HRP servers of hardcore ss13, and will often go unpunished because of the power of friendship. Remember to try to convince people 1 on 1 if you can. I don't know why, but it seems to work best. Also beware, now they are traitors just as you, and they may betray you as well.
+#### Acquire access.
 
-### Be polite
+One great way to improve your odds of success is to acquire additional access, either through the proper way of asking the [Head of Personnel](Head-of_Personnel.md) to upgrade your clearance or by more nefarious means such as stealing another person's ID card. You need to go to all the places you can to get your items, and the captain's bedroom may be the place you need to break into to complete your objectives, and it's a lot easier and less conspicuous to get in there with an ID card than by hacking or emagging the door or by cutting through the walls.
 
-This may be the best advice you can take. Somehow, if you are polite people can even turn a blind eye on you TRYING TO MURDER THEM if they are not entirely aware of your status as a traitor. If there is no shitcurity this round, they are going to pick the mean guy, and you are not the mean guy, BECAUSE YOU ARE POLITE. You are a traitor, so you will have to betray them, but you can make them WANT to be betrayed, because you are such a nice guy, mostly because they are role playing, and you are making them feel better being betrayed than not.
+#### Be polite
 
-### Go for that kill, but not in public
+This may be the best advice you can take. Somehow, if you are polite people can even turn a blind eye on you *trying to murder them* if they are not entirely aware of your status as a traitor. When people start to look for others to blame, they are inclined to pick the mean guy, so being friendly, helpful, and generally cooperative can often set you up for success under quite incriminating circumstances. 
 
-Get a good RP reason to make people you want to kill to be alone with you when you want to kill them and where you want to kill them. Preferably when the rest of the station is in chaos. You should space the person you killed if you can, because if they are cloned they may start "remembering" stuff from their past life.
+This can extend even as far as when you've already been captured and brigged, as a positive and understanding attitude can keep your sentence short. Please, if you are lucky enough to have a [lawyer](Lawyer.md) available to you, *consult with them. They are your best chance at avoiding a permanent sentence or execution. They might even get your charges completely thrown out on occasion.* 
 
-### Go fast
+#### Miscellaneous tips:
 
-Lag and people being distracted makes swift and effective actions often go unnoticed. If you are lucky and fast enough, you may even go through the entire command room, get to the captain bedroom and loot everything without being noticed.
+- Most security firearms are equipped with ID locked electronic firing pins which will not allow you to shoot their weapons without having security clearance. This makes stealing their gear an unreliable strategy. There are a few notable exceptions, such as the stun baton, which is a very effective ambush weapon that you should steal if you can manage it. Handcuffs are another good pick.
+- Never underestimate the power of slippables like banana peels and soap. Many haughty crewmembers have met their end at the hands of a Clown dragging around a peel behind him, only to be bludgeoned into unconsciousness while down and thrown into space.
+- You can impersonate another person by wearing a face covering and putting on their ID card. Talking will give away your identity in chat, but as long as you stay silent, you will identify as whatever name is recorded on the ID. Wearing a space suit or some other total body covering will help sell the false identity even further.
+- Even if it seems like you are alone, beware of security cameras. If there's an active [statiom AI,](Station-AI.md) it's impossible to predict when they have their eye on you and when they don't. Do your dirty business out of sight, such as in maintenance tunnels or, if you must, disable security cameras in the areas you have to operate in. Disabling cameras is risky, though, as they or another bystander might see you do it. The new blind spot might catch the AI's attention as well.
 
-### Just shoot
 
-People don't give a fuck about hearing a gunshot, its unitystation, thats part of the job and as long as you haven't seen any traitors shooting, the shot is far and not important. This is not among us and probably no one is going to check who was the "big bad traitor who killed my buddy", so don't wait for it, make your moment and role play your way out. This may not be Dwarf Fortress since losing is not fun always, but it can be if you get permajailed after a really good phoenix wright simulator in a space station.
-
-### Helpful locations and how to get there
-
-- The lockers have to be shot down if you want to get whats inside of them and don't have access. Get a gun.
-- The Justitia is the HoS big laser gun and is on his locker on his office on security. He should have it on himself at all times (unless he´s VERY incompetent)
-- The Imperator is the Capitan's big laser gun and is on his locker on his bedroom on command. This gun is actually pretty good but not flawless nor critical to his role, so the captain should have it on himself but not always.
-- The chain of command is a chain whip on the captain's bedroom, he may or may not have it on him.
-- The nuclear disk is the thing you use to turn on the nuke to the side of the captain's bedroom (you also need a password, so don't try it unless you are nuke ops or similar). Its in the captain's bedroom, but he probably already took it.
-
-## Grief and have fun
-
-If you don't want to do any hard work and just want to grief like a boss, you can. You are a traitor, anyway, so you can always argue its to "get your objectives done", because you need chaos to do so, and unitystation is always chaos (at least it should work in a MRP server). Kill that clown because you don't like him and BECOME the clown. Steal a plasma canister and blow half the station to pieces. You name it. You are the bad guy, you can always just roleplay a dick, but expect security to get you and put you into jail, or to die to the people you are trying to grief.
 
 {% include 'html/rolesnavbar.md' %}
