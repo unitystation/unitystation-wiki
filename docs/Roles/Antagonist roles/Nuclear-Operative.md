@@ -9,114 +9,40 @@ Ten Hut! You have been hand picked by the [Syndicate](Groups.md) to join an elit
 
 ### How to get started
 
+As a nuke operative you will spawn at the Syndicate base or near a When you have made your plan, board the syndicate shuttle and head off towards the station (which is near 0,0. Use your nuke disk pinpointers if you need extra guidance). 
 
-As a nuke operative you will spawn aboard or near a Syndicate shuttle. This shuttle contains most of your equipment and will serve as your transport over to the station. Protect it with your life! It contains the nuke, the very thing you need to complete your mission, which cant be moved until you have almost won, as well as more guns than the crew has likely ever seen! Said guns are located in red lockers throughout the shuttle itself, alongside with your signature red hard-suit, helmet, and boots. along with these the shuttle contains plasma canisters, grenades, and oxygen gear vital for keeping you alive in the vacuum of space. Many a new nukie has died in the cold airless void because they forgot to put on a mask.
+The shuttle contains the nuke, the very thing you need to complete your mission, as well as lots of useful equipment that boarding station personnel could easily turn on you. The shuttle also has a small dedicated medical bay which comes with the furnishings to treat wounds and perform surgery. It also has oxygen gear vital for keeping you alive in the vacuum of space. Many a new nukie has died out in the cold airless void because they forgot to turn on their internals.
 
 ### Your gear and you
 
+The stock nukie gear consists of your uniform, night vision goggles, hardsuit helm, a syndicate mask, your signature red hardsuit, a pair of red magboots or black jackboots, your headset, gloves, an oxygen tank, a stalker SMG, a PDA which has your telecrystal uplink, and your trusty stetchkin pistol. 
 
-The typical nukie gear consists of your uniform, night vision goggles, hardsuit helm, a syndicate mask, your signature red hardsuit, a pair of red magboots or a pair of black jackboots, your headset, gloves, an oxygen tank, a c20r smg, telecommunication uplink, and your trusty stetchkin pistol. Your night vision does exactly what youd expect, letting you see in dark areas. The hardsuit helm and torso pieces make you immune to the cold and pressure, while offering very decent protection against weapons and explosives. You are not invincible in these however, and getting shot will still hurt. The headset doesn't let you hear the crew, but it does give you access to your own syndicate channel. The c20r will be your main offensive weapon, it is fully automatic and comparable to security's own p90, be sure to bring extra ammo for it, as it burns through magazines rapidly. the stetchkin is a small but scrappy fallback pistol. Use it if you've run out of other ammo or wish to conserve it. It is better than the security pistol but that isn't saying much. One of the best uses for the pistol, however, is getting someone out of the way, as one or two shots will usually send any unarmed crew member running. All this gear can be used along with more specialized tools, such as grenades for flushing out crew or a machine-gun for true rip-and-tear action. Be creative with your gear and strategize before hand, its how you'll win! speaking of which:
+Your night vision does exactly what youd expect, letting you see in dark areas. The hardsuit helm and torso pieces make you immune to the cold and pressure, while offering very decent protection against weapons and explosives. You are not invincible in these however, and getting shot will still hurt. The headset doesn't let you hear the crew, but it does give you access to your own syndicate channel. 
+
+The Stalker will be your main offensive weapon unless you choose to [buy something else](Syndicate Items.md) to replace it. Be sure to bring extra ammo for it, as it burns through magazines rapidly. 
+
+The stetchkin is a small but scrappy fallback pistol. Use it if you've run out of other ammo or wish to conserve it. One of the best uses for the pistol, however, is getting someone out of the way, as one or two shots will usually send any unarmed crew member running. Be creative with your gear and strategize before hand, its how you'll win! speaking of which:
 
 ### How to do your job
 
-You need to get the [Nuclear Authentication Disk](Nuclear-Authentication-Disk.md). The pinpointer in your pack will show a large arrow pointing directly to it. plan with your fellow operatives as to how you'll approach it, will you infiltrate stealthily as miners, sneak up and blow open a wall to surprise security, or ram the shuttle directly into the station? <s>Once</s> If you get the disk, you will need to bring it back to nuke and insert it in. Enter the code you got at roundstart, unlock it, drag it over to the station, start the timer, and run like hell!
+You need to get the [Nuclear Authentication Disk](Nuclear-Authentication-Disk.md). The pinpointer in your pack will show a large arrow pointing directly to it. plan with your fellow operatives as to how you'll approach it, will you infiltrate stealthily as miners, sneak up and blow open a wall to surprise security, or ram the shuttle directly into the station? <s>Once</s> *If* you get the disk, you will need to bring it back to nuke and insert it in. Enter the code you got at roundstart, unlock it, drag it over to the station, start the timer, and run like hell!
 
 ###  How to use TC Shop
 
-First what you need to do is open your PDA, go to settings, click in the textbox underneath "Change Ringtone" and type in that ***case sensitive*** code you see in chat. The code should look something like **"Echo-Hotel-Kilo-350"** Don't forget the code, not even an admin can get it back without respawning you (as of version 4116). You have a max of 20TC per round.
+First what you need to do is open your PDA, go to settings, click in the textbox underneath "Change Ringtone" and type in that ***case sensitive*** code you see in chat. The code should look something like **"Kilo-350"**. If you forget your code, you can hit the antagonist objective reminder button near the top of your screen to get a reminder what your code was. 
 
+As an operative, You start with 25TC, but you can acquire more if you declare war on the syndicate operations console. Go to the [Syndicate Items](Syndicate Items.md) page to see what you can buy. As a nuclear Operative, you get many extra options that traitors don't have access to.
 
+### This means WAR!!!
+Before you leave the base to make your attack, you have the option to declare war on the station. This is done on the Syndicate Operations Console. Prepare a threatening message and hit the big red button to declare war.
 
-| <font color="red">Conspicuous Weapons</font>       | <font color="blue">Price</font> |
-| -------------------------------------------------- | :-----------------------------: |
-| makarov 9mm Pistol                                 |  <font color="blue">7TC</font>  |
-| Energy Sword                                       |  <font color="blue">8TC</font>  |
-| Lucifer .357 Magnum Revolver 8                     |  <font color="blue">12TC</font>  |
-| Reverse Revolver                                   |  <font color="blue">8TC</font>  |
-| Stalker SMG                                |  <font color="blue">10TC</font>  |
-| Bulldozer shotgun                                       |  <font color="blue">8TC</font>  |
-| M90-gl carbine                     |  <font color="blue">18TC</font>  |
-| Buzzsaw LMG                                   |  <font color="blue">18TC</font>  |
-| Migraine .50 cal sniper rifle                                 |  <font color="blue">16TC</font>  |
-| Toy LMG                                       |  <font color="blue">10TC</font>  |
-| Toy SMG                     |  <font color="blue">5TC</font>  |
-| Surplus Rifle                                  |  <font color="blue">2TC</font>  |
-| Stechkin APS machine pistol                                 |  <font color="blue">10TC</font>  |
-| 84mm Rocket Launcher                                  |  <font color="blue">8TC</font>  |
-| Biohazardous Chemical Sprayer                                  |  <font color="blue">20TC</font>  |r
-| **<font color="red">AMMUNITION</font>**            |                                 |
-| 9mm Pistol Magazine                                |  <font color="blue">1TC</font>  |
-| 9mm Pistol Magazine AP                               |  <font color="blue">2TC</font>  |
-| 9mm Pistol Magazine Incendiary                             |  <font color="blue">2TC</font>  |
-| 9mm Pistol Magazine HP                               |  <font color="blue">2TC</font>  |
-| .357 Speedloader                                   |  <font color="blue">4TC</font>  |
-| 12g buckshot drum                                |  <font color="blue">2TC</font>  |
-| 12g Dragons Breath drum                                |  <font color="blue">2TC</font>  |
-| 12g slug drum                                |  <font color="blue">3TC</font>  |
-| .45 Magazine                                |  <font color="blue">3TC</font>  |
-| .45 Magazine Incendiary                                |  <font color="blue">4TC</font>  |
-| .45 Magazine AP                                |  <font color="blue">5TC</font>  |
-| 7.12 Box Magazine                                |  <font color="blue">6TC</font>  |
-| 7.12 AP Box Magazine                                |  <font color="blue">9TC</font>  |
-| 7.12 Incendiary Box Magazine                                |  <font color="blue">6TC</font>  |
-| 7.12 HP Box Magazine                                |  <font color="blue">6TC</font>  |
-| 7.12 MatchBox Magazine                                |  <font color="blue">9TC</font>  |
-| .50 Sniper Magazine                               |  <font color="blue">4TC</font>  |
-| .50 Penetrator Sniper Magazine                               |  <font color="blue">5TC</font>  |
-| .50 Soporific Sniper Magazine                               |  <font color="blue">6TC</font>  |
-| 5.56 Magazine                                |  <font color="blue">4TC</font>  |
-| 5.56 Magazine Phasic                                |  <font color="blue">8TC</font>  |
-| 40mm Grenade Rounds Box                                |  <font color="blue">6TC</font>  |
-| 84mm HE Rocket                                |  <font color="blue">4TC</font>  |
-| 84mm HEDP Rocket                                |  <font color="blue">6TC</font>  |
-| 9mm stechkin Pistol Magazine                                |  <font color="blue">2TC</font>  |
-| Riot Dart Box                               |  <font color="blue">2TC</font>  |
-| <font color="red">**EXPLOSIVES**</font>            |                                 |
-| Syndicate Minibomb                                 |  <font color="blue">6TC</font>  |
-|  C4                             | <font color="blue">1</font> |
-|  X4                             | <font color="blue">4</font> |
-|  Pizza Bomb                     | <font color="blue">10</font> |
-| Grenadier's Belt | <font color="blue">24</font> |
-| EMP grenade box | <font color="blue">10</font> | 
-| <font color="red">**STEALTHY WEAPONS**</font>      |                                 |
-| Energy Dagger                                      |  <font color="blue">2TC</font>  |
-| Miniature Energy Crossbow                          | <font color="blue">10TC</font>  |
-| Syndicate Holster                                  |  <font color="blue">1TC</font>  |
-|  Suppressor                     | <font color="blue">3TC</font>  |
-| <font color="red">**SUITS**</font>                 |                                 |
-| Syndicate Spacesuit                                |  <font color="blue">4TC</font>  |
-| Syndicate Hardsuit                                 |  <font color="blue">8TC</font>  |
-| Elite Syndicate Hardsuit                                 |  <font color="blue">8TC</font>  |
-| Shielded Hardsuit                                 |  <font color="blue">30TC</font>  |
-| <font color="red">**MISC. GADGETS**</font>         |                                 |
-| Blood-Red Magboots                                 |  <font color="blue">2TC</font>  |
-| Chest Rig                                          |  <font color="blue">1TC</font>  |
-| Cryptographic Sequencer                            |  <font color="blue">6TC</font>  |
-| Full Syndicate Toolbox                             |  <font color="blue">1TC</font>  |
-| Syndicate Soap                                     |  <font color="blue">1TC</font>  |
-| Jaws Of Life                                     |  <font color="blue">4TC</font>  |
-| Syndicate Reinforcement                                 |  <font color="blue">25TC</font>  |
-| Syndicate Soap                                     |  <font color="blue">1TC</font>  |
-|  Surgical Equipment Bundle      | <font color="blue">3TC</font> |
-| <font color="red">**(POINTLESS) BADASSERY**</font> |                                 |
-| Syndicate Balloon                                  | <font color="blue">20TC</font>  |
-| Syndicate Briefcase Full of Cash                   |  <font color="blue">1TC</font>  |
-| Syndicate Smokes (cigarette)                       |  <font color="blue">2TC</font>  |
-| <font color="red">**Bundles**</font>               |                                 |
-| TC withdrawal (choose 1, 5, 10, or 20)                   |  <font color="blue">varies</font>  |
-| Bioterror Bundle                   |  <font color="blue">30TC</font>  |
-| Bulldozer Bundle                  |  <font color="blue">13TC</font>  |
-| Stalker Bundle                   |  <font color="blue">14TC</font>  | 
-| Sniper Bundle                   |  <font color="blue">20TC</font>  |
-| Spetznas Pyro Bundle                   |  <font color="blue">30TC</font>  |
+Declaring war takes away one of your largest advantages because the entire station now knows you are coming, letting them prepare defenses against you. The advantage you get for doing so is a lot a of bonus TC; Near the operations console will be a few TC Withdrawal stations, each of which will dispense extra TC every minute for 20 minutes, giving you a total of 280TC extra to buy loads of fun equipment you can't normally afford to buy. 
 
+There is no requirement to wait until the full 280TC has been dispensed, and it is advised that once you've made all the purchases you want, start heading for the station ASAP, as the longer you wait, the more time they have to prepare for your arrival.
 
 ### How to improve
 
-Nuke ops are generally very confrontational. Unlike most traitors you cant use the argument that you mean no harm, as you absolutely do. As such you will spend most of your time running around and shooting things. To get better at this, you can play <s>a catgirl clown</s> [security](Security.md). If your doing this, try being on patrol and responding to shootouts as often as possible. Maybe, just maybe, you could [[So close to impossible that it might as well not even exist|figure out a peaceful approach?]]
-
-### WAR!!!!
-Nuclear operatives are able to declare war on the station, alerting the crew. After doing this, they will slowly gain telecrystals over 20 minutes, to a maximum of 280 TC. 
+Nuke Ops is generally a very confrontational gamemode. Unlike traitors, you cant use the argument that you mean no harm, as you absolutely do. As such you will spend most of your time running around and shooting things, though if you are very smart about it, you can go for the sneaky route. To get better at the running and gunning, you can play <s>a catgirl clown</s> [security](Security.md). Go on patrol and respond to shootouts as often as possible. Or, if you are the diplomatic type, maybe, just maybe, you could [figure out a peaceful approach?](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)
 
 
 {% include 'html/rolesnavbar.md' %}
