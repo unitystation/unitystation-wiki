@@ -6,7 +6,7 @@ You are the wall between law and the suspect, it's in your hands to see that eve
 
 ### How to
 
-Frankly - opportunities will present themselves to you, just hang around near the action, or security if there's no action. Make to have your [Space Law](Space-Law.md) book handy at all times, the satisfaction of playing the role comes when you successfully null and void any and all accusations thrown at your defendant. But most of the time you have to enjoy the little things, like term shortening or getting the [guards](Security.md) to not break the [Geneva Conventio](https://en.wikipedia.org/wiki/Geneva_Conventions). 
+Frankly - opportunities will present themselves to you, just hang around near the action, or security if there's no action. Make to have your [Space Law](Space-Law.md) book handy at all times, the satisfaction of playing the role comes when you successfully null and void any and all accusations thrown at your defendant. But most of the time you have to enjoy the little things, like term shortening or getting the [guards](Security.md) to not break the [Geneva Conventions](https://en.wikipedia.org/wiki/Geneva_Conventions). 
 
 ## How court should go
 
