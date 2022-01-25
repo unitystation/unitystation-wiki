@@ -23,17 +23,11 @@ Even if many people think this job is more of a farm simulator rather than a tru
 
 
 At the moment, the amount of things the botanist can do is limited. Grow apples to supplement the hunger for meat and grow wheat so the [Cook](Cook.md) can blend it into flour for burgers. When civil station life [disintegrates](Battle-royale.md), grow bananas and lay a minefield of peels around your turf to dissuade attackers. If you're an [Antagonist](Antagonist.md), you should mass produce as many lemons as you can, destroying the plants after each harvest and planting new ones from your yield or simply using unstable mutagen with a non-help intent to get mass producible grenades. 
-| Plant | Consumable | Blendability |
-|----|----|----|
-| Apple | Consumable (80 nutrition) | No |
-| Lemon | Consumable (60 nutrition) | No |
-| Tomato | Consumable (60 nutrition) | Produces 2u ketchup |
-| Banana | Consumable, leaves banana peel | No |
-| Rice plant | Consumable | Produces 2u rice |
-| Wheat | Consumable | Produces 2u flour |
-| Potato | Consumable | No |
-| Onion | Consumable | No |
-| Sugar cane | Consumable | Produces 2u sugar |
-| Tower Cap Mycelium | Makes woods logs; can be processed into wood planks with hatchet | No |
+
+### The traitor botanist
+
+Time to eschew the hippie crap; how do you best utilize the art of hydroponics to complete your nefarious traitor objectives?
+
+if you are lucky and fast you have access to many horrifying things: bluespace bananas, gatfruit, and lemon-nades being your most powerful plants available currently. Unless you set up a secret garden it will be extremely obvious which horrors you're growing, but often no one really cares about botany.
 
 {% include 'html/rolesnavbar.md' %}
