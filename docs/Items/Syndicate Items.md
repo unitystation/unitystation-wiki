@@ -49,7 +49,7 @@ Some items are only available to [Nuclear Operatives.](Nuclear-Operative.md)
 | Category/Name                                    | Description                                                  | TC cost |
 | ------------------------------------------------ | ------------------------------------------------------------ | ------- |
 | **<font color="red">CONSPICUOUS WEAPONS</font>** | Obvious and hard to hide weapons.                            |         |
-| Stalker SMG                                      | A .45 cal SMG. Hits pretty hard                              | 10TC    |
+| Stalker SMG                                      | Your stock firepower, a .45 cal SMG with a 24 round capacity. Hits pretty hard and comes with a syndicate electronic firing pin, which prevents enemies from using it. Additional magazines are pretty affordable, making this the obvious budget option (no price better than free!). | 10TC    |
 | Bulldozer shotgun                                | A drum-fed shotgun with a decent rate of fire. It accepts many different ammunition types, but the standard buckshot load is perhaps the deadliest one available to you. | 8TC     |
 | M90-gl carbine                                   | A strange 5.56 carbine with a high rate of fire and a currently non-functional under-barrel grenade launcher. Unremarkable without that grenade launcher, unfortunately, save for a very peculiar optional ammo type; 5.56 Phasic ammo. This ammo currently has some of the high armor penetration of any weapon in the game at 70%. Sadly, you can't get it with the carbine without declaring war or getting a fellow operative to donate 1TC to you. | 18TC    |
 | Buzzsaw LMG                                      | High capacity pain. This LMG fires fast, hits like a truck at 40 damage a bullet, and holds 50 rounds per magazine, making it one of the nastiest weapons available to you, especially if you invest in some of the alternate ammo types. | 18TC    |
@@ -57,11 +57,11 @@ Some items are only available to [Nuclear Operatives.](Nuclear-Operative.md)
 | Toy LMG                                          | A toy buzzsaw that fires donksoft darts                      | 10TC    |
 | Toy SMG                                          | A toy stalker that fires donksoft darts                      | 5TC     |
 | Surplus Rifle                                    | A cheap piece of trash that isn't particularly effective, but for the TC spent, It provides some value. Your free stalker is *signficantly* more effective and it's free, though, so don't buy this unless you're looking to meme around. | 2TC     |
-| Stechkin APS machine Pistol                      | An automatic 9mm pistol. Similar overall effectiveness to the Makarov, but definitely more fun to use. | 10TC    |
+| Stechkin APS machine Pistol                      | An automatic 9mm pistol. Similar overall effectiveness to the Makarov at a higher price, but definitely more fun to use. | 10TC    |
 | 84mm Rocket Launcher                             | A reloadable rocket launcher preloaded with an 84mm HE rocket grenade. With a very large blast radius, a potent weapon versus crowds. the alternate HEDP rocket also has utility for  taking out heavily armored targets. | 8TC     |
 | Biohazardous chemical Sprayer                    | A currently semi-functional tool. Chemicals are in an awkward state, balance wise, so this item isn't recommended for use just yet. | 20TC    |
 | **<font color="red">AMMUNITION</font>**          | Ammo for Operative exclusive weapons                         |         |
-| 12g buckshot drum                                | Powerful, and the spread makes it hard to dodge.             | 2TC     |
+| 12g buckshot drum                                | Powerful, and the spread makes it hard to dodge. Two full volleys of buckshot will down an unarmored target, but your average [Security Officer](security-officer.md) will take three. | 2TC     |
 | 12g Dragons Breath drum                          | the *fun* option. fires 4 low-damage flaming projectiles. A great option for sowing panic. While you are unlikely to drop people with dragon's breath, you will definitely distract them, and likely force a retreat so they can put themselves out. Repeatedly shooting people with dragon's breath isn't a very effective use of the ammo as a single shell will apply 4 firestacks to them, and characters can only receive 5 firestacks at a given time. Since they can't put themselves out, a single shell will eventually burn a critted player to death if they don't have any fire protection, as the damage potential is over 100. | 2TC     |
 | 12g slug drum                                    | Fires a single slug that deals slightly less total damage than buckshot, but has 20% armor penetration and a higher projectile velocity, so if you are facing armored targets or are fighting over distance, consider picking this. | 3TC     |
 | .45 Magazine                                     | An extra magazine for the stalker SMG. Grab a few of these if you plan to stick with it. | 3TC     |
@@ -77,7 +77,7 @@ Some items are only available to [Nuclear Operatives.](Nuclear-Operative.md)
 | 40mm Grenade Rounds Box                          | without access to a grenade launcher, pass on this for now.  | 6TC     |
 | 84mm HE Rocket                                   | a high damage, wide blast area rocket. Use versus crowds. Also ensure that you have a space suit on because it will definitely punch a hole through the station. | 4TC     |
 | 84mm HEDP Rocket                                 | Doesn't have a very good use case (yet!). It does have high AP effects on the rocket's impact point, but because most of its damage is bomb damage, it's not even very good against centcom forces. | 6TC     |
-| 9mm stechkin Pistol Magazine                     | More ammo for the fancy sidearm.                             | 2TC     |
+| 9mm stechkin Pistol Magazine                     | 15 round magazine for the fancy 9mm sidearm.                 | 2TC     |
 | Riot Dart Box                                    | ammo for the dart guns.                                      | 2TC     |
 | <font color="red">**EXPLOSIVES**</font>          | Operative exclusive explosive items, used for AOE damage or destruction of important objects. |         |
 | Grenadier's Belt                                 | Very expensive, but if you are planning to buy a lot of grenades, this belt provides good savings. Comes with 2 minibombs, 6 grenades, 2 EMP grenades, a multitool, and an evil screwdriver. | 24TC    |
@@ -92,7 +92,7 @@ Some items are only available to [Nuclear Operatives.](Nuclear-Operative.md)
 | Bioterror bundle                                 | Currently not worth getting as chemistry is underdeveloped. 12 TC saved. | 30TC    |
 | Bulldozer bundle                                 | Comes with a Bulldozer shotgun, a 12g *stun* slug drum and buckshot drum. Stun slugs are a useful way to get stuns if you need to take someone alive for one reason or another. Saves you 3TC | 13TC    |
 | Stalker bundle                                   | A duffel bag that comes with a stalker with a supressor and two extra magazines. | 14TC    |
-| Sniper bundle                                    | A briefcase that comes with a Migraine, two spare magazinrs, and a worn out suit and tie. Saves you 6TC | 20TC    |
+| Sniper bundle                                    | A briefcase that comes with a Migraine, two spare magazines, and a worn out suit and tie. Saves you 6TC | 20TC    |
 | Spetznas Pyro Bundle                             | Currently not worth getting as it doesn't come with all items it is supposed to. | 30TC    |
 
 
