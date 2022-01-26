@@ -23,7 +23,7 @@ To assist in your efforts, you get given a multitude of tools: A Mining Hardsuit
 
 ## General tips and tricks.
 
-You also have a Proto-Kinetic Accelerator, otherwise known as the Shaft Miner's best friend. It is a short range, high-damage, unlimited-use gun that can be used for propulsion in deep space, breaking asteroid rocks, and killing things. Its weaknesses include a slow rate of fire and a short range of 3 tiles. Mining typically begins with five in the locker room and a sixth in the [QM's](Quartermaster.md) office locker. Two more come in the mining equipment crate purchaseable by the cargo console.
+You also have a Proto-Kinetic Accelerator, otherwise known as the Shaft Miner's best friend. It is a short range, high-damage, unlimited-use gun that can be used for propulsion in deep space, breaking asteroid rocks, and killing things. Its weaknesses include a slow rate of fire and a short range of 3 tiles. Mining typically begins with a few in the mining department and another in the [QM's](Quartermaster.md) office locker. Two more come in the mining equipment crate purchaseable by the cargo console.
 
 When mining with the pickaxe, keep in mind you can mine multiple chunks of rock at the same time as long as they are adjacent to you. This drastically speeds up mining operations. However, that is currently imposible as you need to use your gun for mining. It is recommended that when possible you buy the plasma cutter, as it is much more effective than the Proto-Kinetic Accelerator.
 

@@ -48,7 +48,7 @@ Sometimes people may ask you to order something sketchy; at that point you eithe
 
 ### Revenge of the delivery boy ( [traitor](traitor.md) Cargo Tech)
 
-Being a [traitor](traitor.md) as a Cargo Tech is pretty nice. You don't have any significant responsibilities and low attention is paid to you by most people except the [QM](Quartermaster.md). Just do the bare minimum required of you while you hatch your scheme to fulfill your objectives. A prized possession of the Cargo Tech is the Cryptographic Sequencer. It allows you to bypass the locks on many machines and devices, notably to the Cargo Tech, the secure crates purchaseable at the Cargo Console. While it can be difficult to ensure the QM doesn't notice it when he signs off on the order, if you do manage it, the Emag will allow for an easy supply of firepower. Still, it's risky.
+Being a [traitor](traitor.md) as a Cargo Tech is pretty nice. You don't have any significant responsibilities and low attention is paid to you by most people except the [QM](Quartermaster.md). Just do the bare minimum required of you while you hatch your scheme to fulfill your objectives. A prized possession of the Cargo Tech is the Cryptographic Sequencer. It allows you to bypass the locks on many devices, most notable to the Cargo Tech, the secure crates purchasable at the Cargo Console. While it can be difficult to ensure the QM doesn't notice it when he signs off on the order, if you do manage it, the Emag will allow for an easy supply of firepower. Still, it's risky.
 
 Whether you have an Emag or not, there's loads of purchasable items on the cargo console that won't immediately elicit suspicion. Peruse the options and you should be able to find some items that will help you develop a plan of action.
 
