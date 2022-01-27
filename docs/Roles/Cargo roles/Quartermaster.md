@@ -115,4 +115,14 @@ When the [miners](Shaft-Miner.md) actually [survive](So-close-to-impossible-that
 
 
 
+### The business of blood and money ([traitor](traitor.md)QM):
+
+A [traitor](traitor.md) QM is one of the best times you can have in this game. Through the cargo console you have easy access to weapons, illicit materials, basically whatever you need. Just be mindful of an active [AI](station-AI.md) or a snooping [HoP](Head-of-Personnel.md).
+
+The cryptographic sequencer is one of the most valuable tools available to a traitor QM in the syndicate uplink. It can be used to unlock any secure crates you purchase like gun crates. You can even distribute them amongst the [greyshirts](Assistant.md) if you want to spread chaos throughout the station, though that will draw attention to cargo *quickly,* so make sure you've got an alibi or are making your moves by then.
+
+You also have access to the Autolathe, which is handy if you need to manufacture something that you can't buy.
+
+All in all, if you've been lucky enough to roll traitor as the Quartermaster, you're probably going to have a pretty crate (get it?) time.
+
 {% include 'html/rolesnavbar.md' %}

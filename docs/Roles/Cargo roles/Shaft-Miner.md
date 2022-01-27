@@ -23,7 +23,7 @@ To assist in your efforts, you get given a multitude of tools: A Mining Hardsuit
 
 ## General tips and tricks.
 
-You also have a Proto-Kinetic Accelerator, otherwise known as the Shaft Miner's best friend. It is a short range, high-damage, unlimited-use gun that can be used for propulsion in deep space, breaking asteroid rocks, and killing things. Its weaknesses include a slow rate of fire and a short range of 3 tiles. Mining typically begins with five in the locker room and a sixth in the [|QM's](Quartermaster.md) office locker. Two more come in the mining equipment crate purchaseable by the cargo console.
+You also have a Proto-Kinetic Accelerator, otherwise known as the Shaft Miner's best friend. It is a short range, high-damage, unlimited-use gun that can be used for propulsion in deep space, breaking asteroid rocks, and killing things. Its weaknesses include a slow rate of fire and a short range of 3 tiles. Mining typically begins with a few in the mining department and another in the [QM's](Quartermaster.md) office locker. Two more come in the mining equipment crate purchaseable by the cargo console.
 
 When mining with the pickaxe, keep in mind you can mine multiple chunks of rock at the same time as long as they are adjacent to you. This drastically speeds up mining operations. However, that is currently imposible as you need to use your gun for mining. It is recommended that when possible you buy the plasma cutter, as it is much more effective than the Proto-Kinetic Accelerator.
 
@@ -68,12 +68,20 @@ Ore is processed at the **Ore Redemption Machine.** You can load ore into it by 
 
 In the meantime, prepare the Expeditionary Shuttle for launch. In order to fuel the shuttle, you must take the wrench stashed in the engine room and wrench down the plasma canister onto the fuel connector. If your shuttle does not come with a plasma canister, you will have to acquire one from science or atmospherics.
 
-## Go to hell.
+### Go to hell.
 
-So, fighting "the perfect organism" covered in spikes and larger than you repeatedley while mining asteroids hurtling through the void isnt enough of a challenge? Well good news, because (so long as the admins enable it) you can go and mine on a world perpetually fogged by ash and covered in lava. This is where the "very hard" rating comes in. If you arent skilled or well prepared, you will die horribly and nobody will find your roasted corpse. If your going to lavaland, its best you go with buds, pack an actual gun, and have practiced kiting with xenos and other beasts. **Note, lavaland is not complete, and does not pose much of a challenge currently.**
+**Note, lavaland is not complete, and does not pose much of a challenge currently.**
 
-## Build a casino.
+So, fighting "the perfect organism" covered in spikes and larger than you repeatedly while mining asteroids hurtling through the void isnt enough of a challenge? 
 
-This is technically optional, but if you plan to not finish the mission instantly, one of the best ways to use the absurd amounts of resources produced by mining is to build a casino. The materials are there to build tables, chairs, dices, weird roulette systems, [clown](Clown.md) hitting contests and more by using the [building](Construction.md) guide. The only limits are your imagination, the amount of money (in the form of items) that your fellow crewmen are able to bet, and the similarity of your operation with certain forms of [Cargonia](Cargonia.md).
+Well good news, because you can instead go and mine on a world perpetually fogged by ash and covered in lava. This is where the "very hard" rating comes in. If you aren't skilled or well prepared, you will die horribly and nobody will find your roasted corpse. If your going to lavaland, its best you go with buds, pack a gun, and have practiced kiting with xenos and other beasts. 
+
+Alien fauna isn't the only threat you will deal with on lavaland. Near your base, there is a an alcove that hosts an ancient tendril. This tendril is home to a nasty collective of [lizards](ashwalker.md) who don't appreciate NanoTrasen's recent arrival on their ancient hunting grounds, and they intend to prove it through a show of force. If a ghost has picked up the role, then it's possible that you might encounter a more intelligent foe than you typically deal with. 
+
+### A bone to pick ([traitor](traitor.md) Shaft Miner)
+
+Shaft miners get a lot of useful tools to start that assist in completing [traitor](traitor.md) objectives. You get a space suit for free, as well as a pretty robust pickaxe, and the PKA, which serves as a decent short ranged weapon that can provide infinite maneuvering in space. People also won't suspect you much wandering around the station so long as you bring a crate full of minerals around with you. You also have your own mining ship to escape from the station if things go badly, as well as Lavaland if you're willing to brave that hostile wasteland.
+
+
 
 {% include 'html/rolesnavbar.md' %}
