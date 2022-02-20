@@ -5,7 +5,7 @@ If you are new to the game, check the [how not to die instantly](How-not-to-die-
 
 UnityStation is a free to play game made as a clone to the [Space Station 13](https://www.youtube.com/watch?v=URJ_qSXruW0) game, but built on Unity, instead of using the outdated [BYOND](http://www.byond.com/).  
 
-Space Station 13, the greatest spessmen simulator ever created. If you have ever played SS13 before you can agree on one thing, [BYOND](http://www.byond.com/), it sucks! This is where UnityStation comes in. Started in Nov 2016 we have endeavored to ensure SS13 has a long and prosperous future outside of [BYOND](http://www.byond.com/) by cloning the [/TG/](https://tgstation13.org/) source to Unity.
+Space Station 13, the greatest spessmen simulator ever created. If you have ever played SS13 before you can agree on one thing, [BYOND](http://www.byond.com/), it sucks! This is where UnityStation comes in. Started in Nov 2016 we have endeavored to ensure SS13 has a long and prosperous future outside of [BYOND](http://www.byond.com/) by cloning the [/tg/](https://tgstation13.org/) source to Unity.
 
 > A lot of work has been completed since its humble beginnings in 2016 and we have just released our first public alpha release on our version of the [BYOND](http://www.byond.com/) hub called the Station Hub. The project has a growing and dedicated community of contributors who are eager to see this thing become a reality. Best of all it is all open source and available on GitHub.
 
@@ -17,9 +17,7 @@ In this game, you pick from a variety of [roles](Roles.md) on different [maps](M
 
 [![Service](Service.png)](Roles/Service.md) [![Civilian](Civilian.png)](Roles/Civilian.md) [![Artificials](Artificials.png)](Roles/Artificials.md) [![Antagonists](Antagonists.png)](Roles/Antag.md) [![Special](Special.png)](Roles/Special.md) [![Admin](Admin.png)](Roles/Admin.md)
 
-Or you can try attacking it and maybe nuking it to [ashes](antags/Nuclear-Emergency.md):
-
-Traitor, Changeling, Wizard, Cultist, NukeOps, Blob, Alien, Spider
+Or, if you're lucky, you could get a special role with objectives to complete for that sweet, sweet end-of-round <font color="Green">greentext</font>
 
 You can also become various difference races although some may be disabled on certain servers and some to be added:
 

@@ -8,8 +8,6 @@ Relicta is a abandoned station filled with [Zombies](Zombie.md), [Husks](Husk.md
 
 ### ![Zchruch](zchruch.png)
 
-
-
 ### Engineering
 ![Zengi](zengi.png)
 
