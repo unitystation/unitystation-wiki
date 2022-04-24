@@ -15,13 +15,15 @@ The shuttle contains the nuke, the very thing you need to complete your mission,
 
 ### Your gear and you
 
+##### [To see what's available to buy from the Uplink, go here.](Syndicate Items.md)
+
 The stock nukie gear consists of your uniform, night vision goggles, hardsuit helm, a syndicate mask, your signature red hardsuit, a pair of red magboots or black jackboots, your headset, gloves, an oxygen tank, a stalker SMG, a PDA which has your telecrystal uplink, and your trusty stetchkin pistol. 
 
-Your night vision does exactly what youd expect, letting you see in dark areas. The hardsuit helm and torso pieces make you immune to the cold and pressure, while offering very decent protection against weapons and explosives. You are not invincible in these however, and getting shot will still hurt. The headset doesn't let you hear the crew, but it does give you access to your own syndicate channel. 
+Your night vision does exactly what you'd expect, letting you see in dark areas. The hardsuit helm and torso pieces make you immune to the cold and pressure, while offering very decent protection against weapons and explosives. You are not invincible in these however, and getting shot will still hurt. The headset doesn't let you hear the crew, but it does give you access to your own syndicate channel. 
 
 The Stalker will be your main offensive weapon unless you choose to [buy something else](Syndicate Items.md) to replace it. Be sure to bring extra ammo for it, as it burns through magazines rapidly. 
 
-The stetchkin is a small but scrappy fallback pistol. Use it if you've run out of other ammo or wish to conserve it. One of the best uses for the pistol, however, is getting someone out of the way, as one or two shots will usually send any unarmed crew member running. Be creative with your gear and strategize before hand, its how you'll win! speaking of which:
+The stetchkin is a small but scrappy fallback pistol. Use it if you've run out of other ammo or wish to conserve it. One of the best uses for the pistol, however, is getting someone out of the way, as one or two shots will usually send any unarmed crew member running. Be creative with your gear and strategize before hand, its how you'll win! speaking of which...
 
 ### How to do your job
 
