@@ -1,8 +1,8 @@
 # Construction
 
-Construction and deconstruction are essential tools for Engineers and Traitors alike, it is, however, decently intuitive. For most of the buildings, the only thing you must do is activate the required materials in your hand (via pressing z or just clicking them).
+Construction and deconstruction are essential tools for [Engineers](engineer.md) and [Traitors](traitor.md) alike. For most of the buildings, the only thing you must do is activate the required materials in your hand (via pressing z or just clicking them).
 
-The main feature of space station 13 is for any item in the game to be either ordered from the quartermaster, or built with materials. As this game is a work-in-progress, we're not quite there yet, here are some things you can build and deconstruct, though.
+A main feature of Unitystation is that almost any item in the game can be either ordered from the [quartermaster](quartermaster.md), or built with materials. As this game is a work-in-progress, we're not quite there yet. But here are some things you can build and deconstruct, though.
 
 ## Cloth ![Cloth](stack_objects_sheet-cloth.png)
 
