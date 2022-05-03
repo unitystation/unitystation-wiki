@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Unitystation Wiki">
+    <meta name="author" content="Waffielz">
+    <link rel="canonical" href="https://unitystation.github.io/unitystation-wiki/">
+    <link rel="shortcut icon" href="./img/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <title>UnityStation</title>
+    <link href="./css/bootstrap-3.3.7.min.css" rel="stylesheet">
+    <link href="./css/font-awesome-4.7.0.css" rel="stylesheet">
+    <link href="./css/base.css" rel="stylesheet">
+    <link rel="stylesheet" href="./css/highlight.css">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="./js/jquery-3.2.1.min.js"></script>
+    <script src="./js/bootstrap-3.3.7.min.js"></script>
+    <script src="./js/highlight.pack.js"></script>
+    
+      <script src="./js/elasticlunr.min.js"></script>
+    
+    <base target="_top">
+    <script>
+      var base_url = '.';
+      var is_top_frame = (window === window.parent);
+        
+        var pageToc = [
+        ];
+
+    </script>
+    <script src="./js/base.js"></script> 
+</head>
+
+<body>
+<script>
+if (is_top_frame) { $('body').addClass('wm-top-page'); }
+</script>
+
+<nav class="navbar wm-page-top-frame">
+  <div class="container-fluid wm-top-container">
+    
+    <div class="wm-top-tool pull-right wm-vcenter">
+      <form class="dropdown wm-vcentered" id="wm-search-form" action="./search.html">
+        
+        <button id="wm-search-show" class="btn btn-sm btn-default" type="submit"
+          ><i class="fa fa-search" aria-hidden="true"></i></button>
+
+        <div class="input-group input-group-sm wm-top-search">
+          <input type="text" name="q" class="form-control" id="mkdocs-search-query" placeholder="Search" autocomplete="off">
+          <span class="input-group-btn" role="search">
+            
+            <button class="btn btn-default dropdown-toggle collapse" data-toggle="dropdown" type="button"><span class="caret"></span></button>
+            <ul id="mkdocs-search-results" class="dropdown-menu dropdown-menu-right"></ul>
+            <button id="wm-search-go" class="btn btn-default" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+          </span>
+        </div>
+      </form>
+    </div>
+
+    
+    <div class="wm-top-tool wm-vcenter pull-right wm-small-left">
+      <button id="wm-toc-button" type="button" class="btn btn-sm btn-default wm-vcentered"><i class="fa fa-th-list" aria-hidden="true"></i></button>
+    </div>
+
+    
+    
+
+    
+    <a href="" class="wm-top-brand wm-top-link wm-vcenter">
+      
+      <div class="wm-top-title">
+        UnityStation<br>
+        
+          <span class="wm-top-version">0.1.4</span>
+        
+      </div>
+    </a>
+  </div>
+</nav>
+
+  <div id="main-content" class="wm-page-top-frame">
+    
+<nav class="wm-toc-pane">
+  
+    <ul class="wm-toctree wm-toc-repo">
+      <li class="wm-toc-li wm-toc-lev1">
+      <a class="wm-article-link wm-toc-text" href="https://github.com/unitystation/unitystation-wiki/">
+        
+        unitystation/unitystation-wiki
+      </a>
+      </li>
+    </ul>
+  <ul class="wm-toctree">
+        <li class="wm-toc-li wm-toc-lev1 "><a href="" class="wm-article-link wm-toc-text">Home</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">Guides</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 wm-toc-opener"><span class="wm-toc-text">General guides</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/General%20guides/Access/" class="wm-article-link wm-toc-text">Access</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/General%20guides/Battle-royale/" class="wm-article-link wm-toc-text">Battle royale</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/General%20guides/Combat%20Guide/" class="wm-article-link wm-toc-text">The (Revised) Guide to Combat</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/General%20guides/Guide-to-Flying/" class="wm-article-link wm-toc-text">Guide to Flying</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/General%20guides/Guide-to-Player-Species/" class="wm-article-link wm-toc-text">Guide to Player Species</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/General%20guides/How-not-to-die-instantly/" class="wm-article-link wm-toc-text">How not to die instantly</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/General%20guides/Intents/" class="wm-article-link wm-toc-text">Intents</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/General%20guides/RP-words-and-abbreviations/" class="wm-article-link wm-toc-text">RP words and abbreviations</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/General%20guides/Standard-Operating-Procedure/" class="wm-article-link wm-toc-text">Standard Operating Procedure</a>
+</li>
+  </ul>
+</li>
+
+      <li class="wm-toc-li wm-toc-lev2 wm-toc-opener"><span class="wm-toc-text">Service guides</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/Service%20guides/Bartending/" class="wm-article-link wm-toc-text">Bartending</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/Service%20guides/Botany/" class="wm-article-link wm-toc-text">Botany</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/Service%20guides/Guide-to-Food-and-Cooking/" class="wm-article-link wm-toc-text">Guide to Food and Cooking</a>
+</li>
+  </ul>
+</li>
+
+      <li class="wm-toc-li wm-toc-lev2 wm-toc-opener"><span class="wm-toc-text">Engineering guides</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/Engineering%20guides/Construction/" class="wm-article-link wm-toc-text">Construction</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/Engineering%20guides/Guide%20to%20the%20Singularity%20and%20Tesla/" class="wm-article-link wm-toc-text">Guide to the singularity and tesla engines</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/Engineering%20guides/Guide-To-Electricity/" class="wm-article-link wm-toc-text">Guide To Electricity</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/Engineering%20guides/Guide-to-Atmospherics/" class="wm-article-link wm-toc-text">Guide to Atmospherics</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/Engineering%20guides/Guide-to-the-nuclear-reactor/" class="wm-article-link wm-toc-text">Guide to the nuclear reactor</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/Engineering%20guides/Hacking-Guide/" class="wm-article-link wm-toc-text">Hacking Guide</a>
+</li>
+  </ul>
+</li>
+
+      <li class="wm-toc-li wm-toc-lev2 wm-toc-opener"><span class="wm-toc-text">Security guides</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/Security%20guides/Security-Officer-Guide/" class="wm-article-link wm-toc-text">Security Officer</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/Security%20guides/Space-Law/" class="wm-article-link wm-toc-text">Space Law</a>
+</li>
+  </ul>
+</li>
+
+      <li class="wm-toc-li wm-toc-lev2 wm-toc-opener"><span class="wm-toc-text">Medical guides</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/Medical%20guides/Chemistry/" class="wm-article-link wm-toc-text">Chemistry</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/Medical%20guides/Surgery/" class="wm-article-link wm-toc-text">Surgery</a>
+</li>
+  </ul>
+</li>
+
+      <li class="wm-toc-li wm-toc-lev2 wm-toc-opener"><span class="wm-toc-text">Science guides</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/Science%20guides/Robotics-Guide/" class="wm-article-link wm-toc-text">Robotics Guide</a>
+</li>
+  </ul>
+</li>
+
+      <li class="wm-toc-li wm-toc-lev2 wm-toc-opener"><span class="wm-toc-text">Joke guides</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Guides/Joke%20guides/Shitsec/" class="wm-article-link wm-toc-text">Shitsec</a>
+</li>
+  </ul>
+</li>
+
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">Items</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Items/Clothing-Stats/" class="wm-article-link wm-toc-text">Clothing Stats</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Items/Engineering%20Items/" class="wm-article-link wm-toc-text">Engineering Items</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Items/General%20Items/" class="wm-article-link wm-toc-text">General Items</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Items/High-Risk%20Items/" class="wm-article-link wm-toc-text">High Risk Items</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Items/Medical%20Items/" class="wm-article-link wm-toc-text">Medical Items</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Items/Nuclear-Authentication-Disk/" class="wm-article-link wm-toc-text">Nuclear Authentication Disk</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Items/Science%20Items/" class="wm-article-link wm-toc-text">Science Items</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Items/Security%20Items/" class="wm-article-link wm-toc-text">Security Items</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Items/Syndicate%20Items/" class="wm-article-link wm-toc-text">Syndicate Items</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Items/Weapon-Stats/" class="wm-article-link wm-toc-text">Weapon Stats</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">Lore</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Lore/Groups/" class="wm-article-link wm-toc-text">Groups</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">Maps</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Maps/Anatomy%20of%20a%20space%20station/" class="wm-article-link wm-toc-text">Anatomy of a Space Station (WIP)</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Maps/Asteroid/" class="wm-article-link wm-toc-text">Asteroids</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 wm-toc-opener"><span class="wm-toc-text">Gateway Maps</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Maps/Gateway%20Maps/Ancient-Temple/" class="wm-article-link wm-toc-text">Ancient Temple</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Maps/Gateway%20Maps/Caverna/" class="wm-article-link wm-toc-text">Caverna</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Maps/Gateway%20Maps/Palace/" class="wm-article-link wm-toc-text">Palace</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Maps/Gateway%20Maps/Relicta/" class="wm-article-link wm-toc-text">Relicta</a>
+</li>
+  </ul>
+</li>
+
+      <li class="wm-toc-li wm-toc-lev2 wm-toc-opener"><span class="wm-toc-text">Offical Station Maps</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Maps/Offical%20Station%20Maps/Boxstation/" class="wm-article-link wm-toc-text">Boxstation</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Maps/Offical%20Station%20Maps/Fallstation/" class="wm-article-link wm-toc-text">Fallstation</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Maps/Offical%20Station%20Maps/MiniStation/" class="wm-article-link wm-toc-text">Ministation</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Maps/Offical%20Station%20Maps/Outpost/" class="wm-article-link wm-toc-text">Outpost</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Maps/Offical%20Station%20Maps/PogStation/" class="wm-article-link wm-toc-text">PogStation</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Maps/Offical%20Station%20Maps/Squarestation/" class="wm-article-link wm-toc-text">Squarestation</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Maps/Offical%20Station%20Maps/Unrealstation/" class="wm-article-link wm-toc-text">UnrealStation</a>
+</li>
+  </ul>
+</li>
+
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">Mobs</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Mobs/Ian/" class="wm-article-link wm-toc-text">Ian</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Mobs/Mobs/" class="wm-article-link wm-toc-text">Passive Mobs</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Mobs/Xenomorph/" class="wm-article-link wm-toc-text">Xenomorph</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">Other</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="Other/Cargo-Bounties/" class="wm-article-link wm-toc-text">Cargo Bounties</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 wm-toc-opener"><span class="wm-toc-text">Jokes</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Other/Jokes/So-close-to-impossible-that-it-might-as-well-not-even-exist/" class="wm-article-link wm-toc-text">So close to impossible that it might as well not even exist</a>
+</li>
+  </ul>
+</li>
+
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">Roles</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 wm-toc-opener"><span class="wm-toc-text">Centcom roles</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Centcom%20roles/Centcom-Intern/" class="wm-article-link wm-toc-text">Centcom Intern</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Centcom%20roles/Central-Command-Officer/" class="wm-article-link wm-toc-text">Central Command Officer</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Centcom%20roles/Death-Squad/" class="wm-article-link wm-toc-text">Death Squad</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Centcom%20roles/Emergency-Response-Team/" class="wm-article-link wm-toc-text">Emergency Response Team</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Centcom%20roles/Redshield-Officer/" class="wm-article-link wm-toc-text">Redshield Officer</a>
+</li>
+  </ul>
+</li>
+
+      <li class="wm-toc-li wm-toc-lev2 wm-toc-opener"><span class="wm-toc-text">Command roles</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Command%20roles/Captain/" class="wm-article-link wm-toc-text">Captain</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Command%20roles/Head-of-Personnel/" class="wm-article-link wm-toc-text">Head of Personnel</a>
+</li>
+  </ul>
+</li>
+
+      <li class="wm-toc-li wm-toc-lev2 wm-toc-opener"><span class="wm-toc-text">Cargo roles</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Cargo%20roles/Cargo-Technician/" class="wm-article-link wm-toc-text">Cargo Technician</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Cargo%20roles/Quartermaster/" class="wm-article-link wm-toc-text">Quartermaster</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Cargo%20roles/Shaft-Miner/" class="wm-article-link wm-toc-text">Shaft Miner</a>
+</li>
+  </ul>
+</li>
+
+      <li class="wm-toc-li wm-toc-lev2 wm-toc-opener"><span class="wm-toc-text">Service roles</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Service%20roles/Assistant/" class="wm-article-link wm-toc-text">Assistant</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Service%20roles/Bartender/" class="wm-article-link wm-toc-text">Bartender</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Service%20roles/Botanist/" class="wm-article-link wm-toc-text">Botanist</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Service%20roles/Chaplain/" class="wm-article-link wm-toc-text">Chaplain</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Service%20roles/Clown/" class="wm-article-link wm-toc-text">Clown</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Service%20roles/Cook/" class="wm-article-link wm-toc-text">Cook</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Service%20roles/Curator/" class="wm-article-link wm-toc-text">Curator</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Service%20roles/Janitor/" class="wm-article-link wm-toc-text">Janitor</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Service%20roles/Lawyer/" class="wm-article-link wm-toc-text">Lawyer</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Service%20roles/Mime/" class="wm-article-link wm-toc-text">Mime</a>
+</li>
+  </ul>
+</li>
+
+      <li class="wm-toc-li wm-toc-lev2 wm-toc-opener"><span class="wm-toc-text">Engineering roles</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Engineering%20roles/Atmospherics-Technician/" class="wm-article-link wm-toc-text">Atmospherics Technician</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Engineering%20roles/Chief-Engineer/" class="wm-article-link wm-toc-text">Chief Engineer</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Engineering%20roles/Engineer/" class="wm-article-link wm-toc-text">Engineer</a>
+</li>
+  </ul>
+</li>
+
+      <li class="wm-toc-li wm-toc-lev2 wm-toc-opener"><span class="wm-toc-text">Medical roles</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Medical%20roles/Chemist/" class="wm-article-link wm-toc-text">Chemist</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Medical%20roles/Chief-Medical-Officer/" class="wm-article-link wm-toc-text">Chief Medical Officer</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Medical%20roles/Medical-Doctor/" class="wm-article-link wm-toc-text">Medical Doctor</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Medical%20roles/Paramedic/" class="wm-article-link wm-toc-text">Paramedic</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Medical%20roles/Psychologist/" class="wm-article-link wm-toc-text">Psychologist</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Medical%20roles/Virologist/" class="wm-article-link wm-toc-text">Virologist</a>
+</li>
+  </ul>
+</li>
+
+      <li class="wm-toc-li wm-toc-lev2 wm-toc-opener"><span class="wm-toc-text">Security roles</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Security%20roles/Detective/" class="wm-article-link wm-toc-text">Detective</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Security%20roles/Head-of-Security/" class="wm-article-link wm-toc-text">Head of Security</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Security%20roles/Security-Officer/" class="wm-article-link wm-toc-text">Security Officer</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Security%20roles/Warden/" class="wm-article-link wm-toc-text">Warden</a>
+</li>
+  </ul>
+</li>
+
+      <li class="wm-toc-li wm-toc-lev2 wm-toc-opener"><span class="wm-toc-text">Science roles</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Science%20roles/Geneticist/" class="wm-article-link wm-toc-text">Geneticist</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Science%20roles/Research-Director/" class="wm-article-link wm-toc-text">Research Director</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Science%20roles/Roboticist/" class="wm-article-link wm-toc-text">Roboticist</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Science%20roles/Scientist/" class="wm-article-link wm-toc-text">Scientist</a>
+</li>
+  </ul>
+</li>
+
+      <li class="wm-toc-li wm-toc-lev2 wm-toc-opener"><span class="wm-toc-text">Antagonist roles</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Antagonist%20roles/Blob/" class="wm-article-link wm-toc-text">Blob</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Antagonist%20roles/Fugitive/" class="wm-article-link wm-toc-text">Fugitive</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Antagonist%20roles/Nuclear-Operative/" class="wm-article-link wm-toc-text">Nuclear Operative</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Antagonist%20roles/Traitor/" class="wm-article-link wm-toc-text">Traitor</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Antagonist%20roles/Wizard/" class="wm-article-link wm-toc-text">Wizard</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Antagonist%20roles/cargonia/" class="wm-article-link wm-toc-text">Cargonia</a>
+</li>
+  </ul>
+</li>
+
+      <li class="wm-toc-li wm-toc-lev2 wm-toc-opener"><span class="wm-toc-text">Ghost roles</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Ghost%20roles/Ancient-Engineer/" class="wm-article-link wm-toc-text">Ancient Engineer</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Ghost%20roles/Ashwalker/" class="wm-article-link wm-toc-text">Ash Walker</a>
+</li>
+  </ul>
+</li>
+
+      <li class="wm-toc-li wm-toc-lev2 wm-toc-opener"><span class="wm-toc-text">Synthetic roles</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev3 "><a href="Roles/Synthetic%20roles/Station-AI/" class="wm-article-link wm-toc-text">Station Artificial Intelligence</a>
+</li>
+  </ul>
+</li>
+
+  </ul>
+</li>
+
+  </ul>
+</nav>
+
+    <div class="wm-content-pane">
+      <iframe class="wm-article" name="article"></iframe>
+    </div>
+  </div>
+
+<div class="container-fluid wm-page-content">
+  <a name="_top"></a>
+    
+
+    
+    
+      
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="Guides/General%20guides/Access/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="Guides/General%20guides/Access/" class="btn btn-xs btn-link">
+        Access
+      </a>
+    </div>
+    
+  </div>
+
+    
+
+    <p>[<img alt="Unity" src="assets/images/Unitystation.png" />]</p>
+<p>If you are new to the game, check the <a href="Guides/General%20guides/How-not-to-die-instantly/">how not to die instantly</a> guide.  </p>
+<p>UnityStation is a free to play game made as a clone to the <a href="https://www.youtube.com/watch?v=URJ_qSXruW0">Space Station 13</a> game, but built on Unity, instead of using the outdated <a href="http://www.byond.com/">BYOND</a>.  </p>
+<p>Space Station 13, the greatest spessmen simulator ever created. If you have ever played SS13 before you can agree on one thing, <a href="http://www.byond.com/">BYOND</a>, it sucks! This is where UnityStation comes in. Started in Nov 2016 we have endeavored to ensure SS13 has a long and prosperous future outside of <a href="http://www.byond.com/">BYOND</a> by cloning the <a href="https://tgstation13.org/">/tg/</a> source to Unity.</p>
+<blockquote>
+<p>A lot of work has been completed since its humble beginnings in 2016 and we have just released our first public alpha release on our version of the <a href="http://www.byond.com/">BYOND</a> hub called the Station Hub. The project has a growing and dedicated community of contributors who are eager to see this thing become a reality. Best of all it is all open source and available on GitHub.</p>
+</blockquote>
+<p>Probably <a href="Doobly.md">Doobly</a>, 2018.</p>
+<p>In this game, you pick from a variety of <a href="Roles.md">roles</a> on different <a href="Maps.md">maps</a> to keep the station running:</p>
+<p><a href="Roles/Command.md"><img alt="Command" src="assets/images/Command.png" /></a> <a href="Roles/Security.md"><img alt="Security" src="assets/images/Security.png" /></a> <a href="Roles/Engineering.md"><img alt="Engineering" src="assets/images/Engineering.png" /></a> <a href="Roles/Medical.md"><img alt="Medical" src="assets/images/Medical.png" /></a> <a href="Roles/Research.md"><img alt="Research" src="assets/images/Research.png" /></a> <a href="Roles/Supply.md"><img alt="Supply" src="assets/images/Supply.png" /></a></p>
+<p><a href="Roles/Service.md"><img alt="Service" src="assets/images/Service.png" /></a> <a href="Roles/Civilian.md"><img alt="Civilian" src="assets/images/Civilian.png" /></a> <a href="Roles/Artificials.md"><img alt="Artificials" src="Artificials.png" /></a> <a href="Roles/Antag.md"><img alt="Antagonists" src="assets/images/Antagonists.png" /></a> <a href="Roles/Special.md"><img alt="Special" src="assets/images/Special.png" /></a> <a href="Roles/Admin.md"><img alt="Admin" src="assets/images/Admin.png" /></a></p>
+<p>Or, if you're lucky, you could get a special role with objectives to complete for that sweet, sweet end-of-round <font color="Green">greentext</font></p>
+<p>You can also become various difference races although some may be disabled on certain servers and some to be added:</p>
+<p><a href="Races/Human"><img alt="Human" src="assets/images/Human.png" /></a>,<a href="Races/Saurian"><img alt="Saurian" src="assets/images/Saurian.png" /></a>,<a href="Races/Plasmamen"><img alt="Plasmamen" src="assets/images/Plasmamen.png" /></a>,<a href="Races/Goople"><img alt="Goople" src="assets/images/Goople.png" /></a>,<a href="Races/Lepidops"><img alt="Lepidops" src="assets/images/Lepidops.png" /></a>,<a href="Races/Lithoid"><img alt="Lithoid" src="assets/images/Lithoid.png" /></a></p>
+<p><a href="Races/NaniteFolk"><img alt="Nanos" src="assets/images/Nano.png" /></a>,<a href="Races/Slug"><img alt="Slug" src="assets/images/Slug.png" /></a>,<a href="Races/Sheeple"><img alt="Wooloo" src="assets/images/Sheeple.png" /></a>,<a href="Races/Polygeri"><img alt="Polygeri" src="assets/images/Polygeri.png" /></a>,<a href="Races/Pod"><img alt="Podpeople" src="assets/images/Pod.png" /></a>,<a href="Races/Ave"><img alt="Ave" src="assets/images/Ave.png" /></a></p>
+<p>The game itself is a chaos machine, some times rounds can take 2 minutes. Usually if the wizard suicides into security. Otherwise it can be a 30 minute long <a href="Guides/General%20guides/Battle-royale/">Royale</a> and others it can be a multiple hour long phoenix wright court simulator or even cult wasteland as the chaplain holds the line against the onslaught. It depends partly on what the server it is and what <a href="antags.md">random</a> thing happens.</p>
+<p>This wiki is still incomplete and can always use edits, you should <a href="Other/Jokes/So-close-to-impossible-that-it-might-as-well-not-even-exist/">add to it!</a>
+We would like to thank all the devs who took their time in order to make unitystation a <a href="Thankyou.md">thing</a>, if you want to support us consider <a href="https://www.patreon.com/unitystation">donating</a> to the cause.</p>
+
+  <br>
+    
+
+    
+    
+      
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="Guides/General%20guides/Access/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="Guides/General%20guides/Access/" class="btn btn-xs btn-link">
+        Access
+      </a>
+    </div>
+    
+  </div>
+
+    <br>
+</div>
+
+<footer class="container-fluid wm-page-content">
+      <p>
+        <a href="https://github.com/unitystation/unitystation-wiki/edit/master/docs/index.md">Edit on unitystation/unitystation-wiki</a>
+      </p>
+  <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a> using <a href="https://github.com/gristlabs/mkdocs-windmill">Windmill</a> theme by Grist Labs.</p>
+</footer>
+
+</body>
+</html>
+<!--
+MkDocs version : 1.2.3
+Build Date UTC : 2022-05-03 02:21:41.588657+00:00
+-->
