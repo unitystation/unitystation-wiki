@@ -112,8 +112,7 @@ The Chemistry that has been implemented into the game has been copied from tg st
 | ------ | -------------------------------------------------------------------|
 | Step 1 | 1 part Blood                                                       |
 | Step 2 | 1 part Carbon                                                      |
-| Step 3 | 1 part Oxygen                                                      |
-| Step 4 | 1 part Styptic Powder                                              |
+| Step 3 | 1 part Styptic Powder                                              |
 | Effect:| Heals 0.5 random brute and burn damage per tick if ingested        |
 |        | Heals 2.5 random brute and burn damage per tick if applied to skin |
 
